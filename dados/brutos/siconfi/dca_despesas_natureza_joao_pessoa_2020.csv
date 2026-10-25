@@ -1,0 +1,297 @@
+exercicio,instituicao,cod_ibge,uf,anexo,rotulo,coluna,cod_conta,conta,valor,populacao
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Empenhadas,TotalDespesas,Total Geral da Despesa,2240039490.33,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Liquidadas,TotalDespesas,Total Geral da Despesa,2176036083.34,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Pagas,TotalDespesas,Total Geral da Despesa,2172172687.21,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,TotalDespesas,Total Geral da Despesa,136826780.54,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,TotalDespesas,Total Geral da Despesa,94422165.43,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.0.00.00.00.00,3.0.00.00.00 - Despesas Correntes,2078294611.6,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.0.00.00.00.00,3.0.00.00.00 - Despesas Correntes,2020051698.39,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.0.00.00.00.00,3.0.00.00.00 - Despesas Correntes,2017042831.48,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.0.00.00.00.00,3.0.00.00.00 - Despesas Correntes,94889237.36,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.0.00.00.00.00,3.0.00.00.00 - Despesas Correntes,87295602.1,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.00.00.00.00,3.1.00.00.00 - Pessoal e Encargos Sociais,1386124962.88,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.00.00.00.00,3.1.00.00.00 - Pessoal e Encargos Sociais,1385658820.61,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.00.00.00.00,3.1.00.00.00 - Pessoal e Encargos Sociais,1384891062.65,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.1.00.00.00.00,3.1.00.00.00 - Pessoal e Encargos Sociais,14226593.51,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.1.00.00.00.00,3.1.00.00.00 - Pessoal e Encargos Sociais,30169889.26,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.00.00.00,3.1.90.00.00 - Aplicações Diretas,1325920188.04,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.00.00.00,3.1.90.00.00 - Aplicações Diretas,1325458420.91,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.00.00.00,3.1.90.00.00 - Aplicações Diretas,1324690662.95,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.1.90.00.00.00,3.1.90.00.00 - Aplicações Diretas,13701542.48,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.1.90.00.00.00,3.1.90.00.00 - Aplicações Diretas,29411688.57,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.01.00.00,"3.1.90.01.00 - Aposentadorias do RPPS, Reserva Remunerada e Reformas dos Militares",227778206.08,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.01.00.00,"3.1.90.01.00 - Aposentadorias do RPPS, Reserva Remunerada e Reformas dos Militares",227778206.08,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.01.00.00,"3.1.90.01.00 - Aposentadorias do RPPS, Reserva Remunerada e Reformas dos Militares",227778206.08,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.1.90.01.00.00,"3.1.90.01.00 - Aposentadorias do RPPS, Reserva Remunerada e Reformas dos Militares",1752.16,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.1.90.03.00.00,3.1.90.03.00 - Pensões do RPPS e do Militar,2033.75,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.04.00.00,3.1.90.04.00 - Contratação por Tempo Determinado,386711855.42,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.04.00.00,3.1.90.04.00 - Contratação por Tempo Determinado,386711855.42,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.04.00.00,3.1.90.04.00 - Contratação por Tempo Determinado,386711855.42,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.1.90.04.00.00,3.1.90.04.00 - Contratação por Tempo Determinado,978470.68,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.05.00.00,3.1.90.05.00 - Outros Benefícios Previdenciários do Servidor ou do Militar,46907909.6,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.05.00.00,3.1.90.05.00 - Outros Benefícios Previdenciários do Servidor ou do Militar,46907909.6,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.05.00.00,3.1.90.05.00 - Outros Benefícios Previdenciários do Servidor ou do Militar,46907909.6,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.11.00.00,3.1.90.11.00 - Vencimentos e Vantagens Fixas - Pessoal Civil,519222536.49,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.11.00.00,3.1.90.11.00 - Vencimentos e Vantagens Fixas - Pessoal Civil,519222536.49,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.11.00.00,3.1.90.11.00 - Vencimentos e Vantagens Fixas - Pessoal Civil,519222536.49,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.1.90.11.00.00,3.1.90.11.00 - Vencimentos e Vantagens Fixas - Pessoal Civil,23985479.12,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.13.00.00,3.1.90.13.00 - Obrigações Patronais,116635924.72,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.13.00.00,3.1.90.13.00 - Obrigações Patronais,116625259.97,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.13.00.00,3.1.90.13.00 - Obrigações Patronais,116271205.69,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.1.90.13.00.00,3.1.90.13.00 - Obrigações Patronais,12623373.38,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.1.90.13.00.00,3.1.90.13.00 - Obrigações Patronais,4001136.26,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.13.99.00,3.1.90.13.99 - Outras Obrigações Patronais,116635924.72,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.13.99.00,3.1.90.13.99 - Outras Obrigações Patronais,116625259.97,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.13.99.00,3.1.90.13.99 - Outras Obrigações Patronais,116271205.69,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.1.90.13.99.00,3.1.90.13.99 - Outras Obrigações Patronais,12623373.38,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.1.90.13.99.00,3.1.90.13.99 - Outras Obrigações Patronais,4001136.26,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.16.00.00,3.1.90.16.00 - Outras Despesas Variáveis - Pessoal Civil,23705031.74,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.16.00.00,3.1.90.16.00 - Outras Despesas Variáveis - Pessoal Civil,23705031.74,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.16.00.00,3.1.90.16.00 - Outras Despesas Variáveis - Pessoal Civil,23705031.74,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.91.00.00,3.1.90.91.00 - Sentenças Judiciais,503383.41,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.91.00.00,3.1.90.91.00 - Sentenças Judiciais,481356.73,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.91.00.00,3.1.90.91.00 - Sentenças Judiciais,408431.62,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.1.90.91.00.00,3.1.90.91.00 - Sentenças Judiciais,38710.58,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.92.00.00,3.1.90.92.00 - Despesas de Exercícios Anteriores,796017.65,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.92.00.00,3.1.90.92.00 - Despesas de Exercícios Anteriores,791291.99,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.92.00.00,3.1.90.92.00 - Despesas de Exercícios Anteriores,773930.69,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.1.90.92.00.00,3.1.90.92.00 - Despesas de Exercícios Anteriores,2736.07,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.1.90.92.00.00,3.1.90.92.00 - Despesas de Exercícios Anteriores,187825.92,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.94.00.00,3.1.90.94.00 - Indenizações e Restituições Trabalhistas,1999322.93,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.94.00.00,3.1.90.94.00 - Indenizações e Restituições Trabalhistas,1879085.92,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.94.00.00,3.1.90.94.00 - Indenizações e Restituições Trabalhistas,1555668.65,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.1.90.94.00.00,3.1.90.94.00 - Indenizações e Restituições Trabalhistas,13041.63,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.1.90.94.00.00,3.1.90.94.00 - Indenizações e Restituições Trabalhistas,141823.8,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.96.00.00,3.1.90.96.00 - Ressarcimento de Despesas de Pessoal Requisitado,1660000,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.96.00.00,3.1.90.96.00 - Ressarcimento de Despesas de Pessoal Requisitado,1355886.97,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.96.00.00,3.1.90.96.00 - Ressarcimento de Despesas de Pessoal Requisitado,1355886.97,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.1.90.96.00.00,3.1.90.96.00 - Ressarcimento de Despesas de Pessoal Requisitado,1062391.4,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.1.90.96.00.00,3.1.90.96.00 - Ressarcimento de Despesas de Pessoal Requisitado,74456.3,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DI3.1.91.00.00.00,"3.1.91.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social",60204774.84,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DI3.1.91.00.00.00,"3.1.91.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social",60200399.7,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Pagas,DI3.1.91.00.00.00,"3.1.91.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social",60200399.7,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DI3.1.91.00.00.00,"3.1.91.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social",525051.03,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DI3.1.91.00.00.00,"3.1.91.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social",758200.69,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DI3.1.91.13.00.00,3.1.91.13.00 - Contribuições Patronais,60204774.84,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DI3.1.91.13.00.00,3.1.91.13.00 - Contribuições Patronais,60200399.7,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Pagas,DI3.1.91.13.00.00,3.1.91.13.00 - Contribuições Patronais,60200399.7,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DI3.1.91.13.00.00,3.1.91.13.00 - Contribuições Patronais,525051.03,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DI3.1.91.13.00.00,3.1.91.13.00 - Contribuições Patronais,758200.69,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DI3.1.91.13.99.00,3.1.91.13.99 - Outras Obrigações Patronais - Intraorçamentária,60204774.84,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DI3.1.91.13.99.00,3.1.91.13.99 - Outras Obrigações Patronais - Intraorçamentária,60200399.7,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Pagas,DI3.1.91.13.99.00,3.1.91.13.99 - Outras Obrigações Patronais - Intraorçamentária,60200399.7,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DI3.1.91.13.99.00,3.1.91.13.99 - Outras Obrigações Patronais - Intraorçamentária,525051.03,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DI3.1.91.13.99.00,3.1.91.13.99 - Outras Obrigações Patronais - Intraorçamentária,758200.69,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.2.00.00.00.00,3.2.00.00.00 - Juros e Encargos da Dívida,2115154.72,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.2.00.00.00.00,3.2.00.00.00 - Juros e Encargos da Dívida,2115154.72,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.2.00.00.00.00,3.2.00.00.00 - Juros e Encargos da Dívida,2115154.72,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.2.00.00.00.00,3.2.00.00.00 - Juros e Encargos da Dívida,1510,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.2.90.00.00.00,3.2.90.00.00 - Aplicações Diretas,2115154.72,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.2.90.00.00.00,3.2.90.00.00 - Aplicações Diretas,2115154.72,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.2.90.00.00.00,3.2.90.00.00 - Aplicações Diretas,2115154.72,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.2.90.00.00.00,3.2.90.00.00 - Aplicações Diretas,1510,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.2.90.21.00.00,3.2.90.21.00 - Juros sobre a Dívida por Contrato,1377091.48,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.2.90.21.00.00,3.2.90.21.00 - Juros sobre a Dívida por Contrato,1377091.48,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.2.90.21.00.00,3.2.90.21.00 - Juros sobre a Dívida por Contrato,1377091.48,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.2.90.22.00.00,3.2.90.22.00 - Outros Encargos sobre a Dívida por Contrato,563736.27,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.2.90.22.00.00,3.2.90.22.00 - Outros Encargos sobre a Dívida por Contrato,563736.27,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.2.90.22.00.00,3.2.90.22.00 - Outros Encargos sobre a Dívida por Contrato,563736.27,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.2.90.92.00.00,3.2.90.92.00 - Despesas de Exercícios Anteriores,174326.97,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.2.90.92.00.00,3.2.90.92.00 - Despesas de Exercícios Anteriores,174326.97,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.2.90.92.00.00,3.2.90.92.00 - Despesas de Exercícios Anteriores,174326.97,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.2.90.92.00.00,3.2.90.92.00 - Despesas de Exercícios Anteriores,1510,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.00.00.00.00,3.3.00.00.00 - Outras Despesas Correntes,690054494,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.00.00.00.00,3.3.00.00.00 - Outras Despesas Correntes,632277723.06,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.00.00.00.00,3.3.00.00.00 - Outras Despesas Correntes,630036614.11,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.00.00.00.00,3.3.00.00.00 - Outras Despesas Correntes,80661133.85,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.00.00.00.00,3.3.00.00.00 - Outras Despesas Correntes,57125712.84,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.20.00.00.00,3.3.20.00.00 - Transferências à União,1711924.45,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.20.00.00.00,3.3.20.00.00 - Transferências à União,1711924.45,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.20.00.00.00,3.3.20.00.00 - Transferências à União,1711924.45,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.20.00.00.00,3.3.20.00.00 - Transferências à União,27414.94,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.30.00.00.00,3.3.30.00.00 - Transferências a Estados e ao Distrito Federal,21179388.16,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.30.00.00.00,3.3.30.00.00 - Transferências a Estados e ao Distrito Federal,19038478.82,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.30.00.00.00,3.3.30.00.00 - Transferências a Estados e ao Distrito Federal,18734837.53,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.30.00.00.00,3.3.30.00.00 - Transferências a Estados e ao Distrito Federal,2023907.4,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.30.00.00.00,3.3.30.00.00 - Transferências a Estados e ao Distrito Federal,434812.85,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.30.41.00.00,3.3.30.41.00 - Contribuições,5271990.76,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.30.41.00.00,3.3.30.41.00 - Contribuições,5271990.76,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.30.41.00.00,3.3.30.41.00 - Contribuições,5271990.76,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.30.41.00.00,3.3.30.41.00 - Contribuições,425443.73,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.30.99.00.00,3.3.30.99.00 - A Classificar,15907397.4,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.30.99.00.00,3.3.30.99.00 - A Classificar,13766488.06,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.30.99.00.00,3.3.30.99.00 - A Classificar,13462846.77,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.30.99.00.00,3.3.30.99.00 - A Classificar,2023907.4,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.30.99.00.00,3.3.30.99.00 - A Classificar,9369.12,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.50.00.00.00,3.3.50.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos,135284414.32,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.50.00.00.00,3.3.50.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos,117148797.5,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.50.00.00.00,3.3.50.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos,116758649.64,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.50.00.00.00,3.3.50.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos,13181040.87,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.50.00.00.00,3.3.50.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos,5815346.96,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.60.00.00.00,3.3.60.00.00 - Transferências a Instituições Privadas com Fins Lucrativos,3046864.63,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.60.00.00.00,3.3.60.00.00 - Transferências a Instituições Privadas com Fins Lucrativos,3019864.63,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.60.00.00.00,3.3.60.00.00 - Transferências a Instituições Privadas com Fins Lucrativos,3013864.63,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.00.00.00,3.3.90.00.00 - Aplicações Diretas,514816903.8,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.00.00.00,3.3.90.00.00 - Aplicações Diretas,479357115.92,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.00.00.00,3.3.90.00.00 - Aplicações Diretas,477815796.12,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.00.00.00,3.3.90.00.00 - Aplicações Diretas,63366185.58,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.00.00.00,3.3.90.00.00 - Aplicações Diretas,50848138.09,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.08.00.00,3.3.90.08.00 - Outros Benefícios Assistenciais do servidor e do militar,181686.09,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.08.00.00,3.3.90.08.00 - Outros Benefícios Assistenciais do servidor e do militar,181686.09,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.08.00.00,3.3.90.08.00 - Outros Benefícios Assistenciais do servidor e do militar,177525.65,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.08.00.00,3.3.90.08.00 - Outros Benefícios Assistenciais do servidor e do militar,954,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.08.00.00,3.3.90.08.00 - Outros Benefícios Assistenciais do servidor e do militar,14351.05,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.14.00.00,3.3.90.14.00 - Diárias - Civil,125873.39,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.14.00.00,3.3.90.14.00 - Diárias - Civil,125873.39,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.14.00.00,3.3.90.14.00 - Diárias - Civil,125873.39,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.14.00.00,3.3.90.14.00 - Diárias - Civil,13239.73,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.14.00.00,3.3.90.14.00 - Diárias - Civil,2008.65,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.18.00.00,3.3.90.18.00 - Auxílio Financeiro a Estudantes,679401.34,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.18.00.00,3.3.90.18.00 - Auxílio Financeiro a Estudantes,679401.34,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.18.00.00,3.3.90.18.00 - Auxílio Financeiro a Estudantes,679401.34,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.18.00.00,3.3.90.18.00 - Auxílio Financeiro a Estudantes,4146.04,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.18.00.00,3.3.90.18.00 - Auxílio Financeiro a Estudantes,824.36,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.30.00.00,3.3.90.30.00 - Material de Consumo,104405042.5,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.30.00.00,3.3.90.30.00 - Material de Consumo,95754204.33,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.30.00.00,3.3.90.30.00 - Material de Consumo,94793708.21,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.30.00.00,3.3.90.30.00 - Material de Consumo,16936422.55,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.30.00.00,3.3.90.30.00 - Material de Consumo,30850568.75,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.31.00.00,"3.3.90.31.00 - Premiações Culturais, Artísticas, Científicas, Desportivas e Outras",426171.8,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.31.00.00,"3.3.90.31.00 - Premiações Culturais, Artísticas, Científicas, Desportivas e Outras",259471.8,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.31.00.00,"3.3.90.31.00 - Premiações Culturais, Artísticas, Científicas, Desportivas e Outras",255571.8,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.31.00.00,"3.3.90.31.00 - Premiações Culturais, Artísticas, Científicas, Desportivas e Outras",8434.9,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.31.00.00,"3.3.90.31.00 - Premiações Culturais, Artísticas, Científicas, Desportivas e Outras",9050,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.32.00.00,"3.3.90.32.00 - Material, Bem ou Serviço para Distribuição Gratuita",1953999.11,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.32.00.00,"3.3.90.32.00 - Material, Bem ou Serviço para Distribuição Gratuita",1713643.69,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.32.00.00,"3.3.90.32.00 - Material, Bem ou Serviço para Distribuição Gratuita",1713643.69,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.32.00.00,"3.3.90.32.00 - Material, Bem ou Serviço para Distribuição Gratuita",442795.7,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.32.00.00,"3.3.90.32.00 - Material, Bem ou Serviço para Distribuição Gratuita",990,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.33.00.00,3.3.90.33.00 - Passagens e Despesas com Locomoção,477526.86,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.33.00.00,3.3.90.33.00 - Passagens e Despesas com Locomoção,464420.22,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.33.00.00,3.3.90.33.00 - Passagens e Despesas com Locomoção,464420.22,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.33.00.00,3.3.90.33.00 - Passagens e Despesas com Locomoção,900777.88,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.33.00.00,3.3.90.33.00 - Passagens e Despesas com Locomoção,10997.07,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.35.00.00,3.3.90.35.00 - Serviços de Consultoria,198839.9,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.35.00.00,3.3.90.35.00 - Serviços de Consultoria,195674.07,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.35.00.00,3.3.90.35.00 - Serviços de Consultoria,195674.07,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.35.00.00,3.3.90.35.00 - Serviços de Consultoria,332283.29,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.35.00.00,3.3.90.35.00 - Serviços de Consultoria,83000.04,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.36.00.00,3.3.90.36.00 - Outros Serviços de Terceiros - Pessoa Física,4806440.75,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.36.00.00,3.3.90.36.00 - Outros Serviços de Terceiros - Pessoa Física,4721627.48,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.36.00.00,3.3.90.36.00 - Outros Serviços de Terceiros - Pessoa Física,4701690.22,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.36.00.00,3.3.90.36.00 - Outros Serviços de Terceiros - Pessoa Física,408103.54,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.36.00.00,3.3.90.36.00 - Outros Serviços de Terceiros - Pessoa Física,315763.31,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.39.00.00,3.3.90.39.00 - Outros Serviços de Terceiros - Pessoa Jurídica,291860517.49,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.39.00.00,3.3.90.39.00 - Outros Serviços de Terceiros - Pessoa Jurídica,266605117.18,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.39.00.00,3.3.90.39.00 - Outros Serviços de Terceiros - Pessoa Jurídica,266331880.32,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.39.00.00,3.3.90.39.00 - Outros Serviços de Terceiros - Pessoa Jurídica,40441635.4,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.39.00.00,3.3.90.39.00 - Outros Serviços de Terceiros - Pessoa Jurídica,15302513.81,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.47.00.00,3.3.90.47.00 - Obrigações Tributárias e Contributivas,35589259.13,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.47.00.00,3.3.90.47.00 - Obrigações Tributárias e Contributivas,35589259.13,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.47.00.00,3.3.90.47.00 - Obrigações Tributárias e Contributivas,35589259.13,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.47.00.00,3.3.90.47.00 - Obrigações Tributárias e Contributivas,2050.48,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.47.00.00,3.3.90.47.00 - Obrigações Tributárias e Contributivas,32298.37,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.48.00.00,3.3.90.48.00 - Outros Auxílios Financeiros a Pessoas Físicas,24413446.52,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.48.00.00,3.3.90.48.00 - Outros Auxílios Financeiros a Pessoas Físicas,24332025.18,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.48.00.00,3.3.90.48.00 - Outros Auxílios Financeiros a Pessoas Físicas,24168489.69,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.48.00.00,3.3.90.48.00 - Outros Auxílios Financeiros a Pessoas Físicas,157652.82,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.48.00.00,3.3.90.48.00 - Outros Auxílios Financeiros a Pessoas Físicas,30396,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.49.00.00,3.3.90.49.00 - Auxílio-Transporte,5747080.14,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.49.00.00,3.3.90.49.00 - Auxílio-Transporte,5747070.14,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.49.00.00,3.3.90.49.00 - Auxílio-Transporte,5747070.14,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.49.00.00,3.3.90.49.00 - Auxílio-Transporte,805953.81,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.49.00.00,3.3.90.49.00 - Auxílio-Transporte,1767343.86,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.91.00.00,3.3.90.91.00 - Sentenças Judiciais,28103646.61,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.91.00.00,3.3.90.91.00 - Sentenças Judiciais,27162974.73,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.91.00.00,3.3.90.91.00 - Sentenças Judiciais,27067548.37,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.91.00.00,3.3.90.91.00 - Sentenças Judiciais,2233139.12,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.91.00.00,3.3.90.91.00 - Sentenças Judiciais,567060.95,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.92.00.00,3.3.90.92.00 - Despesas de Exercícios Anteriores,8499855.61,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.92.00.00,3.3.90.92.00 - Despesas de Exercícios Anteriores,8499855.61,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.92.00.00,3.3.90.92.00 - Despesas de Exercícios Anteriores,8494303.26,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.92.00.00,3.3.90.92.00 - Despesas de Exercícios Anteriores,593960.15,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.92.00.00,3.3.90.92.00 - Despesas de Exercícios Anteriores,1667215.78,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.93.00.00,3.3.90.93.00 - Indenizações e Restituições,7348116.56,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.93.00.00,3.3.90.93.00 - Indenizações e Restituições,7324811.54,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.93.00.00,3.3.90.93.00 - Indenizações e Restituições,7309736.62,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.93.00.00,3.3.90.93.00 - Indenizações e Restituições,84636.17,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.93.00.00,3.3.90.93.00 - Indenizações e Restituições,193756.09,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DI3.3.91.00.00.00,"3.3.91.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social",14014998.64,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DI3.3.91.00.00.00,"3.3.91.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social",12001541.74,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Pagas,DI3.3.91.00.00.00,"3.3.91.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social",12001541.74,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DI3.3.91.00.00.00,"3.3.91.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social",2090000,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.0.00.00.00.00,4.0.00.00.00 - Despesas de Capital,161744878.73,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.0.00.00.00.00,4.0.00.00.00 - Despesas de Capital,155984384.95,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.0.00.00.00.00,4.0.00.00.00 - Despesas de Capital,155129855.73,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.0.00.00.00.00,4.0.00.00.00 - Despesas de Capital,41937543.18,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO4.0.00.00.00.00,4.0.00.00.00 - Despesas de Capital,7126563.33,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.00.00.00.00,4.4.00.00.00 - Investimentos,106744913.01,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.00.00.00.00,4.4.00.00.00 - Investimentos,100984419.23,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.00.00.00.00,4.4.00.00.00 - Investimentos,100129890.01,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.4.00.00.00.00,4.4.00.00.00 - Investimentos,41933771.05,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO4.4.00.00.00.00,4.4.00.00.00 - Investimentos,7060675.64,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.50.00.00.00,4.4.50.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos,24000,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.50.00.00.00,4.4.50.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos,24000,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.50.00.00.00,4.4.50.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos,24000,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.4.50.00.00.00,4.4.50.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos,24000,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO4.4.50.00.00.00,4.4.50.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos,1366335.15,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.90.00.00.00,4.4.90.00.00 - Aplicações Diretas,106720913.01,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.90.00.00.00,4.4.90.00.00 - Aplicações Diretas,100960419.23,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.90.00.00.00,4.4.90.00.00 - Aplicações Diretas,100105890.01,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.4.90.00.00.00,4.4.90.00.00 - Aplicações Diretas,41909771.05,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO4.4.90.00.00.00,4.4.90.00.00 - Aplicações Diretas,5694340.49,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.4.90.30.00.00,4.4.90.30.00 - Material de Consumo,35717.83,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO4.4.90.30.00.00,4.4.90.30.00 - Material de Consumo,13818.48,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.90.35.00.00,4.4.90.35.00 - Serviços de Consultoria,1120105.38,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.90.35.00.00,4.4.90.35.00 - Serviços de Consultoria,693095.09,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.90.35.00.00,4.4.90.35.00 - Serviços de Consultoria,693095.09,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.90.39.00.00,4.4.90.39.00 - Outros Serviços de Terceiros - Pessoa Jurídica,298177.06,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.90.39.00.00,4.4.90.39.00 - Outros Serviços de Terceiros - Pessoa Jurídica,257267.06,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.90.39.00.00,4.4.90.39.00 - Outros Serviços de Terceiros - Pessoa Jurídica,257267.06,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.90.40.00.00,4.4.90.40.00 - Serviços de Tecnologia da Informação e Comunicação (TIC) - Pessoa Jurídica,2237257.62,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.90.40.00.00,4.4.90.40.00 - Serviços de Tecnologia da Informação e Comunicação (TIC) - Pessoa Jurídica,1536103.88,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.90.40.00.00,4.4.90.40.00 - Serviços de Tecnologia da Informação e Comunicação (TIC) - Pessoa Jurídica,1536103.88,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.4.90.40.00.00,4.4.90.40.00 - Serviços de Tecnologia da Informação e Comunicação (TIC) - Pessoa Jurídica,46100.99,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.90.51.00.00,4.4.90.51.00 - Obras e Instalações,81734437.92,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.90.51.00.00,4.4.90.51.00 - Obras e Instalações,79594850.27,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.90.51.00.00,4.4.90.51.00 - Obras e Instalações,78866227.91,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.4.90.51.00.00,4.4.90.51.00 - Obras e Instalações,24291407.79,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO4.4.90.51.00.00,4.4.90.51.00 - Obras e Instalações,1966321.37,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.90.51.99.00,4.4.90.51.99 - Demais Obras e Instalações,81734437.92,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.90.51.99.00,4.4.90.51.99 - Demais Obras e Instalações,79594850.27,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.90.51.99.00,4.4.90.51.99 - Demais Obras e Instalações,78866227.91,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.4.90.51.99.00,4.4.90.51.99 - Demais Obras e Instalações,24291407.79,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO4.4.90.51.99.00,4.4.90.51.99 - Demais Obras e Instalações,1966321.37,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.90.52.00.00,4.4.90.52.00 - Equipamentos e Material Permanente,14480945.41,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.90.52.00.00,4.4.90.52.00 - Equipamentos e Material Permanente,12029113.31,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.90.52.00.00,4.4.90.52.00 - Equipamentos e Material Permanente,11903206.45,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.4.90.52.00.00,4.4.90.52.00 - Equipamentos e Material Permanente,17536544.44,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO4.4.90.52.00.00,4.4.90.52.00 - Equipamentos e Material Permanente,3714200.64,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.90.92.00.00,4.4.90.92.00 - Despesas de Exercícios Anteriores,186825.58,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.90.92.00.00,4.4.90.92.00 - Despesas de Exercícios Anteriores,186825.58,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.90.92.00.00,4.4.90.92.00 - Despesas de Exercícios Anteriores,186825.58,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.90.93.00.00,4.4.90.93.00 - Indenizações e Restituições,4242074.02,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.90.93.00.00,4.4.90.93.00 - Indenizações e Restituições,4242074.02,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.90.93.00.00,4.4.90.93.00 - Indenizações e Restituições,4242074.02,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.90.99.00.00,4.4.90.99.00 - A Classificar,2421090.02,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.90.99.00.00,4.4.90.99.00 - A Classificar,2421090.02,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.90.99.00.00,4.4.90.99.00 - A Classificar,2421090.02,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.5.00.00.00.00,4.5.00.00.00 - Inversões Financeiras,3772.13,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO4.5.00.00.00.00,4.5.00.00.00 - Inversões Financeiras,24000,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.5.90.00.00.00,4.5.90.00.00 - Aplicações Diretas,3772.13,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO4.5.90.00.00.00,4.5.90.00.00 - Aplicações Diretas,24000,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.5.90.66.00.00,4.5.90.66.00 - Concessão de Empréstimos e Financiamentos,2520,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO4.5.90.66.00.00,4.5.90.66.00 - Concessão de Empréstimos e Financiamentos,24000,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.5.90.99.00.00,4.5.90.99.00 - A Classificar,1252.13,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.6.00.00.00.00,4.6.00.00.00 - Amortização da Dívida,54999965.72,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.6.00.00.00.00,4.6.00.00.00 - Amortização da Dívida,54999965.72,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.6.00.00.00.00,4.6.00.00.00 - Amortização da Dívida,54999965.72,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO4.6.00.00.00.00,4.6.00.00.00 - Amortização da Dívida,41887.69,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.6.90.00.00.00,4.6.90.00.00 - Aplicações Diretas,54999965.72,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.6.90.00.00.00,4.6.90.00.00 - Aplicações Diretas,54999965.72,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.6.90.00.00.00,4.6.90.00.00 - Aplicações Diretas,54999965.72,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO4.6.90.00.00.00,4.6.90.00.00 - Aplicações Diretas,41887.69,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.6.90.71.00.00,4.6.90.71.00 - Principal da Dívida Contratual Resgatado,54999965.72,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.6.90.71.00.00,4.6.90.71.00 - Principal da Dívida Contratual Resgatado,54999965.72,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.6.90.71.00.00,4.6.90.71.00 - Principal da Dívida Contratual Resgatado,54999965.72,809015
+2020,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO4.6.90.71.00.00,4.6.90.71.00 - Principal da Dívida Contratual Resgatado,41887.69,809015

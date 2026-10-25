@@ -1,0 +1,71 @@
+exercicio,instituicao,cod_ibge,uf,anexo,rotulo,coluna,cod_conta,conta,valor,populacao
+2017,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-D,Padrão,Despesas Empenhadas,TotalDespesas,Total Geral da Despesa,2087214043.99,877662
+2017,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-D,Padrão,Despesas Liquidadas,TotalDespesas,Total Geral da Despesa,1916367370.96,877662
+2017,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-D,Padrão,Despesas Pagas,TotalDespesas,Total Geral da Despesa,1733939806.54,877662
+2017,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,TotalDespesas,Total Geral da Despesa,170846673.03,877662
+2017,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,TotalDespesas,Total Geral da Despesa,182427564.42,877662
+2017,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.0.00.00.00.00,3.0.00.00.00.00 - Despesas Correntes,1963918526.2,877662
+2017,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.0.00.00.00.00,3.0.00.00.00.00 - Despesas Correntes,1856207516.42,877662
+2017,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.0.00.00.00.00,3.0.00.00.00.00 - Despesas Correntes,1681758068.76,877662
+2017,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.0.00.00.00.00,3.0.00.00.00.00 - Despesas Correntes,107711009.78,877662
+2017,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.0.00.00.00.00,3.0.00.00.00.00 - Despesas Correntes,174449447.66,877662
+2017,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.00.00.00.00,3.1.00.00.00.00 - Pessoal e Encargos Sociais,1079652954.85,877662
+2017,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.00.00.00.00,3.1.00.00.00.00 - Pessoal e Encargos Sociais,1074561212.45,877662
+2017,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.00.00.00.00,3.1.00.00.00.00 - Pessoal e Encargos Sociais,1005346304.76,877662
+2017,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.1.00.00.00.00,3.1.00.00.00.00 - Pessoal e Encargos Sociais,5091742.4,877662
+2017,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.1.00.00.00.00,3.1.00.00.00.00 - Pessoal e Encargos Sociais,69214907.69,877662
+2017,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.99.00.00.00,3.1.99.00.00.00 - A Definir,1079652954.85,877662
+2017,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.99.00.00.00,3.1.99.00.00.00 - A Definir,1074561212.45,877662
+2017,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.99.00.00.00,3.1.99.00.00.00 - A Definir,1005346304.76,877662
+2017,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.1.99.00.00.00,3.1.99.00.00.00 - A Definir,5091742.4,877662
+2017,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.1.99.00.00.00,3.1.99.00.00.00 - A Definir,69214907.69,877662
+2017,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.99.99.00.00,3.1.99.99.00.00 - A Classificar,1079652954.85,877662
+2017,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.99.99.00.00,3.1.99.99.00.00 - A Classificar,1074561212.45,877662
+2017,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.99.99.00.00,3.1.99.99.00.00 - A Classificar,1005346304.76,877662
+2017,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.1.99.99.00.00,3.1.99.99.00.00 - A Classificar,5091742.4,877662
+2017,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.1.99.99.00.00,3.1.99.99.00.00 - A Classificar,69214907.69,877662
+2017,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.2.00.00.00.00,3.2.00.00.00.00 - Juros e Encargos da Dívida,25579911.61,877662
+2017,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.2.00.00.00.00,3.2.00.00.00.00 - Juros e Encargos da Dívida,25225049.89,877662
+2017,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.2.00.00.00.00,3.2.00.00.00.00 - Juros e Encargos da Dívida,25225049.89,877662
+2017,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.2.00.00.00.00,3.2.00.00.00.00 - Juros e Encargos da Dívida,354861.72,877662
+2017,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.2.99.00.00.00,3.2.99.00.00.00 - A Definir,25579911.61,877662
+2017,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.2.99.00.00.00,3.2.99.00.00.00 - A Definir,25225049.89,877662
+2017,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.2.99.00.00.00,3.2.99.00.00.00 - A Definir,25225049.89,877662
+2017,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.2.99.00.00.00,3.2.99.00.00.00 - A Definir,354861.72,877662
+2017,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.00.00.00.00,3.3.00.00.00.00 - Outras Despesas Correntes,858685659.74,877662
+2017,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.00.00.00.00,3.3.00.00.00.00 - Outras Despesas Correntes,756421254.08,877662
+2017,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.00.00.00.00,3.3.00.00.00.00 - Outras Despesas Correntes,651186714.11,877662
+2017,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.00.00.00.00,3.3.00.00.00.00 - Outras Despesas Correntes,102264405.66,877662
+2017,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.00.00.00.00,3.3.00.00.00.00 - Outras Despesas Correntes,105234539.97,877662
+2017,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.99.00.00.00,3.3.99.00.00.00 - A Definir,858685659.74,877662
+2017,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.99.00.00.00,3.3.99.00.00.00 - A Definir,756421254.08,877662
+2017,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.99.00.00.00,3.3.99.00.00.00 - A Definir,651186714.11,877662
+2017,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.99.00.00.00,3.3.99.00.00.00 - A Definir,102264405.66,877662
+2017,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.99.00.00.00,3.3.99.00.00.00 - A Definir,105234539.97,877662
+2017,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.0.00.00.00.00,4.0.00.00.00.00 - Despesas de Capital,123295517.79,877662
+2017,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.0.00.00.00.00,4.0.00.00.00.00 - Despesas de Capital,60159854.54,877662
+2017,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.0.00.00.00.00,4.0.00.00.00.00 - Despesas de Capital,52181737.78,877662
+2017,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.0.00.00.00.00,4.0.00.00.00.00 - Despesas de Capital,63135663.25,877662
+2017,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO4.0.00.00.00.00,4.0.00.00.00.00 - Despesas de Capital,7978116.76,877662
+2017,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.00.00.00.00,4.4.00.00.00.00 - Investimentos,98847848.61,877662
+2017,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.00.00.00.00,4.4.00.00.00.00 - Investimentos,36516065.07,877662
+2017,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.00.00.00.00,4.4.00.00.00.00 - Investimentos,28537948.31,877662
+2017,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.4.00.00.00.00,4.4.00.00.00.00 - Investimentos,62331783.54,877662
+2017,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO4.4.00.00.00.00,4.4.00.00.00.00 - Investimentos,7978116.76,877662
+2017,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.99.00.00.00,4.4.99.00.00.00 - A Definir,98847848.61,877662
+2017,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.99.00.00.00,4.4.99.00.00.00 - A Definir,36516065.07,877662
+2017,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.99.00.00.00,4.4.99.00.00.00 - A Definir,28537948.31,877662
+2017,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.4.99.00.00.00,4.4.99.00.00.00 - A Definir,62331783.54,877662
+2017,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO4.4.99.00.00.00,4.4.99.00.00.00 - A Definir,7978116.76,877662
+2017,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.6.00.00.00.00,4.6.00.00.00.00 - Amortização da Dívida,24447669.18,877662
+2017,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.6.00.00.00.00,4.6.00.00.00.00 - Amortização da Dívida,23643789.47,877662
+2017,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.6.00.00.00.00,4.6.00.00.00.00 - Amortização da Dívida,23643789.47,877662
+2017,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.6.00.00.00.00,4.6.00.00.00.00 - Amortização da Dívida,803879.71,877662
+2017,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.6.90.00.00.00,4.6.90.00.00.00 - Aplicações Diretas,24447669.18,877662
+2017,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.6.90.00.00.00,4.6.90.00.00.00 - Aplicações Diretas,23643789.47,877662
+2017,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.6.90.00.00.00,4.6.90.00.00.00 - Aplicações Diretas,23643789.47,877662
+2017,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.6.90.00.00.00,4.6.90.00.00.00 - Aplicações Diretas,803879.71,877662
+2017,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.6.90.99.00.00,4.6.90.99.00.00 - A Classificar,24447669.18,877662
+2017,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.6.90.99.00.00,4.6.90.99.00.00 - A Classificar,23643789.47,877662
+2017,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.6.90.99.00.00,4.6.90.99.00.00 - A Classificar,23643789.47,877662
+2017,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.6.90.99.00.00,4.6.90.99.00.00 - A Classificar,803879.71,877662

@@ -1,0 +1,252 @@
+exercicio,instituicao,cod_ibge,uf,anexo,rotulo,coluna,cod_conta,conta,valor,populacao
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,TotalDespesas,Total Geral da Despesa,5674145324.6,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,TotalDespesas,Total Geral da Despesa,5503210717.91,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Pagas,TotalDespesas,Total Geral da Despesa,5487370185.99,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,TotalDespesas,Total Geral da Despesa,170934606.69,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,TotalDespesas,Total Geral da Despesa,15840531.92,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.0.00.00.00.00,3.0.00.00.00.00 - Despesas Correntes,5293457215.73,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.0.00.00.00.00,3.0.00.00.00.00 - Despesas Correntes,5155773911.02,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.0.00.00.00.00,3.0.00.00.00.00 - Despesas Correntes,5142437163.37,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.0.00.00.00.00,3.0.00.00.00.00 - Despesas Correntes,137683304.71,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.0.00.00.00.00,3.0.00.00.00.00 - Despesas Correntes,13336747.65,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.00.00.00.00,3.1.00.00.00.00 - Pessoal e Encargos Sociais,2689508135.78,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.00.00.00.00,3.1.00.00.00.00 - Pessoal e Encargos Sociais,2689296814.74,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.00.00.00.00,3.1.00.00.00.00 - Pessoal e Encargos Sociais,2687916426.94,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.1.00.00.00.00,3.1.00.00.00.00 - Pessoal e Encargos Sociais,211321.04,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.1.00.00.00.00,3.1.00.00.00.00 - Pessoal e Encargos Sociais,1380387.8,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.00.00.00,3.1.90.00.00.00 - Aplicações Diretas,2404664180.38,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.00.00.00,3.1.90.00.00.00 - Aplicações Diretas,2404452859.34,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.00.00.00,3.1.90.00.00.00 - Aplicações Diretas,2403072471.54,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.1.90.00.00.00,3.1.90.00.00.00 - Aplicações Diretas,211321.04,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.1.90.00.00.00,3.1.90.00.00.00 - Aplicações Diretas,1380387.8,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.01.00.00,"3.1.90.01.00.00 - Aposentadorias do RPPS, Reserva Remunerada e Reformas dos Militares",428273537.56,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.01.00.00,"3.1.90.01.00.00 - Aposentadorias do RPPS, Reserva Remunerada e Reformas dos Militares",428273537.56,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.01.00.00,"3.1.90.01.00.00 - Aposentadorias do RPPS, Reserva Remunerada e Reformas dos Militares",428273537.56,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.03.00.00,3.1.90.03.00.00 - Pensões do RPPS e do Militar,129631805.57,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.03.00.00,3.1.90.03.00.00 - Pensões do RPPS e do Militar,129631805.57,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.03.00.00,3.1.90.03.00.00 - Pensões do RPPS e do Militar,129631805.57,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.04.00.00,3.1.90.04.00.00 - Contratação por Tempo Determinado,138713175.19,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.04.00.00,3.1.90.04.00.00 - Contratação por Tempo Determinado,138713175.19,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.04.00.00,3.1.90.04.00.00 - Contratação por Tempo Determinado,137337422.35,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.1.90.04.00.00,3.1.90.04.00.00 - Contratação por Tempo Determinado,1375752.84,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.05.00.00,3.1.90.05.00.00 - Outros Benefícios Previdenciários do Servidor ou do Militar,57313.96,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.05.00.00,3.1.90.05.00.00 - Outros Benefícios Previdenciários do Servidor ou do Militar,57313.96,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.05.00.00,3.1.90.05.00.00 - Outros Benefícios Previdenciários do Servidor ou do Militar,57313.96,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.08.00.00,3.1.90.08.00.00 - Outros Benefícios Assistenciais do Servidor ou do Militar,16129869.82,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.08.00.00,3.1.90.08.00.00 - Outros Benefícios Assistenciais do Servidor ou do Militar,16129869.82,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.08.00.00,3.1.90.08.00.00 - Outros Benefícios Assistenciais do Servidor ou do Militar,16129869.82,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.11.00.00,3.1.90.11.00.00 - Vencimentos e Vantagens Fixas - Pessoal Civil,1545419036.93,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.11.00.00,3.1.90.11.00.00 - Vencimentos e Vantagens Fixas - Pessoal Civil,1545408875.39,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.11.00.00,3.1.90.11.00.00 - Vencimentos e Vantagens Fixas - Pessoal Civil,1545408875.39,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.1.90.11.00.00,3.1.90.11.00.00 - Vencimentos e Vantagens Fixas - Pessoal Civil,10161.54,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.13.00.00,3.1.90.13.00.00 - Obrigações Patronais,61302250.72,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.13.00.00,3.1.90.13.00.00 - Obrigações Patronais,61302250.72,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.13.00.00,3.1.90.13.00.00 - Obrigações Patronais,61302250.72,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.13.01.00,3.1.90.13.01.00 - FGTS,17751688.52,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.13.01.00,3.1.90.13.01.00 - FGTS,17751688.52,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.13.01.00,3.1.90.13.01.00 - FGTS,17751688.52,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.13.02.00,3.1.90.13.02.00 - Contribuições Previdenciárias - INSS,42330880.59,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.13.02.00,3.1.90.13.02.00 - Contribuições Previdenciárias - INSS,42330880.59,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.13.02.00,3.1.90.13.02.00 - Contribuições Previdenciárias - INSS,42330880.59,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.13.08.00,3.1.90.13.08.00 - Plano de Seg. Soc. do Servidor - Pessoal Ativo,39487.35,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.13.08.00,3.1.90.13.08.00 - Plano de Seg. Soc. do Servidor - Pessoal Ativo,39487.35,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.13.08.00,3.1.90.13.08.00 - Plano de Seg. Soc. do Servidor - Pessoal Ativo,39487.35,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.13.99.00,3.1.90.13.99.00 - Outras Obrigações Patronais,1180194.26,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.13.99.00,3.1.90.13.99.00 - Outras Obrigações Patronais,1180194.26,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.13.99.00,3.1.90.13.99.00 - Outras Obrigações Patronais,1180194.26,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.16.00.00,3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil,73820032.64,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.16.00.00,3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil,73752063.89,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.16.00.00,3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil,73752063.89,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.1.90.16.00.00,3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil,67968.75,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.91.00.00,3.1.90.91.00.00 - Sentenças Judiciais,627934.79,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.91.00.00,3.1.90.91.00.00 - Sentenças Judiciais,627934.79,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.91.00.00,3.1.90.91.00.00 - Sentenças Judiciais,627934.79,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.92.00.00,3.1.90.92.00.00 - Despesas de Exercícios Anteriores,18312.56,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.92.00.00,3.1.90.92.00.00 - Despesas de Exercícios Anteriores,18312.56,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.92.00.00,3.1.90.92.00.00 - Despesas de Exercícios Anteriores,18312.56,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.94.00.00,3.1.90.94.00.00 - Indenizações e Restituições Trabalhistas,5517547.62,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.94.00.00,3.1.90.94.00.00 - Indenizações e Restituições Trabalhistas,5517547.62,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.94.00.00,3.1.90.94.00.00 - Indenizações e Restituições Trabalhistas,5516021.91,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.1.90.94.00.00,3.1.90.94.00.00 - Indenizações e Restituições Trabalhistas,1525.71,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.96.00.00,3.1.90.96.00.00 - Ressarcimento de Despesas de Pessoal Requisitado,5153363.02,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.96.00.00,3.1.90.96.00.00 - Ressarcimento de Despesas de Pessoal Requisitado,5020172.27,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.96.00.00,3.1.90.96.00.00 - Ressarcimento de Despesas de Pessoal Requisitado,5017063.02,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.1.90.96.00.00,3.1.90.96.00.00 - Ressarcimento de Despesas de Pessoal Requisitado,133190.75,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.1.90.96.00.00,3.1.90.96.00.00 - Ressarcimento de Despesas de Pessoal Requisitado,3109.25,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DI3.1.91.00.00.00,"3.1.91.00.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social",284843955.4,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DI3.1.91.00.00.00,"3.1.91.00.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social",284843955.4,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Pagas,DI3.1.91.00.00.00,"3.1.91.00.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social",284843955.4,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DI3.1.91.13.00.00,3.1.91.13.00.00 - Contribuições Patronais,283855035.44,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DI3.1.91.13.00.00,3.1.91.13.00.00 - Contribuições Patronais,283855035.44,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Pagas,DI3.1.91.13.00.00,3.1.91.13.00.00 - Contribuições Patronais,283855035.44,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DI3.1.91.13.03.00,3.1.91.13.03.00 - Contribuição Patronal para o RPPS - Intraorçamentária,283855035.44,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DI3.1.91.13.03.00,3.1.91.13.03.00 - Contribuição Patronal para o RPPS - Intraorçamentária,283855035.44,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Pagas,DI3.1.91.13.03.00,3.1.91.13.03.00 - Contribuição Patronal para o RPPS - Intraorçamentária,283855035.44,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DI3.1.91.92.00.00,3.1.91.92.00.00 - Despesas de Exercícios Anteriores,988919.96,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DI3.1.91.92.00.00,3.1.91.92.00.00 - Despesas de Exercícios Anteriores,988919.96,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Pagas,DI3.1.91.92.00.00,3.1.91.92.00.00 - Despesas de Exercícios Anteriores,988919.96,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.2.00.00.00.00,3.2.00.00.00.00 - Juros e Encargos da Dívida,7098533.84,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.2.00.00.00.00,3.2.00.00.00.00 - Juros e Encargos da Dívida,7098533.84,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.2.00.00.00.00,3.2.00.00.00.00 - Juros e Encargos da Dívida,7098533.84,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.2.90.00.00.00,3.2.90.00.00.00 - Aplicações Diretas,6804807.68,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.2.90.00.00.00,3.2.90.00.00.00 - Aplicações Diretas,6804807.68,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.2.90.00.00.00,3.2.90.00.00.00 - Aplicações Diretas,6804807.68,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.2.90.21.00.00,3.2.90.21.00.00 - Juros sobre a Dívida por Contrato,6744161.61,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.2.90.21.00.00,3.2.90.21.00.00 - Juros sobre a Dívida por Contrato,6744161.61,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.2.90.21.00.00,3.2.90.21.00.00 - Juros sobre a Dívida por Contrato,6744161.61,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.2.90.22.00.00,3.2.90.22.00.00 - Outros Encargos sobre a Dívida por Contrato,60646.07,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.2.90.22.00.00,3.2.90.22.00.00 - Outros Encargos sobre a Dívida por Contrato,60646.07,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.2.90.22.00.00,3.2.90.22.00.00 - Outros Encargos sobre a Dívida por Contrato,60646.07,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.2.99.00.00.00,3.2.99.00.00.00 - A Definir,293726.16,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.2.99.00.00.00,3.2.99.00.00.00 - A Definir,293726.16,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.2.99.00.00.00,3.2.99.00.00.00 - A Definir,293726.16,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.00.00.00.00,3.3.00.00.00.00 - Outras Despesas Correntes,2596850546.11,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.00.00.00.00,3.3.00.00.00.00 - Outras Despesas Correntes,2459378562.44,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.00.00.00.00,3.3.00.00.00.00 - Outras Despesas Correntes,2447422202.59,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.00.00.00.00,3.3.00.00.00.00 - Outras Despesas Correntes,137471983.67,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.00.00.00.00,3.3.00.00.00.00 - Outras Despesas Correntes,11956359.85,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.50.00.00.00,3.3.50.00.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos,47118412.91,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.50.00.00.00,3.3.50.00.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos,46776642.87,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.50.00.00.00,3.3.50.00.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos,45388533.65,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.50.00.00.00,3.3.50.00.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos,341770.04,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.50.00.00.00,3.3.50.00.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos,1388109.22,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.80.00.00.00,3.3.80.00.00.00 - Transferências ao Exterior,700000,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.80.00.00.00,3.3.80.00.00.00 - Transferências ao Exterior,700000,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.80.00.00.00,3.3.80.00.00.00 - Transferências ao Exterior,700000,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.00.00.00,3.3.90.00.00.00 - Aplicações Diretas,2549032133.2,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.00.00.00,3.3.90.00.00.00 - Aplicações Diretas,2411901919.57,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.00.00.00,3.3.90.00.00.00 - Aplicações Diretas,2401333668.94,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.00.00.00,3.3.90.00.00.00 - Aplicações Diretas,137130213.63,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.00.00.00,3.3.90.00.00.00 - Aplicações Diretas,10568250.63,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.14.00.00,3.3.90.14.00.00 - Diárias - Civil,404431.91,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.14.00.00,3.3.90.14.00.00 - Diárias - Civil,404431.91,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.14.00.00,3.3.90.14.00.00 - Diárias - Civil,404431.91,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.30.00.00,3.3.90.30.00.00 - Material de Consumo,105777203.74,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.30.00.00,3.3.90.30.00.00 - Material de Consumo,95754248.91,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.30.00.00,3.3.90.30.00.00 - Material de Consumo,93102485.76,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.30.00.00,3.3.90.30.00.00 - Material de Consumo,10022954.83,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.30.00.00,3.3.90.30.00.00 - Material de Consumo,2651763.15,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.31.00.00,"3.3.90.31.00.00 - Premiações Culturais, Artísticas, Científicas, Desportivas e Outras",795756.5,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.31.00.00,"3.3.90.31.00.00 - Premiações Culturais, Artísticas, Científicas, Desportivas e Outras",795756.5,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.31.00.00,"3.3.90.31.00.00 - Premiações Culturais, Artísticas, Científicas, Desportivas e Outras",795756.5,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.32.00.00,"3.3.90.32.00.00 - Material, Bem ou Serviço para Distribuição Gratuita",6302668.41,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.32.00.00,"3.3.90.32.00.00 - Material, Bem ou Serviço para Distribuição Gratuita",2498853.87,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.32.00.00,"3.3.90.32.00.00 - Material, Bem ou Serviço para Distribuição Gratuita",2084353.87,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.32.00.00,"3.3.90.32.00.00 - Material, Bem ou Serviço para Distribuição Gratuita",3803814.54,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.32.00.00,"3.3.90.32.00.00 - Material, Bem ou Serviço para Distribuição Gratuita",414500,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.33.00.00,3.3.90.33.00.00 - Passagens e Despesas com Locomoção,1065861.68,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.33.00.00,3.3.90.33.00.00 - Passagens e Despesas com Locomoção,971652.99,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.33.00.00,3.3.90.33.00.00 - Passagens e Despesas com Locomoção,971652.99,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.33.00.00,3.3.90.33.00.00 - Passagens e Despesas com Locomoção,94208.69,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.35.00.00,3.3.90.35.00.00 - Serviços de Consultoria,11614231.27,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.35.00.00,3.3.90.35.00.00 - Serviços de Consultoria,10929502.94,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.35.00.00,3.3.90.35.00.00 - Serviços de Consultoria,10929502.94,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.35.00.00,3.3.90.35.00.00 - Serviços de Consultoria,684728.33,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.36.00.00,3.3.90.36.00.00 - Outros Serviços de Terceiros - Pessoa Física,35282250.47,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.36.00.00,3.3.90.36.00.00 - Outros Serviços de Terceiros - Pessoa Física,34914187.02,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.36.00.00,3.3.90.36.00.00 - Outros Serviços de Terceiros - Pessoa Física,34513813.05,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.36.00.00,3.3.90.36.00.00 - Outros Serviços de Terceiros - Pessoa Física,368063.45,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.36.00.00,3.3.90.36.00.00 - Outros Serviços de Terceiros - Pessoa Física,400373.97,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.37.00.00,3.3.90.37.00.00 - Locação de Mão-de-Obra,419251738.44,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.37.00.00,3.3.90.37.00.00 - Locação de Mão-de-Obra,397482410.04,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.37.00.00,3.3.90.37.00.00 - Locação de Mão-de-Obra,397482409.72,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.37.00.00,3.3.90.37.00.00 - Locação de Mão-de-Obra,21769328.4,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.37.00.00,3.3.90.37.00.00 - Locação de Mão-de-Obra,0.32,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.39.00.00,3.3.90.39.00.00 - Outros Serviços de Terceiros - Pessoa Jurídica,1693859734.24,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.39.00.00,3.3.90.39.00.00 - Outros Serviços de Terceiros - Pessoa Jurídica,1604080385.32,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.39.00.00,3.3.90.39.00.00 - Outros Serviços de Terceiros - Pessoa Jurídica,1597122208.16,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.39.00.00,3.3.90.39.00.00 - Outros Serviços de Terceiros - Pessoa Jurídica,89779348.92,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.39.00.00,3.3.90.39.00.00 - Outros Serviços de Terceiros - Pessoa Jurídica,6958177.16,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.46.00.00,3.3.90.46.00.00 - Auxílio-Alimentação,73193748.94,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.46.00.00,3.3.90.46.00.00 - Auxílio-Alimentação,73184385.12,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.46.00.00,3.3.90.46.00.00 - Auxílio-Alimentação,73184385.12,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.46.00.00,3.3.90.46.00.00 - Auxílio-Alimentação,9363.82,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.47.00.00,3.3.90.47.00.00 - Obrigações Tributárias e Contributivas,62347630.02,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.47.00.00,3.3.90.47.00.00 - Obrigações Tributárias e Contributivas,55935010.68,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.47.00.00,3.3.90.47.00.00 - Obrigações Tributárias e Contributivas,55935010.68,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.47.00.00,3.3.90.47.00.00 - Obrigações Tributárias e Contributivas,6412619.34,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.48.00.00,3.3.90.48.00.00 - Outros Auxílios Financeiros a Pessoas Físicas,28573203.19,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.48.00.00,3.3.90.48.00.00 - Outros Auxílios Financeiros a Pessoas Físicas,26361053.19,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.48.00.00,3.3.90.48.00.00 - Outros Auxílios Financeiros a Pessoas Físicas,26344485.19,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.48.00.00,3.3.90.48.00.00 - Outros Auxílios Financeiros a Pessoas Físicas,2212150,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.48.00.00,3.3.90.48.00.00 - Outros Auxílios Financeiros a Pessoas Físicas,16568,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.49.00.00,3.3.90.49.00.00 - Auxílio-Transporte,27083510.87,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.49.00.00,3.3.90.49.00.00 - Auxílio-Transporte,27077014.39,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.49.00.00,3.3.90.49.00.00 - Auxílio-Transporte,27077014.39,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.49.00.00,3.3.90.49.00.00 - Auxílio-Transporte,6496.48,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.91.00.00,3.3.90.91.00.00 - Sentenças Judiciais,21863303.33,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.91.00.00,3.3.90.91.00.00 - Sentenças Judiciais,20544666.4,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.91.00.00,3.3.90.91.00.00 - Sentenças Judiciais,20544666.4,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.91.00.00,3.3.90.91.00.00 - Sentenças Judiciais,1318636.93,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.92.00.00,3.3.90.92.00.00 - Despesas de Exercícios Anteriores,42187018.41,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.92.00.00,3.3.90.92.00.00 - Despesas de Exercícios Anteriores,42171689.95,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.92.00.00,3.3.90.92.00.00 - Despesas de Exercícios Anteriores,42045321.92,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.92.00.00,3.3.90.92.00.00 - Despesas de Exercícios Anteriores,15328.46,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.92.00.00,3.3.90.92.00.00 - Despesas de Exercícios Anteriores,126368.03,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.93.00.00,3.3.90.93.00.00 - Indenizações e Restituições,18869841.78,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.93.00.00,3.3.90.93.00.00 - Indenizações e Restituições,18717340.08,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.93.00.00,3.3.90.93.00.00 - Indenizações e Restituições,18716840.08,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.93.00.00,3.3.90.93.00.00 - Indenizações e Restituições,152501.7,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.93.00.00,3.3.90.93.00.00 - Indenizações e Restituições,500,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.96.00.00,3.3.90.96.00.00 - Ressarcimento de Despesas de Pessoal Requisitado,560000,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.96.00.00,3.3.90.96.00.00 - Ressarcimento de Despesas de Pessoal Requisitado,79330.26,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.96.00.00,3.3.90.96.00.00 - Ressarcimento de Despesas de Pessoal Requisitado,79330.26,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.96.00.00,3.3.90.96.00.00 - Ressarcimento de Despesas de Pessoal Requisitado,480669.74,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.0.00.00.00.00,4.0.00.00.00.00 - Despesas de Capital,380688108.87,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.0.00.00.00.00,4.0.00.00.00.00 - Despesas de Capital,347436806.89,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.0.00.00.00.00,4.0.00.00.00.00 - Despesas de Capital,344933022.62,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.0.00.00.00.00,4.0.00.00.00.00 - Despesas de Capital,33251301.98,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO4.0.00.00.00.00,4.0.00.00.00.00 - Despesas de Capital,2503784.27,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.00.00.00.00,4.4.00.00.00.00 - Investimentos,244860889.73,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.00.00.00.00,4.4.00.00.00.00 - Investimentos,211612606.42,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.00.00.00.00,4.4.00.00.00.00 - Investimentos,209108822.15,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.4.00.00.00.00,4.4.00.00.00.00 - Investimentos,33248283.31,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO4.4.00.00.00.00,4.4.00.00.00.00 - Investimentos,2503784.27,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.90.00.00.00,4.4.90.00.00.00 - Aplicações Diretas,244860889.73,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.90.00.00.00,4.4.90.00.00.00 - Aplicações Diretas,211612606.42,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.90.00.00.00,4.4.90.00.00.00 - Aplicações Diretas,209108822.15,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.4.90.00.00.00,4.4.90.00.00.00 - Aplicações Diretas,33248283.31,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO4.4.90.00.00.00,4.4.90.00.00.00 - Aplicações Diretas,2503784.27,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.90.39.00.00,4.4.90.39.00.00 - Outros Serviços de Terceiros - Pessoa Jurídica,9338169.75,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.90.39.00.00,4.4.90.39.00.00 - Outros Serviços de Terceiros - Pessoa Jurídica,7241521.65,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.90.39.00.00,4.4.90.39.00.00 - Outros Serviços de Terceiros - Pessoa Jurídica,7241521.65,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.4.90.39.00.00,4.4.90.39.00.00 - Outros Serviços de Terceiros - Pessoa Jurídica,2096648.1,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.90.51.00.00,4.4.90.51.00.00 - Obras e Instalações,205144299.74,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.90.51.00.00,4.4.90.51.00.00 - Obras e Instalações,180050024.89,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.90.51.00.00,4.4.90.51.00.00 - Obras e Instalações,179967435.83,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.4.90.51.00.00,4.4.90.51.00.00 - Obras e Instalações,25094274.85,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO4.4.90.51.00.00,4.4.90.51.00.00 - Obras e Instalações,82589.06,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.90.51.91.00,4.4.90.51.91.00 - Obras em Andamento,205144299.74,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.90.51.91.00,4.4.90.51.91.00 - Obras em Andamento,180050024.89,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.90.51.91.00,4.4.90.51.91.00 - Obras em Andamento,179967435.83,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.4.90.51.91.00,4.4.90.51.91.00 - Obras em Andamento,25094274.85,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO4.4.90.51.91.00,4.4.90.51.91.00 - Obras em Andamento,82589.06,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.90.52.00.00,4.4.90.52.00.00 - Equipamentos e Material Permanente,21186317.47,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.90.52.00.00,4.4.90.52.00.00 - Equipamentos e Material Permanente,15128957.11,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.90.52.00.00,4.4.90.52.00.00 - Equipamentos e Material Permanente,12707761.9,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.4.90.52.00.00,4.4.90.52.00.00 - Equipamentos e Material Permanente,6057360.36,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO4.4.90.52.00.00,4.4.90.52.00.00 - Equipamentos e Material Permanente,2421195.21,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.90.92.00.00,4.4.90.92.00.00 - Despesas de Exercícios Anteriores,1785164.67,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.90.92.00.00,4.4.90.92.00.00 - Despesas de Exercícios Anteriores,1785164.67,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.90.92.00.00,4.4.90.92.00.00 - Despesas de Exercícios Anteriores,1785164.67,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.90.93.00.00,4.4.90.93.00.00 - Indenizações e Restituições,7406938.1,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.90.93.00.00,4.4.90.93.00.00 - Indenizações e Restituições,7406938.1,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.90.93.00.00,4.4.90.93.00.00 - Indenizações e Restituições,7406938.1,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.6.00.00.00.00,4.6.00.00.00.00 - Amortização da Dívida,135827219.14,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.6.00.00.00.00,4.6.00.00.00.00 - Amortização da Dívida,135824200.47,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.6.00.00.00.00,4.6.00.00.00.00 - Amortização da Dívida,135824200.47,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.6.00.00.00.00,4.6.00.00.00.00 - Amortização da Dívida,3018.67,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.6.90.00.00.00,4.6.90.00.00.00 - Aplicações Diretas,113801502.57,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.6.90.00.00.00,4.6.90.00.00.00 - Aplicações Diretas,113798483.9,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.6.90.00.00.00,4.6.90.00.00.00 - Aplicações Diretas,113798483.9,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.6.90.00.00.00,4.6.90.00.00.00 - Aplicações Diretas,3018.67,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.6.90.71.00.00,4.6.90.71.00.00 - Principal da Dívida Contratual Resgatado,79064486.26,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.6.90.71.00.00,4.6.90.71.00.00 - Principal da Dívida Contratual Resgatado,79061467.59,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.6.90.71.00.00,4.6.90.71.00.00 - Principal da Dívida Contratual Resgatado,79061467.59,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.6.90.71.00.00,4.6.90.71.00.00 - Principal da Dívida Contratual Resgatado,3018.67,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.6.90.91.00.00,4.6.90.91.00.00 - Sentenças Judiciais,34737016.31,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.6.90.91.00.00,4.6.90.91.00.00 - Sentenças Judiciais,34737016.31,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.6.90.91.00.00,4.6.90.91.00.00 - Sentenças Judiciais,34737016.31,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.6.99.00.00.00,4.6.99.00.00.00 - A Definir,22025716.57,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.6.99.00.00.00,4.6.99.00.00.00 - A Definir,22025716.57,2938092
+2017,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.6.99.00.00.00,4.6.99.00.00.00 - A Definir,22025716.57,2938092

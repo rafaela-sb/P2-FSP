@@ -1,0 +1,300 @@
+exercicio,instituicao,cod_ibge,uf,anexo,rotulo,coluna,cod_conta,conta,valor,populacao
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,TotalDespesas,Total Geral da Despesa,6525657824.35,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,TotalDespesas,Total Geral da Despesa,6367882365.9,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,TotalDespesas,Total Geral da Despesa,6306144271.5,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,TotalDespesas,Total Geral da Despesa,157775458.45,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,TotalDespesas,Total Geral da Despesa,61738094.4,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.0.00.00.00.00,3.0.00.00.00.00 - Despesas Correntes,6038729528.76,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.0.00.00.00.00,3.0.00.00.00.00 - Despesas Correntes,5955730597.49,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.0.00.00.00.00,3.0.00.00.00.00 - Despesas Correntes,5902561358.81,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.0.00.00.00.00,3.0.00.00.00.00 - Despesas Correntes,82998931.27,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.0.00.00.00.00,3.0.00.00.00.00 - Despesas Correntes,53169238.68,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.00.00.00.00,3.1.00.00.00.00 - Pessoal e Encargos Sociais,3505998241.62,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.00.00.00.00,3.1.00.00.00.00 - Pessoal e Encargos Sociais,3503977835.37,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.00.00.00.00,3.1.00.00.00.00 - Pessoal e Encargos Sociais,3472079678.05,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.1.00.00.00.00,3.1.00.00.00.00 - Pessoal e Encargos Sociais,2020406.25,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.1.00.00.00.00,3.1.00.00.00.00 - Pessoal e Encargos Sociais,31898157.32,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.00.00.00,3.1.90.00.00.00 - Aplicações Diretas,3076519708.57,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.00.00.00,3.1.90.00.00.00 - Aplicações Diretas,3074499302.32,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.00.00.00,3.1.90.00.00.00 - Aplicações Diretas,3069462418.56,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.1.90.00.00.00,3.1.90.00.00.00 - Aplicações Diretas,2020406.25,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.1.90.00.00.00,3.1.90.00.00.00 - Aplicações Diretas,5036883.76,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.01.00.00,"3.1.90.01.00.00 - Aposentadorias do RPPS, Reserva Remunerada e Reformas dos Militares",603507276.27,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.01.00.00,"3.1.90.01.00.00 - Aposentadorias do RPPS, Reserva Remunerada e Reformas dos Militares",603507276.27,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.01.00.00,"3.1.90.01.00.00 - Aposentadorias do RPPS, Reserva Remunerada e Reformas dos Militares",603507276.27,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.03.00.00,3.1.90.03.00.00 - Pensões do RPPS e do Militar,106088098.06,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.03.00.00,3.1.90.03.00.00 - Pensões do RPPS e do Militar,106088098.06,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.03.00.00,3.1.90.03.00.00 - Pensões do RPPS e do Militar,106088098.06,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.04.00.00,3.1.90.04.00.00 - Contratação por Tempo Determinado,172237450.21,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.04.00.00,3.1.90.04.00.00 - Contratação por Tempo Determinado,172237450.21,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.04.00.00,3.1.90.04.00.00 - Contratação por Tempo Determinado,170942776.14,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.1.90.04.00.00,3.1.90.04.00.00 - Contratação por Tempo Determinado,1294674.07,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.05.00.00,3.1.90.05.00.00 - Outros Benefícios Previdenciários do Servidor ou do Militar,835861.28,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.05.00.00,3.1.90.05.00.00 - Outros Benefícios Previdenciários do Servidor ou do Militar,835861.28,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.05.00.00,3.1.90.05.00.00 - Outros Benefícios Previdenciários do Servidor ou do Militar,835861.28,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.11.00.00,3.1.90.11.00.00 - Vencimentos e Vantagens Fixas - Pessoal Civil,2051469955.13,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.11.00.00,3.1.90.11.00.00 - Vencimentos e Vantagens Fixas - Pessoal Civil,2051469955.13,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.11.00.00,3.1.90.11.00.00 - Vencimentos e Vantagens Fixas - Pessoal Civil,2051328321.15,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.1.90.11.00.00,3.1.90.11.00.00 - Vencimentos e Vantagens Fixas - Pessoal Civil,141633.98,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.13.00.00,3.1.90.13.00.00 - Obrigações Patronais,51289524.49,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.13.00.00,3.1.90.13.00.00 - Obrigações Patronais,51275988.46,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.13.00.00,3.1.90.13.00.00 - Obrigações Patronais,48144365.65,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.1.90.13.00.00,3.1.90.13.00.00 - Obrigações Patronais,13536.03,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.1.90.13.00.00,3.1.90.13.00.00 - Obrigações Patronais,3131622.81,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.13.99.00,3.1.90.13.99.00 - Outras Obrigações Patronais,51289524.49,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.13.99.00,3.1.90.13.99.00 - Outras Obrigações Patronais,51275988.46,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.13.99.00,3.1.90.13.99.00 - Outras Obrigações Patronais,48144365.65,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.1.90.13.99.00,3.1.90.13.99.00 - Outras Obrigações Patronais,13536.03,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.1.90.13.99.00,3.1.90.13.99.00 - Outras Obrigações Patronais,3131622.81,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.16.00.00,3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil,1362871,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.16.00.00,3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil,1362871,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.16.00.00,3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil,1362871,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.91.00.00,3.1.90.91.00.00 - Sentenças Judiciais,71385421.91,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.91.00.00,3.1.90.91.00.00 - Sentenças Judiciais,71385421.91,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.91.00.00,3.1.90.91.00.00 - Sentenças Judiciais,71134644.77,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.1.90.91.00.00,3.1.90.91.00.00 - Sentenças Judiciais,250777.14,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.92.00.00,3.1.90.92.00.00 - Despesas de Exercícios Anteriores,5827416.82,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.92.00.00,3.1.90.92.00.00 - Despesas de Exercícios Anteriores,5827416.82,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.92.00.00,3.1.90.92.00.00 - Despesas de Exercícios Anteriores,5827416.82,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.94.00.00,3.1.90.94.00.00 - Indenizações e Restituições Trabalhistas,1911757.61,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.94.00.00,3.1.90.94.00.00 - Indenizações e Restituições Trabalhistas,1911757.61,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.94.00.00,3.1.90.94.00.00 - Indenizações e Restituições Trabalhistas,1911757.61,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.96.00.00,3.1.90.96.00.00 - Ressarcimento de Despesas de Pessoal Requisitado,10604075.79,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.96.00.00,3.1.90.96.00.00 - Ressarcimento de Despesas de Pessoal Requisitado,8597205.57,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.96.00.00,3.1.90.96.00.00 - Ressarcimento de Despesas de Pessoal Requisitado,8379029.81,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.1.90.96.00.00,3.1.90.96.00.00 - Ressarcimento de Despesas de Pessoal Requisitado,2006870.22,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.1.90.96.00.00,3.1.90.96.00.00 - Ressarcimento de Despesas de Pessoal Requisitado,218175.76,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DI3.1.91.00.00.00,"3.1.91.00.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social",429478533.05,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DI3.1.91.00.00.00,"3.1.91.00.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social",429478533.05,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DI3.1.91.00.00.00,"3.1.91.00.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social",402617259.49,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DI3.1.91.00.00.00,"3.1.91.00.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social",26861273.56,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DI3.1.91.13.00.00,3.1.91.13.00.00 - Contribuições Patronais,411211779.35,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DI3.1.91.13.00.00,3.1.91.13.00.00 - Contribuições Patronais,411211779.35,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DI3.1.91.13.00.00,3.1.91.13.00.00 - Contribuições Patronais,384350505.79,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DI3.1.91.13.00.00,3.1.91.13.00.00 - Contribuições Patronais,26861273.56,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DI3.1.91.13.99.00,3.1.91.13.99.00 - Outras Obrigações Patronais - Intraorçamentária,411211779.35,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DI3.1.91.13.99.00,3.1.91.13.99.00 - Outras Obrigações Patronais - Intraorçamentária,411211779.35,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DI3.1.91.13.99.00,3.1.91.13.99.00 - Outras Obrigações Patronais - Intraorçamentária,384350505.79,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DI3.1.91.13.99.00,3.1.91.13.99.00 - Outras Obrigações Patronais - Intraorçamentária,26861273.56,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DI3.1.91.92.00.00,3.1.91.92.00.00 - Despesas de Exercícios Anteriores,18266753.7,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DI3.1.91.92.00.00,3.1.91.92.00.00 - Despesas de Exercícios Anteriores,18266753.7,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DI3.1.91.92.00.00,3.1.91.92.00.00 - Despesas de Exercícios Anteriores,18266753.7,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.2.00.00.00.00,3.2.00.00.00.00 - Juros e Encargos da Dívida,36398059.25,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.2.00.00.00.00,3.2.00.00.00.00 - Juros e Encargos da Dívida,35244065.25,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.2.00.00.00.00,3.2.00.00.00.00 - Juros e Encargos da Dívida,35244065.25,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.2.00.00.00.00,3.2.00.00.00.00 - Juros e Encargos da Dívida,1153994,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.2.90.00.00.00,3.2.90.00.00.00 - Aplicações Diretas,36398059.25,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.2.90.00.00.00,3.2.90.00.00.00 - Aplicações Diretas,35244065.25,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.2.90.00.00.00,3.2.90.00.00.00 - Aplicações Diretas,35244065.25,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.2.90.00.00.00,3.2.90.00.00.00 - Aplicações Diretas,1153994,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.2.90.21.00.00,3.2.90.21.00.00 - Juros sobre a Dívida por Contrato,33680434.52,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.2.90.21.00.00,3.2.90.21.00.00 - Juros sobre a Dívida por Contrato,32678409.52,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.2.90.21.00.00,3.2.90.21.00.00 - Juros sobre a Dívida por Contrato,32678409.52,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.2.90.21.00.00,3.2.90.21.00.00 - Juros sobre a Dívida por Contrato,1002025,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.2.90.22.00.00,3.2.90.22.00.00 - Outros Encargos sobre a Dívida por Contrato,2717624.73,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.2.90.22.00.00,3.2.90.22.00.00 - Outros Encargos sobre a Dívida por Contrato,2565655.73,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.2.90.22.00.00,3.2.90.22.00.00 - Outros Encargos sobre a Dívida por Contrato,2565655.73,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.2.90.22.00.00,3.2.90.22.00.00 - Outros Encargos sobre a Dívida por Contrato,151969,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.00.00.00.00,3.3.00.00.00.00 - Outras Despesas Correntes,2496333227.89,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.00.00.00.00,3.3.00.00.00.00 - Outras Despesas Correntes,2416508696.87,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.00.00.00.00,3.3.00.00.00.00 - Outras Despesas Correntes,2395237615.51,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.00.00.00.00,3.3.00.00.00.00 - Outras Despesas Correntes,79824531.02,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.00.00.00.00,3.3.00.00.00.00 - Outras Despesas Correntes,21271081.36,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.30.00.00.00,3.3.30.00.00.00 - Transferências a Estados e ao Distrito Federal,1401.22,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.30.00.00.00,3.3.30.00.00.00 - Transferências a Estados e ao Distrito Federal,909.03,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.30.00.00.00,3.3.30.00.00.00 - Transferências a Estados e ao Distrito Federal,909.03,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.30.00.00.00,3.3.30.00.00.00 - Transferências a Estados e ao Distrito Federal,492.19,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.30.81.00.00,3.3.30.81.00.00 - Distribuição Constitucional ou Legal de Receitas,1401.22,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.30.81.00.00,3.3.30.81.00.00 - Distribuição Constitucional ou Legal de Receitas,909.03,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.30.81.00.00,3.3.30.81.00.00 - Distribuição Constitucional ou Legal de Receitas,909.03,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.30.81.00.00,3.3.30.81.00.00 - Distribuição Constitucional ou Legal de Receitas,492.19,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.50.00.00.00,3.3.50.00.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos,263506249.02,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.50.00.00.00,3.3.50.00.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos,263349354.8,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.50.00.00.00,3.3.50.00.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos,263113335.57,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.50.00.00.00,3.3.50.00.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos,156894.22,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.50.00.00.00,3.3.50.00.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos,236019.23,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.00.00.00,3.3.90.00.00.00 - Aplicações Diretas,2232442974.95,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.00.00.00,3.3.90.00.00.00 - Aplicações Diretas,2152775830.34,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.00.00.00,3.3.90.00.00.00 - Aplicações Diretas,2131740768.21,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.00.00.00,3.3.90.00.00.00 - Aplicações Diretas,79667144.61,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.00.00.00,3.3.90.00.00.00 - Aplicações Diretas,21035062.13,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.14.00.00,3.3.90.14.00.00 - Diárias - Civil,2087596.81,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.14.00.00,3.3.90.14.00.00 - Diárias - Civil,2044335.15,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.14.00.00,3.3.90.14.00.00 - Diárias - Civil,2037525.15,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.14.00.00,3.3.90.14.00.00 - Diárias - Civil,43261.66,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.14.00.00,3.3.90.14.00.00 - Diárias - Civil,6810,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.18.00.00,3.3.90.18.00.00 - Auxílio Financeiro a Estudantes,350005.1,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.18.00.00,3.3.90.18.00.00 - Auxílio Financeiro a Estudantes,350005.1,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.18.00.00,3.3.90.18.00.00 - Auxílio Financeiro a Estudantes,350005.1,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.30.00.00,3.3.90.30.00.00 - Material de Consumo,129352640.54,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.30.00.00,3.3.90.30.00.00 - Material de Consumo,107606226.65,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.30.00.00,3.3.90.30.00.00 - Material de Consumo,99193566.58,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.30.00.00,3.3.90.30.00.00 - Material de Consumo,21746413.89,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.30.00.00,3.3.90.30.00.00 - Material de Consumo,8412660.07,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.31.00.00,"3.3.90.31.00.00 - Premiações Culturais, Artísticas, Científicas, Desportivas e Outras",7364283.78,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.31.00.00,"3.3.90.31.00.00 - Premiações Culturais, Artísticas, Científicas, Desportivas e Outras",7364283.78,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.31.00.00,"3.3.90.31.00.00 - Premiações Culturais, Artísticas, Científicas, Desportivas e Outras",7214313.08,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.31.00.00,"3.3.90.31.00.00 - Premiações Culturais, Artísticas, Científicas, Desportivas e Outras",149970.7,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.32.00.00,"3.3.90.32.00.00 - Material, Bem ou Serviço para Distribuição Gratuita",23913743.83,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.32.00.00,"3.3.90.32.00.00 - Material, Bem ou Serviço para Distribuição Gratuita",18810594.99,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.32.00.00,"3.3.90.32.00.00 - Material, Bem ou Serviço para Distribuição Gratuita",14386842.5,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.32.00.00,"3.3.90.32.00.00 - Material, Bem ou Serviço para Distribuição Gratuita",5103148.84,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.32.00.00,"3.3.90.32.00.00 - Material, Bem ou Serviço para Distribuição Gratuita",4423752.49,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.33.00.00,3.3.90.33.00.00 - Passagens e Despesas com Locomoção,6200691.28,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.33.00.00,3.3.90.33.00.00 - Passagens e Despesas com Locomoção,6161389.03,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.33.00.00,3.3.90.33.00.00 - Passagens e Despesas com Locomoção,6160465.11,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.33.00.00,3.3.90.33.00.00 - Passagens e Despesas com Locomoção,39302.25,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.33.00.00,3.3.90.33.00.00 - Passagens e Despesas com Locomoção,923.92,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.34.00.00,3.3.90.34.00.00 - Outras Despesas de Pessoal decorrentes de Contratos de Terceirização,59817451.62,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.34.00.00,3.3.90.34.00.00 - Outras Despesas de Pessoal decorrentes de Contratos de Terceirização,55628829.72,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.34.00.00,3.3.90.34.00.00 - Outras Despesas de Pessoal decorrentes de Contratos de Terceirização,55628829.72,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.34.00.00,3.3.90.34.00.00 - Outras Despesas de Pessoal decorrentes de Contratos de Terceirização,4188621.9,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.35.00.00,3.3.90.35.00.00 - Serviços de Consultoria,1530760.97,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.35.00.00,3.3.90.35.00.00 - Serviços de Consultoria,858991.61,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.35.00.00,3.3.90.35.00.00 - Serviços de Consultoria,858991.61,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.35.00.00,3.3.90.35.00.00 - Serviços de Consultoria,671769.36,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.36.00.00,3.3.90.36.00.00 - Outros Serviços de Terceiros - Pessoa Física,66034349.76,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.36.00.00,3.3.90.36.00.00 - Outros Serviços de Terceiros - Pessoa Física,65807725.97,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.36.00.00,3.3.90.36.00.00 - Outros Serviços de Terceiros - Pessoa Física,65738907.37,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.36.00.00,3.3.90.36.00.00 - Outros Serviços de Terceiros - Pessoa Física,226623.79,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.36.00.00,3.3.90.36.00.00 - Outros Serviços de Terceiros - Pessoa Física,68818.6,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.37.00.00,3.3.90.37.00.00 - Locação de Mão-de-Obra,321515308.69,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.37.00.00,3.3.90.37.00.00 - Locação de Mão-de-Obra,316660397.04,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.37.00.00,3.3.90.37.00.00 - Locação de Mão-de-Obra,316477248.32,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.37.00.00,3.3.90.37.00.00 - Locação de Mão-de-Obra,4854911.65,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.37.00.00,3.3.90.37.00.00 - Locação de Mão-de-Obra,183148.72,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.39.00.00,3.3.90.39.00.00 - Outros Serviços de Terceiros - Pessoa Jurídica,1166049457.31,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.39.00.00,3.3.90.39.00.00 - Outros Serviços de Terceiros - Pessoa Jurídica,1132057137.26,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.39.00.00,3.3.90.39.00.00 - Outros Serviços de Terceiros - Pessoa Jurídica,1125568882.91,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.39.00.00,3.3.90.39.00.00 - Outros Serviços de Terceiros - Pessoa Jurídica,33992320.05,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.39.00.00,3.3.90.39.00.00 - Outros Serviços de Terceiros - Pessoa Jurídica,6488254.35,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.41.00.00,3.3.90.41.00.00 - Contribuições,997296.66,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.41.00.00,3.3.90.41.00.00 - Contribuições,917296.66,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.41.00.00,3.3.90.41.00.00 - Contribuições,917296.66,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.41.00.00,3.3.90.41.00.00 - Contribuições,80000,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.46.00.00,3.3.90.46.00.00 - Auxílio-Alimentação,27396049.21,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.46.00.00,3.3.90.46.00.00 - Auxílio-Alimentação,27396049.21,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.46.00.00,3.3.90.46.00.00 - Auxílio-Alimentação,27395889.21,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.46.00.00,3.3.90.46.00.00 - Auxílio-Alimentação,160,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.47.00.00,3.3.90.47.00.00 - Obrigações Tributárias e Contributivas,67939273.91,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.47.00.00,3.3.90.47.00.00 - Obrigações Tributárias e Contributivas,62778477.94,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.47.00.00,3.3.90.47.00.00 - Obrigações Tributárias e Contributivas,62736340.76,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.47.00.00,3.3.90.47.00.00 - Obrigações Tributárias e Contributivas,5160795.97,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.47.00.00,3.3.90.47.00.00 - Obrigações Tributárias e Contributivas,42137.18,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.48.00.00,3.3.90.48.00.00 - Outros Auxílios Financeiros a Pessoas Físicas,11496022.16,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.48.00.00,3.3.90.48.00.00 - Outros Auxílios Financeiros a Pessoas Físicas,11393122.16,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.48.00.00,3.3.90.48.00.00 - Outros Auxílios Financeiros a Pessoas Físicas,11393122.16,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.48.00.00,3.3.90.48.00.00 - Outros Auxílios Financeiros a Pessoas Físicas,102900,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.91.00.00,3.3.90.91.00.00 - Sentenças Judiciais,11694382.19,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.91.00.00,3.3.90.91.00.00 - Sentenças Judiciais,10698045.86,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.91.00.00,3.3.90.91.00.00 - Sentenças Judiciais,10027938.05,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.91.00.00,3.3.90.91.00.00 - Sentenças Judiciais,996336.33,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.91.00.00,3.3.90.91.00.00 - Sentenças Judiciais,670107.81,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.92.00.00,3.3.90.92.00.00 - Despesas de Exercícios Anteriores,321393661.77,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.92.00.00,3.3.90.92.00.00 - Despesas de Exercícios Anteriores,318949458.51,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.92.00.00,3.3.90.92.00.00 - Despesas de Exercícios Anteriores,318422237.1,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.92.00.00,3.3.90.92.00.00 - Despesas de Exercícios Anteriores,2444203.26,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.92.00.00,3.3.90.92.00.00 - Despesas de Exercícios Anteriores,527221.41,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.93.00.00,3.3.90.93.00.00 - Indenizações e Restituições,7309999.36,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.93.00.00,3.3.90.93.00.00 - Indenizações e Restituições,7293463.7,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.93.00.00,3.3.90.93.00.00 - Indenizações e Restituições,7232366.82,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.93.00.00,3.3.90.93.00.00 - Indenizações e Restituições,16535.66,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.93.00.00,3.3.90.93.00.00 - Indenizações e Restituições,61096.88,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.91.00.00.00,"3.3.91.00.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social",382602.7,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.91.00.00.00,"3.3.91.00.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social",382602.7,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.91.00.00.00,"3.3.91.00.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social",382602.7,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.0.00.00.00.00,4.0.00.00.00.00 - Despesas de Capital,486928295.59,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.0.00.00.00.00,4.0.00.00.00.00 - Despesas de Capital,412151768.41,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.0.00.00.00.00,4.0.00.00.00.00 - Despesas de Capital,403582912.69,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.0.00.00.00.00,4.0.00.00.00.00 - Despesas de Capital,74776527.18,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO4.0.00.00.00.00,4.0.00.00.00.00 - Despesas de Capital,8568855.72,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.00.00.00.00,4.4.00.00.00.00 - Investimentos,394111504.08,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.00.00.00.00,4.4.00.00.00.00 - Investimentos,321297776.9,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.00.00.00.00,4.4.00.00.00.00 - Investimentos,312728921.18,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.4.00.00.00.00,4.4.00.00.00.00 - Investimentos,72813727.18,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO4.4.00.00.00.00,4.4.00.00.00.00 - Investimentos,8568855.72,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.50.00.00.00,4.4.50.00.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos,3317866,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.50.00.00.00,4.4.50.00.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos,3313999.6,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.50.00.00.00,4.4.50.00.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos,3311499.6,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.4.50.00.00.00,4.4.50.00.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos,3866.4,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO4.4.50.00.00.00,4.4.50.00.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos,2500,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.60.00.00.00,4.4.60.00.00.00 - Transferências a Instituições Privadas com Fins Lucrativos,1760292.79,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.60.00.00.00,4.4.60.00.00.00 - Transferências a Instituições Privadas com Fins Lucrativos,1500830.54,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.60.00.00.00,4.4.60.00.00.00 - Transferências a Instituições Privadas com Fins Lucrativos,1500830.54,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.4.60.00.00.00,4.4.60.00.00.00 - Transferências a Instituições Privadas com Fins Lucrativos,259462.25,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.90.00.00.00,4.4.90.00.00.00 - Aplicações Diretas,388941997.04,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.90.00.00.00,4.4.90.00.00.00 - Aplicações Diretas,316391598.51,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.90.00.00.00,4.4.90.00.00.00 - Aplicações Diretas,307825242.79,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.4.90.00.00.00,4.4.90.00.00.00 - Aplicações Diretas,72550398.53,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO4.4.90.00.00.00,4.4.90.00.00.00 - Aplicações Diretas,8566355.72,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.90.14.00.00,4.4.90.14.00.00 - Diárias - Civil,9650,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.90.14.00.00,4.4.90.14.00.00 - Diárias - Civil,9650,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.90.14.00.00,4.4.90.14.00.00 - Diárias - Civil,8000,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO4.4.90.14.00.00,4.4.90.14.00.00 - Diárias - Civil,1650,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.90.30.00.00,4.4.90.30.00.00 - Material de Consumo,3444474.69,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.90.30.00.00,4.4.90.30.00.00 - Material de Consumo,3187402.39,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.90.30.00.00,4.4.90.30.00.00 - Material de Consumo,3096870.69,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.4.90.30.00.00,4.4.90.30.00.00 - Material de Consumo,257072.3,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO4.4.90.30.00.00,4.4.90.30.00.00 - Material de Consumo,90531.7,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.90.35.00.00,4.4.90.35.00.00 - Serviços de Consultoria,4928885.26,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.90.35.00.00,4.4.90.35.00.00 - Serviços de Consultoria,4532442.71,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.90.35.00.00,4.4.90.35.00.00 - Serviços de Consultoria,4311374.05,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.4.90.35.00.00,4.4.90.35.00.00 - Serviços de Consultoria,396442.55,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO4.4.90.35.00.00,4.4.90.35.00.00 - Serviços de Consultoria,221068.66,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.90.39.00.00,4.4.90.39.00.00 - Outros Serviços de Terceiros - Pessoa Jurídica,50934838.17,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.90.39.00.00,4.4.90.39.00.00 - Outros Serviços de Terceiros - Pessoa Jurídica,44064994.78,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.90.39.00.00,4.4.90.39.00.00 - Outros Serviços de Terceiros - Pessoa Jurídica,41899203.26,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.4.90.39.00.00,4.4.90.39.00.00 - Outros Serviços de Terceiros - Pessoa Jurídica,6869843.39,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO4.4.90.39.00.00,4.4.90.39.00.00 - Outros Serviços de Terceiros - Pessoa Jurídica,2165791.52,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.90.51.00.00,4.4.90.51.00.00 - Obras e Instalações,237703408.03,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.90.51.00.00,4.4.90.51.00.00 - Obras e Instalações,180908341.72,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.90.51.00.00,4.4.90.51.00.00 - Obras e Instalações,176396285.92,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.4.90.51.00.00,4.4.90.51.00.00 - Obras e Instalações,56795066.31,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO4.4.90.51.00.00,4.4.90.51.00.00 - Obras e Instalações,4512055.8,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.90.51.99.00,4.4.90.51.99.00 - Demais Obras e Instalações,237703408.03,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.90.51.99.00,4.4.90.51.99.00 - Demais Obras e Instalações,180908341.72,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.90.51.99.00,4.4.90.51.99.00 - Demais Obras e Instalações,176396285.92,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.4.90.51.99.00,4.4.90.51.99.00 - Demais Obras e Instalações,56795066.31,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO4.4.90.51.99.00,4.4.90.51.99.00 - Demais Obras e Instalações,4512055.8,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.90.52.00.00,4.4.90.52.00.00 - Equipamentos e Material Permanente,32770449.27,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.90.52.00.00,4.4.90.52.00.00 - Equipamentos e Material Permanente,26884189.04,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.90.52.00.00,4.4.90.52.00.00 - Equipamentos e Material Permanente,26004108.03,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.4.90.52.00.00,4.4.90.52.00.00 - Equipamentos e Material Permanente,5886260.23,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO4.4.90.52.00.00,4.4.90.52.00.00 - Equipamentos e Material Permanente,880081.01,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.90.61.00.00,4.4.90.61.00.00 - Aquisição de Imóveis,5550850,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.90.61.00.00,4.4.90.61.00.00 - Aquisição de Imóveis,5550850,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.90.61.00.00,4.4.90.61.00.00 - Aquisição de Imóveis,5550850,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.90.92.00.00,4.4.90.92.00.00 - Despesas de Exercícios Anteriores,38503050.19,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.90.92.00.00,4.4.90.92.00.00 - Despesas de Exercícios Anteriores,36184076.08,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.90.92.00.00,4.4.90.92.00.00 - Despesas de Exercícios Anteriores,35998902.05,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.4.90.92.00.00,4.4.90.92.00.00 - Despesas de Exercícios Anteriores,2318974.11,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO4.4.90.92.00.00,4.4.90.92.00.00 - Despesas de Exercícios Anteriores,185174.03,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.90.93.00.00,4.4.90.93.00.00 - Indenizações e Restituições,15096391.43,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.90.93.00.00,4.4.90.93.00.00 - Indenizações e Restituições,15069651.79,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.90.93.00.00,4.4.90.93.00.00 - Indenizações e Restituições,14559648.79,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.4.90.93.00.00,4.4.90.93.00.00 - Indenizações e Restituições,26739.64,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO4.4.90.93.00.00,4.4.90.93.00.00 - Indenizações e Restituições,510003,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DI4.4.91.00.00.00,"4.4.91.00.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social",91348.25,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DI4.4.91.00.00.00,"4.4.91.00.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social",91348.25,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DI4.4.91.00.00.00,"4.4.91.00.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social",91348.25,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.5.00.00.00.00,4.5.00.00.00.00 - Inversões Financeiras,75586.99,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.5.00.00.00.00,4.5.00.00.00.00 - Inversões Financeiras,75586.99,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.5.00.00.00.00,4.5.00.00.00.00 - Inversões Financeiras,75586.99,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.5.90.00.00.00,4.5.90.00.00.00 - Aplicações Diretas,75586.99,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.5.90.00.00.00,4.5.90.00.00.00 - Aplicações Diretas,75586.99,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.5.90.00.00.00,4.5.90.00.00.00 - Aplicações Diretas,75586.99,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.5.90.66.00.00,4.5.90.66.00.00 - Concessão de Empréstimos e Financiamentos,75586.99,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.5.90.66.00.00,4.5.90.66.00.00 - Concessão de Empréstimos e Financiamentos,75586.99,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.5.90.66.00.00,4.5.90.66.00.00 - Concessão de Empréstimos e Financiamentos,75586.99,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.6.00.00.00.00,4.6.00.00.00.00 - Amortização da Dívida,92741204.52,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.6.00.00.00.00,4.6.00.00.00.00 - Amortização da Dívida,90778404.52,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.6.00.00.00.00,4.6.00.00.00.00 - Amortização da Dívida,90778404.52,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.6.00.00.00.00,4.6.00.00.00.00 - Amortização da Dívida,1962800,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.6.90.00.00.00,4.6.90.00.00.00 - Aplicações Diretas,92741204.52,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.6.90.00.00.00,4.6.90.00.00.00 - Aplicações Diretas,90778404.52,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.6.90.00.00.00,4.6.90.00.00.00 - Aplicações Diretas,90778404.52,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.6.90.00.00.00,4.6.90.00.00.00 - Aplicações Diretas,1962800,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.6.90.71.00.00,4.6.90.71.00.00 - Principal da Dívida Contratual Resgatado,92741204.52,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.6.90.71.00.00,4.6.90.71.00.00 - Principal da Dívida Contratual Resgatado,90778404.52,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.6.90.71.00.00,4.6.90.71.00.00 - Principal da Dívida Contratual Resgatado,90778404.52,2609716
+2017,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.6.90.71.00.00,4.6.90.71.00.00 - Principal da Dívida Contratual Resgatado,1962800,2609716

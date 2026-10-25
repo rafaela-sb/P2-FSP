@@ -1,0 +1,321 @@
+exercicio,instituicao,cod_ibge,uf,anexo,rotulo,coluna,cod_conta,conta,valor,populacao
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,TotalDespesas,Total Geral da Despesa,9034193166.76,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,TotalDespesas,Total Geral da Despesa,8648435578.12,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,TotalDespesas,Total Geral da Despesa,8619113460.12,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,TotalDespesas,Total Geral da Despesa,385757588.64,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,TotalDespesas,Total Geral da Despesa,29322118,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.0.00.00.00.00,3.0.00.00.00 - Despesas Correntes,7902585070.41,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.0.00.00.00.00,3.0.00.00.00 - Despesas Correntes,7644952847.29,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.0.00.00.00.00,3.0.00.00.00 - Despesas Correntes,7622791861.66,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.0.00.00.00.00,3.0.00.00.00 - Despesas Correntes,257632223.12,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.0.00.00.00.00,3.0.00.00.00 - Despesas Correntes,22160985.63,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.00.00.00.00,3.1.00.00.00 - Pessoal e Encargos Sociais,4226650137.9,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.00.00.00.00,3.1.00.00.00 - Pessoal e Encargos Sociais,4223377052.92,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.00.00.00.00,3.1.00.00.00 - Pessoal e Encargos Sociais,4217355076.2,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.1.00.00.00.00,3.1.00.00.00 - Pessoal e Encargos Sociais,3273084.98,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.1.00.00.00.00,3.1.00.00.00 - Pessoal e Encargos Sociais,6021976.72,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.00.00.00,3.1.90.00.00 - Aplicações Diretas,3730104334.01,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.00.00.00,3.1.90.00.00 - Aplicações Diretas,3726831249.03,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.00.00.00,3.1.90.00.00 - Aplicações Diretas,3720809272.31,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.1.90.00.00.00,3.1.90.00.00 - Aplicações Diretas,3273084.98,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.1.90.00.00.00,3.1.90.00.00 - Aplicações Diretas,6021976.72,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.01.00.00,"3.1.90.01.00 - Aposentadorias do RPPS, Reserva Remunerada e Reformas dos Militares",867400056.56,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.01.00.00,"3.1.90.01.00 - Aposentadorias do RPPS, Reserva Remunerada e Reformas dos Militares",867400056.56,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.01.00.00,"3.1.90.01.00 - Aposentadorias do RPPS, Reserva Remunerada e Reformas dos Militares",867400056.56,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.03.00.00,3.1.90.03.00 - Pensões do RPPS e do Militar,127567855.91,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.03.00.00,3.1.90.03.00 - Pensões do RPPS e do Militar,127567855.91,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.03.00.00,3.1.90.03.00 - Pensões do RPPS e do Militar,127567855.91,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.04.00.00,3.1.90.04.00 - Contratação por Tempo Determinado,266808491.59,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.04.00.00,3.1.90.04.00 - Contratação por Tempo Determinado,266808491.59,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.04.00.00,3.1.90.04.00 - Contratação por Tempo Determinado,264351861.38,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.1.90.04.00.00,3.1.90.04.00 - Contratação por Tempo Determinado,2456630.21,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.05.00.00,3.1.90.05.00 - Outros Benefícios Previdenciários do Servidor ou do Militar,60584.76,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.05.00.00,3.1.90.05.00 - Outros Benefícios Previdenciários do Servidor ou do Militar,60584.76,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.05.00.00,3.1.90.05.00 - Outros Benefícios Previdenciários do Servidor ou do Militar,60584.76,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.11.00.00,3.1.90.11.00 - Vencimentos e Vantagens Fixas - Pessoal Civil,2315766247.76,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.11.00.00,3.1.90.11.00 - Vencimentos e Vantagens Fixas - Pessoal Civil,2315766247.76,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.11.00.00,3.1.90.11.00 - Vencimentos e Vantagens Fixas - Pessoal Civil,2315761017.9,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.1.90.11.00.00,3.1.90.11.00 - Vencimentos e Vantagens Fixas - Pessoal Civil,5229.86,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.13.00.00,3.1.90.13.00 - Obrigações Patronais,56490672.92,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.13.00.00,3.1.90.13.00 - Obrigações Patronais,56490672.92,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.13.00.00,3.1.90.13.00 - Obrigações Patronais,53431797.24,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.1.90.13.00.00,3.1.90.13.00 - Obrigações Patronais,3058875.68,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.13.02.00,3.1.90.13.02 - Contribuições Previdenciárias - INSS,56009392.53,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.13.02.00,3.1.90.13.02 - Contribuições Previdenciárias - INSS,56009392.53,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.13.02.00,3.1.90.13.02 - Contribuições Previdenciárias - INSS,52950516.85,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.1.90.13.02.00,3.1.90.13.02 - Contribuições Previdenciárias - INSS,3058875.68,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.13.99.00,3.1.90.13.99 - Outras Obrigações Patronais,481280.39,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.13.99.00,3.1.90.13.99 - Outras Obrigações Patronais,481280.39,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.13.99.00,3.1.90.13.99 - Outras Obrigações Patronais,481280.39,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.16.00.00,3.1.90.16.00 - Outras Despesas Variáveis - Pessoal Civil,1376496.65,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.16.00.00,3.1.90.16.00 - Outras Despesas Variáveis - Pessoal Civil,1376496.65,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.16.00.00,3.1.90.16.00 - Outras Despesas Variáveis - Pessoal Civil,1376496.65,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.91.00.00,3.1.90.91.00 - Sentenças Judiciais,56137811.83,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.91.00.00,3.1.90.91.00 - Sentenças Judiciais,56137811.83,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.91.00.00,3.1.90.91.00 - Sentenças Judiciais,55887875.46,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.1.90.91.00.00,3.1.90.91.00 - Sentenças Judiciais,249936.37,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.92.00.00,3.1.90.92.00 - Despesas de Exercícios Anteriores,6728868.34,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.92.00.00,3.1.90.92.00 - Despesas de Exercícios Anteriores,6696965.98,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.92.00.00,3.1.90.92.00 - Despesas de Exercícios Anteriores,6696965.98,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.1.90.92.00.00,3.1.90.92.00 - Despesas de Exercícios Anteriores,31902.36,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.94.00.00,3.1.90.94.00 - Indenizações e Restituições Trabalhistas,3065738.57,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.94.00.00,3.1.90.94.00 - Indenizações e Restituições Trabalhistas,3065738.57,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.94.00.00,3.1.90.94.00 - Indenizações e Restituições Trabalhistas,3065738.57,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.96.00.00,3.1.90.96.00 - Ressarcimento de Despesas de Pessoal Requisitado,28701509.12,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.96.00.00,3.1.90.96.00 - Ressarcimento de Despesas de Pessoal Requisitado,25460326.5,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.96.00.00,3.1.90.96.00 - Ressarcimento de Despesas de Pessoal Requisitado,25209021.9,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.1.90.96.00.00,3.1.90.96.00 - Ressarcimento de Despesas de Pessoal Requisitado,3241182.62,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.1.90.96.00.00,3.1.90.96.00 - Ressarcimento de Despesas de Pessoal Requisitado,251304.6,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DI3.1.91.00.00.00,"3.1.91.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social",496545803.89,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DI3.1.91.00.00.00,"3.1.91.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social",496545803.89,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DI3.1.91.00.00.00,"3.1.91.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social",496545803.89,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DI3.1.91.13.00.00,3.1.91.13.00 - Contribuições Patronais,479233860.57,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DI3.1.91.13.00.00,3.1.91.13.00 - Contribuições Patronais,479233860.57,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DI3.1.91.13.00.00,3.1.91.13.00 - Contribuições Patronais,479233860.57,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DI3.1.91.13.08.00,3.1.91.13.08 - Contribuições previdenciárias - RPPS - pessoal ativo - plano previdenciário,392765773.41,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DI3.1.91.13.08.00,3.1.91.13.08 - Contribuições previdenciárias - RPPS - pessoal ativo - plano previdenciário,392765773.41,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DI3.1.91.13.08.00,3.1.91.13.08 - Contribuições previdenciárias - RPPS - pessoal ativo - plano previdenciário,392765773.41,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DI3.1.91.13.99.00,3.1.91.13.99 - Outras Obrigações Patronais - Intraorçamentária,86468087.16,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DI3.1.91.13.99.00,3.1.91.13.99 - Outras Obrigações Patronais - Intraorçamentária,86468087.16,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DI3.1.91.13.99.00,3.1.91.13.99 - Outras Obrigações Patronais - Intraorçamentária,86468087.16,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DI3.1.91.91.00.00,3.1.91.91.00 - Sentenças Judiciais,1212263.81,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DI3.1.91.91.00.00,3.1.91.91.00 - Sentenças Judiciais,1212263.81,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DI3.1.91.91.00.00,3.1.91.91.00 - Sentenças Judiciais,1212263.81,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DI3.1.91.92.00.00,3.1.91.92.00 - Despesas de Exercícios Anteriores,15449511.06,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DI3.1.91.92.00.00,3.1.91.92.00 - Despesas de Exercícios Anteriores,15449511.06,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DI3.1.91.92.00.00,3.1.91.92.00 - Despesas de Exercícios Anteriores,15449511.06,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DI3.1.91.96.00.00,3.1.91.96.00 - Ressarcimento de Despesas de Pessoal Requisitado,650168.45,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DI3.1.91.96.00.00,3.1.91.96.00 - Ressarcimento de Despesas de Pessoal Requisitado,650168.45,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DI3.1.91.96.00.00,3.1.91.96.00 - Ressarcimento de Despesas de Pessoal Requisitado,650168.45,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.2.00.00.00.00,3.2.00.00.00 - Juros e Encargos da Dívida,64895946.64,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.2.00.00.00.00,3.2.00.00.00 - Juros e Encargos da Dívida,63892458.41,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.2.00.00.00.00,3.2.00.00.00 - Juros e Encargos da Dívida,63892458.41,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.2.00.00.00.00,3.2.00.00.00 - Juros e Encargos da Dívida,1003488.23,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.2.90.00.00.00,3.2.90.00.00 - Aplicações Diretas,64895946.64,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.2.90.00.00.00,3.2.90.00.00 - Aplicações Diretas,63892458.41,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.2.90.00.00.00,3.2.90.00.00 - Aplicações Diretas,63892458.41,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.2.90.00.00.00,3.2.90.00.00 - Aplicações Diretas,1003488.23,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.2.90.21.00.00,3.2.90.21.00 - Juros sobre a Dívida por Contrato,56919184.99,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.2.90.21.00.00,3.2.90.21.00 - Juros sobre a Dívida por Contrato,56213157.46,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.2.90.21.00.00,3.2.90.21.00 - Juros sobre a Dívida por Contrato,56213157.46,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.2.90.21.00.00,3.2.90.21.00 - Juros sobre a Dívida por Contrato,706027.53,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.2.90.22.00.00,3.2.90.22.00 - Outros Encargos sobre a Dívida por Contrato,7976761.65,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.2.90.22.00.00,3.2.90.22.00 - Outros Encargos sobre a Dívida por Contrato,7679300.95,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.2.90.22.00.00,3.2.90.22.00 - Outros Encargos sobre a Dívida por Contrato,7679300.95,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.2.90.22.00.00,3.2.90.22.00 - Outros Encargos sobre a Dívida por Contrato,297460.7,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.00.00.00.00,3.3.00.00.00 - Outras Despesas Correntes,3611038985.87,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.00.00.00.00,3.3.00.00.00 - Outras Despesas Correntes,3357683335.96,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.00.00.00.00,3.3.00.00.00 - Outras Despesas Correntes,3341544327.05,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.00.00.00.00,3.3.00.00.00 - Outras Despesas Correntes,253355649.91,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.00.00.00.00,3.3.00.00.00 - Outras Despesas Correntes,16139008.91,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.30.00.00.00,3.3.30.00.00 - Transferências a Estados e ao Distrito Federal,15000,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.30.00.00.00,3.3.30.00.00 - Transferências a Estados e ao Distrito Federal,10402.96,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.30.00.00.00,3.3.30.00.00 - Transferências a Estados e ao Distrito Federal,10402.96,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.30.00.00.00,3.3.30.00.00 - Transferências a Estados e ao Distrito Federal,4597.04,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.30.81.00.00,3.3.30.81.00 - Distribuição Constitucional ou Legal de Receitas,15000,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.30.81.00.00,3.3.30.81.00 - Distribuição Constitucional ou Legal de Receitas,10402.96,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.30.81.00.00,3.3.30.81.00 - Distribuição Constitucional ou Legal de Receitas,10402.96,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.30.81.00.00,3.3.30.81.00 - Distribuição Constitucional ou Legal de Receitas,4597.04,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.50.00.00.00,3.3.50.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos,852287827.77,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.50.00.00.00,3.3.50.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos,808500236.7,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.50.00.00.00,3.3.50.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos,806822512.84,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.50.00.00.00,3.3.50.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos,43787591.07,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.50.00.00.00,3.3.50.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos,1677723.86,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.60.00.00.00,3.3.60.00.00 - Transferências a Instituições Privadas com Fins Lucrativos,368838.29,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.60.00.00.00,3.3.60.00.00 - Transferências a Instituições Privadas com Fins Lucrativos,368838.29,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.60.00.00.00,3.3.60.00.00 - Transferências a Instituições Privadas com Fins Lucrativos,368838.29,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.00.00.00,3.3.90.00.00 - Aplicações Diretas,2739422074.55,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.00.00.00,3.3.90.00.00 - Aplicações Diretas,2529919613.6,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.00.00.00,3.3.90.00.00 - Aplicações Diretas,2515472725.77,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.00.00.00,3.3.90.00.00 - Aplicações Diretas,209502460.95,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.00.00.00,3.3.90.00.00 - Aplicações Diretas,14446887.83,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.08.00.00,3.3.90.08.00 - Outros Benefícios Assistenciais do servidor e do militar,673798.14,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.08.00.00,3.3.90.08.00 - Outros Benefícios Assistenciais do servidor e do militar,673798.14,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.08.00.00,3.3.90.08.00 - Outros Benefícios Assistenciais do servidor e do militar,673798.14,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.14.00.00,3.3.90.14.00 - Diárias - Civil,461525.32,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.14.00.00,3.3.90.14.00 - Diárias - Civil,461525.32,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.14.00.00,3.3.90.14.00 - Diárias - Civil,457125.32,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.14.00.00,3.3.90.14.00 - Diárias - Civil,4400,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.18.00.00,3.3.90.18.00 - Auxílio Financeiro a Estudantes,72400,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.18.00.00,3.3.90.18.00 - Auxílio Financeiro a Estudantes,72400,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.18.00.00,3.3.90.18.00 - Auxílio Financeiro a Estudantes,72400,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.20.00.00,3.3.90.20.00 - Auxílio Financeiro a Pesquisadores,310916.67,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.20.00.00,3.3.90.20.00 - Auxílio Financeiro a Pesquisadores,310916.67,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.20.00.00,3.3.90.20.00 - Auxílio Financeiro a Pesquisadores,310916.67,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.30.00.00,3.3.90.30.00 - Material de Consumo,244098050.5,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.30.00.00,3.3.90.30.00 - Material de Consumo,228527323.11,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.30.00.00,3.3.90.30.00 - Material de Consumo,225493403.17,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.30.00.00,3.3.90.30.00 - Material de Consumo,15570727.39,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.30.00.00,3.3.90.30.00 - Material de Consumo,3033919.94,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.31.00.00,"3.3.90.31.00 - Premiações Culturais, Artísticas, Científicas, Desportivas e Outras",3374999.04,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.31.00.00,"3.3.90.31.00 - Premiações Culturais, Artísticas, Científicas, Desportivas e Outras",2682613.04,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.31.00.00,"3.3.90.31.00 - Premiações Culturais, Artísticas, Científicas, Desportivas e Outras",2532642.34,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.31.00.00,"3.3.90.31.00 - Premiações Culturais, Artísticas, Científicas, Desportivas e Outras",692386,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.31.00.00,"3.3.90.31.00 - Premiações Culturais, Artísticas, Científicas, Desportivas e Outras",149970.7,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.32.00.00,"3.3.90.32.00 - Material, Bem ou Serviço para Distribuição Gratuita",49543424.69,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.32.00.00,"3.3.90.32.00 - Material, Bem ou Serviço para Distribuição Gratuita",47536722.98,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.32.00.00,"3.3.90.32.00 - Material, Bem ou Serviço para Distribuição Gratuita",47356756.98,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.32.00.00,"3.3.90.32.00 - Material, Bem ou Serviço para Distribuição Gratuita",2006701.71,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.32.00.00,"3.3.90.32.00 - Material, Bem ou Serviço para Distribuição Gratuita",179966,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.33.00.00,3.3.90.33.00 - Passagens e Despesas com Locomoção,5605980.09,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.33.00.00,3.3.90.33.00 - Passagens e Despesas com Locomoção,5577804.13,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.33.00.00,3.3.90.33.00 - Passagens e Despesas com Locomoção,5577804.13,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.33.00.00,3.3.90.33.00 - Passagens e Despesas com Locomoção,28175.96,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.34.00.00,3.3.90.34.00 - Outras Despesas de Pessoal decorrentes de Contratos de Terceirização,91062409.82,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.34.00.00,3.3.90.34.00 - Outras Despesas de Pessoal decorrentes de Contratos de Terceirização,81730787.39,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.34.00.00,3.3.90.34.00 - Outras Despesas de Pessoal decorrentes de Contratos de Terceirização,81730787.39,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.34.00.00,3.3.90.34.00 - Outras Despesas de Pessoal decorrentes de Contratos de Terceirização,9331622.43,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.35.00.00,3.3.90.35.00 - Serviços de Consultoria,6497379.12,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.35.00.00,3.3.90.35.00 - Serviços de Consultoria,5568861.82,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.35.00.00,3.3.90.35.00 - Serviços de Consultoria,5553861.82,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.35.00.00,3.3.90.35.00 - Serviços de Consultoria,928517.3,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.35.00.00,3.3.90.35.00 - Serviços de Consultoria,15000,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.36.00.00,3.3.90.36.00 - Outros Serviços de Terceiros - Pessoa Física,105992229.67,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.36.00.00,3.3.90.36.00 - Outros Serviços de Terceiros - Pessoa Física,103856855.59,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.36.00.00,3.3.90.36.00 - Outros Serviços de Terceiros - Pessoa Física,103756105.15,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.36.00.00,3.3.90.36.00 - Outros Serviços de Terceiros - Pessoa Física,2135374.08,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.36.00.00,3.3.90.36.00 - Outros Serviços de Terceiros - Pessoa Física,100750.44,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.37.00.00,3.3.90.37.00 - Locação de Mão-de-Obra,506243503.27,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.37.00.00,3.3.90.37.00 - Locação de Mão-de-Obra,458640970.61,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.37.00.00,3.3.90.37.00 - Locação de Mão-de-Obra,456283408.3,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.37.00.00,3.3.90.37.00 - Locação de Mão-de-Obra,47602532.66,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.37.00.00,3.3.90.37.00 - Locação de Mão-de-Obra,2357562.31,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.39.00.00,3.3.90.39.00 - Outros Serviços de Terceiros - Pessoa Jurídica,1432605417.23,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.39.00.00,3.3.90.39.00 - Outros Serviços de Terceiros - Pessoa Jurídica,1311521716.61,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.39.00.00,3.3.90.39.00 - Outros Serviços de Terceiros - Pessoa Jurídica,1304613445.16,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.39.00.00,3.3.90.39.00 - Outros Serviços de Terceiros - Pessoa Jurídica,121083700.62,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.39.00.00,3.3.90.39.00 - Outros Serviços de Terceiros - Pessoa Jurídica,6908271.45,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.40.00.00,3.3.90.40.00 - Serviços de Tecnologia da Informação e Comunicação (TIC) - Pessoa Jurídica,13768824.2,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.40.00.00,3.3.90.40.00 - Serviços de Tecnologia da Informação e Comunicação (TIC) - Pessoa Jurídica,12106707.26,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.40.00.00,3.3.90.40.00 - Serviços de Tecnologia da Informação e Comunicação (TIC) - Pessoa Jurídica,11737778.57,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.40.00.00,3.3.90.40.00 - Serviços de Tecnologia da Informação e Comunicação (TIC) - Pessoa Jurídica,1662116.94,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.40.00.00,3.3.90.40.00 - Serviços de Tecnologia da Informação e Comunicação (TIC) - Pessoa Jurídica,368928.69,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.41.00.00,3.3.90.41.00 - Contribuições,3102511.55,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.41.00.00,3.3.90.41.00 - Contribuições,3095490.94,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.41.00.00,3.3.90.41.00 - Contribuições,2999239.91,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.41.00.00,3.3.90.41.00 - Contribuições,7020.61,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.41.00.00,3.3.90.41.00 - Contribuições,96251.03,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.46.00.00,3.3.90.46.00 - Auxílio-Alimentação,35293346.26,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.46.00.00,3.3.90.46.00 - Auxílio-Alimentação,35293346.26,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.46.00.00,3.3.90.46.00 - Auxílio-Alimentação,35292969.26,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.46.00.00,3.3.90.46.00 - Auxílio-Alimentação,377,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.47.00.00,3.3.90.47.00 - Obrigações Tributárias e Contributivas,78776038.73,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.47.00.00,3.3.90.47.00 - Obrigações Tributárias e Contributivas,73178977.12,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.47.00.00,3.3.90.47.00 - Obrigações Tributárias e Contributivas,73120254.71,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.47.00.00,3.3.90.47.00 - Obrigações Tributárias e Contributivas,5597061.61,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.47.00.00,3.3.90.47.00 - Obrigações Tributárias e Contributivas,58722.41,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.48.00.00,3.3.90.48.00 - Outros Auxílios Financeiros a Pessoas Físicas,40335670.22,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.48.00.00,3.3.90.48.00 - Outros Auxílios Financeiros a Pessoas Físicas,40334170.22,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.48.00.00,3.3.90.48.00 - Outros Auxílios Financeiros a Pessoas Físicas,40334170.22,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.48.00.00,3.3.90.48.00 - Outros Auxílios Financeiros a Pessoas Físicas,1500,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.91.00.00,3.3.90.91.00 - Sentenças Judiciais,16071589.47,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.91.00.00,3.3.90.91.00 - Sentenças Judiciais,13798036.16,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.91.00.00,3.3.90.91.00 - Sentenças Judiciais,13712462.16,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.91.00.00,3.3.90.91.00 - Sentenças Judiciais,2273553.31,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.91.00.00,3.3.90.91.00 - Sentenças Judiciais,85574,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.92.00.00,3.3.90.92.00 - Despesas de Exercícios Anteriores,89273389.29,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.92.00.00,3.3.90.92.00 - Despesas de Exercícios Anteriores,89006085.98,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.92.00.00,3.3.90.92.00 - Despesas de Exercícios Anteriores,88999479.98,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.92.00.00,3.3.90.92.00 - Despesas de Exercícios Anteriores,267303.31,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.92.00.00,3.3.90.92.00 - Despesas de Exercícios Anteriores,6606,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.93.00.00,3.3.90.93.00 - Indenizações e Restituições,16258671.27,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.93.00.00,3.3.90.93.00 - Indenizações e Restituições,15944504.25,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.93.00.00,3.3.90.93.00 - Indenizações e Restituições,14863916.39,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.93.00.00,3.3.90.93.00 - Indenizações e Restituições,314167.02,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.93.00.00,3.3.90.93.00 - Indenizações e Restituições,1080587.86,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DI3.3.91.00.00.00,"3.3.91.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social",18945245.26,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DI3.3.91.00.00.00,"3.3.91.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social",18884244.41,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DI3.3.91.00.00.00,"3.3.91.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social",18869847.19,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DI3.3.91.00.00.00,"3.3.91.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social",61000.85,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DI3.3.91.00.00.00,"3.3.91.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social",14397.22,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.0.00.00.00.00,4.0.00.00.00 - Despesas de Capital,1131608096.35,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.0.00.00.00.00,4.0.00.00.00 - Despesas de Capital,1003482730.83,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.0.00.00.00.00,4.0.00.00.00 - Despesas de Capital,996321598.46,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.0.00.00.00.00,4.0.00.00.00 - Despesas de Capital,128125365.52,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO4.0.00.00.00.00,4.0.00.00.00 - Despesas de Capital,7161132.37,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.00.00.00.00,4.4.00.00.00 - Investimentos,1002061584.22,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.00.00.00.00,4.4.00.00.00 - Investimentos,874508936.55,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.00.00.00.00,4.4.00.00.00 - Investimentos,867347804.18,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.4.00.00.00.00,4.4.00.00.00 - Investimentos,127552647.67,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO4.4.00.00.00.00,4.4.00.00.00 - Investimentos,7161132.37,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.50.00.00.00,4.4.50.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos,7671722.52,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.50.00.00.00,4.4.50.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos,7600532.27,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.50.00.00.00,4.4.50.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos,7510053.99,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.4.50.00.00.00,4.4.50.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos,71190.25,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO4.4.50.00.00.00,4.4.50.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos,90478.28,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.90.00.00.00,4.4.90.00.00 - Aplicações Diretas,994389861.7,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.90.00.00.00,4.4.90.00.00 - Aplicações Diretas,866908404.28,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.90.00.00.00,4.4.90.00.00 - Aplicações Diretas,859837750.19,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.4.90.00.00.00,4.4.90.00.00 - Aplicações Diretas,127481457.42,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO4.4.90.00.00.00,4.4.90.00.00 - Aplicações Diretas,7070654.09,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.90.30.00.00,4.4.90.30.00 - Material de Consumo,691724.43,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.90.30.00.00,4.4.90.30.00 - Material de Consumo,691724.43,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.90.30.00.00,4.4.90.30.00 - Material de Consumo,691724.43,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.90.35.00.00,4.4.90.35.00 - Serviços de Consultoria,6299708.49,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.90.35.00.00,4.4.90.35.00 - Serviços de Consultoria,5436226.76,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.90.35.00.00,4.4.90.35.00 - Serviços de Consultoria,5436226.76,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.4.90.35.00.00,4.4.90.35.00 - Serviços de Consultoria,863481.73,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.90.39.00.00,4.4.90.39.00 - Outros Serviços de Terceiros - Pessoa Jurídica,241875701.19,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.90.39.00.00,4.4.90.39.00 - Outros Serviços de Terceiros - Pessoa Jurídica,224299675.92,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.90.39.00.00,4.4.90.39.00 - Outros Serviços de Terceiros - Pessoa Jurídica,224156794.21,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.4.90.39.00.00,4.4.90.39.00 - Outros Serviços de Terceiros - Pessoa Jurídica,17576025.27,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO4.4.90.39.00.00,4.4.90.39.00 - Outros Serviços de Terceiros - Pessoa Jurídica,142881.71,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.90.40.00.00,4.4.90.40.00 - Serviços de Tecnologia da Informação e Comunicação (TIC) - Pessoa Jurídica,18102678.33,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.90.40.00.00,4.4.90.40.00 - Serviços de Tecnologia da Informação e Comunicação (TIC) - Pessoa Jurídica,9722256.01,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.90.40.00.00,4.4.90.40.00 - Serviços de Tecnologia da Informação e Comunicação (TIC) - Pessoa Jurídica,9302979.26,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.4.90.40.00.00,4.4.90.40.00 - Serviços de Tecnologia da Informação e Comunicação (TIC) - Pessoa Jurídica,8380422.32,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO4.4.90.40.00.00,4.4.90.40.00 - Serviços de Tecnologia da Informação e Comunicação (TIC) - Pessoa Jurídica,419276.75,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.90.51.00.00,4.4.90.51.00 - Obras e Instalações,584390426.88,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.90.51.00.00,4.4.90.51.00 - Obras e Instalações,510325120.14,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.90.51.00.00,4.4.90.51.00 - Obras e Instalações,505753042.56,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.4.90.51.00.00,4.4.90.51.00 - Obras e Instalações,74065306.74,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO4.4.90.51.00.00,4.4.90.51.00 - Obras e Instalações,4572077.58,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.90.51.91.00,4.4.90.51.91 - Obras em Andamento,583045472.35,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.90.51.91.00,4.4.90.51.91 - Obras em Andamento,508980165.61,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.90.51.91.00,4.4.90.51.91 - Obras em Andamento,504565948.79,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.4.90.51.91.00,4.4.90.51.91 - Obras em Andamento,74065306.74,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO4.4.90.51.91.00,4.4.90.51.91 - Obras em Andamento,4414216.82,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.90.51.99.00,4.4.90.51.99 - Demais Obras e Instalações,1344954.53,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.90.51.99.00,4.4.90.51.99 - Demais Obras e Instalações,1344954.53,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.90.51.99.00,4.4.90.51.99 - Demais Obras e Instalações,1187093.77,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO4.4.90.51.99.00,4.4.90.51.99 - Demais Obras e Instalações,157860.76,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.90.52.00.00,4.4.90.52.00 - Equipamentos e Material Permanente,87125203.19,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.90.52.00.00,4.4.90.52.00 - Equipamentos e Material Permanente,61203225.84,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.90.52.00.00,4.4.90.52.00 - Equipamentos e Material Permanente,59372935.85,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.4.90.52.00.00,4.4.90.52.00 - Equipamentos e Material Permanente,25921977.35,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO4.4.90.52.00.00,4.4.90.52.00 - Equipamentos e Material Permanente,1830289.99,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.90.61.00.00,4.4.90.61.00 - Aquisição de Imóveis,11094534.81,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.90.61.00.00,4.4.90.61.00 - Aquisição de Imóveis,10784534.81,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.90.61.00.00,4.4.90.61.00 - Aquisição de Imóveis,10784534.81,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.4.90.61.00.00,4.4.90.61.00 - Aquisição de Imóveis,310000,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.90.92.00.00,4.4.90.92.00 - Despesas de Exercícios Anteriores,11652521.35,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.90.92.00.00,4.4.90.92.00 - Despesas de Exercícios Anteriores,11648600.41,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.90.92.00.00,4.4.90.92.00 - Despesas de Exercícios Anteriores,11582859.31,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.4.90.92.00.00,4.4.90.92.00 - Despesas de Exercícios Anteriores,3920.94,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO4.4.90.92.00.00,4.4.90.92.00 - Despesas de Exercícios Anteriores,65741.1,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.90.93.00.00,4.4.90.93.00 - Indenizações e Restituições,33157363.03,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.90.93.00.00,4.4.90.93.00 - Indenizações e Restituições,32797039.96,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.90.93.00.00,4.4.90.93.00 - Indenizações e Restituições,32756653,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.4.90.93.00.00,4.4.90.93.00 - Indenizações e Restituições,360323.07,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO4.4.90.93.00.00,4.4.90.93.00 - Indenizações e Restituições,40386.96,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.5.00.00.00.00,4.5.00.00.00 - Inversões Financeiras,773441.08,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.5.00.00.00.00,4.5.00.00.00 - Inversões Financeiras,773441.08,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.5.00.00.00.00,4.5.00.00.00 - Inversões Financeiras,773441.08,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.5.90.00.00.00,4.5.90.00.00 - Aplicações Diretas,773441.08,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.5.90.00.00.00,4.5.90.00.00 - Aplicações Diretas,773441.08,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.5.90.00.00.00,4.5.90.00.00 - Aplicações Diretas,773441.08,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.5.90.66.00.00,4.5.90.66.00 - Concessão de Empréstimos e Financiamentos,773441.08,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.5.90.66.00.00,4.5.90.66.00 - Concessão de Empréstimos e Financiamentos,773441.08,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.5.90.66.00.00,4.5.90.66.00 - Concessão de Empréstimos e Financiamentos,773441.08,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.6.00.00.00.00,4.6.00.00.00 - Amortização da Dívida,128773071.05,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.6.00.00.00.00,4.6.00.00.00 - Amortização da Dívida,128200353.2,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.6.00.00.00.00,4.6.00.00.00 - Amortização da Dívida,128200353.2,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.6.00.00.00.00,4.6.00.00.00 - Amortização da Dívida,572717.85,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.6.90.00.00.00,4.6.90.00.00 - Aplicações Diretas,128773071.05,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.6.90.00.00.00,4.6.90.00.00 - Aplicações Diretas,128200353.2,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.6.90.00.00.00,4.6.90.00.00 - Aplicações Diretas,128200353.2,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.6.90.00.00.00,4.6.90.00.00 - Aplicações Diretas,572717.85,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.6.90.71.00.00,4.6.90.71.00 - Principal da Dívida Contratual Resgatado,128773071.05,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.6.90.71.00.00,4.6.90.71.00 - Principal da Dívida Contratual Resgatado,128200353.2,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.6.90.71.00.00,4.6.90.71.00 - Principal da Dívida Contratual Resgatado,128200353.2,2669342
+2020,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.6.90.71.00.00,4.6.90.71.00 - Principal da Dívida Contratual Resgatado,572717.85,2669342

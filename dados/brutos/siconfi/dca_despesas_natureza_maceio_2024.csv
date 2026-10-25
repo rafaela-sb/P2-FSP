@@ -1,0 +1,311 @@
+exercicio,instituicao,cod_ibge,uf,anexo,rotulo,coluna,cod_conta,conta,valor,populacao
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Empenhadas,TotalDespesas,Total Geral da Despesa,5302309639.61,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Liquidadas,TotalDespesas,Total Geral da Despesa,4980588994.06,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Pagas,TotalDespesas,Total Geral da Despesa,4915939821,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,TotalDespesas,Total Geral da Despesa,321720645.55,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,TotalDespesas,Total Geral da Despesa,64649173.06,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.0.00.00.00.00,3.0.00.00.00 - Despesas Correntes,4334196860.75,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.0.00.00.00.00,3.0.00.00.00 - Despesas Correntes,4243422987.75,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.0.00.00.00.00,3.0.00.00.00 - Despesas Correntes,4192481641.77,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.0.00.00.00.00,3.0.00.00.00 - Despesas Correntes,90773873,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.0.00.00.00.00,3.0.00.00.00 - Despesas Correntes,50941345.98,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.00.00.00.00,3.1.00.00.00 - Pessoal e Encargos Sociais,2037370101.15,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.00.00.00.00,3.1.00.00.00 - Pessoal e Encargos Sociais,2035861384.91,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.00.00.00.00,3.1.00.00.00 - Pessoal e Encargos Sociais,2033595561.17,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.1.00.00.00.00,3.1.00.00.00 - Pessoal e Encargos Sociais,1508716.24,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.1.00.00.00.00,3.1.00.00.00 - Pessoal e Encargos Sociais,2265823.74,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.00.00.00,3.1.90.00.00 - Aplicações Diretas,1855434933.62,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.00.00.00,3.1.90.00.00 - Aplicações Diretas,1853985567.9,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.00.00.00,3.1.90.00.00 - Aplicações Diretas,1852740537.16,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.1.90.00.00.00,3.1.90.00.00 - Aplicações Diretas,1449365.72,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.1.90.00.00.00,3.1.90.00.00 - Aplicações Diretas,1245030.74,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.01.00.00,"3.1.90.01.00 - Aposentadorias do RPPS, Reserva Remunerada e Reformas dos Militares",407943107.27,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.01.00.00,"3.1.90.01.00 - Aposentadorias do RPPS, Reserva Remunerada e Reformas dos Militares",407943107.27,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.01.00.00,"3.1.90.01.00 - Aposentadorias do RPPS, Reserva Remunerada e Reformas dos Militares",407943107.27,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.03.00.00,3.1.90.03.00 - Pensões do RPPS e do Militar,78213124.14,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.03.00.00,3.1.90.03.00 - Pensões do RPPS e do Militar,78213124.14,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.03.00.00,3.1.90.03.00 - Pensões do RPPS e do Militar,78213124.14,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.04.00.00,3.1.90.04.00 - Contratação por Tempo Determinado,60241684.42,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.04.00.00,3.1.90.04.00 - Contratação por Tempo Determinado,60113684.42,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.04.00.00,3.1.90.04.00 - Contratação por Tempo Determinado,60113684.42,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.1.90.04.00.00,3.1.90.04.00 - Contratação por Tempo Determinado,128000,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.11.00.00,3.1.90.11.00 - Vencimentos e Vantagens Fixas - Pessoal Civil,1201901535.84,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.11.00.00,3.1.90.11.00 - Vencimentos e Vantagens Fixas - Pessoal Civil,1201521540.94,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.11.00.00,3.1.90.11.00 - Vencimentos e Vantagens Fixas - Pessoal Civil,1201511530.43,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.1.90.11.00.00,3.1.90.11.00 - Vencimentos e Vantagens Fixas - Pessoal Civil,379994.9,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.1.90.11.00.00,3.1.90.11.00 - Vencimentos e Vantagens Fixas - Pessoal Civil,10010.51,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.13.00.00,3.1.90.13.00 - Obrigações Patronais,73910509.23,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.13.00.00,3.1.90.13.00 - Obrigações Patronais,72982695.6,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.13.00.00,3.1.90.13.00 - Obrigações Patronais,71759514.39,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.1.90.13.00.00,3.1.90.13.00 - Obrigações Patronais,927813.63,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.1.90.13.00.00,3.1.90.13.00 - Obrigações Patronais,1223181.21,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.13.01.00,3.1.90.13.01 - FGTS,2176441.74,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.13.01.00,3.1.90.13.01 - FGTS,2176441.74,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.13.01.00,3.1.90.13.01 - FGTS,2176441.74,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.13.02.00,3.1.90.13.02 - Contribuições Previdenciárias - INSS,67590672.09,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.13.02.00,3.1.90.13.02 - Contribuições Previdenciárias - INSS,66667098.68,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.13.02.00,3.1.90.13.02 - Contribuições Previdenciárias - INSS,65472291.63,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.1.90.13.02.00,3.1.90.13.02 - Contribuições Previdenciárias - INSS,923573.41,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.1.90.13.02.00,3.1.90.13.02 - Contribuições Previdenciárias - INSS,1194807.05,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.13.07.00,3.1.90.13.07 - Contrato por Tempo Determinado,2685912.46,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.13.07.00,3.1.90.13.07 - Contrato por Tempo Determinado,2685642.43,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.13.07.00,3.1.90.13.07 - Contrato por Tempo Determinado,2685642.43,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.1.90.13.07.00,3.1.90.13.07 - Contrato por Tempo Determinado,270.03,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.13.08.00,3.1.90.13.08 - Contribuições Previdenciárias - RPPS - Pessoal Ativo,43278.35,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.13.08.00,3.1.90.13.08 - Contribuições Previdenciárias - RPPS - Pessoal Ativo,43278.35,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.13.08.00,3.1.90.13.08 - Contribuições Previdenciárias - RPPS - Pessoal Ativo,43278.35,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.13.18.00,3.1.90.13.18 - Contribuição para o PIS/PASEP s/ folha Pagto.,3896.64,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.13.18.00,3.1.90.13.18 - Contribuição para o PIS/PASEP s/ folha Pagto.,3896.64,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.13.18.00,3.1.90.13.18 - Contribuição para o PIS/PASEP s/ folha Pagto.,3896.64,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.13.40.00,3.1.90.13.40 - Encargos de pessoal requisitado de outros Entes,174826.75,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.13.40.00,3.1.90.13.40 - Encargos de pessoal requisitado de outros Entes,174826.75,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.13.40.00,3.1.90.13.40 - Encargos de pessoal requisitado de outros Entes,171717.59,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.1.90.13.40.00,3.1.90.13.40 - Encargos de pessoal requisitado de outros Entes,3109.16,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.13.99.00,3.1.90.13.99 - Outras Obrigações Patronais,1235481.2,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.13.99.00,3.1.90.13.99 - Outras Obrigações Patronais,1231511.01,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.13.99.00,3.1.90.13.99 - Outras Obrigações Patronais,1206246.01,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.1.90.13.99.00,3.1.90.13.99 - Outras Obrigações Patronais,3970.19,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.1.90.13.99.00,3.1.90.13.99 - Outras Obrigações Patronais,25265,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.16.00.00,3.1.90.16.00 - Outras Despesas Variáveis - Pessoal Civil,11692579.07,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.16.00.00,3.1.90.16.00 - Outras Despesas Variáveis - Pessoal Civil,11692579.07,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.16.00.00,3.1.90.16.00 - Outras Despesas Variáveis - Pessoal Civil,11692579.07,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.91.00.00,3.1.90.91.00 - Sentenças Judiciais,10437183.75,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.91.00.00,3.1.90.91.00 - Sentenças Judiciais,10437149.15,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.91.00.00,3.1.90.91.00 - Sentenças Judiciais,10437149.15,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.1.90.91.00.00,3.1.90.91.00 - Sentenças Judiciais,34.6,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.92.00.00,3.1.90.92.00 - Despesas de Exercícios Anteriores,6593607.75,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.92.00.00,3.1.90.92.00 - Despesas de Exercícios Anteriores,6590154.17,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.92.00.00,3.1.90.92.00 - Despesas de Exercícios Anteriores,6590154.17,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.1.90.92.00.00,3.1.90.92.00 - Despesas de Exercícios Anteriores,3453.58,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.94.00.00,3.1.90.94.00 - Indenizações e Restituições Trabalhistas,827615.51,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.94.00.00,3.1.90.94.00 - Indenizações e Restituições Trabalhistas,827615.51,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.94.00.00,3.1.90.94.00 - Indenizações e Restituições Trabalhistas,827615.51,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.96.00.00,3.1.90.96.00 - Ressarcimento de Despesas de Pessoal Requisitado,3673986.64,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.96.00.00,3.1.90.96.00 - Ressarcimento de Despesas de Pessoal Requisitado,3663917.63,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.96.00.00,3.1.90.96.00 - Ressarcimento de Despesas de Pessoal Requisitado,3652078.61,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.1.90.96.00.00,3.1.90.96.00 - Ressarcimento de Despesas de Pessoal Requisitado,10069.01,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.1.90.96.00.00,3.1.90.96.00 - Ressarcimento de Despesas de Pessoal Requisitado,11839.02,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DI3.1.91.00.00.00,"3.1.91.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social",181935167.53,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DI3.1.91.00.00.00,"3.1.91.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social",181875817.01,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Pagas,DI3.1.91.00.00.00,"3.1.91.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social",180855024.01,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DI3.1.91.00.00.00,"3.1.91.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social",59350.52,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DI3.1.91.00.00.00,"3.1.91.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social",1020793,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DI3.1.91.13.00.00,3.1.91.13.00 - Contribuições Patronais,179446846.58,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DI3.1.91.13.00.00,3.1.91.13.00 - Contribuições Patronais,179387496.06,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Pagas,DI3.1.91.13.00.00,3.1.91.13.00 - Contribuições Patronais,178366703.06,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DI3.1.91.13.00.00,3.1.91.13.00 - Contribuições Patronais,59350.52,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DI3.1.91.13.00.00,3.1.91.13.00 - Contribuições Patronais,1020793,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DI3.1.91.13.02.00,3.1.91.13.02 - Contribuições previdenciárias - INSS,141404.52,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DI3.1.91.13.02.00,3.1.91.13.02 - Contribuições previdenciárias - INSS,120658.62,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Pagas,DI3.1.91.13.02.00,3.1.91.13.02 - Contribuições previdenciárias - INSS,120658.62,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DI3.1.91.13.02.00,3.1.91.13.02 - Contribuições previdenciárias - INSS,20745.9,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DI3.1.91.13.08.00,3.1.91.13.08 - Contribuições previdenciárias - RPPS - pessoal ativo - plano previdenciário,91085339.54,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DI3.1.91.13.08.00,3.1.91.13.08 - Contribuições previdenciárias - RPPS - pessoal ativo - plano previdenciário,91069516.76,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Pagas,DI3.1.91.13.08.00,3.1.91.13.08 - Contribuições previdenciárias - RPPS - pessoal ativo - plano previdenciário,90134585.4,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DI3.1.91.13.08.00,3.1.91.13.08 - Contribuições previdenciárias - RPPS - pessoal ativo - plano previdenciário,15822.78,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DI3.1.91.13.08.00,3.1.91.13.08 - Contribuições previdenciárias - RPPS - pessoal ativo - plano previdenciário,934931.36,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DI3.1.91.13.10.00,3.1.91.13.10 - Contribuições previdenciárias - RPPS - pessoal inativo e pensionista - plano previdenciário,188.41,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DI3.1.91.13.10.00,3.1.91.13.10 - Contribuições previdenciárias - RPPS - pessoal inativo e pensionista - plano previdenciário,188.41,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Pagas,DI3.1.91.13.10.00,3.1.91.13.10 - Contribuições previdenciárias - RPPS - pessoal inativo e pensionista - plano previdenciário,188.41,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DI3.1.91.13.11.00,3.1.91.13.11 - Contribuições previdenciárias - RPPS - pessoal ativo - plano financeiro,86586003.43,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DI3.1.91.13.11.00,3.1.91.13.11 - Contribuições previdenciárias - RPPS - pessoal ativo - plano financeiro,86567767.84,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Pagas,DI3.1.91.13.11.00,3.1.91.13.11 - Contribuições previdenciárias - RPPS - pessoal ativo - plano financeiro,86486033.8,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DI3.1.91.13.11.00,3.1.91.13.11 - Contribuições previdenciárias - RPPS - pessoal ativo - plano financeiro,18235.59,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DI3.1.91.13.11.00,3.1.91.13.11 - Contribuições previdenciárias - RPPS - pessoal ativo - plano financeiro,81734.04,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DI3.1.91.13.12.00,3.1.91.13.12 - Contribuições previdenciárias - RPPS - pessoal inativo e pensionista - plano financeiro,130030.15,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DI3.1.91.13.12.00,3.1.91.13.12 - Contribuições previdenciárias - RPPS - pessoal inativo e pensionista - plano financeiro,130030.15,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Pagas,DI3.1.91.13.12.00,3.1.91.13.12 - Contribuições previdenciárias - RPPS - pessoal inativo e pensionista - plano financeiro,130030.15,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DI3.1.91.13.99.00,3.1.91.13.99 - Outras Obrigações Patronais - Intraorçamentária,1503880.53,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DI3.1.91.13.99.00,3.1.91.13.99 - Outras Obrigações Patronais - Intraorçamentária,1499334.28,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Pagas,DI3.1.91.13.99.00,3.1.91.13.99 - Outras Obrigações Patronais - Intraorçamentária,1495206.68,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DI3.1.91.13.99.00,3.1.91.13.99 - Outras Obrigações Patronais - Intraorçamentária,4546.25,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DI3.1.91.13.99.00,3.1.91.13.99 - Outras Obrigações Patronais - Intraorçamentária,4127.6,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DI3.1.91.92.00.00,3.1.91.92.00 - Despesas de Exercícios Anteriores,2488320.95,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DI3.1.91.92.00.00,3.1.91.92.00 - Despesas de Exercícios Anteriores,2488320.95,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Pagas,DI3.1.91.92.00.00,3.1.91.92.00 - Despesas de Exercícios Anteriores,2488320.95,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.2.00.00.00.00,3.2.00.00.00 - Juros e Encargos da Dívida,43573666.64,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.2.00.00.00.00,3.2.00.00.00 - Juros e Encargos da Dívida,43573666.64,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.2.00.00.00.00,3.2.00.00.00 - Juros e Encargos da Dívida,43573666.64,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.2.90.00.00.00,3.2.90.00.00 - Aplicações Diretas,39675435.44,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.2.90.00.00.00,3.2.90.00.00 - Aplicações Diretas,39675435.44,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.2.90.00.00.00,3.2.90.00.00 - Aplicações Diretas,39675435.44,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.2.90.21.00.00,3.2.90.21.00 - Juros sobre a Dívida por Contrato,38713108.39,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.2.90.21.00.00,3.2.90.21.00 - Juros sobre a Dívida por Contrato,38713108.39,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.2.90.21.00.00,3.2.90.21.00 - Juros sobre a Dívida por Contrato,38713108.39,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.2.90.22.00.00,3.2.90.22.00 - Outros Encargos sobre a Dívida por Contrato,323717.05,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.2.90.22.00.00,3.2.90.22.00 - Outros Encargos sobre a Dívida por Contrato,323717.05,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.2.90.22.00.00,3.2.90.22.00 - Outros Encargos sobre a Dívida por Contrato,323717.05,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.2.90.92.00.00,3.2.90.92.00 - Despesas de Exercícios Anteriores,638610,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.2.90.92.00.00,3.2.90.92.00 - Despesas de Exercícios Anteriores,638610,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.2.90.92.00.00,3.2.90.92.00 - Despesas de Exercícios Anteriores,638610,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DI3.2.91.00.00.00,"3.2.91.00.00 - Aplicação direta decorrente de operação entre Órgãos, fundos e entidades integrantes dos OFSS",3898231.2,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DI3.2.91.00.00.00,"3.2.91.00.00 - Aplicação direta decorrente de operação entre Órgãos, fundos e entidades integrantes dos OFSS",3898231.2,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Pagas,DI3.2.91.00.00.00,"3.2.91.00.00 - Aplicação direta decorrente de operação entre Órgãos, fundos e entidades integrantes dos OFSS",3898231.2,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.00.00.00.00,3.3.00.00.00 - Outras Despesas Correntes,2253253092.96,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.00.00.00.00,3.3.00.00.00 - Outras Despesas Correntes,2163987936.2,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.00.00.00.00,3.3.00.00.00 - Outras Despesas Correntes,2115312413.96,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.00.00.00.00,3.3.00.00.00 - Outras Despesas Correntes,89265156.76,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.00.00.00.00,3.3.00.00.00 - Outras Despesas Correntes,48675522.24,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.50.00.00.00,3.3.50.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos,501469850.85,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.50.00.00.00,3.3.50.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos,485894811.74,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.50.00.00.00,3.3.50.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos,473451640.1,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.50.00.00.00,3.3.50.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos,15575039.11,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.50.00.00.00,3.3.50.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos,12443171.64,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.60.00.00.00,3.3.60.00.00 - Transferências a Instituições Privadas com Fins Lucrativos,77302591.75,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.60.00.00.00,3.3.60.00.00 - Transferências a Instituições Privadas com Fins Lucrativos,77302591.75,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.60.00.00.00,3.3.60.00.00 - Transferências a Instituições Privadas com Fins Lucrativos,77302591.75,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.00.00.00,3.3.90.00.00 - Aplicações Diretas,1674480650.36,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.00.00.00,3.3.90.00.00 - Aplicações Diretas,1600790532.71,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.00.00.00,3.3.90.00.00 - Aplicações Diretas,1564558182.11,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.00.00.00,3.3.90.00.00 - Aplicações Diretas,73690117.65,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.00.00.00,3.3.90.00.00 - Aplicações Diretas,36232350.6,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.08.00.00,3.3.90.08.00 - Outros Benefícios Assistenciais do servidor e do militar,154761.03,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.08.00.00,3.3.90.08.00 - Outros Benefícios Assistenciais do servidor e do militar,154761.03,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.08.00.00,3.3.90.08.00 - Outros Benefícios Assistenciais do servidor e do militar,154761.03,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.14.00.00,3.3.90.14.00 - Diárias - Civil,2206047.64,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.14.00.00,3.3.90.14.00 - Diárias - Civil,2185517.32,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.14.00.00,3.3.90.14.00 - Diárias - Civil,2179329.91,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.14.00.00,3.3.90.14.00 - Diárias - Civil,20530.32,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.14.00.00,3.3.90.14.00 - Diárias - Civil,6187.41,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.30.00.00,3.3.90.30.00 - Material de Consumo,69361969.78,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.30.00.00,3.3.90.30.00 - Material de Consumo,63360132.44,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.30.00.00,3.3.90.30.00 - Material de Consumo,62510704.31,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.30.00.00,3.3.90.30.00 - Material de Consumo,6001837.34,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.30.00.00,3.3.90.30.00 - Material de Consumo,849428.13,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.31.00.00,"3.3.90.31.00 - Premiações Culturais, Artísticas, Científicas, Desportivas e Outras",11273789.56,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.31.00.00,"3.3.90.31.00 - Premiações Culturais, Artísticas, Científicas, Desportivas e Outras",7976025.58,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.31.00.00,"3.3.90.31.00 - Premiações Culturais, Artísticas, Científicas, Desportivas e Outras",7976025.58,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.31.00.00,"3.3.90.31.00 - Premiações Culturais, Artísticas, Científicas, Desportivas e Outras",3297763.98,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.32.00.00,"3.3.90.32.00 - Material, Bem ou Serviço para Distribuição Gratuita",29574525.46,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.32.00.00,"3.3.90.32.00 - Material, Bem ou Serviço para Distribuição Gratuita",25889123.04,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.32.00.00,"3.3.90.32.00 - Material, Bem ou Serviço para Distribuição Gratuita",25036329.32,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.32.00.00,"3.3.90.32.00 - Material, Bem ou Serviço para Distribuição Gratuita",3685402.42,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.32.00.00,"3.3.90.32.00 - Material, Bem ou Serviço para Distribuição Gratuita",852793.72,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.33.00.00,3.3.90.33.00 - Passagens e Despesas com Locomoção,4367285.28,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.33.00.00,3.3.90.33.00 - Passagens e Despesas com Locomoção,4169730.27,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.33.00.00,3.3.90.33.00 - Passagens e Despesas com Locomoção,4146836.48,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.33.00.00,3.3.90.33.00 - Passagens e Despesas com Locomoção,197555.01,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.33.00.00,3.3.90.33.00 - Passagens e Despesas com Locomoção,22893.79,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.35.00.00,3.3.90.35.00 - Serviços de Consultoria,8229155,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.35.00.00,3.3.90.35.00 - Serviços de Consultoria,6115085,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.35.00.00,3.3.90.35.00 - Serviços de Consultoria,6111018,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.35.00.00,3.3.90.35.00 - Serviços de Consultoria,2114070,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.35.00.00,3.3.90.35.00 - Serviços de Consultoria,4067,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.36.00.00,3.3.90.36.00 - Outros Serviços de Terceiros - Pessoa Física,33388147.78,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.36.00.00,3.3.90.36.00 - Outros Serviços de Terceiros - Pessoa Física,32821355.61,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.36.00.00,3.3.90.36.00 - Outros Serviços de Terceiros - Pessoa Física,32638376.23,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.36.00.00,3.3.90.36.00 - Outros Serviços de Terceiros - Pessoa Física,566792.17,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.36.00.00,3.3.90.36.00 - Outros Serviços de Terceiros - Pessoa Física,182979.38,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.37.00.00,3.3.90.37.00 - Locação de Mão-de-Obra,48440698.3,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.37.00.00,3.3.90.37.00 - Locação de Mão-de-Obra,43130999.13,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.37.00.00,3.3.90.37.00 - Locação de Mão-de-Obra,38694593.73,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.37.00.00,3.3.90.37.00 - Locação de Mão-de-Obra,5309699.17,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.37.00.00,3.3.90.37.00 - Locação de Mão-de-Obra,4436405.4,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.39.00.00,3.3.90.39.00 - Outros Serviços de Terceiros - Pessoa Jurídica,1242237682.48,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.39.00.00,3.3.90.39.00 - Outros Serviços de Terceiros - Pessoa Jurídica,1193249345.62,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.39.00.00,3.3.90.39.00 - Outros Serviços de Terceiros - Pessoa Jurídica,1164616702.38,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.39.00.00,3.3.90.39.00 - Outros Serviços de Terceiros - Pessoa Jurídica,48988336.86,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.39.00.00,3.3.90.39.00 - Outros Serviços de Terceiros - Pessoa Jurídica,28632643.24,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.40.00.00,3.3.90.40.00 - Serviços de Tecnologia da Informação e Comunicação - Pessoa Jurídica,23237534.01,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.40.00.00,3.3.90.40.00 - Serviços de Tecnologia da Informação e Comunicação - Pessoa Jurídica,20863849.16,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.40.00.00,3.3.90.40.00 - Serviços de Tecnologia da Informação e Comunicação - Pessoa Jurídica,20229940.95,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.40.00.00,3.3.90.40.00 - Serviços de Tecnologia da Informação e Comunicação - Pessoa Jurídica,2373684.85,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.40.00.00,3.3.90.40.00 - Serviços de Tecnologia da Informação e Comunicação - Pessoa Jurídica,633908.21,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.47.00.00,3.3.90.47.00 - Obrigações Tributárias e Contributivas,52133093.72,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.47.00.00,3.3.90.47.00 - Obrigações Tributárias e Contributivas,51858649.98,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.47.00.00,3.3.90.47.00 - Obrigações Tributárias e Contributivas,51713549.13,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.47.00.00,3.3.90.47.00 - Obrigações Tributárias e Contributivas,274443.74,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.47.00.00,3.3.90.47.00 - Obrigações Tributárias e Contributivas,145100.85,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.48.00.00,3.3.90.48.00 - Outros Auxílios Financeiros a Pessoas Físicas,12811142.88,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.48.00.00,3.3.90.48.00 - Outros Auxílios Financeiros a Pessoas Físicas,12811142.88,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.48.00.00,3.3.90.48.00 - Outros Auxílios Financeiros a Pessoas Físicas,12764642.88,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.48.00.00,3.3.90.48.00 - Outros Auxílios Financeiros a Pessoas Físicas,46500,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.91.00.00,3.3.90.91.00 - Sentenças Judiciais,35203563.07,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.91.00.00,3.3.90.91.00 - Sentenças Judiciais,34430029.85,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.91.00.00,3.3.90.91.00 - Sentenças Judiciais,34146942.54,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.91.00.00,3.3.90.91.00 - Sentenças Judiciais,773533.22,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.91.00.00,3.3.90.91.00 - Sentenças Judiciais,283087.31,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.92.00.00,3.3.90.92.00 - Despesas de Exercícios Anteriores,87251995.78,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.92.00.00,3.3.90.92.00 - Despesas de Exercícios Anteriores,87166022.89,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.92.00.00,3.3.90.92.00 - Despesas de Exercícios Anteriores,87150761.4,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.92.00.00,3.3.90.92.00 - Despesas de Exercícios Anteriores,85972.89,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.92.00.00,3.3.90.92.00 - Despesas de Exercícios Anteriores,15261.49,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.93.00.00,3.3.90.93.00 - Indenizações e Restituições,14609258.59,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.93.00.00,3.3.90.93.00 - Indenizações e Restituições,14608762.91,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.93.00.00,3.3.90.93.00 - Indenizações e Restituições,14487668.24,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.93.00.00,3.3.90.93.00 - Indenizações e Restituições,495.68,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.93.00.00,3.3.90.93.00 - Indenizações e Restituições,121094.67,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.0.00.00.00.00,4.0.00.00.00 - Despesas de Capital,968112778.86,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.0.00.00.00.00,4.0.00.00.00 - Despesas de Capital,737166006.31,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.0.00.00.00.00,4.0.00.00.00 - Despesas de Capital,723458179.23,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.0.00.00.00.00,4.0.00.00.00 - Despesas de Capital,230946772.55,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO4.0.00.00.00.00,4.0.00.00.00 - Despesas de Capital,13707827.08,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.00.00.00.00,4.4.00.00.00 - Investimentos,903857619.44,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.00.00.00.00,4.4.00.00.00 - Investimentos,672910846.89,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.00.00.00.00,4.4.00.00.00 - Investimentos,659203019.81,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.4.00.00.00.00,4.4.00.00.00 - Investimentos,230946772.55,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO4.4.00.00.00.00,4.4.00.00.00 - Investimentos,13707827.08,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.50.00.00.00,4.4.50.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos,44716557.38,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.50.00.00.00,4.4.50.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos,43599775.63,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.50.00.00.00,4.4.50.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos,43535620.97,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.4.50.00.00.00,4.4.50.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos,1116781.75,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO4.4.50.00.00.00,4.4.50.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos,64154.66,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.60.00.00.00,4.4.60.00.00 - Transferências a Instituições Privadas com Fins Lucrativos,7039156.57,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.60.00.00.00,4.4.60.00.00 - Transferências a Instituições Privadas com Fins Lucrativos,7039156.57,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.60.00.00.00,4.4.60.00.00 - Transferências a Instituições Privadas com Fins Lucrativos,7039156.57,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.90.00.00.00,4.4.90.00.00 - Aplicações Diretas,852101905.49,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.90.00.00.00,4.4.90.00.00 - Aplicações Diretas,622271914.69,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.90.00.00.00,4.4.90.00.00 - Aplicações Diretas,608628242.27,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.4.90.00.00.00,4.4.90.00.00 - Aplicações Diretas,229829990.8,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO4.4.90.00.00.00,4.4.90.00.00 - Aplicações Diretas,13643672.42,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.90.39.00.00,4.4.90.39.00 - Outros Serviços de Terceiros - Pessoa Jurídica,28466274.51,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.90.39.00.00,4.4.90.39.00 - Outros Serviços de Terceiros - Pessoa Jurídica,21931234.2,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.90.39.00.00,4.4.90.39.00 - Outros Serviços de Terceiros - Pessoa Jurídica,21931234.2,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.4.90.39.00.00,4.4.90.39.00 - Outros Serviços de Terceiros - Pessoa Jurídica,6535040.31,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.90.40.00.00,4.4.90.40.00 - Serviços de Tecnologia da Informação e Comunicação - Pessoa Jurídica,1745117.31,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.90.40.00.00,4.4.90.40.00 - Serviços de Tecnologia da Informação e Comunicação - Pessoa Jurídica,1745117.31,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.90.40.00.00,4.4.90.40.00 - Serviços de Tecnologia da Informação e Comunicação - Pessoa Jurídica,1745117.31,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.90.51.00.00,4.4.90.51.00 - Obras e Instalações,688872974.85,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.90.51.00.00,4.4.90.51.00 - Obras e Instalações,492750721.02,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.90.51.00.00,4.4.90.51.00 - Obras e Instalações,479660848.47,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.4.90.51.00.00,4.4.90.51.00 - Obras e Instalações,196122253.83,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO4.4.90.51.00.00,4.4.90.51.00 - Obras e Instalações,13089872.55,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.90.51.91.00,4.4.90.51.91 - Obras em Andamento,681863249.39,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.90.51.91.00,4.4.90.51.91 - Obras em Andamento,490972344.62,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.90.51.91.00,4.4.90.51.91 - Obras em Andamento,477882472.07,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.4.90.51.91.00,4.4.90.51.91 - Obras em Andamento,190890904.77,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO4.4.90.51.91.00,4.4.90.51.91 - Obras em Andamento,13089872.55,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.90.51.99.00,4.4.90.51.99 - Outras Obras e Instalações,7009725.46,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.90.51.99.00,4.4.90.51.99 - Outras Obras e Instalações,1778376.4,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.90.51.99.00,4.4.90.51.99 - Outras Obras e Instalações,1778376.4,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.4.90.51.99.00,4.4.90.51.99 - Outras Obras e Instalações,5231349.06,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.90.52.00.00,4.4.90.52.00 - Equipamentos e Material Permanente,52192225.53,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.90.52.00.00,4.4.90.52.00 - Equipamentos e Material Permanente,39360068.55,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.90.52.00.00,4.4.90.52.00 - Equipamentos e Material Permanente,38806268.68,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.4.90.52.00.00,4.4.90.52.00 - Equipamentos e Material Permanente,12832156.98,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO4.4.90.52.00.00,4.4.90.52.00 - Equipamentos e Material Permanente,553799.87,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.90.61.00.00,4.4.90.61.00 - Aquisição de Imóveis,13332731.3,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.90.61.00.00,4.4.90.61.00 - Aquisição de Imóveis,5272731.3,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.90.61.00.00,4.4.90.61.00 - Aquisição de Imóveis,5272731.3,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.4.90.61.00.00,4.4.90.61.00 - Aquisição de Imóveis,8060000,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.90.91.00.00,4.4.90.91.00 - Sentenças Judiciais,6244539.68,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.4.90.91.00.00,4.4.90.91.00 - Sentenças Judiciais,6244539.68,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.90.92.00.00,4.4.90.92.00 - Despesas de Exercícios Anteriores,81041.45,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.90.92.00.00,4.4.90.92.00 - Despesas de Exercícios Anteriores,81041.45,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.90.92.00.00,4.4.90.92.00 - Despesas de Exercícios Anteriores,81041.45,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.90.93.00.00,4.4.90.93.00 - Indenizações e Restituições,61167000.86,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.90.93.00.00,4.4.90.93.00 - Indenizações e Restituições,61131000.86,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.90.93.00.00,4.4.90.93.00 - Indenizações e Restituições,61131000.86,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.4.90.93.00.00,4.4.90.93.00 - Indenizações e Restituições,36000,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.6.00.00.00.00,4.6.00.00.00 - Amortização da Dívida,64255159.42,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.6.00.00.00.00,4.6.00.00.00 - Amortização da Dívida,64255159.42,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.6.00.00.00.00,4.6.00.00.00 - Amortização da Dívida,64255159.42,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.6.90.00.00.00,4.6.90.00.00 - Aplicações Diretas,32937563.4,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.6.90.00.00.00,4.6.90.00.00 - Aplicações Diretas,32937563.4,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.6.90.00.00.00,4.6.90.00.00 - Aplicações Diretas,32937563.4,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.6.90.71.00.00,4.6.90.71.00 - Principal da Dívida Contratual Resgatado,32937563.4,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.6.90.71.00.00,4.6.90.71.00 - Principal da Dívida Contratual Resgatado,32937563.4,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.6.90.71.00.00,4.6.90.71.00 - Principal da Dívida Contratual Resgatado,32937563.4,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DI4.6.91.00.00.00,"4.6.91.00.00 - Aplicação direta decorrente de operação entre órgãos, fundos e entidades integrantes dos OFSS",31317596.02,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DI4.6.91.00.00.00,"4.6.91.00.00 - Aplicação direta decorrente de operação entre órgãos, fundos e entidades integrantes dos OFSS",31317596.02,960667
+2024,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-D,Padrão,Despesas Pagas,DI4.6.91.00.00.00,"4.6.91.00.00 - Aplicação direta decorrente de operação entre órgãos, fundos e entidades integrantes dos OFSS",31317596.02,960667

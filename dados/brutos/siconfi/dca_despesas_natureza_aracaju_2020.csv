@@ -1,0 +1,257 @@
+exercicio,instituicao,cod_ibge,uf,anexo,rotulo,coluna,cod_conta,conta,valor,populacao
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,TotalDespesas,Total Geral da Despesa,2190466736.47,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,TotalDespesas,Total Geral da Despesa,2148494307.66,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Pagas,TotalDespesas,Total Geral da Despesa,2129073468.22,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,TotalDespesas,Total Geral da Despesa,41972428.81,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,TotalDespesas,Total Geral da Despesa,19420839.44,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.0.00.00.00.00,3.0.00.00.00 - Despesas Correntes,1990656980.63,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.0.00.00.00.00,3.0.00.00.00 - Despesas Correntes,1950386780.99,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.0.00.00.00.00,3.0.00.00.00 - Despesas Correntes,1933847168.36,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.0.00.00.00.00,3.0.00.00.00 - Despesas Correntes,40270199.64,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.0.00.00.00.00,3.0.00.00.00 - Despesas Correntes,16539612.63,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.00.00.00.00,3.1.00.00.00 - Pessoal e Encargos Sociais,1174788973.84,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.00.00.00.00,3.1.00.00.00 - Pessoal e Encargos Sociais,1161755138.07,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.00.00.00.00,3.1.00.00.00 - Pessoal e Encargos Sociais,1159075150.67,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.1.00.00.00.00,3.1.00.00.00 - Pessoal e Encargos Sociais,13033835.77,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.1.00.00.00.00,3.1.00.00.00 - Pessoal e Encargos Sociais,2679987.4,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.00.00.00,3.1.90.00.00 - Aplicações Diretas,921585696.14,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.00.00.00,3.1.90.00.00 - Aplicações Diretas,921571860.37,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.00.00.00,3.1.90.00.00 - Aplicações Diretas,919539980.87,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.1.90.00.00.00,3.1.90.00.00 - Aplicações Diretas,13835.77,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.1.90.00.00.00,3.1.90.00.00 - Aplicações Diretas,2031879.5,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.01.00.00,"3.1.90.01.00 - Aposentadorias do RPPS, Reserva Remunerada e Reformas dos Militares",283206039.92,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.01.00.00,"3.1.90.01.00 - Aposentadorias do RPPS, Reserva Remunerada e Reformas dos Militares",283206039.92,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.01.00.00,"3.1.90.01.00 - Aposentadorias do RPPS, Reserva Remunerada e Reformas dos Militares",283206039.92,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.03.00.00,3.1.90.03.00 - Pensões do RPPS e do Militar,25495338.19,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.03.00.00,3.1.90.03.00 - Pensões do RPPS e do Militar,25495338.19,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.03.00.00,3.1.90.03.00 - Pensões do RPPS e do Militar,25495338.19,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.04.00.00,3.1.90.04.00 - Contratação por Tempo Determinado,40610012.55,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.04.00.00,3.1.90.04.00 - Contratação por Tempo Determinado,40610012.55,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.04.00.00,3.1.90.04.00 - Contratação por Tempo Determinado,40438760.81,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.1.90.04.00.00,3.1.90.04.00 - Contratação por Tempo Determinado,171251.74,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.11.00.00,3.1.90.11.00 - Vencimentos e Vantagens Fixas - Pessoal Civil,496132579.52,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.11.00.00,3.1.90.11.00 - Vencimentos e Vantagens Fixas - Pessoal Civil,496132579.52,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.11.00.00,3.1.90.11.00 - Vencimentos e Vantagens Fixas - Pessoal Civil,496132579.52,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.13.00.00,3.1.90.13.00 - Obrigações Patronais,40753419.13,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.13.00.00,3.1.90.13.00 - Obrigações Patronais,40753419.13,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.13.00.00,3.1.90.13.00 - Obrigações Patronais,38969383.21,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.1.90.13.00.00,3.1.90.13.00 - Obrigações Patronais,1784035.92,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.13.99.00,3.1.90.13.99 - Outras Obrigações Patronais,40753419.13,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.13.99.00,3.1.90.13.99 - Outras Obrigações Patronais,40753419.13,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.13.99.00,3.1.90.13.99 - Outras Obrigações Patronais,38969383.21,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.1.90.13.99.00,3.1.90.13.99 - Outras Obrigações Patronais,1784035.92,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.16.00.00,3.1.90.16.00 - Outras Despesas Variáveis - Pessoal Civil,7834964.89,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.16.00.00,3.1.90.16.00 - Outras Despesas Variáveis - Pessoal Civil,7834964.89,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.16.00.00,3.1.90.16.00 - Outras Despesas Variáveis - Pessoal Civil,7834964.89,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.91.00.00,3.1.90.91.00 - Sentenças Judiciais,5886591.53,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.91.00.00,3.1.90.91.00 - Sentenças Judiciais,5886591.53,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.91.00.00,3.1.90.91.00 - Sentenças Judiciais,5886591.53,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.92.00.00,3.1.90.92.00 - Despesas de Exercícios Anteriores,479760.55,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.92.00.00,3.1.90.92.00 - Despesas de Exercícios Anteriores,479760.55,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.92.00.00,3.1.90.92.00 - Despesas de Exercícios Anteriores,479760.55,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.94.00.00,3.1.90.94.00 - Indenizações e Restituições Trabalhistas,16672828.61,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.94.00.00,3.1.90.94.00 - Indenizações e Restituições Trabalhistas,16672828.61,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.94.00.00,3.1.90.94.00 - Indenizações e Restituições Trabalhistas,16672828.61,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.96.00.00,3.1.90.96.00 - Ressarcimento de Despesas de Pessoal Requisitado,2527180.37,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.96.00.00,3.1.90.96.00 - Ressarcimento de Despesas de Pessoal Requisitado,2513344.6,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.96.00.00,3.1.90.96.00 - Ressarcimento de Despesas de Pessoal Requisitado,2438576.76,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.1.90.96.00.00,3.1.90.96.00 - Ressarcimento de Despesas de Pessoal Requisitado,13835.77,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.1.90.96.00.00,3.1.90.96.00 - Ressarcimento de Despesas de Pessoal Requisitado,74767.84,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.99.00.00,3.1.90.99.00 - A Classificar,1986980.88,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.99.00.00,3.1.90.99.00 - A Classificar,1986980.88,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.99.00.00,3.1.90.99.00 - A Classificar,1985156.88,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.1.90.99.00.00,3.1.90.99.00 - A Classificar,1824,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DI3.1.91.00.00.00,"3.1.91.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social",253203277.7,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DI3.1.91.00.00.00,"3.1.91.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social",240183277.7,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Pagas,DI3.1.91.00.00.00,"3.1.91.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social",239535169.8,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DI3.1.91.00.00.00,"3.1.91.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social",13020000,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DI3.1.91.00.00.00,"3.1.91.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social",648107.9,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DI3.1.91.13.00.00,3.1.91.13.00 - Contribuições Patronais,253191637.03,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DI3.1.91.13.00.00,3.1.91.13.00 - Contribuições Patronais,240171637.03,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Pagas,DI3.1.91.13.00.00,3.1.91.13.00 - Contribuições Patronais,239523529.13,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DI3.1.91.13.00.00,3.1.91.13.00 - Contribuições Patronais,13020000,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DI3.1.91.13.00.00,3.1.91.13.00 - Contribuições Patronais,648107.9,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DI3.1.91.13.99.00,3.1.91.13.99 - Outras Obrigações Patronais - Intraorçamentária,253191637.03,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DI3.1.91.13.99.00,3.1.91.13.99 - Outras Obrigações Patronais - Intraorçamentária,240171637.03,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Pagas,DI3.1.91.13.99.00,3.1.91.13.99 - Outras Obrigações Patronais - Intraorçamentária,239523529.13,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DI3.1.91.13.99.00,3.1.91.13.99 - Outras Obrigações Patronais - Intraorçamentária,13020000,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DI3.1.91.13.99.00,3.1.91.13.99 - Outras Obrigações Patronais - Intraorçamentária,648107.9,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DI3.1.91.92.00.00,3.1.91.92.00 - Despesas de Exercícios Anteriores,11640.67,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DI3.1.91.92.00.00,3.1.91.92.00 - Despesas de Exercícios Anteriores,11640.67,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Pagas,DI3.1.91.92.00.00,3.1.91.92.00 - Despesas de Exercícios Anteriores,11640.67,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.2.00.00.00.00,3.2.00.00.00 - Juros e Encargos da Dívida,7993904.91,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.2.00.00.00.00,3.2.00.00.00 - Juros e Encargos da Dívida,7993904.91,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.2.00.00.00.00,3.2.00.00.00 - Juros e Encargos da Dívida,7993904.91,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.2.90.00.00.00,3.2.90.00.00 - Aplicações Diretas,7924038.61,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.2.90.00.00.00,3.2.90.00.00 - Aplicações Diretas,7924038.61,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.2.90.00.00.00,3.2.90.00.00 - Aplicações Diretas,7924038.61,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.2.90.21.00.00,3.2.90.21.00 - Juros sobre a Dívida por Contrato,5830006,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.2.90.21.00.00,3.2.90.21.00 - Juros sobre a Dívida por Contrato,5830006,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.2.90.21.00.00,3.2.90.21.00 - Juros sobre a Dívida por Contrato,5830006,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.2.90.22.00.00,3.2.90.22.00 - Outros Encargos sobre a Dívida por Contrato,2094032.61,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.2.90.22.00.00,3.2.90.22.00 - Outros Encargos sobre a Dívida por Contrato,2094032.61,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.2.90.22.00.00,3.2.90.22.00 - Outros Encargos sobre a Dívida por Contrato,2094032.61,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.2.96.00.00.00,"3.2.96.00.00 - Aplicação Direta à conta de recursos de que trata o art. 25 da Lei Complementar no 141, de 2012",69866.3,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.2.96.00.00.00,"3.2.96.00.00 - Aplicação Direta à conta de recursos de que trata o art. 25 da Lei Complementar no 141, de 2012",69866.3,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.2.96.00.00.00,"3.2.96.00.00 - Aplicação Direta à conta de recursos de que trata o art. 25 da Lei Complementar no 141, de 2012",69866.3,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.00.00.00.00,3.3.00.00.00 - Outras Despesas Correntes,807874101.88,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.00.00.00.00,3.3.00.00.00 - Outras Despesas Correntes,780637738.01,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.00.00.00.00,3.3.00.00.00 - Outras Despesas Correntes,766778112.78,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.00.00.00.00,3.3.00.00.00 - Outras Despesas Correntes,27236363.87,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.00.00.00.00,3.3.00.00.00 - Outras Despesas Correntes,13859625.23,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.30.00.00.00,3.3.30.00.00 - Transferências a Estados e ao Distrito Federal,204000,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.30.00.00.00,3.3.30.00.00 - Transferências a Estados e ao Distrito Federal,204000,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.30.00.00.00,3.3.30.00.00 - Transferências a Estados e ao Distrito Federal,166000,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.30.00.00.00,3.3.30.00.00 - Transferências a Estados e ao Distrito Federal,38000,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.30.41.00.00,3.3.30.41.00 - Contribuições,204000,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.30.41.00.00,3.3.30.41.00 - Contribuições,204000,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.30.41.00.00,3.3.30.41.00 - Contribuições,166000,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.30.41.00.00,3.3.30.41.00 - Contribuições,38000,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.50.00.00.00,3.3.50.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos,1086000,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.50.00.00.00,3.3.50.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos,1086000,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.50.00.00.00,3.3.50.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos,1086000,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.00.00.00,3.3.90.00.00 - Aplicações Diretas,739566298.26,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.00.00.00,3.3.90.00.00 - Aplicações Diretas,712329934.39,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.00.00.00,3.3.90.00.00 - Aplicações Diretas,698508309.16,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.00.00.00,3.3.90.00.00 - Aplicações Diretas,27236363.87,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.00.00.00,3.3.90.00.00 - Aplicações Diretas,13821625.23,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.08.00.00,3.3.90.08.00 - Outros Benefícios Assistenciais do servidor e do militar,11375.6,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.08.00.00,3.3.90.08.00 - Outros Benefícios Assistenciais do servidor e do militar,11375.6,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.08.00.00,3.3.90.08.00 - Outros Benefícios Assistenciais do servidor e do militar,11375.6,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.14.00.00,3.3.90.14.00 - Diárias - Civil,131685.95,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.14.00.00,3.3.90.14.00 - Diárias - Civil,131685.95,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.14.00.00,3.3.90.14.00 - Diárias - Civil,131685.95,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.19.00.00,3.3.90.19.00 - Auxílio-Fardamento,362859.99,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.19.00.00,3.3.90.19.00 - Auxílio-Fardamento,362859.99,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.19.00.00,3.3.90.19.00 - Auxílio-Fardamento,362859.99,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.30.00.00,3.3.90.30.00 - Material de Consumo,51266928.27,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.30.00.00,3.3.90.30.00 - Material de Consumo,50161056.02,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.30.00.00,3.3.90.30.00 - Material de Consumo,49152079.27,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.30.00.00,3.3.90.30.00 - Material de Consumo,1105872.25,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.30.00.00,3.3.90.30.00 - Material de Consumo,1008976.75,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.31.00.00,"3.3.90.31.00 - Premiações Culturais, Artísticas, Científicas, Desportivas e Outras",4072039.85,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.31.00.00,"3.3.90.31.00 - Premiações Culturais, Artísticas, Científicas, Desportivas e Outras",4055539.85,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.31.00.00,"3.3.90.31.00 - Premiações Culturais, Artísticas, Científicas, Desportivas e Outras",2250439.65,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.31.00.00,"3.3.90.31.00 - Premiações Culturais, Artísticas, Científicas, Desportivas e Outras",16500,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.31.00.00,"3.3.90.31.00 - Premiações Culturais, Artísticas, Científicas, Desportivas e Outras",1805100.2,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.32.00.00,"3.3.90.32.00 - Material, Bem ou Serviço para Distribuição Gratuita",839960.05,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.32.00.00,"3.3.90.32.00 - Material, Bem ou Serviço para Distribuição Gratuita",839960.05,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.32.00.00,"3.3.90.32.00 - Material, Bem ou Serviço para Distribuição Gratuita",806699.11,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.32.00.00,"3.3.90.32.00 - Material, Bem ou Serviço para Distribuição Gratuita",33260.94,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.33.00.00,3.3.90.33.00 - Passagens e Despesas com Locomoção,6677226.34,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.33.00.00,3.3.90.33.00 - Passagens e Despesas com Locomoção,6439762.61,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.33.00.00,3.3.90.33.00 - Passagens e Despesas com Locomoção,6176602.79,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.33.00.00,3.3.90.33.00 - Passagens e Despesas com Locomoção,237463.73,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.33.00.00,3.3.90.33.00 - Passagens e Despesas com Locomoção,263159.82,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.35.00.00,3.3.90.35.00 - Serviços de Consultoria,507624.07,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.35.00.00,3.3.90.35.00 - Serviços de Consultoria,484957.07,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.35.00.00,3.3.90.35.00 - Serviços de Consultoria,439939.07,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.35.00.00,3.3.90.35.00 - Serviços de Consultoria,22667,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.35.00.00,3.3.90.35.00 - Serviços de Consultoria,45018,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.36.00.00,3.3.90.36.00 - Outros Serviços de Terceiros - Pessoa Física,16761199.74,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.36.00.00,3.3.90.36.00 - Outros Serviços de Terceiros - Pessoa Física,15278051.37,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.36.00.00,3.3.90.36.00 - Outros Serviços de Terceiros - Pessoa Física,15221388.33,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.36.00.00,3.3.90.36.00 - Outros Serviços de Terceiros - Pessoa Física,1483148.37,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.36.00.00,3.3.90.36.00 - Outros Serviços de Terceiros - Pessoa Física,56663.04,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.37.00.00,3.3.90.37.00 - Locação de Mão-de-Obra,306927.94,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.37.00.00,3.3.90.37.00 - Locação de Mão-de-Obra,273623.79,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.37.00.00,3.3.90.37.00 - Locação de Mão-de-Obra,273623.79,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.37.00.00,3.3.90.37.00 - Locação de Mão-de-Obra,33304.15,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.39.00.00,3.3.90.39.00 - Outros Serviços de Terceiros - Pessoa Jurídica,507515480.94,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.39.00.00,3.3.90.39.00 - Outros Serviços de Terceiros - Pessoa Jurídica,483219528.54,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.39.00.00,3.3.90.39.00 - Outros Serviços de Terceiros - Pessoa Jurídica,474587270.33,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.39.00.00,3.3.90.39.00 - Outros Serviços de Terceiros - Pessoa Jurídica,24295952.4,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.39.00.00,3.3.90.39.00 - Outros Serviços de Terceiros - Pessoa Jurídica,8632258.21,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.41.00.00,3.3.90.41.00 - Contribuições,1163456.05,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.41.00.00,3.3.90.41.00 - Contribuições,1163456.05,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.41.00.00,3.3.90.41.00 - Contribuições,1163456.05,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.46.00.00,3.3.90.46.00 - Auxílio-Alimentação,8149479.27,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.46.00.00,3.3.90.46.00 - Auxílio-Alimentação,8149479.27,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.46.00.00,3.3.90.46.00 - Auxílio-Alimentação,8149479.27,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.47.00.00,3.3.90.47.00 - Obrigações Tributárias e Contributivas,24228928.06,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.47.00.00,3.3.90.47.00 - Obrigações Tributárias e Contributivas,24197717.69,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.47.00.00,3.3.90.47.00 - Obrigações Tributárias e Contributivas,24196669,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.47.00.00,3.3.90.47.00 - Obrigações Tributárias e Contributivas,31210.37,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.47.00.00,3.3.90.47.00 - Obrigações Tributárias e Contributivas,1048.69,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.48.00.00,3.3.90.48.00 - Outros Auxílios Financeiros a Pessoas Físicas,10113410,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.48.00.00,3.3.90.48.00 - Outros Auxílios Financeiros a Pessoas Físicas,10113410,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.48.00.00,3.3.90.48.00 - Outros Auxílios Financeiros a Pessoas Físicas,9372662.5,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.48.00.00,3.3.90.48.00 - Outros Auxílios Financeiros a Pessoas Físicas,740747.5,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.49.00.00,3.3.90.49.00 - Auxílio-Transporte,179059.43,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.49.00.00,3.3.90.49.00 - Auxílio-Transporte,179059.43,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.49.00.00,3.3.90.49.00 - Auxílio-Transporte,179059.43,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.91.00.00,3.3.90.91.00 - Sentenças Judiciais,1569068.75,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.91.00.00,3.3.90.91.00 - Sentenças Judiciais,1562967.69,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.91.00.00,3.3.90.91.00 - Sentenças Judiciais,1562967.69,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.91.00.00,3.3.90.91.00 - Sentenças Judiciais,6101.06,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.92.00.00,3.3.90.92.00 - Despesas de Exercícios Anteriores,83693031.17,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.92.00.00,3.3.90.92.00 - Despesas de Exercícios Anteriores,83688886.63,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.92.00.00,3.3.90.92.00 - Despesas de Exercícios Anteriores,82459086.49,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.92.00.00,3.3.90.92.00 - Despesas de Exercícios Anteriores,4144.54,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.92.00.00,3.3.90.92.00 - Despesas de Exercícios Anteriores,1229800.14,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.93.00.00,3.3.90.93.00 - Indenizações e Restituições,22016556.79,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.93.00.00,3.3.90.93.00 - Indenizações e Restituições,22016556.79,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.93.00.00,3.3.90.93.00 - Indenizações e Restituições,22010964.85,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.93.00.00,3.3.90.93.00 - Indenizações e Restituições,5591.94,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DI3.3.91.00.00.00,"3.3.91.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social",67017803.62,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DI3.3.91.00.00.00,"3.3.91.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social",67017803.62,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Pagas,DI3.3.91.00.00.00,"3.3.91.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social",67017803.62,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.0.00.00.00.00,4.0.00.00.00 - Despesas de Capital,199809755.84,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.0.00.00.00.00,4.0.00.00.00 - Despesas de Capital,198107526.67,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.0.00.00.00.00,4.0.00.00.00 - Despesas de Capital,195226299.86,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.0.00.00.00.00,4.0.00.00.00 - Despesas de Capital,1702229.17,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO4.0.00.00.00.00,4.0.00.00.00 - Despesas de Capital,2881226.81,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.00.00.00.00,4.4.00.00.00 - Investimentos,184959045.81,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.00.00.00.00,4.4.00.00.00 - Investimentos,183256816.64,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.00.00.00.00,4.4.00.00.00 - Investimentos,180375589.83,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.4.00.00.00.00,4.4.00.00.00 - Investimentos,1702229.17,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO4.4.00.00.00.00,4.4.00.00.00 - Investimentos,2881226.81,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.90.00.00.00,4.4.90.00.00 - Aplicações Diretas,184959045.81,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.90.00.00.00,4.4.90.00.00 - Aplicações Diretas,183256816.64,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.90.00.00.00,4.4.90.00.00 - Aplicações Diretas,180375589.83,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.4.90.00.00.00,4.4.90.00.00 - Aplicações Diretas,1702229.17,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO4.4.90.00.00.00,4.4.90.00.00 - Aplicações Diretas,2881226.81,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.90.35.00.00,4.4.90.35.00 - Serviços de Consultoria,269260.54,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.90.35.00.00,4.4.90.35.00 - Serviços de Consultoria,269260.54,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.90.35.00.00,4.4.90.35.00 - Serviços de Consultoria,269260.54,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.90.39.00.00,4.4.90.39.00 - Outros Serviços de Terceiros - Pessoa Jurídica,2457933.62,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.90.39.00.00,4.4.90.39.00 - Outros Serviços de Terceiros - Pessoa Jurídica,1718535.05,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.90.39.00.00,4.4.90.39.00 - Outros Serviços de Terceiros - Pessoa Jurídica,1718535.05,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.4.90.39.00.00,4.4.90.39.00 - Outros Serviços de Terceiros - Pessoa Jurídica,739398.57,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.90.51.00.00,4.4.90.51.00 - Obras e Instalações,140732967.71,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.90.51.00.00,4.4.90.51.00 - Obras e Instalações,140047895.83,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.90.51.00.00,4.4.90.51.00 - Obras e Instalações,137895184.05,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.4.90.51.00.00,4.4.90.51.00 - Obras e Instalações,685071.88,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO4.4.90.51.00.00,4.4.90.51.00 - Obras e Instalações,2152711.78,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.90.51.99.00,4.4.90.51.99 - Demais Obras e Instalações,140732967.71,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.90.51.99.00,4.4.90.51.99 - Demais Obras e Instalações,140047895.83,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.90.51.99.00,4.4.90.51.99 - Demais Obras e Instalações,137895184.05,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.4.90.51.99.00,4.4.90.51.99 - Demais Obras e Instalações,685071.88,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO4.4.90.51.99.00,4.4.90.51.99 - Demais Obras e Instalações,2152711.78,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.90.52.00.00,4.4.90.52.00 - Equipamentos e Material Permanente,17575824.3,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.90.52.00.00,4.4.90.52.00 - Equipamentos e Material Permanente,17298065.58,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.90.52.00.00,4.4.90.52.00 - Equipamentos e Material Permanente,16920302.73,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.4.90.52.00.00,4.4.90.52.00 - Equipamentos e Material Permanente,277758.72,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO4.4.90.52.00.00,4.4.90.52.00 - Equipamentos e Material Permanente,377762.85,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.90.91.00.00,4.4.90.91.00 - Sentenças Judiciais,436.58,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.90.91.00.00,4.4.90.91.00 - Sentenças Judiciais,436.58,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.90.91.00.00,4.4.90.91.00 - Sentenças Judiciais,436.58,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.90.92.00.00,4.4.90.92.00 - Despesas de Exercícios Anteriores,14235495.45,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.90.92.00.00,4.4.90.92.00 - Despesas de Exercícios Anteriores,14235495.45,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.90.92.00.00,4.4.90.92.00 - Despesas de Exercícios Anteriores,13884743.27,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO4.4.90.92.00.00,4.4.90.92.00 - Despesas de Exercícios Anteriores,350752.18,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.90.93.00.00,4.4.90.93.00 - Indenizações e Restituições,9687127.61,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.90.93.00.00,4.4.90.93.00 - Indenizações e Restituições,9687127.61,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.90.93.00.00,4.4.90.93.00 - Indenizações e Restituições,9687127.61,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.6.00.00.00.00,4.6.00.00.00 - Amortização da Dívida,14850710.03,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.6.00.00.00.00,4.6.00.00.00 - Amortização da Dívida,14850710.03,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.6.00.00.00.00,4.6.00.00.00 - Amortização da Dívida,14850710.03,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.6.90.00.00.00,4.6.90.00.00 - Aplicações Diretas,13623266.35,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.6.90.00.00.00,4.6.90.00.00 - Aplicações Diretas,13623266.35,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.6.90.00.00.00,4.6.90.00.00 - Aplicações Diretas,13623266.35,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.6.90.71.00.00,4.6.90.71.00 - Principal da Dívida Contratual Resgatado,13623266.35,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.6.90.71.00.00,4.6.90.71.00 - Principal da Dívida Contratual Resgatado,13623266.35,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.6.90.71.00.00,4.6.90.71.00 - Principal da Dívida Contratual Resgatado,13623266.35,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DI4.6.91.00.00.00,"4.6.91.00.00 - Aplicação direta decorrente de operação entre órgãos, fundos e entidades integrantes dos OFSS",1227443.68,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DI4.6.91.00.00.00,"4.6.91.00.00 - Aplicação direta decorrente de operação entre órgãos, fundos e entidades integrantes dos OFSS",1227443.68,657013
+2020,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,Padrão,Despesas Pagas,DI4.6.91.00.00.00,"4.6.91.00.00 - Aplicação direta decorrente de operação entre órgãos, fundos e entidades integrantes dos OFSS",1227443.68,657013

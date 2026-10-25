@@ -1,0 +1,295 @@
+exercicio,instituicao,cod_ibge,uf,anexo,rotulo,coluna,cod_conta,conta,valor,populacao
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,TotalDespesas,Total Geral da Despesa,5812387233.63,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,TotalDespesas,Total Geral da Despesa,5597105606.74,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Pagas,TotalDespesas,Total Geral da Despesa,5524365455.95,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,TotalDespesas,Total Geral da Despesa,215281626.89,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,TotalDespesas,Total Geral da Despesa,72740150.79,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.0.00.00.00.00,3.0.00.00.00 - Despesas Correntes,5239103699.39,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.0.00.00.00.00,3.0.00.00.00 - Despesas Correntes,5146596903.3,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.0.00.00.00.00,3.0.00.00.00 - Despesas Correntes,5092487586.98,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.0.00.00.00.00,3.0.00.00.00 - Despesas Correntes,92506796.09,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.0.00.00.00.00,3.0.00.00.00 - Despesas Correntes,54109316.32,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.00.00.00.00,3.1.00.00.00 - Pessoal e Encargos Sociais,2966821856.05,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.00.00.00.00,3.1.00.00.00 - Pessoal e Encargos Sociais,2966821856.05,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.00.00.00.00,3.1.00.00.00 - Pessoal e Encargos Sociais,2946466231.2,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.1.00.00.00.00,3.1.00.00.00 - Pessoal e Encargos Sociais,20355624.85,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.00.00.00,3.1.90.00.00 - Aplicações Diretas,2655629961.2,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.00.00.00,3.1.90.00.00 - Aplicações Diretas,2655629961.2,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.00.00.00,3.1.90.00.00 - Aplicações Diretas,2644663869.41,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.1.90.00.00.00,3.1.90.00.00 - Aplicações Diretas,10966091.79,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.01.00.00,"3.1.90.01.00 - Aposentadorias do RPPS, Reserva Remunerada e Reformas dos Militares",469720665.34,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.01.00.00,"3.1.90.01.00 - Aposentadorias do RPPS, Reserva Remunerada e Reformas dos Militares",469720665.34,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.01.00.00,"3.1.90.01.00 - Aposentadorias do RPPS, Reserva Remunerada e Reformas dos Militares",469719645.89,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.1.90.01.00.00,"3.1.90.01.00 - Aposentadorias do RPPS, Reserva Remunerada e Reformas dos Militares",1019.45,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.03.00.00,3.1.90.03.00 - Pensões do RPPS e do Militar,91587090.63,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.03.00.00,3.1.90.03.00 - Pensões do RPPS e do Militar,91587090.63,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.03.00.00,3.1.90.03.00 - Pensões do RPPS e do Militar,91587090.63,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.04.00.00,3.1.90.04.00 - Contratação por Tempo Determinado,99444480.78,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.04.00.00,3.1.90.04.00 - Contratação por Tempo Determinado,99444480.78,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.04.00.00,3.1.90.04.00 - Contratação por Tempo Determinado,99444480.78,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.05.00.00,3.1.90.05.00 - Outros Benefícios Previdenciários do Servidor ou do Militar,5686303.8,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.05.00.00,3.1.90.05.00 - Outros Benefícios Previdenciários do Servidor ou do Militar,5686303.8,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.05.00.00,3.1.90.05.00 - Outros Benefícios Previdenciários do Servidor ou do Militar,5686303.8,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.11.00.00,3.1.90.11.00 - Vencimentos e Vantagens Fixas - Pessoal Civil,1483039837.76,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.11.00.00,3.1.90.11.00 - Vencimentos e Vantagens Fixas - Pessoal Civil,1483039837.76,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.11.00.00,3.1.90.11.00 - Vencimentos e Vantagens Fixas - Pessoal Civil,1475630954.92,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.1.90.11.00.00,3.1.90.11.00 - Vencimentos e Vantagens Fixas - Pessoal Civil,7408882.84,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.13.00.00,3.1.90.13.00 - Obrigações Patronais,120135185.4,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.13.00.00,3.1.90.13.00 - Obrigações Patronais,120135185.4,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.13.00.00,3.1.90.13.00 - Obrigações Patronais,117474062.92,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.1.90.13.00.00,3.1.90.13.00 - Obrigações Patronais,2661122.48,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.13.99.00,3.1.90.13.99 - Outras Obrigações Patronais,120135185.4,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.13.99.00,3.1.90.13.99 - Outras Obrigações Patronais,120135185.4,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.13.99.00,3.1.90.13.99 - Outras Obrigações Patronais,117474062.92,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.1.90.13.99.00,3.1.90.13.99 - Outras Obrigações Patronais,2661122.48,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.16.00.00,3.1.90.16.00 - Outras Despesas Variáveis - Pessoal Civil,309702020.27,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.16.00.00,3.1.90.16.00 - Outras Despesas Variáveis - Pessoal Civil,309702020.27,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.16.00.00,3.1.90.16.00 - Outras Despesas Variáveis - Pessoal Civil,309702020.27,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.67.00.00,3.1.90.67.00 - Depósitos Compulsórios,8895119.56,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.67.00.00,3.1.90.67.00 - Depósitos Compulsórios,8895119.56,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.67.00.00,3.1.90.67.00 - Depósitos Compulsórios,8835681.22,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.1.90.67.00.00,3.1.90.67.00 - Depósitos Compulsórios,59438.34,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.91.00.00,3.1.90.91.00 - Sentenças Judiciais,24421040.51,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.91.00.00,3.1.90.91.00 - Sentenças Judiciais,24421040.51,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.91.00.00,3.1.90.91.00 - Sentenças Judiciais,24401853.41,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.1.90.91.00.00,3.1.90.91.00 - Sentenças Judiciais,19187.1,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.92.00.00,3.1.90.92.00 - Despesas de Exercícios Anteriores,20157589.63,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.92.00.00,3.1.90.92.00 - Despesas de Exercícios Anteriores,20157589.63,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.92.00.00,3.1.90.92.00 - Despesas de Exercícios Anteriores,20085513.86,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.1.90.92.00.00,3.1.90.92.00 - Despesas de Exercícios Anteriores,72075.77,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.94.00.00,3.1.90.94.00 - Indenizações e Restituições Trabalhistas,16008705.25,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.94.00.00,3.1.90.94.00 - Indenizações e Restituições Trabalhistas,16008705.25,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.94.00.00,3.1.90.94.00 - Indenizações e Restituições Trabalhistas,15820463.41,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.1.90.94.00.00,3.1.90.94.00 - Indenizações e Restituições Trabalhistas,188241.84,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.96.00.00,3.1.90.96.00 - Ressarcimento de Despesas de Pessoal Requisitado,6831922.27,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.96.00.00,3.1.90.96.00 - Ressarcimento de Despesas de Pessoal Requisitado,6831922.27,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.96.00.00,3.1.90.96.00 - Ressarcimento de Despesas de Pessoal Requisitado,6275798.3,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.1.90.96.00.00,3.1.90.96.00 - Ressarcimento de Despesas de Pessoal Requisitado,556123.97,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DI3.1.91.00.00.00,"3.1.91.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social",311191894.85,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DI3.1.91.00.00.00,"3.1.91.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social",311191894.85,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Pagas,DI3.1.91.00.00.00,"3.1.91.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social",301802361.79,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DI3.1.91.00.00.00,"3.1.91.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social",9389533.06,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DI3.1.91.13.00.00,3.1.91.13.00 - Contribuições Patronais,310983296.52,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DI3.1.91.13.00.00,3.1.91.13.00 - Contribuições Patronais,310983296.52,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Pagas,DI3.1.91.13.00.00,3.1.91.13.00 - Contribuições Patronais,301593763.46,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DI3.1.91.13.00.00,3.1.91.13.00 - Contribuições Patronais,9389533.06,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DI3.1.91.13.99.00,3.1.91.13.99 - Outras Obrigações Patronais - Intraorçamentária,310983296.52,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DI3.1.91.13.99.00,3.1.91.13.99 - Outras Obrigações Patronais - Intraorçamentária,310983296.52,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Pagas,DI3.1.91.13.99.00,3.1.91.13.99 - Outras Obrigações Patronais - Intraorçamentária,301593763.46,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DI3.1.91.13.99.00,3.1.91.13.99 - Outras Obrigações Patronais - Intraorçamentária,9389533.06,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DI3.1.91.92.00.00,3.1.91.92.00 - Despesas de Exercícios Anteriores,26130.86,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DI3.1.91.92.00.00,3.1.91.92.00 - Despesas de Exercícios Anteriores,26130.86,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Pagas,DI3.1.91.92.00.00,3.1.91.92.00 - Despesas de Exercícios Anteriores,26130.86,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DI3.1.91.96.00.00,3.1.91.96.00 - Ressarcimento de Despesas de Pessoal Requisitado,182467.47,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DI3.1.91.96.00.00,3.1.91.96.00 - Ressarcimento de Despesas de Pessoal Requisitado,182467.47,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Pagas,DI3.1.91.96.00.00,3.1.91.96.00 - Ressarcimento de Despesas de Pessoal Requisitado,182467.47,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.2.00.00.00.00,3.2.00.00.00 - Juros e Encargos da Dívida,99268755.25,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.2.00.00.00.00,3.2.00.00.00 - Juros e Encargos da Dívida,99268755.25,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.2.00.00.00.00,3.2.00.00.00 - Juros e Encargos da Dívida,99154172.51,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.2.00.00.00.00,3.2.00.00.00 - Juros e Encargos da Dívida,114582.74,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.2.90.00.00.00,3.2.90.00.00 - Aplicações Diretas,98042825.93,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.2.90.00.00.00,3.2.90.00.00 - Aplicações Diretas,98042825.93,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.2.90.00.00.00,3.2.90.00.00 - Aplicações Diretas,97928243.19,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.2.90.00.00.00,3.2.90.00.00 - Aplicações Diretas,114582.74,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.2.90.21.00.00,3.2.90.21.00 - Juros sobre a Dívida por Contrato,83406616.26,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.2.90.21.00.00,3.2.90.21.00 - Juros sobre a Dívida por Contrato,83406616.26,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.2.90.21.00.00,3.2.90.21.00 - Juros sobre a Dívida por Contrato,83292033.52,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.2.90.21.00.00,3.2.90.21.00 - Juros sobre a Dívida por Contrato,114582.74,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.2.90.22.00.00,3.2.90.22.00 - Outros Encargos sobre a Dívida por Contrato,14636209.67,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.2.90.22.00.00,3.2.90.22.00 - Outros Encargos sobre a Dívida por Contrato,14636209.67,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.2.90.22.00.00,3.2.90.22.00 - Outros Encargos sobre a Dívida por Contrato,14636209.67,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DI3.2.91.00.00.00,"3.2.91.00.00 - Aplicação direta decorrente de operação entre Órgãos, fundos e entidades integrantes dos OFSS",1225929.32,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DI3.2.91.00.00.00,"3.2.91.00.00 - Aplicação direta decorrente de operação entre Órgãos, fundos e entidades integrantes dos OFSS",1225929.32,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Pagas,DI3.2.91.00.00.00,"3.2.91.00.00 - Aplicação direta decorrente de operação entre Órgãos, fundos e entidades integrantes dos OFSS",1225929.32,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.00.00.00.00,3.3.00.00.00 - Outras Despesas Correntes,2173013088.09,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.00.00.00.00,3.3.00.00.00 - Outras Despesas Correntes,2080506292,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.00.00.00.00,3.3.00.00.00 - Outras Despesas Correntes,2046867183.27,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.00.00.00.00,3.3.00.00.00 - Outras Despesas Correntes,92506796.09,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.00.00.00.00,3.3.00.00.00 - Outras Despesas Correntes,33639108.73,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.50.00.00.00,3.3.50.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos,368876376.64,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.50.00.00.00,3.3.50.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos,368876376.64,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.50.00.00.00,3.3.50.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos,367414510.01,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.50.00.00.00,3.3.50.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos,1461866.63,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.60.00.00.00,3.3.60.00.00 - Transferências a Instituições Privadas com Fins Lucrativos,500340,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.60.00.00.00,3.3.60.00.00 - Transferências a Instituições Privadas com Fins Lucrativos,500340,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.60.00.00.00,3.3.60.00.00 - Transferências a Instituições Privadas com Fins Lucrativos,500340,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.00.00.00,3.3.90.00.00 - Aplicações Diretas,1762586023.22,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.00.00.00,3.3.90.00.00 - Aplicações Diretas,1670079227.13,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.00.00.00,3.3.90.00.00 - Aplicações Diretas,1637901985.03,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.00.00.00,3.3.90.00.00 - Aplicações Diretas,92506796.09,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.00.00.00,3.3.90.00.00 - Aplicações Diretas,32177242.1,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.08.00.00,3.3.90.08.00 - Outros Benefícios Assistenciais do servidor e do militar,164297.65,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.08.00.00,3.3.90.08.00 - Outros Benefícios Assistenciais do servidor e do militar,164297.65,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.08.00.00,3.3.90.08.00 - Outros Benefícios Assistenciais do servidor e do militar,160097.65,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.08.00.00,3.3.90.08.00 - Outros Benefícios Assistenciais do servidor e do militar,4200,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.10.00.00,3.3.90.10.00 - Seguro Desemprego e Abono Salarial,327975.43,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.10.00.00,3.3.90.10.00 - Seguro Desemprego e Abono Salarial,327975.43,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.10.00.00,3.3.90.10.00 - Seguro Desemprego e Abono Salarial,326482.1,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.10.00.00,3.3.90.10.00 - Seguro Desemprego e Abono Salarial,1493.33,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.30.00.00,3.3.90.30.00 - Material de Consumo,176486666.81,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.30.00.00,3.3.90.30.00 - Material de Consumo,121832357.58,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.30.00.00,3.3.90.30.00 - Material de Consumo,120476609.61,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.30.00.00,3.3.90.30.00 - Material de Consumo,54654309.23,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.30.00.00,3.3.90.30.00 - Material de Consumo,1355747.97,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.31.00.00,"3.3.90.31.00 - Premiações Culturais, Artísticas, Científicas, Desportivas e Outras",7544794,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.31.00.00,"3.3.90.31.00 - Premiações Culturais, Artísticas, Científicas, Desportivas e Outras",7544794,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.31.00.00,"3.3.90.31.00 - Premiações Culturais, Artísticas, Científicas, Desportivas e Outras",7430094,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.31.00.00,"3.3.90.31.00 - Premiações Culturais, Artísticas, Científicas, Desportivas e Outras",114700,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.32.00.00,"3.3.90.32.00 - Material, Bem ou Serviço para Distribuição Gratuita",23119232.57,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.32.00.00,"3.3.90.32.00 - Material, Bem ou Serviço para Distribuição Gratuita",23119232.57,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.32.00.00,"3.3.90.32.00 - Material, Bem ou Serviço para Distribuição Gratuita",22710341.43,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.32.00.00,"3.3.90.32.00 - Material, Bem ou Serviço para Distribuição Gratuita",408891.14,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.33.00.00,3.3.90.33.00 - Passagens e Despesas com Locomoção,17794007.49,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.33.00.00,3.3.90.33.00 - Passagens e Despesas com Locomoção,17794007.49,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.33.00.00,3.3.90.33.00 - Passagens e Despesas com Locomoção,17732178.03,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.33.00.00,3.3.90.33.00 - Passagens e Despesas com Locomoção,61829.46,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.35.00.00,3.3.90.35.00 - Serviços de Consultoria,5296129.14,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.35.00.00,3.3.90.35.00 - Serviços de Consultoria,1825584.53,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.35.00.00,3.3.90.35.00 - Serviços de Consultoria,1719764.75,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.35.00.00,3.3.90.35.00 - Serviços de Consultoria,3470544.61,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.35.00.00,3.3.90.35.00 - Serviços de Consultoria,105819.78,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.36.00.00,3.3.90.36.00 - Outros Serviços de Terceiros - Pessoa Física,20845183.67,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.36.00.00,3.3.90.36.00 - Outros Serviços de Terceiros - Pessoa Física,20780428.67,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.36.00.00,3.3.90.36.00 - Outros Serviços de Terceiros - Pessoa Física,19810982.95,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.36.00.00,3.3.90.36.00 - Outros Serviços de Terceiros - Pessoa Física,64755,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.36.00.00,3.3.90.36.00 - Outros Serviços de Terceiros - Pessoa Física,969445.72,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.37.00.00,3.3.90.37.00 - Locação de Mão-de-Obra,438572159.82,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.37.00.00,3.3.90.37.00 - Locação de Mão-de-Obra,438572159.82,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.37.00.00,3.3.90.37.00 - Locação de Mão-de-Obra,437782062.33,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.37.00.00,3.3.90.37.00 - Locação de Mão-de-Obra,790097.49,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.39.00.00,3.3.90.39.00 - Outros Serviços de Terceiros - Pessoa Jurídica,809201931.79,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.39.00.00,3.3.90.39.00 - Outros Serviços de Terceiros - Pessoa Jurídica,786620729.06,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.39.00.00,3.3.90.39.00 - Outros Serviços de Terceiros - Pessoa Jurídica,764133763.78,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.39.00.00,3.3.90.39.00 - Outros Serviços de Terceiros - Pessoa Jurídica,22581202.73,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.39.00.00,3.3.90.39.00 - Outros Serviços de Terceiros - Pessoa Jurídica,22486965.28,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.40.00.00,3.3.90.40.00 - Serviços de Tecnologia da Informação e Comunicação (TIC) - Pessoa Jurídica,53617981.68,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.40.00.00,3.3.90.40.00 - Serviços de Tecnologia da Informação e Comunicação (TIC) - Pessoa Jurídica,43433853.18,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.40.00.00,3.3.90.40.00 - Serviços de Tecnologia da Informação e Comunicação (TIC) - Pessoa Jurídica,42646971.15,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.40.00.00,3.3.90.40.00 - Serviços de Tecnologia da Informação e Comunicação (TIC) - Pessoa Jurídica,10184128.5,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.40.00.00,3.3.90.40.00 - Serviços de Tecnologia da Informação e Comunicação (TIC) - Pessoa Jurídica,786882.03,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.45.00.00,3.3.90.45.00 - Subvenções Econômicas,745000,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.45.00.00,3.3.90.45.00 - Subvenções Econômicas,745000,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.45.00.00,3.3.90.45.00 - Subvenções Econômicas,745000,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.47.00.00,3.3.90.47.00 - Obrigações Tributárias e Contributivas,57194849.48,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.47.00.00,3.3.90.47.00 - Obrigações Tributárias e Contributivas,57194849.48,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.47.00.00,3.3.90.47.00 - Obrigações Tributárias e Contributivas,53455073.41,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.47.00.00,3.3.90.47.00 - Obrigações Tributárias e Contributivas,3739776.07,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.48.00.00,3.3.90.48.00 - Outros Auxílios Financeiros a Pessoas Físicas,24506331.52,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.48.00.00,3.3.90.48.00 - Outros Auxílios Financeiros a Pessoas Físicas,24506331.52,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.48.00.00,3.3.90.48.00 - Outros Auxílios Financeiros a Pessoas Físicas,24502238.72,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.48.00.00,3.3.90.48.00 - Outros Auxílios Financeiros a Pessoas Físicas,4092.8,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.49.00.00,3.3.90.49.00 - Auxílio-Transporte,17603905.2,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.49.00.00,3.3.90.49.00 - Auxílio-Transporte,17603905.2,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.49.00.00,3.3.90.49.00 - Auxílio-Transporte,16966953.46,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.49.00.00,3.3.90.49.00 - Auxílio-Transporte,636951.74,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.67.00.00,3.3.90.67.00 - Depósitos Compulsórios,676371.31,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.67.00.00,3.3.90.67.00 - Depósitos Compulsórios,676371.31,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.67.00.00,3.3.90.67.00 - Depósitos Compulsórios,676371.31,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.91.00.00,3.3.90.91.00 - Sentenças Judiciais,19448194.18,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.91.00.00,3.3.90.91.00 - Sentenças Judiciais,19448194.18,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.91.00.00,3.3.90.91.00 - Sentenças Judiciais,19448194.18,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.92.00.00,3.3.90.92.00 - Despesas de Exercícios Anteriores,75521607.96,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.92.00.00,3.3.90.92.00 - Despesas de Exercícios Anteriores,75155124.27,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.92.00.00,3.3.90.92.00 - Despesas de Exercícios Anteriores,74723725.62,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.92.00.00,3.3.90.92.00 - Despesas de Exercícios Anteriores,366483.69,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.92.00.00,3.3.90.92.00 - Despesas de Exercícios Anteriores,431398.65,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.93.00.00,3.3.90.93.00 - Indenizações e Restituições,13919403.52,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.93.00.00,3.3.90.93.00 - Indenizações e Restituições,12734031.19,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.93.00.00,3.3.90.93.00 - Indenizações e Restituições,12455080.55,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.93.00.00,3.3.90.93.00 - Indenizações e Restituições,1185372.33,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.93.00.00,3.3.90.93.00 - Indenizações e Restituições,278950.64,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DI3.3.91.00.00.00,"3.3.91.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social",41050348.23,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DI3.3.91.00.00.00,"3.3.91.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social",41050348.23,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Pagas,DI3.3.91.00.00.00,"3.3.91.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social",41050348.23,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.0.00.00.00.00,4.0.00.00.00 - Despesas de Capital,573283534.24,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.0.00.00.00.00,4.0.00.00.00 - Despesas de Capital,450508703.44,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.0.00.00.00.00,4.0.00.00.00 - Despesas de Capital,431877868.97,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.0.00.00.00.00,4.0.00.00.00 - Despesas de Capital,122774830.8,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO4.0.00.00.00.00,4.0.00.00.00 - Despesas de Capital,18630834.47,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.00.00.00.00,4.4.00.00.00 - Investimentos,411084120.12,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.00.00.00.00,4.4.00.00.00 - Investimentos,288309289.32,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.00.00.00.00,4.4.00.00.00 - Investimentos,270186564.67,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.4.00.00.00.00,4.4.00.00.00 - Investimentos,122774830.8,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO4.4.00.00.00.00,4.4.00.00.00 - Investimentos,18122724.65,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.50.00.00.00,4.4.50.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos,821826.45,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.50.00.00.00,4.4.50.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos,821826.45,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.50.00.00.00,4.4.50.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos,821826.45,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.90.00.00.00,4.4.90.00.00 - Aplicações Diretas,410262293.67,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.90.00.00.00,4.4.90.00.00 - Aplicações Diretas,287487462.87,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.90.00.00.00,4.4.90.00.00 - Aplicações Diretas,269364738.22,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.4.90.00.00.00,4.4.90.00.00 - Aplicações Diretas,122774830.8,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO4.4.90.00.00.00,4.4.90.00.00 - Aplicações Diretas,18122724.65,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.90.30.00.00,4.4.90.30.00 - Material de Consumo,14858156.7,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.90.30.00.00,4.4.90.30.00 - Material de Consumo,12467808.58,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.90.30.00.00,4.4.90.30.00 - Material de Consumo,12342316.78,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.4.90.30.00.00,4.4.90.30.00 - Material de Consumo,2390348.12,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO4.4.90.30.00.00,4.4.90.30.00 - Material de Consumo,125491.8,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.90.35.00.00,4.4.90.35.00 - Serviços de Consultoria,4881727.89,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.90.35.00.00,4.4.90.35.00 - Serviços de Consultoria,3970635.55,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.90.35.00.00,4.4.90.35.00 - Serviços de Consultoria,3969838.91,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.4.90.35.00.00,4.4.90.35.00 - Serviços de Consultoria,911092.34,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO4.4.90.35.00.00,4.4.90.35.00 - Serviços de Consultoria,796.64,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.90.39.00.00,4.4.90.39.00 - Outros Serviços de Terceiros - Pessoa Jurídica,66122799.14,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.90.39.00.00,4.4.90.39.00 - Outros Serviços de Terceiros - Pessoa Jurídica,61532840.39,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.90.39.00.00,4.4.90.39.00 - Outros Serviços de Terceiros - Pessoa Jurídica,61532840.39,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.4.90.39.00.00,4.4.90.39.00 - Outros Serviços de Terceiros - Pessoa Jurídica,4589958.75,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.90.40.00.00,4.4.90.40.00 - Serviços de Tecnologia da Informação e Comunicação (TIC) - Pessoa Jurídica,4322097.46,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.90.40.00.00,4.4.90.40.00 - Serviços de Tecnologia da Informação e Comunicação (TIC) - Pessoa Jurídica,4322097.46,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.90.40.00.00,4.4.90.40.00 - Serviços de Tecnologia da Informação e Comunicação (TIC) - Pessoa Jurídica,4322097.46,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.90.47.00.00,4.4.90.47.00 - Obrigações Tributárias e Contributivas,116478.57,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.90.47.00.00,4.4.90.47.00 - Obrigações Tributárias e Contributivas,116478.57,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.90.47.00.00,4.4.90.47.00 - Obrigações Tributárias e Contributivas,116478.57,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.90.51.00.00,4.4.90.51.00 - Obras e Instalações,116934769.11,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.90.51.00.00,4.4.90.51.00 - Obras e Instalações,110246141.8,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.90.51.00.00,4.4.90.51.00 - Obras e Instalações,106687791.84,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.4.90.51.00.00,4.4.90.51.00 - Obras e Instalações,6688627.31,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO4.4.90.51.00.00,4.4.90.51.00 - Obras e Instalações,3558349.96,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.90.51.99.00,4.4.90.51.99 - Demais Obras e Instalações,116934769.11,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.90.51.99.00,4.4.90.51.99 - Demais Obras e Instalações,110246141.8,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.90.51.99.00,4.4.90.51.99 - Demais Obras e Instalações,106687791.84,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.4.90.51.99.00,4.4.90.51.99 - Demais Obras e Instalações,6688627.31,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO4.4.90.51.99.00,4.4.90.51.99 - Demais Obras e Instalações,3558349.96,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.90.52.00.00,4.4.90.52.00 - Equipamentos e Material Permanente,165803825.09,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.90.52.00.00,4.4.90.52.00 - Equipamentos e Material Permanente,57609020.81,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.90.52.00.00,4.4.90.52.00 - Equipamentos e Material Permanente,43787948.11,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.4.90.52.00.00,4.4.90.52.00 - Equipamentos e Material Permanente,108194804.28,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO4.4.90.52.00.00,4.4.90.52.00 - Equipamentos e Material Permanente,13821072.7,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.90.61.00.00,4.4.90.61.00 - Aquisição de Imóveis,5929728.08,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.90.61.00.00,4.4.90.61.00 - Aquisição de Imóveis,5929728.08,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.90.61.00.00,4.4.90.61.00 - Aquisição de Imóveis,5398257.67,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO4.4.90.61.00.00,4.4.90.61.00 - Aquisição de Imóveis,531470.41,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.90.91.00.00,4.4.90.91.00 - Sentenças Judiciais,785000,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.90.91.00.00,4.4.90.91.00 - Sentenças Judiciais,785000,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.90.91.00.00,4.4.90.91.00 - Sentenças Judiciais,785000,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.90.92.00.00,4.4.90.92.00 - Despesas de Exercícios Anteriores,28297368.92,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.90.92.00.00,4.4.90.92.00 - Despesas de Exercícios Anteriores,28297368.92,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.90.92.00.00,4.4.90.92.00 - Despesas de Exercícios Anteriores,28252023.96,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO4.4.90.92.00.00,4.4.90.92.00 - Despesas de Exercícios Anteriores,45344.96,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.90.93.00.00,4.4.90.93.00 - Indenizações e Restituições,2210342.71,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.90.93.00.00,4.4.90.93.00 - Indenizações e Restituições,2210342.71,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.90.93.00.00,4.4.90.93.00 - Indenizações e Restituições,2170144.53,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO4.4.90.93.00.00,4.4.90.93.00 - Indenizações e Restituições,40198.18,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.5.00.00.00.00,4.5.00.00.00 - Inversões Financeiras,4060015.52,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.5.00.00.00.00,4.5.00.00.00 - Inversões Financeiras,4060015.52,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.5.00.00.00.00,4.5.00.00.00 - Inversões Financeiras,4060015.52,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.5.90.00.00.00,4.5.90.00.00 - Aplicações Diretas,4060015.52,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.5.90.00.00.00,4.5.90.00.00 - Aplicações Diretas,4060015.52,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.5.90.00.00.00,4.5.90.00.00 - Aplicações Diretas,4060015.52,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.5.90.66.00.00,4.5.90.66.00 - Concessão de Empréstimos e Financiamentos,4060015.52,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.5.90.66.00.00,4.5.90.66.00 - Concessão de Empréstimos e Financiamentos,4060015.52,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.5.90.66.00.00,4.5.90.66.00 - Concessão de Empréstimos e Financiamentos,4060015.52,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.6.00.00.00.00,4.6.00.00.00 - Amortização da Dívida,158139398.6,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.6.00.00.00.00,4.6.00.00.00 - Amortização da Dívida,158139398.6,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.6.00.00.00.00,4.6.00.00.00 - Amortização da Dívida,157631288.78,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO4.6.00.00.00.00,4.6.00.00.00 - Amortização da Dívida,508109.82,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.6.90.00.00.00,4.6.90.00.00 - Aplicações Diretas,149894371.07,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.6.90.00.00.00,4.6.90.00.00 - Aplicações Diretas,149894371.07,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.6.90.00.00.00,4.6.90.00.00 - Aplicações Diretas,149386261.25,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO4.6.90.00.00.00,4.6.90.00.00 - Aplicações Diretas,508109.82,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.6.90.71.00.00,4.6.90.71.00 - Principal da Dívida Contratual Resgatado,149894371.07,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.6.90.71.00.00,4.6.90.71.00 - Principal da Dívida Contratual Resgatado,149894371.07,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.6.90.71.00.00,4.6.90.71.00 - Principal da Dívida Contratual Resgatado,149386261.25,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO4.6.90.71.00.00,4.6.90.71.00 - Principal da Dívida Contratual Resgatado,508109.82,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DI4.6.91.00.00.00,"4.6.91.00.00 - Aplicação direta decorrente de operação entre órgãos, fundos e entidades integrantes dos OFSS",8245027.53,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DI4.6.91.00.00.00,"4.6.91.00.00 - Aplicação direta decorrente de operação entre órgãos, fundos e entidades integrantes dos OFSS",8245027.53,1653461
+2021,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-D,Padrão,Despesas Pagas,DI4.6.91.00.00.00,"4.6.91.00.00 - Aplicação direta decorrente de operação entre órgãos, fundos e entidades integrantes dos OFSS",8245027.53,1653461

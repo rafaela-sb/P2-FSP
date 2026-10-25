@@ -1,0 +1,265 @@
+exercicio,instituicao,cod_ibge,uf,anexo,rotulo,coluna,cod_conta,conta,valor,populacao
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Empenhadas,TotalDespesas,Total Geral da Despesa,5680838738.24,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Liquidadas,TotalDespesas,Total Geral da Despesa,5473562452.48,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Pagas,TotalDespesas,Total Geral da Despesa,5457210713.37,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Inscrição de RP Não Processados,TotalDespesas,Total Geral da Despesa,207276285.76,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Inscrição de RP Processados,TotalDespesas,Total Geral da Despesa,16351739.11,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Empenhadas,DO3.0.00.00.00.00,3.0.00.00.00.00 - Despesas Correntes,5274155007.15,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Liquidadas,DO3.0.00.00.00.00,3.0.00.00.00.00 - Despesas Correntes,5104487851.26,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Pagas,DO3.0.00.00.00.00,3.0.00.00.00.00 - Despesas Correntes,5091498112.36,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Inscrição de RP Não Processados,DO3.0.00.00.00.00,3.0.00.00.00.00 - Despesas Correntes,169667155.89,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Inscrição de RP Processados,DO3.0.00.00.00.00,3.0.00.00.00.00 - Despesas Correntes,12989738.9,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Empenhadas,DO3.1.00.00.00.00,3.1.00.00.00.00 - Pessoal e Encargos Sociais,2638393150.6,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Liquidadas,DO3.1.00.00.00.00,3.1.00.00.00.00 - Pessoal e Encargos Sociais,2622189019.74,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Pagas,DO3.1.00.00.00.00,3.1.00.00.00.00 - Pessoal e Encargos Sociais,2618027464.41,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Inscrição de RP Não Processados,DO3.1.00.00.00.00,3.1.00.00.00.00 - Pessoal e Encargos Sociais,16204130.86,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Inscrição de RP Processados,DO3.1.00.00.00.00,3.1.00.00.00.00 - Pessoal e Encargos Sociais,4161555.33,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Empenhadas,DO3.1.90.00.00.00,3.1.90.00.00.00 - Aplicações Diretas,2343474611.7,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Liquidadas,DO3.1.90.00.00.00,3.1.90.00.00.00 - Aplicações Diretas,2327270986.82,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Pagas,DO3.1.90.00.00.00,3.1.90.00.00.00 - Aplicações Diretas,2323109431.49,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Inscrição de RP Não Processados,DO3.1.90.00.00.00,3.1.90.00.00.00 - Aplicações Diretas,16203624.88,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Inscrição de RP Processados,DO3.1.90.00.00.00,3.1.90.00.00.00 - Aplicações Diretas,4161555.33,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Empenhadas,DO3.1.90.01.00.00,"3.1.90.01.00.00 - Aposentadorias do RPPS, Reserva Remunerada e Reformas dos Militares",426578948.32,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Liquidadas,DO3.1.90.01.00.00,"3.1.90.01.00.00 - Aposentadorias do RPPS, Reserva Remunerada e Reformas dos Militares",426578948.32,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Pagas,DO3.1.90.01.00.00,"3.1.90.01.00.00 - Aposentadorias do RPPS, Reserva Remunerada e Reformas dos Militares",426578948.32,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Empenhadas,DO3.1.90.03.00.00,3.1.90.03.00.00 - Pensões do RPPS e do Militar,134985141.66,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Liquidadas,DO3.1.90.03.00.00,3.1.90.03.00.00 - Pensões do RPPS e do Militar,134985141.66,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Pagas,DO3.1.90.03.00.00,3.1.90.03.00.00 - Pensões do RPPS e do Militar,134985141.66,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Empenhadas,DO3.1.90.04.00.00,3.1.90.04.00.00 - Contratação por Tempo Determinado,108591381.42,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Liquidadas,DO3.1.90.04.00.00,3.1.90.04.00.00 - Contratação por Tempo Determinado,108583181.42,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Pagas,DO3.1.90.04.00.00,3.1.90.04.00.00 - Contratação por Tempo Determinado,107024167.18,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Inscrição de RP Não Processados,DO3.1.90.04.00.00,3.1.90.04.00.00 - Contratação por Tempo Determinado,8200,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Inscrição de RP Processados,DO3.1.90.04.00.00,3.1.90.04.00.00 - Contratação por Tempo Determinado,1559014.24,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Empenhadas,DO3.1.90.05.00.00,3.1.90.05.00.00 - Outros Benefícios Previdenciários do Servidor ou do Militar,58292.82,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Liquidadas,DO3.1.90.05.00.00,3.1.90.05.00.00 - Outros Benefícios Previdenciários do Servidor ou do Militar,58292.82,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Pagas,DO3.1.90.05.00.00,3.1.90.05.00.00 - Outros Benefícios Previdenciários do Servidor ou do Militar,58292.82,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Empenhadas,DO3.1.90.08.00.00,3.1.90.08.00.00 - Outros Benefícios Assistenciais do Servidor ou do Militar,15522624.46,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Liquidadas,DO3.1.90.08.00.00,3.1.90.08.00.00 - Outros Benefícios Assistenciais do Servidor ou do Militar,15522624.46,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Pagas,DO3.1.90.08.00.00,3.1.90.08.00.00 - Outros Benefícios Assistenciais do Servidor ou do Militar,15522624.46,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Empenhadas,DO3.1.90.11.00.00,3.1.90.11.00.00 - Vencimentos e Vantagens Fixas - Pessoal Civil,1526239796.03,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Liquidadas,DO3.1.90.11.00.00,3.1.90.11.00.00 - Vencimentos e Vantagens Fixas - Pessoal Civil,1512239795.53,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Pagas,DO3.1.90.11.00.00,3.1.90.11.00.00 - Vencimentos e Vantagens Fixas - Pessoal Civil,1512239795.53,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Inscrição de RP Não Processados,DO3.1.90.11.00.00,3.1.90.11.00.00 - Vencimentos e Vantagens Fixas - Pessoal Civil,14000000.5,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Empenhadas,DO3.1.90.13.00.00,3.1.90.13.00.00 - Obrigações Patronais,45312415.66,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Liquidadas,DO3.1.90.13.00.00,3.1.90.13.00.00 - Obrigações Patronais,45280175.87,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Pagas,DO3.1.90.13.00.00,3.1.90.13.00.00 - Obrigações Patronais,45280175.87,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Inscrição de RP Não Processados,DO3.1.90.13.00.00,3.1.90.13.00.00 - Obrigações Patronais,32239.79,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Empenhadas,DO3.1.90.13.01.00,3.1.90.13.01.00 - FGTS,4542150.07,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Liquidadas,DO3.1.90.13.01.00,3.1.90.13.01.00 - FGTS,4542150.07,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Pagas,DO3.1.90.13.01.00,3.1.90.13.01.00 - FGTS,4542150.07,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Empenhadas,DO3.1.90.13.02.00,3.1.90.13.02.00 - Contribuições Previdenciárias - INSS,39519006.6,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Liquidadas,DO3.1.90.13.02.00,3.1.90.13.02.00 - Contribuições Previdenciárias - INSS,39519006.6,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Pagas,DO3.1.90.13.02.00,3.1.90.13.02.00 - Contribuições Previdenciárias - INSS,39519006.6,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Empenhadas,DO3.1.90.13.99.00,3.1.90.13.99.00 - Outras Obrigações Patronais,1251258.99,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Liquidadas,DO3.1.90.13.99.00,3.1.90.13.99.00 - Outras Obrigações Patronais,1219019.2,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Pagas,DO3.1.90.13.99.00,3.1.90.13.99.00 - Outras Obrigações Patronais,1219019.2,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Inscrição de RP Não Processados,DO3.1.90.13.99.00,3.1.90.13.99.00 - Outras Obrigações Patronais,32239.79,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Empenhadas,DO3.1.90.16.00.00,3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil,71396121.96,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Liquidadas,DO3.1.90.16.00.00,3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil,71320721.86,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Pagas,DO3.1.90.16.00.00,3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil,71320721.86,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Inscrição de RP Não Processados,DO3.1.90.16.00.00,3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil,75400.1,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Empenhadas,DO3.1.90.91.00.00,3.1.90.91.00.00 - Sentenças Judiciais,4499391.79,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Liquidadas,DO3.1.90.91.00.00,3.1.90.91.00.00 - Sentenças Judiciais,4499391.79,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Pagas,DO3.1.90.91.00.00,3.1.90.91.00.00 - Sentenças Judiciais,4499391.79,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Empenhadas,DO3.1.90.92.00.00,3.1.90.92.00.00 - Despesas de Exercícios Anteriores,754707.11,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Liquidadas,DO3.1.90.92.00.00,3.1.90.92.00.00 - Despesas de Exercícios Anteriores,754707.11,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Pagas,DO3.1.90.92.00.00,3.1.90.92.00.00 - Despesas de Exercícios Anteriores,751027.11,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Inscrição de RP Processados,DO3.1.90.92.00.00,3.1.90.92.00.00 - Despesas de Exercícios Anteriores,3680,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Empenhadas,DO3.1.90.94.00.00,3.1.90.94.00.00 - Indenizações e Restituições Trabalhistas,213442.83,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Liquidadas,DO3.1.90.94.00.00,3.1.90.94.00.00 - Indenizações e Restituições Trabalhistas,213442.83,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Pagas,DO3.1.90.94.00.00,3.1.90.94.00.00 - Indenizações e Restituições Trabalhistas,207334.23,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Inscrição de RP Processados,DO3.1.90.94.00.00,3.1.90.94.00.00 - Indenizações e Restituições Trabalhistas,6108.6,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Empenhadas,DO3.1.90.96.00.00,3.1.90.96.00.00 - Ressarcimento de Despesas de Pessoal Requisitado,9322347.64,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Liquidadas,DO3.1.90.96.00.00,3.1.90.96.00.00 - Ressarcimento de Despesas de Pessoal Requisitado,7234563.15,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Pagas,DO3.1.90.96.00.00,3.1.90.96.00.00 - Ressarcimento de Despesas de Pessoal Requisitado,4641810.66,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Inscrição de RP Não Processados,DO3.1.90.96.00.00,3.1.90.96.00.00 - Ressarcimento de Despesas de Pessoal Requisitado,2087784.49,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Inscrição de RP Processados,DO3.1.90.96.00.00,3.1.90.96.00.00 - Ressarcimento de Despesas de Pessoal Requisitado,2592752.49,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Empenhadas,DI3.1.91.00.00.00,"3.1.91.00.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social",294918538.9,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Liquidadas,DI3.1.91.00.00.00,"3.1.91.00.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social",294918032.92,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Pagas,DI3.1.91.00.00.00,"3.1.91.00.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social",294918032.92,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Inscrição de RP Não Processados,DI3.1.91.00.00.00,"3.1.91.00.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social",505.98,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Empenhadas,DI3.1.91.13.00.00,3.1.91.13.00.00 - Contribuições Patronais,278509607.39,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Liquidadas,DI3.1.91.13.00.00,3.1.91.13.00.00 - Contribuições Patronais,278509101.41,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Pagas,DI3.1.91.13.00.00,3.1.91.13.00.00 - Contribuições Patronais,278509101.41,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Inscrição de RP Não Processados,DI3.1.91.13.00.00,3.1.91.13.00.00 - Contribuições Patronais,505.98,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Empenhadas,DI3.1.91.13.03.00,3.1.91.13.03.00 - Contribuição Patronal para o RPPS - Intraorçamentária,277837879.72,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Liquidadas,DI3.1.91.13.03.00,3.1.91.13.03.00 - Contribuição Patronal para o RPPS - Intraorçamentária,277837879.72,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Pagas,DI3.1.91.13.03.00,3.1.91.13.03.00 - Contribuição Patronal para o RPPS - Intraorçamentária,277837879.72,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Empenhadas,DI3.1.91.13.99.00,3.1.91.13.99.00 - Outras Obrigações Patronais - Intraorçamentária,671727.67,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Liquidadas,DI3.1.91.13.99.00,3.1.91.13.99.00 - Outras Obrigações Patronais - Intraorçamentária,671221.69,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Pagas,DI3.1.91.13.99.00,3.1.91.13.99.00 - Outras Obrigações Patronais - Intraorçamentária,671221.69,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Inscrição de RP Não Processados,DI3.1.91.13.99.00,3.1.91.13.99.00 - Outras Obrigações Patronais - Intraorçamentária,505.98,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Empenhadas,DI3.1.91.92.00.00,3.1.91.92.00.00 - Despesas de Exercícios Anteriores,16408931.51,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Liquidadas,DI3.1.91.92.00.00,3.1.91.92.00.00 - Despesas de Exercícios Anteriores,16408931.51,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Pagas,DI3.1.91.92.00.00,3.1.91.92.00.00 - Despesas de Exercícios Anteriores,16408931.51,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Empenhadas,DO3.2.00.00.00.00,3.2.00.00.00.00 - Juros e Encargos da Dívida,11127358.14,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Liquidadas,DO3.2.00.00.00.00,3.2.00.00.00.00 - Juros e Encargos da Dívida,11127358.14,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Pagas,DO3.2.00.00.00.00,3.2.00.00.00.00 - Juros e Encargos da Dívida,11127358.14,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Empenhadas,DO3.2.90.00.00.00,3.2.90.00.00.00 - Aplicações Diretas,11127358.14,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Liquidadas,DO3.2.90.00.00.00,3.2.90.00.00.00 - Aplicações Diretas,11127358.14,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Pagas,DO3.2.90.00.00.00,3.2.90.00.00.00 - Aplicações Diretas,11127358.14,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Empenhadas,DO3.2.90.21.00.00,3.2.90.21.00.00 - Juros sobre a Dívida por Contrato,10989851.63,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Liquidadas,DO3.2.90.21.00.00,3.2.90.21.00.00 - Juros sobre a Dívida por Contrato,10989851.63,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Pagas,DO3.2.90.21.00.00,3.2.90.21.00.00 - Juros sobre a Dívida por Contrato,10989851.63,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Empenhadas,DO3.2.90.22.00.00,3.2.90.22.00.00 - Outros Encargos sobre a Dívida por Contrato,137506.51,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Liquidadas,DO3.2.90.22.00.00,3.2.90.22.00.00 - Outros Encargos sobre a Dívida por Contrato,137506.51,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Pagas,DO3.2.90.22.00.00,3.2.90.22.00.00 - Outros Encargos sobre a Dívida por Contrato,137506.51,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Empenhadas,DO3.3.00.00.00.00,3.3.00.00.00.00 - Outras Despesas Correntes,2624634498.41,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Liquidadas,DO3.3.00.00.00.00,3.3.00.00.00.00 - Outras Despesas Correntes,2471171473.38,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Pagas,DO3.3.00.00.00.00,3.3.00.00.00.00 - Outras Despesas Correntes,2462343289.81,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Inscrição de RP Não Processados,DO3.3.00.00.00.00,3.3.00.00.00.00 - Outras Despesas Correntes,153463025.03,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Inscrição de RP Processados,DO3.3.00.00.00.00,3.3.00.00.00.00 - Outras Despesas Correntes,8828183.57,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Empenhadas,DO3.3.50.00.00.00,3.3.50.00.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos,44091737.29,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Liquidadas,DO3.3.50.00.00.00,3.3.50.00.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos,43941741.79,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Pagas,DO3.3.50.00.00.00,3.3.50.00.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos,43557140.78,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Inscrição de RP Não Processados,DO3.3.50.00.00.00,3.3.50.00.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos,149995.5,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Inscrição de RP Processados,DO3.3.50.00.00.00,3.3.50.00.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos,384601.01,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Empenhadas,DO3.3.90.00.00.00,3.3.90.00.00.00 - Aplicações Diretas,2573601136.48,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Liquidadas,DO3.3.90.00.00.00,3.3.90.00.00.00 - Aplicações Diretas,2420288106.95,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Pagas,DO3.3.90.00.00.00,3.3.90.00.00.00 - Aplicações Diretas,2411844524.39,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Inscrição de RP Não Processados,DO3.3.90.00.00.00,3.3.90.00.00.00 - Aplicações Diretas,153313029.53,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Inscrição de RP Processados,DO3.3.90.00.00.00,3.3.90.00.00.00 - Aplicações Diretas,8443582.56,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Empenhadas,DO3.3.90.14.00.00,3.3.90.14.00.00 - Diárias - Civil,184817.63,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Liquidadas,DO3.3.90.14.00.00,3.3.90.14.00.00 - Diárias - Civil,184190.63,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Pagas,DO3.3.90.14.00.00,3.3.90.14.00.00 - Diárias - Civil,184190.63,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Inscrição de RP Não Processados,DO3.3.90.14.00.00,3.3.90.14.00.00 - Diárias - Civil,627,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Empenhadas,DO3.3.90.30.00.00,3.3.90.30.00.00 - Material de Consumo,101984791.54,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Liquidadas,DO3.3.90.30.00.00,3.3.90.30.00.00 - Material de Consumo,95741776.04,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Pagas,DO3.3.90.30.00.00,3.3.90.30.00.00 - Material de Consumo,94621070.49,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Inscrição de RP Não Processados,DO3.3.90.30.00.00,3.3.90.30.00.00 - Material de Consumo,6243015.5,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Inscrição de RP Processados,DO3.3.90.30.00.00,3.3.90.30.00.00 - Material de Consumo,1120705.55,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Empenhadas,DO3.3.90.32.00.00,"3.3.90.32.00.00 - Material, Bem ou Serviço para Distribuição Gratuita",554379.6,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Liquidadas,DO3.3.90.32.00.00,"3.3.90.32.00.00 - Material, Bem ou Serviço para Distribuição Gratuita",419564.26,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Pagas,DO3.3.90.32.00.00,"3.3.90.32.00.00 - Material, Bem ou Serviço para Distribuição Gratuita",419564.26,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Inscrição de RP Não Processados,DO3.3.90.32.00.00,"3.3.90.32.00.00 - Material, Bem ou Serviço para Distribuição Gratuita",134815.34,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Empenhadas,DO3.3.90.33.00.00,3.3.90.33.00.00 - Passagens e Despesas com Locomoção,618579.31,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Liquidadas,DO3.3.90.33.00.00,3.3.90.33.00.00 - Passagens e Despesas com Locomoção,480927.22,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Pagas,DO3.3.90.33.00.00,3.3.90.33.00.00 - Passagens e Despesas com Locomoção,474756.54,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Inscrição de RP Não Processados,DO3.3.90.33.00.00,3.3.90.33.00.00 - Passagens e Despesas com Locomoção,137652.09,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Inscrição de RP Processados,DO3.3.90.33.00.00,3.3.90.33.00.00 - Passagens e Despesas com Locomoção,6170.68,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Empenhadas,DO3.3.90.34.00.00,3.3.90.34.00.00 - Outras Despesas de Pessoal decorrentes de Contratos de Terceirização,6504.93,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Liquidadas,DO3.3.90.34.00.00,3.3.90.34.00.00 - Outras Despesas de Pessoal decorrentes de Contratos de Terceirização,6504.93,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Pagas,DO3.3.90.34.00.00,3.3.90.34.00.00 - Outras Despesas de Pessoal decorrentes de Contratos de Terceirização,6504.93,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Empenhadas,DO3.3.90.35.00.00,3.3.90.35.00.00 - Serviços de Consultoria,8009641.75,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Liquidadas,DO3.3.90.35.00.00,3.3.90.35.00.00 - Serviços de Consultoria,6191261.48,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Pagas,DO3.3.90.35.00.00,3.3.90.35.00.00 - Serviços de Consultoria,5871261.48,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Inscrição de RP Não Processados,DO3.3.90.35.00.00,3.3.90.35.00.00 - Serviços de Consultoria,1818380.27,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Inscrição de RP Processados,DO3.3.90.35.00.00,3.3.90.35.00.00 - Serviços de Consultoria,320000,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Empenhadas,DO3.3.90.36.00.00,3.3.90.36.00.00 - Outros Serviços de Terceiros - Pessoa Física,35066845.56,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Liquidadas,DO3.3.90.36.00.00,3.3.90.36.00.00 - Outros Serviços de Terceiros - Pessoa Física,34998878.94,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Pagas,DO3.3.90.36.00.00,3.3.90.36.00.00 - Outros Serviços de Terceiros - Pessoa Física,34389067.63,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Inscrição de RP Não Processados,DO3.3.90.36.00.00,3.3.90.36.00.00 - Outros Serviços de Terceiros - Pessoa Física,67966.62,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Inscrição de RP Processados,DO3.3.90.36.00.00,3.3.90.36.00.00 - Outros Serviços de Terceiros - Pessoa Física,609811.31,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Empenhadas,DO3.3.90.37.00.00,3.3.90.37.00.00 - Locação de Mão-de-Obra,416296430.06,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Liquidadas,DO3.3.90.37.00.00,3.3.90.37.00.00 - Locação de Mão-de-Obra,406557570.03,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Pagas,DO3.3.90.37.00.00,3.3.90.37.00.00 - Locação de Mão-de-Obra,406482695.03,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Inscrição de RP Não Processados,DO3.3.90.37.00.00,3.3.90.37.00.00 - Locação de Mão-de-Obra,9738860.03,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Inscrição de RP Processados,DO3.3.90.37.00.00,3.3.90.37.00.00 - Locação de Mão-de-Obra,74875,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Empenhadas,DO3.3.90.39.00.00,3.3.90.39.00.00 - Outros Serviços de Terceiros - Pessoa Jurídica,1667948395.62,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Liquidadas,DO3.3.90.39.00.00,3.3.90.39.00.00 - Outros Serviços de Terceiros - Pessoa Jurídica,1538666848.71,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Pagas,DO3.3.90.39.00.00,3.3.90.39.00.00 - Outros Serviços de Terceiros - Pessoa Jurídica,1534675200.86,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Inscrição de RP Não Processados,DO3.3.90.39.00.00,3.3.90.39.00.00 - Outros Serviços de Terceiros - Pessoa Jurídica,129281546.91,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Inscrição de RP Processados,DO3.3.90.39.00.00,3.3.90.39.00.00 - Outros Serviços de Terceiros - Pessoa Jurídica,3991647.85,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Empenhadas,DO3.3.90.46.00.00,3.3.90.46.00.00 - Auxílio-Alimentação,71718574.71,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Liquidadas,DO3.3.90.46.00.00,3.3.90.46.00.00 - Auxílio-Alimentação,71705903.58,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Pagas,DO3.3.90.46.00.00,3.3.90.46.00.00 - Auxílio-Alimentação,71705903.58,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Inscrição de RP Não Processados,DO3.3.90.46.00.00,3.3.90.46.00.00 - Auxílio-Alimentação,12671.13,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Empenhadas,DO3.3.90.47.00.00,3.3.90.47.00.00 - Obrigações Tributárias e Contributivas,57844086.91,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Liquidadas,DO3.3.90.47.00.00,3.3.90.47.00.00 - Obrigações Tributárias e Contributivas,52743388.19,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Pagas,DO3.3.90.47.00.00,3.3.90.47.00.00 - Obrigações Tributárias e Contributivas,52743060.84,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Inscrição de RP Não Processados,DO3.3.90.47.00.00,3.3.90.47.00.00 - Obrigações Tributárias e Contributivas,5100698.72,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Inscrição de RP Processados,DO3.3.90.47.00.00,3.3.90.47.00.00 - Obrigações Tributárias e Contributivas,327.35,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Empenhadas,DO3.3.90.48.00.00,3.3.90.48.00.00 - Outros Auxílios Financeiros a Pessoas Físicas,34883429.95,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Liquidadas,DO3.3.90.48.00.00,3.3.90.48.00.00 - Outros Auxílios Financeiros a Pessoas Físicas,34881110.43,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Pagas,DO3.3.90.48.00.00,3.3.90.48.00.00 - Outros Auxílios Financeiros a Pessoas Físicas,32712453.63,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Inscrição de RP Não Processados,DO3.3.90.48.00.00,3.3.90.48.00.00 - Outros Auxílios Financeiros a Pessoas Físicas,2319.52,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Inscrição de RP Processados,DO3.3.90.48.00.00,3.3.90.48.00.00 - Outros Auxílios Financeiros a Pessoas Físicas,2168656.8,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Empenhadas,DO3.3.90.49.00.00,3.3.90.49.00.00 - Auxílio-Transporte,27064894.54,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Liquidadas,DO3.3.90.49.00.00,3.3.90.49.00.00 - Auxílio-Transporte,27062130.86,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Pagas,DO3.3.90.49.00.00,3.3.90.49.00.00 - Auxílio-Transporte,27062130.86,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Inscrição de RP Não Processados,DO3.3.90.49.00.00,3.3.90.49.00.00 - Auxílio-Transporte,2763.68,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Empenhadas,DO3.3.90.91.00.00,3.3.90.91.00.00 - Sentenças Judiciais,33232270.6,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Liquidadas,DO3.3.90.91.00.00,3.3.90.91.00.00 - Sentenças Judiciais,33232270.6,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Pagas,DO3.3.90.91.00.00,3.3.90.91.00.00 - Sentenças Judiciais,33232270.6,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Empenhadas,DO3.3.90.92.00.00,3.3.90.92.00.00 - Despesas de Exercícios Anteriores,101889379.66,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Liquidadas,DO3.3.90.92.00.00,3.3.90.92.00.00 - Despesas de Exercícios Anteriores,101545710.62,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Pagas,DO3.3.90.92.00.00,3.3.90.92.00.00 - Despesas de Exercícios Anteriores,101414392.72,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Inscrição de RP Não Processados,DO3.3.90.92.00.00,3.3.90.92.00.00 - Despesas de Exercícios Anteriores,343669.04,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Inscrição de RP Processados,DO3.3.90.92.00.00,3.3.90.92.00.00 - Despesas de Exercícios Anteriores,131317.9,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Empenhadas,DO3.3.90.93.00.00,3.3.90.93.00.00 - Indenizações e Restituições,16294848.04,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Liquidadas,DO3.3.90.93.00.00,3.3.90.93.00.00 - Indenizações e Restituições,15866804.36,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Pagas,DO3.3.90.93.00.00,3.3.90.93.00.00 - Indenizações e Restituições,15846734.24,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Inscrição de RP Não Processados,DO3.3.90.93.00.00,3.3.90.93.00.00 - Indenizações e Restituições,428043.68,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Inscrição de RP Processados,DO3.3.90.93.00.00,3.3.90.93.00.00 - Indenizações e Restituições,20070.12,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Empenhadas,DO3.3.90.99.00.00,3.3.90.99.00.00 - A Classificar,3266.07,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Liquidadas,DO3.3.90.99.00.00,3.3.90.99.00.00 - A Classificar,3266.07,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Pagas,DO3.3.90.99.00.00,3.3.90.99.00.00 - A Classificar,3266.07,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Empenhadas,DI3.3.91.00.00.00,"3.3.91.00.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social",6941624.64,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Liquidadas,DI3.3.91.00.00.00,"3.3.91.00.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social",6941624.64,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Pagas,DI3.3.91.00.00.00,"3.3.91.00.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social",6941624.64,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Empenhadas,DO4.0.00.00.00.00,4.0.00.00.00.00 - Despesas de Capital,406683731.09,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Liquidadas,DO4.0.00.00.00.00,4.0.00.00.00.00 - Despesas de Capital,369074601.22,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Pagas,DO4.0.00.00.00.00,4.0.00.00.00.00 - Despesas de Capital,365712601.01,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Inscrição de RP Não Processados,DO4.0.00.00.00.00,4.0.00.00.00.00 - Despesas de Capital,37609129.87,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Inscrição de RP Processados,DO4.0.00.00.00.00,4.0.00.00.00.00 - Despesas de Capital,3362000.21,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Empenhadas,DO4.4.00.00.00.00,4.4.00.00.00.00 - Investimentos,298617196.41,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Liquidadas,DO4.4.00.00.00.00,4.4.00.00.00.00 - Investimentos,261008066.54,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Pagas,DO4.4.00.00.00.00,4.4.00.00.00.00 - Investimentos,257646066.33,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Inscrição de RP Não Processados,DO4.4.00.00.00.00,4.4.00.00.00.00 - Investimentos,37609129.87,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Inscrição de RP Processados,DO4.4.00.00.00.00,4.4.00.00.00.00 - Investimentos,3362000.21,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Empenhadas,DO4.4.50.00.00.00,4.4.50.00.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos,784047.78,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Liquidadas,DO4.4.50.00.00.00,4.4.50.00.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos,784047.78,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Pagas,DO4.4.50.00.00.00,4.4.50.00.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos,784047.78,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Empenhadas,DO4.4.90.00.00.00,4.4.90.00.00.00 - Aplicações Diretas,297833148.63,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Liquidadas,DO4.4.90.00.00.00,4.4.90.00.00.00 - Aplicações Diretas,260224018.76,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Pagas,DO4.4.90.00.00.00,4.4.90.00.00.00 - Aplicações Diretas,256862018.55,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Inscrição de RP Não Processados,DO4.4.90.00.00.00,4.4.90.00.00.00 - Aplicações Diretas,37609129.87,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Inscrição de RP Processados,DO4.4.90.00.00.00,4.4.90.00.00.00 - Aplicações Diretas,3362000.21,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Empenhadas,DO4.4.90.36.00.00,4.4.90.36.00.00 - Outros Serviços de Terceiros - Pessoa Física,3000,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Liquidadas,DO4.4.90.36.00.00,4.4.90.36.00.00 - Outros Serviços de Terceiros - Pessoa Física,3000,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Pagas,DO4.4.90.36.00.00,4.4.90.36.00.00 - Outros Serviços de Terceiros - Pessoa Física,3000,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Empenhadas,DO4.4.90.37.00.00,4.4.90.37.00.00 - Locação de Mão-de-Obra,80689.2,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Liquidadas,DO4.4.90.37.00.00,4.4.90.37.00.00 - Locação de Mão-de-Obra,80689.2,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Pagas,DO4.4.90.37.00.00,4.4.90.37.00.00 - Locação de Mão-de-Obra,80689.2,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Empenhadas,DO4.4.90.39.00.00,4.4.90.39.00.00 - Outros Serviços de Terceiros - Pessoa Jurídica,7952122.42,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Liquidadas,DO4.4.90.39.00.00,4.4.90.39.00.00 - Outros Serviços de Terceiros - Pessoa Jurídica,2297089.33,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Pagas,DO4.4.90.39.00.00,4.4.90.39.00.00 - Outros Serviços de Terceiros - Pessoa Jurídica,1358146.83,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Inscrição de RP Não Processados,DO4.4.90.39.00.00,4.4.90.39.00.00 - Outros Serviços de Terceiros - Pessoa Jurídica,5655033.09,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Inscrição de RP Processados,DO4.4.90.39.00.00,4.4.90.39.00.00 - Outros Serviços de Terceiros - Pessoa Jurídica,938942.5,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Empenhadas,DO4.4.90.51.00.00,4.4.90.51.00.00 - Obras e Instalações,261097578.8,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Liquidadas,DO4.4.90.51.00.00,4.4.90.51.00.00 - Obras e Instalações,231997741,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Pagas,DO4.4.90.51.00.00,4.4.90.51.00.00 - Obras e Instalações,229666922.72,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Inscrição de RP Não Processados,DO4.4.90.51.00.00,4.4.90.51.00.00 - Obras e Instalações,29099837.8,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Inscrição de RP Processados,DO4.4.90.51.00.00,4.4.90.51.00.00 - Obras e Instalações,2330818.28,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Empenhadas,DO4.4.90.51.91.00,4.4.90.51.91.00 - Obras em Andamento,261097578.8,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Liquidadas,DO4.4.90.51.91.00,4.4.90.51.91.00 - Obras em Andamento,231997741,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Pagas,DO4.4.90.51.91.00,4.4.90.51.91.00 - Obras em Andamento,229666922.72,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Inscrição de RP Não Processados,DO4.4.90.51.91.00,4.4.90.51.91.00 - Obras em Andamento,29099837.8,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Inscrição de RP Processados,DO4.4.90.51.91.00,4.4.90.51.91.00 - Obras em Andamento,2330818.28,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Empenhadas,DO4.4.90.52.00.00,4.4.90.52.00.00 - Equipamentos e Material Permanente,17152674.4,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Liquidadas,DO4.4.90.52.00.00,4.4.90.52.00.00 - Equipamentos e Material Permanente,14306405.42,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Pagas,DO4.4.90.52.00.00,4.4.90.52.00.00 - Equipamentos e Material Permanente,14214165.99,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Inscrição de RP Não Processados,DO4.4.90.52.00.00,4.4.90.52.00.00 - Equipamentos e Material Permanente,2846268.98,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Inscrição de RP Processados,DO4.4.90.52.00.00,4.4.90.52.00.00 - Equipamentos e Material Permanente,92239.43,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Empenhadas,DO4.4.90.61.00.00,4.4.90.61.00.00 - Aquisição de Imóveis,3394873.58,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Liquidadas,DO4.4.90.61.00.00,4.4.90.61.00.00 - Aquisição de Imóveis,3394873.58,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Pagas,DO4.4.90.61.00.00,4.4.90.61.00.00 - Aquisição de Imóveis,3394873.58,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Empenhadas,DO4.4.90.92.00.00,4.4.90.92.00.00 - Despesas de Exercícios Anteriores,1144042.68,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Liquidadas,DO4.4.90.92.00.00,4.4.90.92.00.00 - Despesas de Exercícios Anteriores,1136052.68,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Pagas,DO4.4.90.92.00.00,4.4.90.92.00.00 - Despesas de Exercícios Anteriores,1136052.68,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Inscrição de RP Não Processados,DO4.4.90.92.00.00,4.4.90.92.00.00 - Despesas de Exercícios Anteriores,7990,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Empenhadas,DO4.4.90.93.00.00,4.4.90.93.00.00 - Indenizações e Restituições,7008167.55,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Liquidadas,DO4.4.90.93.00.00,4.4.90.93.00.00 - Indenizações e Restituições,7008167.55,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Pagas,DO4.4.90.93.00.00,4.4.90.93.00.00 - Indenizações e Restituições,7008167.55,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Empenhadas,DO4.6.00.00.00.00,4.6.00.00.00.00 - Amortização da Dívida,108066534.68,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Liquidadas,DO4.6.00.00.00.00,4.6.00.00.00.00 - Amortização da Dívida,108066534.68,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Pagas,DO4.6.00.00.00.00,4.6.00.00.00.00 - Amortização da Dívida,108066534.68,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Empenhadas,DO4.6.90.00.00.00,4.6.90.00.00.00 - Aplicações Diretas,108066534.68,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Liquidadas,DO4.6.90.00.00.00,4.6.90.00.00.00 - Aplicações Diretas,108066534.68,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Pagas,DO4.6.90.00.00.00,4.6.90.00.00.00 - Aplicações Diretas,108066534.68,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Empenhadas,DO4.6.90.71.00.00,4.6.90.71.00.00 - Principal da Dívida Contratual Resgatado,68298802.18,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Liquidadas,DO4.6.90.71.00.00,4.6.90.71.00.00 - Principal da Dívida Contratual Resgatado,68298802.18,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Pagas,DO4.6.90.71.00.00,4.6.90.71.00.00 - Principal da Dívida Contratual Resgatado,68298802.18,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Empenhadas,DO4.6.90.91.00.00,4.6.90.91.00.00 - Sentenças Judiciais,39767732.5,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Liquidadas,DO4.6.90.91.00.00,4.6.90.91.00.00 - Sentenças Judiciais,39767732.5,2921087
+2016,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-D,,Despesas Pagas,DO4.6.90.91.00.00,4.6.90.91.00.00 - Sentenças Judiciais,39767732.5,2921087

@@ -1,0 +1,282 @@
+exercicio,instituicao,cod_ibge,uf,anexo,rotulo,coluna,cod_conta,conta,valor,populacao
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Empenhadas,TotalDespesas,Total Geral da Despesa,1557709488.25,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Liquidadas,TotalDespesas,Total Geral da Despesa,1543745637.87,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Pagas,TotalDespesas,Total Geral da Despesa,1470191634.93,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Inscrição de RP Não Processados,TotalDespesas,Total Geral da Despesa,13963850.38,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Inscrição de RP Processados,TotalDespesas,Total Geral da Despesa,73554002.94,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Empenhadas,DO3.0.00.00.00.00,3.0.00.00.00.00 - Despesas Correntes,1496530366.98,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Liquidadas,DO3.0.00.00.00.00,3.0.00.00.00.00 - Despesas Correntes,1484212198.23,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Pagas,DO3.0.00.00.00.00,3.0.00.00.00.00 - Despesas Correntes,1419407537.95,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Inscrição de RP Não Processados,DO3.0.00.00.00.00,3.0.00.00.00.00 - Despesas Correntes,12318168.75,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Inscrição de RP Processados,DO3.0.00.00.00.00,3.0.00.00.00.00 - Despesas Correntes,64804660.28,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Empenhadas,DO3.1.00.00.00.00,3.1.00.00.00.00 - Pessoal e Encargos Sociais,776366337.79,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Liquidadas,DO3.1.00.00.00.00,3.1.00.00.00.00 - Pessoal e Encargos Sociais,775353630.58,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Pagas,DO3.1.00.00.00.00,3.1.00.00.00.00 - Pessoal e Encargos Sociais,760475096.47,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Inscrição de RP Não Processados,DO3.1.00.00.00.00,3.1.00.00.00.00 - Pessoal e Encargos Sociais,1012707.21,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Inscrição de RP Processados,DO3.1.00.00.00.00,3.1.00.00.00.00 - Pessoal e Encargos Sociais,14878534.11,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Empenhadas,DO3.1.90.00.00.00,3.1.90.00.00.00 - Aplicações Diretas,709668361.85,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Liquidadas,DO3.1.90.00.00.00,3.1.90.00.00.00 - Aplicações Diretas,708674965.19,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Pagas,DO3.1.90.00.00.00,3.1.90.00.00.00 - Aplicações Diretas,699736891.78,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Inscrição de RP Não Processados,DO3.1.90.00.00.00,3.1.90.00.00.00 - Aplicações Diretas,993396.66,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Inscrição de RP Processados,DO3.1.90.00.00.00,3.1.90.00.00.00 - Aplicações Diretas,8938073.41,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Empenhadas,DO3.1.90.01.00.00,"3.1.90.01.00.00 - Aposentadorias do RPPS, Reserva Remunerada e Reformas dos Militares",150042033.51,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Liquidadas,DO3.1.90.01.00.00,"3.1.90.01.00.00 - Aposentadorias do RPPS, Reserva Remunerada e Reformas dos Militares",149989714.2,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Pagas,DO3.1.90.01.00.00,"3.1.90.01.00.00 - Aposentadorias do RPPS, Reserva Remunerada e Reformas dos Militares",149980072.5,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Inscrição de RP Não Processados,DO3.1.90.01.00.00,"3.1.90.01.00.00 - Aposentadorias do RPPS, Reserva Remunerada e Reformas dos Militares",52319.31,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Inscrição de RP Processados,DO3.1.90.01.00.00,"3.1.90.01.00.00 - Aposentadorias do RPPS, Reserva Remunerada e Reformas dos Militares",9641.7,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Empenhadas,DO3.1.90.03.00.00,3.1.90.03.00.00 - Pensões do RPPS e do Militar,14558390.28,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Liquidadas,DO3.1.90.03.00.00,3.1.90.03.00.00 - Pensões do RPPS e do Militar,14287455.02,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Pagas,DO3.1.90.03.00.00,3.1.90.03.00.00 - Pensões do RPPS e do Militar,14285712.02,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Inscrição de RP Não Processados,DO3.1.90.03.00.00,3.1.90.03.00.00 - Pensões do RPPS e do Militar,270935.26,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Inscrição de RP Processados,DO3.1.90.03.00.00,3.1.90.03.00.00 - Pensões do RPPS e do Militar,1743,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Empenhadas,DO3.1.90.04.00.00,3.1.90.04.00.00 - Contratação por Tempo Determinado,4166000.38,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Liquidadas,DO3.1.90.04.00.00,3.1.90.04.00.00 - Contratação por Tempo Determinado,4166000.38,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Pagas,DO3.1.90.04.00.00,3.1.90.04.00.00 - Contratação por Tempo Determinado,4159550.38,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Inscrição de RP Processados,DO3.1.90.04.00.00,3.1.90.04.00.00 - Contratação por Tempo Determinado,6450,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Empenhadas,DO3.1.90.08.00.00,3.1.90.08.00.00 - Outros Benefícios Assistenciais,1029568.24,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Liquidadas,DO3.1.90.08.00.00,3.1.90.08.00.00 - Outros Benefícios Assistenciais,1029568.24,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Pagas,DO3.1.90.08.00.00,3.1.90.08.00.00 - Outros Benefícios Assistenciais,936611.75,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Inscrição de RP Processados,DO3.1.90.08.00.00,3.1.90.08.00.00 - Outros Benefícios Assistenciais,92956.49,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Empenhadas,DO3.1.90.11.00.00,3.1.90.11.00.00 - Vencimentos e Vantagens Fixas - Pessoal Civil,461579832.05,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Liquidadas,DO3.1.90.11.00.00,3.1.90.11.00.00 - Vencimentos e Vantagens Fixas - Pessoal Civil,461158665.69,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Pagas,DO3.1.90.11.00.00,3.1.90.11.00.00 - Vencimentos e Vantagens Fixas - Pessoal Civil,456787901.65,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Inscrição de RP Não Processados,DO3.1.90.11.00.00,3.1.90.11.00.00 - Vencimentos e Vantagens Fixas - Pessoal Civil,421166.36,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Inscrição de RP Processados,DO3.1.90.11.00.00,3.1.90.11.00.00 - Vencimentos e Vantagens Fixas - Pessoal Civil,4370764.04,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Empenhadas,DO3.1.90.13.00.00,3.1.90.13.00.00 - Obrigações Patronais,27461658.7,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Liquidadas,DO3.1.90.13.00.00,3.1.90.13.00.00 - Obrigações Patronais,27449043.04,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Pagas,DO3.1.90.13.00.00,3.1.90.13.00.00 - Obrigações Patronais,26222464.54,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Inscrição de RP Não Processados,DO3.1.90.13.00.00,3.1.90.13.00.00 - Obrigações Patronais,12615.66,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Inscrição de RP Processados,DO3.1.90.13.00.00,3.1.90.13.00.00 - Obrigações Patronais,1226578.5,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Empenhadas,DO3.1.90.13.99.00,3.1.90.13.99.00 - Outras Obrigações Patronais,27461658.7,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Liquidadas,DO3.1.90.13.99.00,3.1.90.13.99.00 - Outras Obrigações Patronais,27449043.04,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Pagas,DO3.1.90.13.99.00,3.1.90.13.99.00 - Outras Obrigações Patronais,26222464.54,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Inscrição de RP Não Processados,DO3.1.90.13.99.00,3.1.90.13.99.00 - Outras Obrigações Patronais,12615.66,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Inscrição de RP Processados,DO3.1.90.13.99.00,3.1.90.13.99.00 - Outras Obrigações Patronais,1226578.5,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Empenhadas,DO3.1.90.16.00.00,3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil,8932345.41,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Liquidadas,DO3.1.90.16.00.00,3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil,8932345.41,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Pagas,DO3.1.90.16.00.00,3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil,8916660.49,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Inscrição de RP Processados,DO3.1.90.16.00.00,3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil,15684.92,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Empenhadas,DO3.1.90.91.00.00,3.1.90.91.00.00 - Sentenças Judiciais,6241539.69,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Liquidadas,DO3.1.90.91.00.00,3.1.90.91.00.00 - Sentenças Judiciais,6241539.69,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Pagas,DO3.1.90.91.00.00,3.1.90.91.00.00 - Sentenças Judiciais,6156658.7,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Inscrição de RP Processados,DO3.1.90.91.00.00,3.1.90.91.00.00 - Sentenças Judiciais,84880.99,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Empenhadas,DO3.1.90.92.00.00,3.1.90.92.00.00 - Despesas de Exercícios Anteriores,1618587.16,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Liquidadas,DO3.1.90.92.00.00,3.1.90.92.00.00 - Despesas de Exercícios Anteriores,1618587.16,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Pagas,DO3.1.90.92.00.00,3.1.90.92.00.00 - Despesas de Exercícios Anteriores,1474564.46,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Inscrição de RP Processados,DO3.1.90.92.00.00,3.1.90.92.00.00 - Despesas de Exercícios Anteriores,144022.7,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Empenhadas,DO3.1.90.94.00.00,3.1.90.94.00.00 - Indenizações e Restituições Trabalhistas,649650.77,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Liquidadas,DO3.1.90.94.00.00,3.1.90.94.00.00 - Indenizações e Restituições Trabalhistas,649650.77,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Pagas,DO3.1.90.94.00.00,3.1.90.94.00.00 - Indenizações e Restituições Trabalhistas,605695.72,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Inscrição de RP Processados,DO3.1.90.94.00.00,3.1.90.94.00.00 - Indenizações e Restituições Trabalhistas,43955.05,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Empenhadas,DO3.1.90.96.00.00,3.1.90.96.00.00 - Ressarcimento de Despesas de Pessoal Requisitado,1814819.01,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Liquidadas,DO3.1.90.96.00.00,3.1.90.96.00.00 - Ressarcimento de Despesas de Pessoal Requisitado,1698025.2,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Pagas,DO3.1.90.96.00.00,3.1.90.96.00.00 - Ressarcimento de Despesas de Pessoal Requisitado,1488114.37,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Inscrição de RP Não Processados,DO3.1.90.96.00.00,3.1.90.96.00.00 - Ressarcimento de Despesas de Pessoal Requisitado,116793.81,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Inscrição de RP Processados,DO3.1.90.96.00.00,3.1.90.96.00.00 - Ressarcimento de Despesas de Pessoal Requisitado,209910.83,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Empenhadas,DO3.1.90.99.00.00,3.1.90.99.00.00 - A Classificar,31573936.65,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Liquidadas,DO3.1.90.99.00.00,3.1.90.99.00.00 - A Classificar,31454370.39,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Pagas,DO3.1.90.99.00.00,3.1.90.99.00.00 - A Classificar,28722885.2,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Inscrição de RP Não Processados,DO3.1.90.99.00.00,3.1.90.99.00.00 - A Classificar,119566.26,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Inscrição de RP Processados,DO3.1.90.99.00.00,3.1.90.99.00.00 - A Classificar,2731485.19,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Empenhadas,DI3.1.91.00.00.00,"3.1.91.00.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social",66697975.94,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Liquidadas,DI3.1.91.00.00.00,"3.1.91.00.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social",66678665.39,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Pagas,DI3.1.91.00.00.00,"3.1.91.00.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social",60738204.69,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Inscrição de RP Não Processados,DI3.1.91.00.00.00,"3.1.91.00.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social",19310.55,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Inscrição de RP Processados,DI3.1.91.00.00.00,"3.1.91.00.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social",5940460.7,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Empenhadas,DI3.1.91.13.00.00,3.1.91.13.00.00 - Contribuições Patronais,66657975.94,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Liquidadas,DI3.1.91.13.00.00,3.1.91.13.00.00 - Contribuições Patronais,66648536.27,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Pagas,DI3.1.91.13.00.00,3.1.91.13.00.00 - Contribuições Patronais,60708075.57,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Inscrição de RP Não Processados,DI3.1.91.13.00.00,3.1.91.13.00.00 - Contribuições Patronais,9439.67,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Inscrição de RP Processados,DI3.1.91.13.00.00,3.1.91.13.00.00 - Contribuições Patronais,5940460.7,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Empenhadas,DI3.1.91.13.03.00,3.1.91.13.03.00 - Contribuição Patronal para o RPPS - Intraorçamentária,66657975.94,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Liquidadas,DI3.1.91.13.03.00,3.1.91.13.03.00 - Contribuição Patronal para o RPPS - Intraorçamentária,66648536.27,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Pagas,DI3.1.91.13.03.00,3.1.91.13.03.00 - Contribuição Patronal para o RPPS - Intraorçamentária,60708075.57,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Inscrição de RP Não Processados,DI3.1.91.13.03.00,3.1.91.13.03.00 - Contribuição Patronal para o RPPS - Intraorçamentária,9439.67,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Inscrição de RP Processados,DI3.1.91.13.03.00,3.1.91.13.03.00 - Contribuição Patronal para o RPPS - Intraorçamentária,5940460.7,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Empenhadas,DI3.1.91.92.00.00,3.1.91.92.00.00 - Despesas de Exercícios Anteriores,40000,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Liquidadas,DI3.1.91.92.00.00,3.1.91.92.00.00 - Despesas de Exercícios Anteriores,30129.12,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Pagas,DI3.1.91.92.00.00,3.1.91.92.00.00 - Despesas de Exercícios Anteriores,30129.12,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Inscrição de RP Não Processados,DI3.1.91.92.00.00,3.1.91.92.00.00 - Despesas de Exercícios Anteriores,9870.88,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Empenhadas,DO3.2.00.00.00.00,3.2.00.00.00.00 - Juros e Encargos da Dívida,2113461.1,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Liquidadas,DO3.2.00.00.00.00,3.2.00.00.00.00 - Juros e Encargos da Dívida,2113461.1,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Pagas,DO3.2.00.00.00.00,3.2.00.00.00.00 - Juros e Encargos da Dívida,2112867.1,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Inscrição de RP Processados,DO3.2.00.00.00.00,3.2.00.00.00.00 - Juros e Encargos da Dívida,594,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Empenhadas,DO3.2.90.00.00.00,3.2.90.00.00.00 - Aplicações Diretas,2113461.1,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Liquidadas,DO3.2.90.00.00.00,3.2.90.00.00.00 - Aplicações Diretas,2113461.1,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Pagas,DO3.2.90.00.00.00,3.2.90.00.00.00 - Aplicações Diretas,2112867.1,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Inscrição de RP Processados,DO3.2.90.00.00.00,3.2.90.00.00.00 - Aplicações Diretas,594,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Empenhadas,DO3.2.90.21.00.00,3.2.90.21.00.00 - Juros sobre a Dívida por Contrato,1539258.42,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Liquidadas,DO3.2.90.21.00.00,3.2.90.21.00.00 - Juros sobre a Dívida por Contrato,1539258.42,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Pagas,DO3.2.90.21.00.00,3.2.90.21.00.00 - Juros sobre a Dívida por Contrato,1539258.42,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Empenhadas,DO3.2.90.22.00.00,3.2.90.22.00.00 - Outros Encargos sobre a Dívida por Contrato,574202.68,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Liquidadas,DO3.2.90.22.00.00,3.2.90.22.00.00 - Outros Encargos sobre a Dívida por Contrato,574202.68,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Pagas,DO3.2.90.22.00.00,3.2.90.22.00.00 - Outros Encargos sobre a Dívida por Contrato,573608.68,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Inscrição de RP Processados,DO3.2.90.22.00.00,3.2.90.22.00.00 - Outros Encargos sobre a Dívida por Contrato,594,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Empenhadas,DO3.3.00.00.00.00,3.3.00.00.00.00 - Outras Despesas Correntes,718050568.09,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Liquidadas,DO3.3.00.00.00.00,3.3.00.00.00.00 - Outras Despesas Correntes,706745106.55,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Pagas,DO3.3.00.00.00.00,3.3.00.00.00.00 - Outras Despesas Correntes,656819574.38,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Inscrição de RP Não Processados,DO3.3.00.00.00.00,3.3.00.00.00.00 - Outras Despesas Correntes,11305461.54,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Inscrição de RP Processados,DO3.3.00.00.00.00,3.3.00.00.00.00 - Outras Despesas Correntes,49925532.17,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Empenhadas,DO3.3.50.00.00.00,3.3.50.00.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos,1606597.58,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Liquidadas,DO3.3.50.00.00.00,3.3.50.00.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos,1278714.25,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Pagas,DO3.3.50.00.00.00,3.3.50.00.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos,1278714.25,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Inscrição de RP Não Processados,DO3.3.50.00.00.00,3.3.50.00.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos,327883.33,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Empenhadas,DO3.3.90.00.00.00,3.3.90.00.00.00 - Aplicações Diretas,600342715.07,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Liquidadas,DO3.3.90.00.00.00,3.3.90.00.00.00 - Aplicações Diretas,589365136.86,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Pagas,DO3.3.90.00.00.00,3.3.90.00.00.00 - Aplicações Diretas,539439604.69,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Inscrição de RP Não Processados,DO3.3.90.00.00.00,3.3.90.00.00.00 - Aplicações Diretas,10977578.21,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Inscrição de RP Processados,DO3.3.90.00.00.00,3.3.90.00.00.00 - Aplicações Diretas,49925532.17,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Empenhadas,DO3.3.90.08.00.00,3.3.90.08.00.00 - Outros Benefícios Assistenciais do servidor e do militar,12710.02,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Liquidadas,DO3.3.90.08.00.00,3.3.90.08.00.00 - Outros Benefícios Assistenciais do servidor e do militar,12710.02,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Pagas,DO3.3.90.08.00.00,3.3.90.08.00.00 - Outros Benefícios Assistenciais do servidor e do militar,12710.02,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Empenhadas,DO3.3.90.14.00.00,3.3.90.14.00.00 - Diárias - Civil,926243.05,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Liquidadas,DO3.3.90.14.00.00,3.3.90.14.00.00 - Diárias - Civil,922243.05,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Pagas,DO3.3.90.14.00.00,3.3.90.14.00.00 - Diárias - Civil,921043.05,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Inscrição de RP Não Processados,DO3.3.90.14.00.00,3.3.90.14.00.00 - Diárias - Civil,4000,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Inscrição de RP Processados,DO3.3.90.14.00.00,3.3.90.14.00.00 - Diárias - Civil,1200,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Empenhadas,DO3.3.90.19.00.00,3.3.90.19.00.00 - Auxílio-Fardamento,405080,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Liquidadas,DO3.3.90.19.00.00,3.3.90.19.00.00 - Auxílio-Fardamento,405080,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Pagas,DO3.3.90.19.00.00,3.3.90.19.00.00 - Auxílio-Fardamento,405080,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Empenhadas,DO3.3.90.30.00.00,3.3.90.30.00.00 - Material de Consumo,25699163.49,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Liquidadas,DO3.3.90.30.00.00,3.3.90.30.00.00 - Material de Consumo,23022862.83,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Pagas,DO3.3.90.30.00.00,3.3.90.30.00.00 - Material de Consumo,19417176.12,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Inscrição de RP Não Processados,DO3.3.90.30.00.00,3.3.90.30.00.00 - Material de Consumo,2676300.66,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Inscrição de RP Processados,DO3.3.90.30.00.00,3.3.90.30.00.00 - Material de Consumo,3605686.71,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Empenhadas,DO3.3.90.31.00.00,"3.3.90.31.00.00 - Premiações Culturais, Artísticas, Científicas, Desportivas e Outras",188345,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Liquidadas,DO3.3.90.31.00.00,"3.3.90.31.00.00 - Premiações Culturais, Artísticas, Científicas, Desportivas e Outras",187190,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Pagas,DO3.3.90.31.00.00,"3.3.90.31.00.00 - Premiações Culturais, Artísticas, Científicas, Desportivas e Outras",139800,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Inscrição de RP Não Processados,DO3.3.90.31.00.00,"3.3.90.31.00.00 - Premiações Culturais, Artísticas, Científicas, Desportivas e Outras",1155,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Inscrição de RP Processados,DO3.3.90.31.00.00,"3.3.90.31.00.00 - Premiações Culturais, Artísticas, Científicas, Desportivas e Outras",47390,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Empenhadas,DO3.3.90.32.00.00,"3.3.90.32.00.00 - Material, Bem ou Serviço para Distribuição Gratuita",5458835.01,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Liquidadas,DO3.3.90.32.00.00,"3.3.90.32.00.00 - Material, Bem ou Serviço para Distribuição Gratuita",5458835.01,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Pagas,DO3.3.90.32.00.00,"3.3.90.32.00.00 - Material, Bem ou Serviço para Distribuição Gratuita",4346788.56,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Inscrição de RP Processados,DO3.3.90.32.00.00,"3.3.90.32.00.00 - Material, Bem ou Serviço para Distribuição Gratuita",1112046.45,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Empenhadas,DO3.3.90.33.00.00,3.3.90.33.00.00 - Passagens e Despesas com Locomoção,1202504.18,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Liquidadas,DO3.3.90.33.00.00,3.3.90.33.00.00 - Passagens e Despesas com Locomoção,1105125.18,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Pagas,DO3.3.90.33.00.00,3.3.90.33.00.00 - Passagens e Despesas com Locomoção,1011273.01,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Inscrição de RP Não Processados,DO3.3.90.33.00.00,3.3.90.33.00.00 - Passagens e Despesas com Locomoção,97379,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Inscrição de RP Processados,DO3.3.90.33.00.00,3.3.90.33.00.00 - Passagens e Despesas com Locomoção,93852.17,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Empenhadas,DO3.3.90.35.00.00,3.3.90.35.00.00 - Serviços de Consultoria,1766482.35,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Liquidadas,DO3.3.90.35.00.00,3.3.90.35.00.00 - Serviços de Consultoria,1614956.11,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Pagas,DO3.3.90.35.00.00,3.3.90.35.00.00 - Serviços de Consultoria,1449176.1,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Inscrição de RP Não Processados,DO3.3.90.35.00.00,3.3.90.35.00.00 - Serviços de Consultoria,151526.24,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Inscrição de RP Processados,DO3.3.90.35.00.00,3.3.90.35.00.00 - Serviços de Consultoria,165780.01,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Empenhadas,DO3.3.90.36.00.00,3.3.90.36.00.00 - Outros Serviços de Terceiros - Pessoa Física,21099558.19,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Liquidadas,DO3.3.90.36.00.00,3.3.90.36.00.00 - Outros Serviços de Terceiros - Pessoa Física,20952197.33,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Pagas,DO3.3.90.36.00.00,3.3.90.36.00.00 - Outros Serviços de Terceiros - Pessoa Física,19957367.09,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Inscrição de RP Não Processados,DO3.3.90.36.00.00,3.3.90.36.00.00 - Outros Serviços de Terceiros - Pessoa Física,147360.86,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Inscrição de RP Processados,DO3.3.90.36.00.00,3.3.90.36.00.00 - Outros Serviços de Terceiros - Pessoa Física,994830.24,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Empenhadas,DO3.3.90.37.00.00,3.3.90.37.00.00 - Locação de Mão-de-Obra,37848.35,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Liquidadas,DO3.3.90.37.00.00,3.3.90.37.00.00 - Locação de Mão-de-Obra,37848.35,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Pagas,DO3.3.90.37.00.00,3.3.90.37.00.00 - Locação de Mão-de-Obra,37848.35,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Empenhadas,DO3.3.90.39.00.00,3.3.90.39.00.00 - Outros Serviços de Terceiros - Pessoa Jurídica,458455674.72,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Liquidadas,DO3.3.90.39.00.00,3.3.90.39.00.00 - Outros Serviços de Terceiros - Pessoa Jurídica,450930440.98,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Pagas,DO3.3.90.39.00.00,3.3.90.39.00.00 - Outros Serviços de Terceiros - Pessoa Jurídica,407972298.66,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Inscrição de RP Não Processados,DO3.3.90.39.00.00,3.3.90.39.00.00 - Outros Serviços de Terceiros - Pessoa Jurídica,7525233.74,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Inscrição de RP Processados,DO3.3.90.39.00.00,3.3.90.39.00.00 - Outros Serviços de Terceiros - Pessoa Jurídica,42958142.32,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Empenhadas,DO3.3.90.41.00.00,3.3.90.41.00.00 - Contribuições,2293813.9,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Liquidadas,DO3.3.90.41.00.00,3.3.90.41.00.00 - Contribuições,2293813.9,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Pagas,DO3.3.90.41.00.00,3.3.90.41.00.00 - Contribuições,2293813.9,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Empenhadas,DO3.3.90.43.00.00,3.3.90.43.00.00 - Subvenções Sociais,50000,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Liquidadas,DO3.3.90.43.00.00,3.3.90.43.00.00 - Subvenções Sociais,35000,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Pagas,DO3.3.90.43.00.00,3.3.90.43.00.00 - Subvenções Sociais,35000,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Inscrição de RP Não Processados,DO3.3.90.43.00.00,3.3.90.43.00.00 - Subvenções Sociais,15000,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Empenhadas,DO3.3.90.46.00.00,3.3.90.46.00.00 - Auxílio-Alimentação,4883558.07,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Liquidadas,DO3.3.90.46.00.00,3.3.90.46.00.00 - Auxílio-Alimentação,4883558.07,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Pagas,DO3.3.90.46.00.00,3.3.90.46.00.00 - Auxílio-Alimentação,4883558.07,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Empenhadas,DO3.3.90.47.00.00,3.3.90.47.00.00 - Obrigações Tributárias e Contributivas,13905671.56,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Liquidadas,DO3.3.90.47.00.00,3.3.90.47.00.00 - Obrigações Tributárias e Contributivas,13905671.56,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Pagas,DO3.3.90.47.00.00,3.3.90.47.00.00 - Obrigações Tributárias e Contributivas,13862150.68,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Inscrição de RP Processados,DO3.3.90.47.00.00,3.3.90.47.00.00 - Obrigações Tributárias e Contributivas,43520.88,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Empenhadas,DO3.3.90.48.00.00,3.3.90.48.00.00 - Outros Auxílios Financeiros a Pessoas Físicas,5060446.84,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Liquidadas,DO3.3.90.48.00.00,3.3.90.48.00.00 - Outros Auxílios Financeiros a Pessoas Físicas,5056875.84,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Pagas,DO3.3.90.48.00.00,3.3.90.48.00.00 - Outros Auxílios Financeiros a Pessoas Físicas,4945983.84,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Inscrição de RP Não Processados,DO3.3.90.48.00.00,3.3.90.48.00.00 - Outros Auxílios Financeiros a Pessoas Físicas,3571,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Inscrição de RP Processados,DO3.3.90.48.00.00,3.3.90.48.00.00 - Outros Auxílios Financeiros a Pessoas Físicas,110892,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Empenhadas,DO3.3.90.91.00.00,3.3.90.91.00.00 - Sentenças Judiciais,1755790.37,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Liquidadas,DO3.3.90.91.00.00,3.3.90.91.00.00 - Sentenças Judiciais,1751400.13,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Pagas,DO3.3.90.91.00.00,3.3.90.91.00.00 - Sentenças Judiciais,1692219.43,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Inscrição de RP Não Processados,DO3.3.90.91.00.00,3.3.90.91.00.00 - Sentenças Judiciais,4390.24,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Inscrição de RP Processados,DO3.3.90.91.00.00,3.3.90.91.00.00 - Sentenças Judiciais,59180.7,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Empenhadas,DO3.3.90.92.00.00,3.3.90.92.00.00 - Despesas de Exercícios Anteriores,51327744.54,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Liquidadas,DO3.3.90.92.00.00,3.3.90.92.00.00 - Despesas de Exercícios Anteriores,51006773.45,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Pagas,DO3.3.90.92.00.00,3.3.90.92.00.00 - Despesas de Exercícios Anteriores,50318214.08,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Inscrição de RP Não Processados,DO3.3.90.92.00.00,3.3.90.92.00.00 - Despesas de Exercícios Anteriores,320971.09,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Inscrição de RP Processados,DO3.3.90.92.00.00,3.3.90.92.00.00 - Despesas de Exercícios Anteriores,688559.37,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Empenhadas,DO3.3.90.93.00.00,3.3.90.93.00.00 - Indenizações e Restituições,5813245.43,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Liquidadas,DO3.3.90.93.00.00,3.3.90.93.00.00 - Indenizações e Restituições,5782555.05,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Pagas,DO3.3.90.93.00.00,3.3.90.93.00.00 - Indenizações e Restituições,5738103.73,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Inscrição de RP Não Processados,DO3.3.90.93.00.00,3.3.90.93.00.00 - Indenizações e Restituições,30690.38,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Inscrição de RP Processados,DO3.3.90.93.00.00,3.3.90.93.00.00 - Indenizações e Restituições,44451.32,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Empenhadas,DI3.3.91.00.00.00,"3.3.91.00.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social",116101255.44,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Liquidadas,DI3.3.91.00.00.00,"3.3.91.00.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social",116101255.44,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Pagas,DI3.3.91.00.00.00,"3.3.91.00.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social",116101255.44,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Empenhadas,DO4.0.00.00.00.00,4.0.00.00.00.00 - Despesas de Capital,61179121.27,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Liquidadas,DO4.0.00.00.00.00,4.0.00.00.00.00 - Despesas de Capital,59533439.64,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Pagas,DO4.0.00.00.00.00,4.0.00.00.00.00 - Despesas de Capital,50784096.98,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Inscrição de RP Não Processados,DO4.0.00.00.00.00,4.0.00.00.00.00 - Despesas de Capital,1645681.63,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Inscrição de RP Processados,DO4.0.00.00.00.00,4.0.00.00.00.00 - Despesas de Capital,8749342.66,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Empenhadas,DO4.4.00.00.00.00,4.4.00.00.00.00 - Investimentos,49395324.28,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Liquidadas,DO4.4.00.00.00.00,4.4.00.00.00.00 - Investimentos,47749642.65,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Pagas,DO4.4.00.00.00.00,4.4.00.00.00.00 - Investimentos,39000299.99,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Inscrição de RP Não Processados,DO4.4.00.00.00.00,4.4.00.00.00.00 - Investimentos,1645681.63,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Inscrição de RP Processados,DO4.4.00.00.00.00,4.4.00.00.00.00 - Investimentos,8749342.66,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Empenhadas,DO4.4.50.00.00.00,4.4.50.00.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos,12040,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Liquidadas,DO4.4.50.00.00.00,4.4.50.00.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos,12040,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Pagas,DO4.4.50.00.00.00,4.4.50.00.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos,12040,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Empenhadas,DO4.4.90.00.00.00,4.4.90.00.00.00 - Aplicações Diretas,49383284.28,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Liquidadas,DO4.4.90.00.00.00,4.4.90.00.00.00 - Aplicações Diretas,47737602.65,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Pagas,DO4.4.90.00.00.00,4.4.90.00.00.00 - Aplicações Diretas,38988259.99,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Inscrição de RP Não Processados,DO4.4.90.00.00.00,4.4.90.00.00.00 - Aplicações Diretas,1645681.63,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Inscrição de RP Processados,DO4.4.90.00.00.00,4.4.90.00.00.00 - Aplicações Diretas,8749342.66,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Empenhadas,DO4.4.90.51.00.00,4.4.90.51.00.00 - Obras e Instalações,25307635.91,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Liquidadas,DO4.4.90.51.00.00,4.4.90.51.00.00 - Obras e Instalações,24037644.03,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Pagas,DO4.4.90.51.00.00,4.4.90.51.00.00 - Obras e Instalações,17211521.14,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Inscrição de RP Não Processados,DO4.4.90.51.00.00,4.4.90.51.00.00 - Obras e Instalações,1269991.88,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Inscrição de RP Processados,DO4.4.90.51.00.00,4.4.90.51.00.00 - Obras e Instalações,6826122.89,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Empenhadas,DO4.4.90.51.99.00,4.4.90.51.99.00 - Demais Obras e Instalações,25307635.91,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Liquidadas,DO4.4.90.51.99.00,4.4.90.51.99.00 - Demais Obras e Instalações,24037644.03,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Pagas,DO4.4.90.51.99.00,4.4.90.51.99.00 - Demais Obras e Instalações,17211521.14,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Inscrição de RP Não Processados,DO4.4.90.51.99.00,4.4.90.51.99.00 - Demais Obras e Instalações,1269991.88,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Inscrição de RP Processados,DO4.4.90.51.99.00,4.4.90.51.99.00 - Demais Obras e Instalações,6826122.89,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Empenhadas,DO4.4.90.52.00.00,4.4.90.52.00.00 - Equipamentos e Material Permanente,7854988.49,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Liquidadas,DO4.4.90.52.00.00,4.4.90.52.00.00 - Equipamentos e Material Permanente,7479298.74,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Pagas,DO4.4.90.52.00.00,4.4.90.52.00.00 - Equipamentos e Material Permanente,5745175.56,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Inscrição de RP Não Processados,DO4.4.90.52.00.00,4.4.90.52.00.00 - Equipamentos e Material Permanente,375689.75,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Inscrição de RP Processados,DO4.4.90.52.00.00,4.4.90.52.00.00 - Equipamentos e Material Permanente,1734123.18,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Empenhadas,DO4.4.90.61.00.00,4.4.90.61.00.00 - Aquisição de Imóveis,3884666.81,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Liquidadas,DO4.4.90.61.00.00,4.4.90.61.00.00 - Aquisição de Imóveis,3884666.81,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Pagas,DO4.4.90.61.00.00,4.4.90.61.00.00 - Aquisição de Imóveis,3768037.81,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Inscrição de RP Processados,DO4.4.90.61.00.00,4.4.90.61.00.00 - Aquisição de Imóveis,116629,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Empenhadas,DO4.4.90.92.00.00,4.4.90.92.00.00 - Despesas de Exercícios Anteriores,9135775.87,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Liquidadas,DO4.4.90.92.00.00,4.4.90.92.00.00 - Despesas de Exercícios Anteriores,9135775.87,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Pagas,DO4.4.90.92.00.00,4.4.90.92.00.00 - Despesas de Exercícios Anteriores,9063308.65,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Inscrição de RP Processados,DO4.4.90.92.00.00,4.4.90.92.00.00 - Despesas de Exercícios Anteriores,72467.22,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Empenhadas,DO4.4.90.93.00.00,4.4.90.93.00.00 - Indenizações e Restituições,3200217.2,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Liquidadas,DO4.4.90.93.00.00,4.4.90.93.00.00 - Indenizações e Restituições,3200217.2,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Pagas,DO4.4.90.93.00.00,4.4.90.93.00.00 - Indenizações e Restituições,3200216.83,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Inscrição de RP Processados,DO4.4.90.93.00.00,4.4.90.93.00.00 - Indenizações e Restituições,0.37,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Empenhadas,DO4.5.00.00.00.00,4.5.00.00.00.00 - Inversões Financeiras,1300000,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Liquidadas,DO4.5.00.00.00.00,4.5.00.00.00.00 - Inversões Financeiras,1300000,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Pagas,DO4.5.00.00.00.00,4.5.00.00.00.00 - Inversões Financeiras,1300000,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Empenhadas,DO4.5.90.00.00.00,4.5.90.00.00.00 - Aplicações Diretas,1300000,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Liquidadas,DO4.5.90.00.00.00,4.5.90.00.00.00 - Aplicações Diretas,1300000,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Pagas,DO4.5.90.00.00.00,4.5.90.00.00.00 - Aplicações Diretas,1300000,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Empenhadas,DO4.5.90.61.00.00,4.5.90.61.00.00 - Aquisição de Imóveis,1300000,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Liquidadas,DO4.5.90.61.00.00,4.5.90.61.00.00 - Aquisição de Imóveis,1300000,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Pagas,DO4.5.90.61.00.00,4.5.90.61.00.00 - Aquisição de Imóveis,1300000,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Empenhadas,DO4.6.00.00.00.00,4.6.00.00.00.00 - Amortização da Dívida,10483796.99,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Liquidadas,DO4.6.00.00.00.00,4.6.00.00.00.00 - Amortização da Dívida,10483796.99,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Pagas,DO4.6.00.00.00.00,4.6.00.00.00.00 - Amortização da Dívida,10483796.99,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Empenhadas,DO4.6.90.00.00.00,4.6.90.00.00.00 - Aplicações Diretas,10483796.99,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Liquidadas,DO4.6.90.00.00.00,4.6.90.00.00.00 - Aplicações Diretas,10483796.99,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Pagas,DO4.6.90.00.00.00,4.6.90.00.00.00 - Aplicações Diretas,10483796.99,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Empenhadas,DO4.6.90.71.00.00,4.6.90.71.00.00 - Principal da Dívida Contratual Resgatado,8158768.7,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Liquidadas,DO4.6.90.71.00.00,4.6.90.71.00.00 - Principal da Dívida Contratual Resgatado,8158768.7,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Pagas,DO4.6.90.71.00.00,4.6.90.71.00.00 - Principal da Dívida Contratual Resgatado,8158768.7,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Empenhadas,DO4.6.90.73.00.00,4.6.90.73.00.00 - Correção Monetária ou Cambial da Dívida Contratual Resgatada,1458362.15,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Liquidadas,DO4.6.90.73.00.00,4.6.90.73.00.00 - Correção Monetária ou Cambial da Dívida Contratual Resgatada,1458362.15,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Pagas,DO4.6.90.73.00.00,4.6.90.73.00.00 - Correção Monetária ou Cambial da Dívida Contratual Resgatada,1458362.15,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Empenhadas,DO4.6.90.92.00.00,4.6.90.92.00.00 - Despesas de Exercícios Anteriores,866666.14,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Liquidadas,DO4.6.90.92.00.00,4.6.90.92.00.00 - Despesas de Exercícios Anteriores,866666.14,623766
+2014,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-D,,Despesas Pagas,DO4.6.90.92.00.00,4.6.90.92.00.00 - Despesas de Exercícios Anteriores,866666.14,623766
