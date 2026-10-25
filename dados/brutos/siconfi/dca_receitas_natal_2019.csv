@@ -1,0 +1,136 @@
+exercicio,instituicao,cod_ibge,uf,anexo,rotulo,coluna,cod_conta,conta,valor,populacao
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,ReceitasExcetoIntraOrcamentarias,RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I),2487616623.25,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,ReceitasExcetoIntraOrcamentarias,RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I),141378168.06,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.0.0.0.00.0.0,1.0.0.0.00.0.0 - Receitas Correntes,2486538780.9,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.0.0.0.00.0.0,1.0.0.0.00.0.0 - Receitas Correntes,141378168.06,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.0.0.00.0.0,"1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria",805447907.13,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.1.0.00.0.0,1.1.1.0.00.0.0 - Impostos,688720815.55,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.1.3.00.0.0,1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza,55666290.51,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.1.3.03.0.0,1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte,55666290.51,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.1.3.03.1.0,1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho,55666290.51,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.1.8.00.0.0,"1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios",633054525.04,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.1.8.01.0.0,1.1.1.8.01.0.0 Impostos sobre o Patrimônio para Estados/DF/Municípios,249087974.15,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.1.8.01.1.0,1.1.1.8.01.1.0 Imposto sobre a Propriedade Predial e Territorial Urbana,206287530.09,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.1.8.01.4.0,1.1.1.8.01.4.0 Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis,42800444.06,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.1.8.02.0.0,"1.1.1.8.02.0.0 Impostos sobre a Produção, Circulação de Mercadorias e Serviços",383966550.89,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.1.8.02.3.0,1.1.1.8.02.3.0 Imposto sobre Serviços de Qualquer Natureza,383966550.89,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.2.0.00.0.0,1.1.2.0.00.0.0 - Taxas,116727091.58,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.2.1.00.0.0,1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia,34300936.56,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.2.1.02.0.0,1.1.2.1.02.0.0 - Taxas de Fiscalização das Telecomunicações,31459393.2,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.2.1.02.1.0,1.1.2.1.02.1.0 - Taxa de Fiscalização de Instalação - TFI,14902914.21,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.2.1.02.2.0,1.1.2.1.02.2.0 - Taxa de Fiscalização de Funcionamento - TFF,16556478.99,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.2.1.04.0.0,1.1.2.1.04.0.0 - Taxa de Controle e Fiscalização Ambiental,2841543.36,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.2.2.00.0.0,1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços,82426155.02,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.2.2.01.0.0,1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços,82426155.02,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.2.0.0.00.0.0,1.2.0.0.00.0.0 - Contribuições,115865185.44,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.2.1.0.00.0.0,1.2.1.0.00.0.0 - Contribuições Sociais,50760562.06,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.2.1.8.00.0.0,"1.2.1.8.00.0.0 Contribuições Sociais Específicas de Estados, DF e Municípios",50760562.06,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.2.1.8.01.0.0,1.2.1.8.01.0.0 - Contribuição do Servidor Civil para o Plano de Seguridade Social - CPSSS - Específico de EST/DF/MUN,50760562.06,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.2.1.8.01.1.0,1.2.1.8.01.1.0 - CPSSS do Servidor Civil Ativo,45633606.29,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.2.1.8.01.2.0,1.2.1.8.01.2.0 - CPSSS do Servidor Civil Inativo,4233698.04,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.2.1.8.01.3.0,1.2.1.8.01.3.0 - CPSSS do Servidor Civil - Pensionistas,893257.73,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.2.4.0.00.0.0,1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública,65104623.38,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.3.0.0.00.0.0,1.3.0.0.00.0.0 - Receita Patrimonial,73619787.94,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.3.1.0.00.0.0,1.3.1.0.00.0.0 - Exploração do Patrimônio Imobiliário do Estado,3753123.49,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.3.1.0.01.0.0,"1.3.1.0.01.0.0 - Aluguéis, Arrendamentos, Foros, Laudêmios, Tarifas de Ocupação",3753123.49,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.3.1.0.01.1.0,1.3.1.0.01.1.0 - Aluguéis e Arrendamentos,2738.08,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.3.1.0.01.2.0,"1.3.1.0.01.2.0 - Foros, Laudêmios e Tarifas de Ocupação",3750385.41,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.3.2.0.00.0.0,1.3.2.0.00.0.0 - Valores Mobiliários,64412471.42,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.3.2.1.00.0.0,1.3.2.1.00.0.0 - Juros e Correções Monetárias,64412471.42,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.3.2.1.00.1.0,1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários,2804967.06,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.3.2.1.00.4.0,1.3.2.1.00.4.0 - Remuneração dos Recursos do Regime Próprio de Previdência Social - RPPS,61607504.36,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.3.3.0.00.0.0,"1.3.3.0.00.0.0 - Delegação de Serviços Públicos Mediante Concessão, Permissão, Autorização ou Licença",5454193.03,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.3.3.9.00.0.0,1.3.3.9.00.0.0 - Demais Delegações de Serviços Públicos,5454193.03,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.6.0.0.00.0.0,1.6.0.0.00.0.0 - Receita de Serviços,52670855.63,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.6.9.0.00.0.0,1.6.9.0.00.0.0 - Outros Serviços,52670855.63,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.6.9.0.99.0.0,1.6.9.0.99.0.0 - Outros Serviços,52670855.63,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.0.0.00.0.0,1.7.0.0.00.0.0 - Transferências Correntes,1369700817.87,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.0.0.00.0.0,1.7.0.0.00.0.0 - Transferências Correntes,141378168.06,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.0.00.0.0,1.7.1.0.00.0.0 - Transferências da União e de suas Entidades,707981924.16,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.1.0.00.0.0,1.7.1.0.00.0.0 - Transferências da União e de suas Entidades,62778055.31,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.00.0.0,"1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios",707981924.16,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.1.8.00.0.0,"1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios",62778055.31,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.01.0.0,1.7.1.8.01.0.0 Participação na Receita da União,341083257.44,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.1.8.01.0.0,1.7.1.8.01.0.0 Participação na Receita da União,62778055.31,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.01.2.0,1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal,313886234.23,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.1.8.01.2.0,1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal,62777246.56,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.01.3.0,1.7.1.8.01.3.0 Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro,13852380.05,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.01.4.0,1.7.1.8.01.4.0 Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho,13340599.33,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.01.5.0,1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural,4043.83,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.1.8.01.5.0,1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural,808.75,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.02.0.0,1.7.1.8.02.0.0 Transferência da Compensação Financeira pela Exploração de Recursos Naturais,4920414.76,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.02.3.0,1.7.1.8.02.3.0 Cota-parte Royalties ¿ Compensação Financeira pela Produção de Petróleo ¿ Lei nº 7.990/89,4920414.76,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.03.0.0,"1.7.1.8.03.0.0 Transferência de Recursos do Sistema Único de Saúde ¿ 
+ SUS ¿ Bloco Custeio das Ações e Serviços Públicos de Saúde",43205531.26,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.03.1.0,1.7.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Básica,43205531.26,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.04.0.0,1.7.1.8.04.0.0 Transferências de Recursos do Sistema Único de Saúde ¿ SUS - Bloco Investimentos na Rede de Serviços Públicos de Saúde,228272531.99,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.04.1.0,1.7.1.8.04.1.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS destinados à Atenção Básica,209160484.27,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.04.3.0,1.7.1.8.04.3.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS destinados à Vigilância em Saúde,11980153.15,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.04.6.0,"1.7.1.8.04.6.0 - Outras Transferências de Recursos do Sistema Único de Saúde ¿ SUS, não detalhadas anteriormente",7131894.57,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.05.0.0,1.7.1.8.05.0.0 Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE,15092721.06,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.05.1.0,1.7.1.8.05.1.0 Transferências do Salário-Educação,8706284.67,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.05.3.0,1.7.1.8.05.3.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE,5936377.6,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.05.4.0,1.7.1.8.05.4.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE,450058.79,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.10.0.0,1.7.1.8.10.0.0 Transferências de Convênios da União e de Suas Entidades,50156971.62,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.10.3.0,1.7.1.8.10.3.0 Transferências de Convênios da União Destinadas a Programas de Assistência Social,1941742.45,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.10.9.0,1.7.1.8.10.9.0 Outras Transferências de Convênios da União,48215229.17,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.99.0.0,1.7.1.8.99.0.0 Outras Transferências da União,25250496.03,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.2.0.00.0.0,1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades,443856289.24,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.2.0.00.0.0,1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades,78600112.75,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.2.8.00.0.0,"1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios",443856289.24,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.2.8.00.0.0,"1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios",78600112.75,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.2.8.01.0.0,1.7.2.8.01.0.0 Participação na Receita dos Estados,393670283.19,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.2.8.01.0.0,1.7.2.8.01.0.0 Participação na Receita dos Estados,78600112.75,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.2.8.01.1.0,1.7.2.8.01.1.0 Cota-Parte do ICMS,295805873.67,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.2.8.01.1.0,1.7.2.8.01.1.0 Cota-Parte do ICMS,59161174.53,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.2.8.01.2.0,1.7.2.8.01.2.0 Cota-Parte do IPVA,96924609.2,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.2.8.01.2.0,1.7.2.8.01.2.0 Cota-Parte do IPVA,19384921.84,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.2.8.01.3.0,1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios,270081.8,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.2.8.01.3.0,1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios,54016.38,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.2.8.01.4.0,1.7.2.8.01.4.0 Cota-Parte da Contribuição de Intervenção no Domínio Econômico,669718.52,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.2.8.02.0.0,1.7.2.8.02.0.0 Transferência da Cota-parte da Compensação Financeira (25%),5742095.49,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.2.8.02.3.0,"1.7.2.8.02.3.0 Cota-parte Royalties ¿ Compensação Financeira pela Produção do Petróleo ¿ Lei nº 7.990/89, artigo 9º",5742095.49,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.2.8.03.0.0,1.7.2.8.03.0.0 Transferência de Recursos do Estado para Programas de Saúde ¿ Repasse Fundo a Fundo,44375660.56,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.2.8.99.0.0,1.7.2.8.99.0.0 Outras Transferências dos Estados,68250,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.3.0.00.0.0,1.7.3.0.00.0.0 - Transferências dos Municípios e de suas Entidades,225000,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.3.0.00.1.0,1.7.3.0.00.1.0 - Transferências dos Municípios e de suas Entidades,225000,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.4.0.00.0.0,1.7.4.0.00.0.0 - Transferências de Instituições Privadas,160000,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.4.0.00.1.0,1.7.4.0.00.1.0 - Transferências de Instituições Privadas,160000,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.5.0.00.0.0,1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas,217477604.47,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.5.8.00.0.0,"1.7.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios",217477604.47,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.5.8.01.0.0,1.7.5.8.01.0.0 Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB,217477604.47,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.0.0.00.0.0,1.9.0.0.00.0.0 - Outras Receitas Correntes,69234226.89,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.1.0.00.0.0,"1.9.1.0.00.0.0 - Multas Administrativas, Contratuais e Judiciais",38108622.4,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.1.0.01.0.0,1.9.1.0.01.0.0 - Multas Previstas em Legislação Específica,38108622.4,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.2.0.00.0.0,"1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos",1349523.07,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.2.1.00.0.0,1.9.2.1.00.0.0 - Indenizações,1349523.07,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.2.1.99.0.0,1.9.2.1.99.0.0 - Outras Indenizações,1349523.07,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.9.0.00.0.0,1.9.9.0.00.0.0 - Demais Receitas Correntes,29776081.42,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.9.0.12.0.0,1.9.9.0.12.0.0 - Encargos Legais pela Inscrição em Dívida Ativa e Receitas de Ônus de Sucumbência,4432618.3,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.9.0.12.1.0,1.9.9.0.12.1.0 - Encargos Legais pela Inscrição em Dívida Ativa,4432618.3,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.9.0.99.0.0,1.9.9.0.99.0.0 - Outras Receitas,25343463.12,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.9.0.99.1.0,1.9.9.0.99.1.0 - Outras Receitas - Primárias,25343463.12,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.0.0.0.00.0.0,2.0.0.0.00.0.0 - Receitas de Capital,1077842.35,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.2.0.0.00.0.0,2.2.0.0.00.0.0 - Alienação de Bens,664100,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.2.1.0.00.0.0,2.2.1.0.00.0.0 - Alienação de Bens Móveis,319100,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.2.1.1.00.0.0,2.2.1.1.00.0.0 Alienação de Títulos Mobiliários,319100,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.2.2.0.00.0.0,2.2.2.0.00.0.0 - Alienação de Bens Imóveis,345000,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.4.0.0.00.0.0,2.4.0.0.00.0.0 - Transferências de Capital,220000,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.4.1.0.00.0.0,2.4.1.0.00.0.0 - Transferências da União e de suas Entidades,220000,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.4.1.0.00.1.0,2.4.1.0.00.1.0 Transferências da União e de suas Entidades,220000,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.9.0.0.00.0.0,2.9.0.0.00.0.0 - Outras Receitas de Capital,193742.35,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.9.9.0.00.0.0,2.9.9.0.00.0.0 - Demais Receitas de Capital,193742.35,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.9.9.0.00.1.0,2.9.9.0.00.1.0 Demais Receitas de Capital,193742.35,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,ReceitasIntraOrcamentarias,RECEITAS (INTRA-ORÇAMENTÁRIAS) (II),218567750.3,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO7.0.0.0.00.0.0,7.0.0.0.00.0.0 - Receitas Correntes,218567750.3,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO7.2.0.0.00.0.0,7.2.0.0.00.0.0 - Contribuições,45109961.78,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO7.2.1.0.00.0.0,7.2.1.0.00.0.0 - Contribuições Sociais,45109961.78,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO7.2.1.8.00.0.0,"7.2.1.8.00.0.0 Contribuições Sociais Específicas de Estados, DF e 
+ Municípios",45109961.78,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO7.2.1.8.03.0.0,7.2.1.8.03.0.0 - CPSSS Patronal - Servidor Civil - Específico de EST/DF/MUN,45109961.78,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO7.2.1.8.03.1.0,7.2.1.8.03.1.0 - CPSSS Patronal - Servidor Civil Ativo,45109961.78,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO7.9.0.0.00.0.0,7.9.0.0.00.0.0 - Outras Receitas Correntes,173457788.52,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO7.9.9.0.00.0.0,7.9.9.0.00.0.0 - Demais Receitas Correntes,173457788.52,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO7.9.9.0.99.0.0,7.9.9.0.99.0.0 - Outras Receitas,173457788.52,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,TotalReceitas,TOTAL DAS RECEITAS (III) = (I + II),2706184373.55,877640
+2019,Prefeitura Municipal de Natal - RN,2408102,RN,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,TotalReceitas,TOTAL DAS RECEITAS (III) = (I + II),141378168.06,877640

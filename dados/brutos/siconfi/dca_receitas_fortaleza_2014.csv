@@ -1,0 +1,132 @@
+exercicio,instituicao,cod_ibge,uf,anexo,rotulo,coluna,cod_conta,conta,valor,populacao
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,TotalReceitas,Total Receitas,5659812008.98,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Deduções - FUNDEB,TotalReceitas,Total Receitas,340022014.08,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.0.0.0.00.00.00,1.0.0.0.00.00.00 - Receitas Correntes,5036004266.69,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Deduções - FUNDEB,RO1.0.0.0.00.00.00,1.0.0.0.00.00.00 - Receitas Correntes,340022014.08,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.1.0.0.00.00.00,1.1.0.0.00.00.00 - Receita Tributária,1260584517.94,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.1.1.0.00.00.00,1.1.1.0.00.00.00 - Impostos,1242342443.72,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.1.1.2.00.00.00,1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda,635773684.43,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.1.1.2.02.00.00,1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU,308833435.65,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.1.1.2.04.00.00,1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR,186546032.76,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.1.1.2.04.31.00,1.1.1.2.04.31.00 - Retido nas Fontes - Trabalho,169961938.37,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.1.1.2.04.34.00,1.1.1.2.04.34.00 - Retido nas Fontes - Outros Rendimentos,16584094.39,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.1.1.2.08.00.00,"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI",140394216.02,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.1.1.3.00.00.00,1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação,606568759.29,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.1.1.3.05.00.00,1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN,606568759.29,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.1.2.0.00.00.00,1.1.2.0.00.00.00 - Taxas,18242074.22,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.1.2.1.00.00.00,1.1.2.1.00.00.00 - Taxas pelo Exercício do Poder de Polícia,12576087.42,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.1.2.2.00.00.00,1.1.2.2.00.00.00 - Taxas pela Prestação de Serviços,5665986.8,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.2.0.0.00.00.00,1.2.0.0.00.00.00 - Receitas de Contribuições,274456896.97,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.2.1.0.00.00.00,1.2.1.0.00.00.00 - Contribuições Sociais,144093994.29,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.2.1.0.29.00.00,1.2.1.0.29.00.00 - Contribuições para o Regime Próprio de Previdência do Servidor Público,144093994.29,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.2.1.0.29.07.00,1.2.1.0.29.07.00 - Contribuição do Servidor Ativo Civil para o Regime Próprio,142688482.05,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.2.1.0.29.09.00,1.2.1.0.29.09.00 - Contribuições do Servidor Inativo Civil para o Regime Próprio,1181974.72,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.2.1.0.29.11.00,1.2.1.0.29.11.00 - Contribuições de Pensionista Civil para o Regime Próprio,223537.52,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.2.3.0.00.00.00,1.2.3.0.00.00.00 - Contribuição para Custeio do Serviço de Iluminação Pública,130362902.68,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.3.0.0.00.00.00,1.3.0.0.00.00.00 - Receita Patrimonial,196771085.89,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.3.1.0.00.00.00,1.3.1.0.00.00.00 - Receitas Imobiliárias,608459.65,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.3.1.1.00.00.00,1.3.1.1.00.00.00 - Aluguéis,608459.65,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.3.2.0.00.00.00,1.3.2.0.00.00.00 - Receitas de Valores Mobiliários,115114380.31,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.3.2.1.00.00.00,1.3.2.1.00.00.00 - Juros de Títulos de Renda,62028247.38,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.3.2.5.00.00.00,1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários,53086132.93,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.3.3.0.00.00.00,1.3.3.0.00.00.00 - Receitas de Concessões e Permissões,26023218.29,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.3.6.0.00.00.00,1.3.6.0.00.00.00 - Receita da Cessão de Direitos,55000000,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.3.9.0.00.00.00,1.3.9.0.00.00.00 - Outras Receitas Patrimoniais,25027.64,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.6.0.0.00.00.00,1.6.0.0.00.00.00 - Receita de Serviços,4561983.49,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.6.0.0.02.00.00,1.6.0.0.02.00.00 - Serviços Financeiros,539318.5,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.6.0.0.13.00.00,1.6.0.0.13.00.00 - Serviços Administrativos,2790973.14,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.6.0.0.16.00.00,1.6.0.0.16.00.00 - Serviços Educacionais,889350.4,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.6.0.0.99.00.00,1.6.0.0.99.00.00 - Demais Receitas de Serviços,342341.45,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.7.0.0.00.00.00,1.7.0.0.00.00.00 - Transferências Correntes,3143487094.94,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Deduções - FUNDEB,RO1.7.0.0.00.00.00,1.7.0.0.00.00.00 - Transferências Correntes,340022014.08,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.7.2.0.00.00.00,1.7.2.0.00.00.00 - Transferências Intergovernamentais,3124327498.31,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Deduções - FUNDEB,RO1.7.2.0.00.00.00,1.7.2.0.00.00.00 - Transferências Intergovernamentais,340022014.08,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.7.2.1.00.00.00,1.7.2.1.00.00.00 - Transferências da União,1536892534.51,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Deduções - FUNDEB,RO1.7.2.1.00.00.00,1.7.2.1.00.00.00 - Transferências da União,129727360.4,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.7.2.1.01.00.00,1.7.2.1.01.00.00 - Participação na Receita da União,674225395.28,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Deduções - FUNDEB,RO1.7.2.1.01.00.00,1.7.2.1.01.00.00 - Participação na Receita da União,129118089.92,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.7.2.1.01.02.00,1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM,674215230,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Deduções - FUNDEB,RO1.7.2.1.01.02.00,1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM,129116056.92,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.7.2.1.01.05.00,1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR,10165.28,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Deduções - FUNDEB,RO1.7.2.1.01.05.00,1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR,2033,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.7.2.1.22.00.00,1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais,16484148.65,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.7.2.1.22.20.00,1.7.2.1.22.20.00 - Cota-Parte da Compensação Financeira de Recursos Minerais - CFEM,334679.53,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.7.2.1.22.30.00,1.7.2.1.22.30.00 - Cota-Parte Royalties ¿ Compensação Financeira pela Produção de Petróleo ¿ Lei nº 7.990/89,5182080.81,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.7.2.1.22.40.00,1.7.2.1.22.40.00 - Cota-Parte Royalties pelo Excedente da Produção do Petróleo - Lei nº 9.478/97 artigo 49 I e II,727381.07,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.7.2.1.22.70.00,1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP,10240007.24,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.7.2.1.33.00.00,1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo,765503367.41,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.7.2.1.34.00.00,1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS,17685764.27,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.7.2.1.35.00.00,1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE,46609746.97,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.7.2.1.36.00.00,1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96,3046352.4,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Deduções - FUNDEB,RO1.7.2.1.36.00.00,1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96,609270.48,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.7.2.1.99.00.00,1.7.2.1.99.00.00 - Outras Transferências da União,13337759.53,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.7.2.2.00.00.00,1.7.2.2.00.00.00 - Transferências dos Estados,1117260589.45,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Deduções - FUNDEB,RO1.7.2.2.00.00.00,1.7.2.2.00.00.00 - Transferências dos Estados,210294653.68,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.7.2.2.01.00.00,1.7.2.2.01.00.00 - Participação na Receita dos Estados,1051679590.32,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Deduções - FUNDEB,RO1.7.2.2.01.00.00,1.7.2.2.01.00.00 - Participação na Receita dos Estados,210294653.68,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.7.2.2.01.01.00,1.7.2.2.01.01.00 - Cota-Parte do ICMS,872317212.75,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Deduções - FUNDEB,RO1.7.2.2.01.01.00,1.7.2.2.01.01.00 - Cota-Parte do ICMS,174463442.4,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.7.2.2.01.02.00,1.7.2.2.01.02.00 - Cota-Parte do IPVA,176237827.94,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Deduções - FUNDEB,RO1.7.2.2.01.02.00,1.7.2.2.01.02.00 - Cota-Parte do IPVA,35247565.32,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.7.2.2.01.04.00,1.7.2.2.01.04.00 - Cota-Parte do IPI sobre Exportação,2918229.67,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Deduções - FUNDEB,RO1.7.2.2.01.04.00,1.7.2.2.01.04.00 - Cota-Parte do IPI sobre Exportação,583645.96,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.7.2.2.01.13.00,1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico,206319.96,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.7.2.2.22.00.00,1.7.2.2.22.00.00 - Transferências da Cota-Parte da Compensação Financeira (25%),3658181.21,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.7.2.2.22.30.00,1.7.2.2.22.30.00 - Cota-Parte Royalties - Compensação Financeira pela Produção de Petróleo - Lei nº 7.990/89 artigo 9º,3658181.21,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.7.2.2.33.00.00,1.7.2.2.33.00.00 - Transferências de Recursos do Estado para Programas de Saúde - Repasse Fundo a Fundo,61579877.92,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.7.2.2.99.00.00,1.7.2.2.99.00.00 - Outras Transferências dos Estados,342940,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.7.2.4.00.00.00,1.7.2.4.00.00.00 - Transferências Multigovernamentais,470174374.35,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.7.2.4.01.00.00,1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB,353772500.18,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.7.2.4.02.00.00,1.7.2.4.02.00.00 - Transferências de Recursos da Complementação ao Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB,116401874.17,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.7.3.0.00.00.00,1.7.3.0.00.00.00 - Transferências de Instituições Privadas,67575.6,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.7.4.0.00.00.00,1.7.4.0.00.00.00 - Transferências do Exterior,9130.99,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.7.6.0.00.00.00,1.7.6.0.00.00.00 - Transferências de Convênios,19082890.04,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.7.6.1.00.00.00,1.7.6.1.00.00.00 - Transferências de Convênios da União e de Suas Entidades,17468490.04,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.7.6.1.01.00.00,1.7.6.1.01.00.00 - Transferências de Convênios da União para o Sistema Único de Saúde - SUS,1414135.62,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.7.6.1.99.00.00,1.7.6.1.99.00.00 - Outras Transferências de Convênios da União,16054354.42,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.7.6.2.00.00.00,1.7.6.2.00.00.00 - Transferências de Convênios dos Estados e do Distrito Federal e de Suas Entidades,1614400,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.7.6.2.99.00.00,1.7.6.2.99.00.00 - Outras Transferências de Convênios dos Estados,1614400,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.9.0.0.00.00.00,1.9.0.0.00.00.00 - Outras Receitas Correntes,156142687.46,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.9.1.0.00.00.00,1.9.1.0.00.00.00 - Multas e Juros de Mora,53170147.62,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.9.1.1.00.00.00,1.9.1.1.00.00.00 - Multas e Juros de Mora dos Tributos,3289697.39,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.9.1.3.00.00.00,1.9.1.3.00.00.00 - Multas e Juros de Mora da Dívida Ativa dos Tributos,230.99,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.9.1.9.00.00.00,1.9.1.9.00.00.00 - Multas de Outras Origens,49880219.24,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.9.2.0.00.00.00,1.9.2.0.00.00.00 - Indenizações e Restituições,39176892.14,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.9.2.1.00.00.00,1.9.2.1.00.00.00 - Indenizações,6409074.05,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.9.2.2.00.00.00,1.9.2.2.00.00.00 - Restituições,32767818.09,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.9.2.2.10.00.00,1.9.2.2.10.00.00 - Compensações Financeiras entre o Regime Geral e os Regimes Próprios de Previdência dos Servidores,1949986.71,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.9.2.2.99.00.00,1.9.2.2.99.00.00 - Outras Restituições,30817831.38,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.9.3.0.00.00.00,1.9.3.0.00.00.00 - Receita da Dívida Ativa,61098997.83,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.9.3.1.00.00.00,1.9.3.1.00.00.00 - Receita da Dívida Ativa Tributária,61019049.27,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.9.3.2.00.00.00,1.9.3.2.00.00.00 - Receita da Dívida Ativa Não Tributária,79948.56,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.9.9.0.00.00.00,1.9.9.0.00.00.00 - Receitas Diversas,2696649.87,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO2.0.0.0.00.00.00,2.0.0.0.00.00.00 - Receitas de Capital,262476848.98,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO2.1.0.0.00.00.00,2.1.0.0.00.00.00 - Operações de Crédito,128711060.71,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO2.1.1.0.00.00.00,2.1.1.0.00.00.00 - Operações de Crédito Internas,46906907.14,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO2.1.2.0.00.00.00,2.1.2.0.00.00.00 - Operações de Crédito Externas,81804153.57,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO2.2.0.0.00.00.00,2.2.0.0.00.00.00 - Alienação de Bens,322229.83,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO2.2.1.0.00.00.00,2.2.1.0.00.00.00 - Alienação de Bens Móveis,322229.83,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO2.3.0.0.00.00.00,2.3.0.0.00.00.00 - Amortização de Empréstimos,117214.63,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO2.4.0.0.00.00.00,2.4.0.0.00.00.00 - Transferências de Capital,133326343.81,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO2.4.2.0.00.00.00,2.4.2.0.00.00.00 - Transferências Intergovernamentais,65631529.28,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO2.4.2.1.00.00.00,2.4.2.1.00.00.00 - Transferências da União,55631529.28,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO2.4.2.1.01.00.00,2.4.2.1.01.00.00 - Participação na Receita da União,23922296.76,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO2.4.2.1.02.00.00,2.4.2.1.02.00.00 - Transferências de Recursos Destinados a Programas de Educação,31709232.52,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO2.4.2.2.00.00.00,2.4.2.2.00.00.00 - Transferências dos Estados,10000000,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO2.4.2.2.99.00.00,2.4.2.2.99.00.00 - Outras Transferências dos Estados,10000000,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO2.4.7.0.00.00.00,2.4.7.0.00.00.00 - Transferências de Convênios,67694814.53,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO2.4.7.1.00.00.00,2.4.7.1.00.00.00 - Transferências de Convênios da União e de suas Entidades,29203564.53,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO2.4.7.1.01.00.00,2.4.7.1.01.00.00 - Transferências de Convênios da União para o Sistema Único de Saúde - SUS,322479.32,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO2.4.7.1.99.00.00,2.4.7.1.99.00.00 - Outras Transferências de Convênios da União,28881085.21,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO2.4.7.2.00.00.00,2.4.7.2.00.00.00 - Transferências de Convênios dos Estados e do Distrito Federal e de suas Entidades,38306250,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO2.4.7.2.02.00.00,2.4.7.2.02.00.00 - Transferências de Convênios dos Estados Destinadas a Programas de Educação,2000000,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO2.4.7.2.99.00.00,2.4.7.2.99.00.00 - Outras Transferências de Convênios dos Estados,36306250,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO2.4.7.4.00.00.00,2.4.7.4.00.00.00 - Transferências de Convênios de Instituições Privadas,185000,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RI7.0.0.0.00.00.00,7.0.0.0.00.00.00 - Receitas Correntes Intraorçamentárias,361330893.31,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RI7.2.0.0.00.00.00,7.2.0.0.00.00.00 - Receitas de Contribuições Intraorçamentárias,359826473.31,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RI7.2.1.0.00.00.00,7.2.1.0.00.00.00 - Contribuições Sociais Intraorçamentárias,359826473.31,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RI7.2.1.0.29.00.00,7.2.1.0.29.00.00 - Contribuições para o Regime Próprio de Previdência do Servidor Público Intraorçamentárias,262901207.73,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RI7.2.1.0.29.01.00,7.2.1.0.29.01.00 - Contribuição Patronal de Servidor Ativo Civil para o Regime Próprio Intraorçamentária,262901207.73,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RI7.2.1.0.99.00.00,7.2.1.0.99.00.00 - Outras Contribuições Sociais Intraorçamentárias,96925265.58,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RI7.6.0.0.00.00.00,7.6.0.0.00.00.00 - Receita de Serviços Intraorçamentária,117000,2571896
+2014,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RI7.7.0.0.00.00.00,7.7.0.0.00.00.00 - Transferências Correntes Intraorçamentárias,1387420,2571896

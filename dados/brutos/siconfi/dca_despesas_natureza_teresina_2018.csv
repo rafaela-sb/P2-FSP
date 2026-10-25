@@ -1,0 +1,321 @@
+exercicio,instituicao,cod_ibge,uf,anexo,rotulo,coluna,cod_conta,conta,valor,populacao
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Empenhadas,TotalDespesas,Total Geral da Despesa,2871266704.28,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Liquidadas,TotalDespesas,Total Geral da Despesa,2730454571.51,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Pagas,TotalDespesas,Total Geral da Despesa,2685253579.47,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,TotalDespesas,Total Geral da Despesa,140812132.77,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,TotalDespesas,Total Geral da Despesa,45200992.04,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.0.00.00.00.00,3.0.00.00.00 - Despesas Correntes,2588246242.48,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.0.00.00.00.00,3.0.00.00.00 - Despesas Correntes,2519606193.13,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.0.00.00.00.00,3.0.00.00.00 - Despesas Correntes,2487333395.99,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.0.00.00.00.00,3.0.00.00.00 - Despesas Correntes,68640049.35,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.0.00.00.00.00,3.0.00.00.00 - Despesas Correntes,32272797.14,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.00.00.00.00,3.1.00.00.00 - Pessoal e Encargos Sociais,1534020104.78,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.00.00.00.00,3.1.00.00.00 - Pessoal e Encargos Sociais,1532800578.39,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.00.00.00.00,3.1.00.00.00 - Pessoal e Encargos Sociais,1518205241.62,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.1.00.00.00.00,3.1.00.00.00 - Pessoal e Encargos Sociais,1219526.39,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.1.00.00.00.00,3.1.00.00.00 - Pessoal e Encargos Sociais,14595336.77,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.00.00.00,3.1.90.00.00 - Aplicações Diretas,1389886525.33,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.00.00.00,3.1.90.00.00 - Aplicações Diretas,1388903032.68,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.00.00.00,3.1.90.00.00 - Aplicações Diretas,1378107270.37,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.1.90.00.00.00,3.1.90.00.00 - Aplicações Diretas,983492.65,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.1.90.00.00.00,3.1.90.00.00 - Aplicações Diretas,10795762.31,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.01.00.00,"3.1.90.01.00 - Aposentadorias do RPPS, Reserva Remunerada e Reformas dos Militares",206954471.42,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.01.00.00,"3.1.90.01.00 - Aposentadorias do RPPS, Reserva Remunerada e Reformas dos Militares",206954471.42,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.01.00.00,"3.1.90.01.00 - Aposentadorias do RPPS, Reserva Remunerada e Reformas dos Militares",206954471.42,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.03.00.00,3.1.90.03.00 - Pensões do RPPS e do Militar,34053507.55,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.03.00.00,3.1.90.03.00 - Pensões do RPPS e do Militar,34053507.55,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.03.00.00,3.1.90.03.00 - Pensões do RPPS e do Militar,34053507.55,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.05.00.00,3.1.90.05.00 - Outros Benefícios Previdenciários do Servidor ou do Militar,20614536.92,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.05.00.00,3.1.90.05.00 - Outros Benefícios Previdenciários do Servidor ou do Militar,20614536.92,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.05.00.00,3.1.90.05.00 - Outros Benefícios Previdenciários do Servidor ou do Militar,17744221.6,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.1.90.05.00.00,3.1.90.05.00 - Outros Benefícios Previdenciários do Servidor ou do Militar,2870315.32,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.11.00.00,3.1.90.11.00 - Vencimentos e Vantagens Fixas - Pessoal Civil,975610438.87,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.11.00.00,3.1.90.11.00 - Vencimentos e Vantagens Fixas - Pessoal Civil,975610438.87,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.11.00.00,3.1.90.11.00 - Vencimentos e Vantagens Fixas - Pessoal Civil,970940175.67,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.1.90.11.00.00,3.1.90.11.00 - Vencimentos e Vantagens Fixas - Pessoal Civil,4670263.2,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.13.00.00,3.1.90.13.00 - Obrigações Patronais,43644703.74,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.13.00.00,3.1.90.13.00 - Obrigações Patronais,43523322.57,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.13.00.00,3.1.90.13.00 - Obrigações Patronais,40338401.39,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.1.90.13.00.00,3.1.90.13.00 - Obrigações Patronais,121381.17,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.1.90.13.00.00,3.1.90.13.00 - Obrigações Patronais,3184921.18,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.13.02.00,3.1.90.13.02 - Contribuições Previdenciárias - INSS,43644703.74,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.13.02.00,3.1.90.13.02 - Contribuições Previdenciárias - INSS,43523322.57,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.13.02.00,3.1.90.13.02 - Contribuições Previdenciárias - INSS,40338401.39,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.1.90.13.02.00,3.1.90.13.02 - Contribuições Previdenciárias - INSS,121381.17,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.1.90.13.02.00,3.1.90.13.02 - Contribuições Previdenciárias - INSS,3184921.18,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.16.00.00,3.1.90.16.00 - Outras Despesas Variáveis - Pessoal Civil,99302812.54,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.16.00.00,3.1.90.16.00 - Outras Despesas Variáveis - Pessoal Civil,98571454.95,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.16.00.00,3.1.90.16.00 - Outras Despesas Variáveis - Pessoal Civil,98546779.76,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.1.90.16.00.00,3.1.90.16.00 - Outras Despesas Variáveis - Pessoal Civil,731357.59,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.1.90.16.00.00,3.1.90.16.00 - Outras Despesas Variáveis - Pessoal Civil,24675.19,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.91.00.00,3.1.90.91.00 - Sentenças Judiciais,4751832.24,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.91.00.00,3.1.90.91.00 - Sentenças Judiciais,4747566.08,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.91.00.00,3.1.90.91.00 - Sentenças Judiciais,4745428.89,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.1.90.91.00.00,3.1.90.91.00 - Sentenças Judiciais,4266.16,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.1.90.91.00.00,3.1.90.91.00 - Sentenças Judiciais,2137.19,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.92.00.00,3.1.90.92.00 - Despesas de Exercícios Anteriores,939377.28,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.92.00.00,3.1.90.92.00 - Despesas de Exercícios Anteriores,939377.28,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.92.00.00,3.1.90.92.00 - Despesas de Exercícios Anteriores,939377.28,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.94.00.00,3.1.90.94.00 - Indenizações e Restituições Trabalhistas,2817666.37,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.94.00.00,3.1.90.94.00 - Indenizações e Restituições Trabalhistas,2816594.61,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.94.00.00,3.1.90.94.00 - Indenizações e Restituições Trabalhistas,2816594.61,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.1.90.94.00.00,3.1.90.94.00 - Indenizações e Restituições Trabalhistas,1071.76,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.96.00.00,3.1.90.96.00 - Ressarcimento de Despesas de Pessoal Requisitado,1197178.4,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.96.00.00,3.1.90.96.00 - Ressarcimento de Despesas de Pessoal Requisitado,1071762.43,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.96.00.00,3.1.90.96.00 - Ressarcimento de Despesas de Pessoal Requisitado,1028312.2,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.1.90.96.00.00,3.1.90.96.00 - Ressarcimento de Despesas de Pessoal Requisitado,125415.97,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.1.90.96.00.00,3.1.90.96.00 - Ressarcimento de Despesas de Pessoal Requisitado,43450.23,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DI3.1.91.00.00.00,"3.1.91.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social",144133579.45,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DI3.1.91.00.00.00,"3.1.91.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social",143897545.71,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Pagas,DI3.1.91.00.00.00,"3.1.91.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social",140097971.25,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DI3.1.91.00.00.00,"3.1.91.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social",236033.74,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DI3.1.91.00.00.00,"3.1.91.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social",3799574.46,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DI3.1.91.13.00.00,3.1.91.13.00 - Contribuições Patronais,143940866.83,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DI3.1.91.13.00.00,3.1.91.13.00 - Contribuições Patronais,143727066.96,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Pagas,DI3.1.91.13.00.00,3.1.91.13.00 - Contribuições Patronais,139948628.62,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DI3.1.91.13.00.00,3.1.91.13.00 - Contribuições Patronais,213799.87,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DI3.1.91.13.00.00,3.1.91.13.00 - Contribuições Patronais,3778438.34,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DI3.1.91.13.03.00,3.1.91.13.03 - Contribuição Patronal para o RPPS - Intraorçamentária,143940866.83,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DI3.1.91.13.03.00,3.1.91.13.03 - Contribuição Patronal para o RPPS - Intraorçamentária,143727066.96,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Pagas,DI3.1.91.13.03.00,3.1.91.13.03 - Contribuição Patronal para o RPPS - Intraorçamentária,139948628.62,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DI3.1.91.13.03.00,3.1.91.13.03 - Contribuição Patronal para o RPPS - Intraorçamentária,213799.87,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DI3.1.91.13.03.00,3.1.91.13.03 - Contribuição Patronal para o RPPS - Intraorçamentária,3778438.34,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DI3.1.91.92.00.00,3.1.91.92.00 - Despesas de Exercícios Anteriores,14712.62,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DI3.1.91.92.00.00,3.1.91.92.00 - Despesas de Exercícios Anteriores,14712.62,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Pagas,DI3.1.91.92.00.00,3.1.91.92.00 - Despesas de Exercícios Anteriores,14712.62,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DI3.1.91.96.00.00,3.1.91.96.00 - Ressarcimento de Despesas de Pessoal Requisitado,178000,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DI3.1.91.96.00.00,3.1.91.96.00 - Ressarcimento de Despesas de Pessoal Requisitado,155766.13,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Pagas,DI3.1.91.96.00.00,3.1.91.96.00 - Ressarcimento de Despesas de Pessoal Requisitado,134630.01,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DI3.1.91.96.00.00,3.1.91.96.00 - Ressarcimento de Despesas de Pessoal Requisitado,22233.87,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DI3.1.91.96.00.00,3.1.91.96.00 - Ressarcimento de Despesas de Pessoal Requisitado,21136.12,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.2.00.00.00.00,3.2.00.00.00 - Juros e Encargos da Dívida,21416191.11,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.2.00.00.00.00,3.2.00.00.00 - Juros e Encargos da Dívida,21416191.11,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.2.00.00.00.00,3.2.00.00.00 - Juros e Encargos da Dívida,21416191.11,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.2.90.00.00.00,3.2.90.00.00 - Aplicações Diretas,21416191.11,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.2.90.00.00.00,3.2.90.00.00 - Aplicações Diretas,21416191.11,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.2.90.00.00.00,3.2.90.00.00 - Aplicações Diretas,21416191.11,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.2.90.21.00.00,3.2.90.21.00 - Juros sobre a Dívida por Contrato,19871354.27,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.2.90.21.00.00,3.2.90.21.00 - Juros sobre a Dívida por Contrato,19871354.27,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.2.90.21.00.00,3.2.90.21.00 - Juros sobre a Dívida por Contrato,19871354.27,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.2.90.22.00.00,3.2.90.22.00 - Outros Encargos sobre a Dívida por Contrato,1544836.84,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.2.90.22.00.00,3.2.90.22.00 - Outros Encargos sobre a Dívida por Contrato,1544836.84,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.2.90.22.00.00,3.2.90.22.00 - Outros Encargos sobre a Dívida por Contrato,1544836.84,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.00.00.00.00,3.3.00.00.00 - Outras Despesas Correntes,1032809946.59,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.00.00.00.00,3.3.00.00.00 - Outras Despesas Correntes,965389423.63,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.00.00.00.00,3.3.00.00.00 - Outras Despesas Correntes,947711963.26,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.00.00.00.00,3.3.00.00.00 - Outras Despesas Correntes,67420522.96,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.00.00.00.00,3.3.00.00.00 - Outras Despesas Correntes,17677460.37,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.20.00.00.00,3.3.20.00.00 - Transferências à União,7059.74,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.20.00.00.00,3.3.20.00.00 - Transferências à União,7059.74,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.20.00.00.00,3.3.20.00.00 - Transferências à União,7059.74,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.30.00.00.00,3.3.30.00.00 - Transferências a Estados e ao Distrito Federal,2044419.22,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.30.00.00.00,3.3.30.00.00 - Transferências a Estados e ao Distrito Federal,2044419.22,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.30.00.00.00,3.3.30.00.00 - Transferências a Estados e ao Distrito Federal,2044419.22,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.30.41.00.00,3.3.30.41.00 - Contribuições,1972660.52,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.30.41.00.00,3.3.30.41.00 - Contribuições,1972660.52,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.30.41.00.00,3.3.30.41.00 - Contribuições,1972660.52,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.30.99.00.00,3.3.30.99.00 - A Classificar,71758.7,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.30.99.00.00,3.3.30.99.00 - A Classificar,71758.7,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.30.99.00.00,3.3.30.99.00 - A Classificar,71758.7,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.31.00.00.00,3.3.31.00.00 - Transferências a Estados e ao Distrito Federal - Fundo a Fundo,15713066.16,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.31.00.00.00,3.3.31.00.00 - Transferências a Estados e ao Distrito Federal - Fundo a Fundo,15713066.16,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.31.00.00.00,3.3.31.00.00 - Transferências a Estados e ao Distrito Federal - Fundo a Fundo,15713066.16,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.50.00.00.00,3.3.50.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos,36986371.27,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.50.00.00.00,3.3.50.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos,35375223.42,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.50.00.00.00,3.3.50.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos,34762412.7,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.50.00.00.00,3.3.50.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos,1611147.85,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.50.00.00.00,3.3.50.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos,612810.72,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.60.00.00.00,3.3.60.00.00 - Transferências a Instituições Privadas com Fins Lucrativos,14306048.07,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.60.00.00.00,3.3.60.00.00 - Transferências a Instituições Privadas com Fins Lucrativos,14306048.07,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.60.00.00.00,3.3.60.00.00 - Transferências a Instituições Privadas com Fins Lucrativos,14306048.07,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.00.00.00,3.3.90.00.00 - Aplicações Diretas,960902231.21,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.00.00.00,3.3.90.00.00 - Aplicações Diretas,895443478.68,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.00.00.00,3.3.90.00.00 - Aplicações Diretas,878378829.03,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.00.00.00,3.3.90.00.00 - Aplicações Diretas,65458752.53,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.00.00.00,3.3.90.00.00 - Aplicações Diretas,17064649.65,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.14.00.00,3.3.90.14.00 - Diárias - Civil,561234.36,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.14.00.00,3.3.90.14.00 - Diárias - Civil,510674.96,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.14.00.00,3.3.90.14.00 - Diárias - Civil,502074.96,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.14.00.00,3.3.90.14.00 - Diárias - Civil,50559.4,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.14.00.00,3.3.90.14.00 - Diárias - Civil,8600,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.18.00.00,3.3.90.18.00 - Auxílio Financeiro a Estudantes,70497.92,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.18.00.00,3.3.90.18.00 - Auxílio Financeiro a Estudantes,70497.92,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.18.00.00,3.3.90.18.00 - Auxílio Financeiro a Estudantes,70497.92,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.30.00.00,3.3.90.30.00 - Material de Consumo,112706883.44,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.30.00.00,3.3.90.30.00 - Material de Consumo,87270043.62,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.30.00.00,3.3.90.30.00 - Material de Consumo,85059734.32,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.30.00.00,3.3.90.30.00 - Material de Consumo,25436839.82,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.30.00.00,3.3.90.30.00 - Material de Consumo,2210309.3,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.31.00.00,"3.3.90.31.00 - Premiações Culturais, Artísticas, Científicas, Desportivas e Outras",13171293.52,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.31.00.00,"3.3.90.31.00 - Premiações Culturais, Artísticas, Científicas, Desportivas e Outras",13136943.52,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.31.00.00,"3.3.90.31.00 - Premiações Culturais, Artísticas, Científicas, Desportivas e Outras",13109231.52,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.31.00.00,"3.3.90.31.00 - Premiações Culturais, Artísticas, Científicas, Desportivas e Outras",34350,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.31.00.00,"3.3.90.31.00 - Premiações Culturais, Artísticas, Científicas, Desportivas e Outras",27712,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.32.00.00,"3.3.90.32.00 - Material, Bem ou Serviço para Distribuição Gratuita",1567018.14,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.32.00.00,"3.3.90.32.00 - Material, Bem ou Serviço para Distribuição Gratuita",1396062.14,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.32.00.00,"3.3.90.32.00 - Material, Bem ou Serviço para Distribuição Gratuita",1396062.14,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.32.00.00,"3.3.90.32.00 - Material, Bem ou Serviço para Distribuição Gratuita",170956,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.33.00.00,3.3.90.33.00 - Passagens e Despesas com Locomoção,4100098.17,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.33.00.00,3.3.90.33.00 - Passagens e Despesas com Locomoção,3652477.02,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.33.00.00,3.3.90.33.00 - Passagens e Despesas com Locomoção,3619841.4,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.33.00.00,3.3.90.33.00 - Passagens e Despesas com Locomoção,447621.15,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.33.00.00,3.3.90.33.00 - Passagens e Despesas com Locomoção,32635.62,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.34.00.00,3.3.90.34.00 - Outras Despesas de Pessoal decorrentes de Contratos de Terceirização,192178,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.34.00.00,3.3.90.34.00 - Outras Despesas de Pessoal decorrentes de Contratos de Terceirização,175410.2,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.34.00.00,3.3.90.34.00 - Outras Despesas de Pessoal decorrentes de Contratos de Terceirização,175410.2,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.34.00.00,3.3.90.34.00 - Outras Despesas de Pessoal decorrentes de Contratos de Terceirização,16767.8,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.35.00.00,3.3.90.35.00 - Serviços de Consultoria,2848439.39,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.35.00.00,3.3.90.35.00 - Serviços de Consultoria,2149348.21,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.35.00.00,3.3.90.35.00 - Serviços de Consultoria,2145692.65,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.35.00.00,3.3.90.35.00 - Serviços de Consultoria,699091.18,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.35.00.00,3.3.90.35.00 - Serviços de Consultoria,3655.56,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.36.00.00,3.3.90.36.00 - Outros Serviços de Terceiros - Pessoa Física,7174728.28,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.36.00.00,3.3.90.36.00 - Outros Serviços de Terceiros - Pessoa Física,7038272,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.36.00.00,3.3.90.36.00 - Outros Serviços de Terceiros - Pessoa Física,6993446.33,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.36.00.00,3.3.90.36.00 - Outros Serviços de Terceiros - Pessoa Física,136456.28,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.36.00.00,3.3.90.36.00 - Outros Serviços de Terceiros - Pessoa Física,44825.67,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.37.00.00,3.3.90.37.00 - Locação de Mão-de-Obra,139524926.45,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.37.00.00,3.3.90.37.00 - Locação de Mão-de-Obra,136301633.46,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.37.00.00,3.3.90.37.00 - Locação de Mão-de-Obra,130396183.92,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.37.00.00,3.3.90.37.00 - Locação de Mão-de-Obra,3223292.99,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.37.00.00,3.3.90.37.00 - Locação de Mão-de-Obra,5905449.54,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.39.00.00,3.3.90.39.00 - Outros Serviços de Terceiros - Pessoa Jurídica,555517208.11,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.39.00.00,3.3.90.39.00 - Outros Serviços de Terceiros - Pessoa Jurídica,521881213.03,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.39.00.00,3.3.90.39.00 - Outros Serviços de Terceiros - Pessoa Jurídica,513903897.92,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.39.00.00,3.3.90.39.00 - Outros Serviços de Terceiros - Pessoa Jurídica,33635995.08,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.39.00.00,3.3.90.39.00 - Outros Serviços de Terceiros - Pessoa Jurídica,7977315.11,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.41.00.00,3.3.90.41.00 - Contribuições,9459,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.41.00.00,3.3.90.41.00 - Contribuições,9459,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.41.00.00,3.3.90.41.00 - Contribuições,9459,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.46.00.00,3.3.90.46.00 - Auxílio-Alimentação,7386082.66,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.46.00.00,3.3.90.46.00 - Auxílio-Alimentação,7386082.66,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.46.00.00,3.3.90.46.00 - Auxílio-Alimentação,7386082.66,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.47.00.00,3.3.90.47.00 - Obrigações Tributárias e Contributivas,16803333.32,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.47.00.00,3.3.90.47.00 - Obrigações Tributárias e Contributivas,15873149.93,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.47.00.00,3.3.90.47.00 - Obrigações Tributárias e Contributivas,15853413.65,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.47.00.00,3.3.90.47.00 - Obrigações Tributárias e Contributivas,930183.39,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.47.00.00,3.3.90.47.00 - Obrigações Tributárias e Contributivas,19736.28,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.48.00.00,3.3.90.48.00 - Outros Auxílios Financeiros a Pessoas Físicas,1204503,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.48.00.00,3.3.90.48.00 - Outros Auxílios Financeiros a Pessoas Físicas,1185323,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.48.00.00,3.3.90.48.00 - Outros Auxílios Financeiros a Pessoas Físicas,786452,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.48.00.00,3.3.90.48.00 - Outros Auxílios Financeiros a Pessoas Físicas,19180,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.48.00.00,3.3.90.48.00 - Outros Auxílios Financeiros a Pessoas Físicas,398871,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.49.00.00,3.3.90.49.00 - Auxílio-Transporte,4797005.61,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.49.00.00,3.3.90.49.00 - Auxílio-Transporte,4796036.91,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.49.00.00,3.3.90.49.00 - Auxílio-Transporte,4796036.91,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.49.00.00,3.3.90.49.00 - Auxílio-Transporte,968.7,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.91.00.00,3.3.90.91.00 - Sentenças Judiciais,2363981.42,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.91.00.00,3.3.90.91.00 - Sentenças Judiciais,1986349.26,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.91.00.00,3.3.90.91.00 - Sentenças Judiciais,1967091.7,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.91.00.00,3.3.90.91.00 - Sentenças Judiciais,377632.16,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.91.00.00,3.3.90.91.00 - Sentenças Judiciais,19257.56,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.92.00.00,3.3.90.92.00 - Despesas de Exercícios Anteriores,75762403.25,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.92.00.00,3.3.90.92.00 - Despesas de Exercícios Anteriores,75503326.69,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.92.00.00,3.3.90.92.00 - Despesas de Exercícios Anteriores,75132044.68,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.92.00.00,3.3.90.92.00 - Despesas de Exercícios Anteriores,259076.56,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.92.00.00,3.3.90.92.00 - Despesas de Exercícios Anteriores,371282.01,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.93.00.00,3.3.90.93.00 - Indenizações e Restituições,15140957.17,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.93.00.00,3.3.90.93.00 - Indenizações e Restituições,15121175.15,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.93.00.00,3.3.90.93.00 - Indenizações e Restituições,15076175.15,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.93.00.00,3.3.90.93.00 - Indenizações e Restituições,19782.02,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.93.00.00,3.3.90.93.00 - Indenizações e Restituições,45000,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.91.00.00.00,"3.3.91.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social",2850750.92,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.91.00.00.00,"3.3.91.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social",2500128.34,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.91.00.00.00,"3.3.91.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social",2500128.34,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.91.00.00.00,"3.3.91.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social",350622.58,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.0.00.00.00.00,4.0.00.00.00 - Despesas de Capital,283020461.8,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.0.00.00.00.00,4.0.00.00.00 - Despesas de Capital,210848378.38,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.0.00.00.00.00,4.0.00.00.00 - Despesas de Capital,197920183.48,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.0.00.00.00.00,4.0.00.00.00 - Despesas de Capital,72172083.42,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO4.0.00.00.00.00,4.0.00.00.00 - Despesas de Capital,12928194.9,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.00.00.00.00,4.4.00.00.00 - Investimentos,242246928.92,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.00.00.00.00,4.4.00.00.00 - Investimentos,170081845.5,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.00.00.00.00,4.4.00.00.00 - Investimentos,157153650.6,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.4.00.00.00.00,4.4.00.00.00 - Investimentos,72165083.42,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO4.4.00.00.00.00,4.4.00.00.00 - Investimentos,12928194.9,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.20.00.00.00,4.4.20.00.00 - Transferências à União,1466495.49,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.20.00.00.00,4.4.20.00.00 - Transferências à União,1466495.49,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.20.00.00.00,4.4.20.00.00 - Transferências à União,1464111.26,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO4.4.20.00.00.00,4.4.20.00.00 - Transferências à União,2384.23,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.50.00.00.00,4.4.50.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos,1778000,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.50.00.00.00,4.4.50.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos,1778000,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.50.00.00.00,4.4.50.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos,1778000,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.60.00.00.00,4.4.60.00.00 - Transferências a Instituições Privadas com Fins Lucrativos,15802824.19,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.60.00.00.00,4.4.60.00.00 - Transferências a Instituições Privadas com Fins Lucrativos,5802824.19,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.60.00.00.00,4.4.60.00.00 - Transferências a Instituições Privadas com Fins Lucrativos,2932374.58,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.4.60.00.00.00,4.4.60.00.00 - Transferências a Instituições Privadas com Fins Lucrativos,10000000,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO4.4.60.00.00.00,4.4.60.00.00 - Transferências a Instituições Privadas com Fins Lucrativos,2870449.61,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.90.00.00.00,4.4.90.00.00 - Aplicações Diretas,213351388.76,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.90.00.00.00,4.4.90.00.00 - Aplicações Diretas,155176305.34,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.90.00.00.00,4.4.90.00.00 - Aplicações Diretas,145120944.28,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.4.90.00.00.00,4.4.90.00.00 - Aplicações Diretas,58175083.42,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO4.4.90.00.00.00,4.4.90.00.00 - Aplicações Diretas,10055361.06,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.90.30.00.00,4.4.90.30.00 - Material de Consumo,1457527.85,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.90.30.00.00,4.4.90.30.00 - Material de Consumo,1457527.85,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.90.30.00.00,4.4.90.30.00 - Material de Consumo,1457527.85,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.90.35.00.00,4.4.90.35.00 - Serviços de Consultoria,7754719.31,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.90.35.00.00,4.4.90.35.00 - Serviços de Consultoria,4941799.36,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.90.35.00.00,4.4.90.35.00 - Serviços de Consultoria,4796985.21,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.4.90.35.00.00,4.4.90.35.00 - Serviços de Consultoria,2812919.95,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO4.4.90.35.00.00,4.4.90.35.00 - Serviços de Consultoria,144814.15,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.90.39.00.00,4.4.90.39.00 - Outros Serviços de Terceiros - Pessoa Jurídica,2057600.38,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.90.39.00.00,4.4.90.39.00 - Outros Serviços de Terceiros - Pessoa Jurídica,1365865.07,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.90.39.00.00,4.4.90.39.00 - Outros Serviços de Terceiros - Pessoa Jurídica,847645.69,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.4.90.39.00.00,4.4.90.39.00 - Outros Serviços de Terceiros - Pessoa Jurídica,691735.31,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO4.4.90.39.00.00,4.4.90.39.00 - Outros Serviços de Terceiros - Pessoa Jurídica,518219.38,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.90.51.00.00,4.4.90.51.00 - Obras e Instalações,160024725.23,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.90.51.00.00,4.4.90.51.00 - Obras e Instalações,111495151.93,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.90.51.00.00,4.4.90.51.00 - Obras e Instalações,104142238.95,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.4.90.51.00.00,4.4.90.51.00 - Obras e Instalações,48529573.3,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO4.4.90.51.00.00,4.4.90.51.00 - Obras e Instalações,7352912.98,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.90.51.91.00,4.4.90.51.91 - Obras em Andamento,160024725.23,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.90.51.91.00,4.4.90.51.91 - Obras em Andamento,111495151.93,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.90.51.91.00,4.4.90.51.91 - Obras em Andamento,104142238.95,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.4.90.51.91.00,4.4.90.51.91 - Obras em Andamento,48529573.3,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO4.4.90.51.91.00,4.4.90.51.91 - Obras em Andamento,7352912.98,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.90.52.00.00,4.4.90.52.00 - Equipamentos e Material Permanente,21051932.93,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.90.52.00.00,4.4.90.52.00 - Equipamentos e Material Permanente,14947807.46,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.90.52.00.00,4.4.90.52.00 - Equipamentos e Material Permanente,13376934.2,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.4.90.52.00.00,4.4.90.52.00 - Equipamentos e Material Permanente,6104125.47,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO4.4.90.52.00.00,4.4.90.52.00 - Equipamentos e Material Permanente,1570873.26,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.90.61.00.00,4.4.90.61.00 - Aquisição de Imóveis,12379301.27,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.90.61.00.00,4.4.90.61.00 - Aquisição de Imóveis,12342571.88,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.90.61.00.00,4.4.90.61.00 - Aquisição de Imóveis,12318199.81,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.4.90.61.00.00,4.4.90.61.00 - Aquisição de Imóveis,36729.39,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO4.4.90.61.00.00,4.4.90.61.00 - Aquisição de Imóveis,24372.07,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.90.92.00.00,4.4.90.92.00 - Despesas de Exercícios Anteriores,7437543.79,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.90.92.00.00,4.4.90.92.00 - Despesas de Exercícios Anteriores,7437543.79,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.90.92.00.00,4.4.90.92.00 - Despesas de Exercícios Anteriores,7429872.3,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO4.4.90.92.00.00,4.4.90.92.00 - Despesas de Exercícios Anteriores,7671.49,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.90.93.00.00,4.4.90.93.00 - Indenizações e Restituições,1188038,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.90.93.00.00,4.4.90.93.00 - Indenizações e Restituições,1188038,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.90.93.00.00,4.4.90.93.00 - Indenizações e Restituições,751540.27,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO4.4.90.93.00.00,4.4.90.93.00 - Indenizações e Restituições,436497.73,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DI4.4.91.00.00.00,"4.4.91.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social",9848220.48,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DI4.4.91.00.00.00,"4.4.91.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social",5858220.48,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Pagas,DI4.4.91.00.00.00,"4.4.91.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social",5858220.48,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DI4.4.91.00.00.00,"4.4.91.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social",3990000,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.5.00.00.00.00,4.5.00.00.00 - Inversões Financeiras,2185570.7,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.5.00.00.00.00,4.5.00.00.00 - Inversões Financeiras,2178570.7,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.5.00.00.00.00,4.5.00.00.00 - Inversões Financeiras,2178570.7,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.5.00.00.00.00,4.5.00.00.00 - Inversões Financeiras,7000,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.5.90.00.00.00,4.5.90.00.00 - Aplicações Diretas,2185570.7,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.5.90.00.00.00,4.5.90.00.00 - Aplicações Diretas,2178570.7,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.5.90.00.00.00,4.5.90.00.00 - Aplicações Diretas,2178570.7,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.5.90.00.00.00,4.5.90.00.00 - Aplicações Diretas,7000,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.5.90.66.00.00,4.5.90.66.00 - Concessão de Empréstimos e Financiamentos,2185570.7,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.5.90.66.00.00,4.5.90.66.00 - Concessão de Empréstimos e Financiamentos,2178570.7,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.5.90.66.00.00,4.5.90.66.00 - Concessão de Empréstimos e Financiamentos,2178570.7,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.5.90.66.00.00,4.5.90.66.00 - Concessão de Empréstimos e Financiamentos,7000,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.6.00.00.00.00,4.6.00.00.00 - Amortização da Dívida,38587962.18,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.6.00.00.00.00,4.6.00.00.00 - Amortização da Dívida,38587962.18,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.6.00.00.00.00,4.6.00.00.00 - Amortização da Dívida,38587962.18,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.6.90.00.00.00,4.6.90.00.00 - Aplicações Diretas,38587962.18,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.6.90.00.00.00,4.6.90.00.00 - Aplicações Diretas,38587962.18,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.6.90.00.00.00,4.6.90.00.00 - Aplicações Diretas,38587962.18,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.6.90.71.00.00,4.6.90.71.00 - Principal da Dívida Contratual Resgatado,38463149.25,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.6.90.71.00.00,4.6.90.71.00 - Principal da Dívida Contratual Resgatado,38463149.25,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.6.90.71.00.00,4.6.90.71.00 - Principal da Dívida Contratual Resgatado,38463149.25,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.6.90.73.00.00,4.6.90.73.00 - Correção Monetária ou Cambial da Dívida Contratual Resgatada,124812.93,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.6.90.73.00.00,4.6.90.73.00 - Correção Monetária ou Cambial da Dívida Contratual Resgatada,124812.93,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.6.90.73.00.00,4.6.90.73.00 - Correção Monetária ou Cambial da Dívida Contratual Resgatada,124812.93,847430

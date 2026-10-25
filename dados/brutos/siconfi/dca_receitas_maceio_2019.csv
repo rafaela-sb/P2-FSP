@@ -1,0 +1,169 @@
+exercicio,instituicao,cod_ibge,uf,anexo,rotulo,coluna,cod_conta,conta,valor,populacao
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,ReceitasExcetoIntraOrcamentarias,RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I),2502618911.15,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,ReceitasExcetoIntraOrcamentarias,RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I),170976978.31,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,ReceitasExcetoIntraOrcamentarias,RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I),628884.48,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.0.0.0.00.0.0,1.0.0.0.00.0.0 - Receitas Correntes,2487088761.6,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.0.0.0.00.0.0,1.0.0.0.00.0.0 - Receitas Correntes,170976978.31,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.0.0.0.00.0.0,1.0.0.0.00.0.0 - Receitas Correntes,628884.48,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.0.0.00.0.0,"1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria",582584102.16,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.1.0.0.00.0.0,"1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria",628884.48,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.1.0.00.0.0,1.1.1.0.00.0.0 - Impostos,506078101.7,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.1.1.0.00.0.0,1.1.1.0.00.0.0 - Impostos,595202.35,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.1.3.00.0.0,1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza,50689214.05,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.1.3.01.0.0,1.1.1.3.01.0.0 - Imposto sobre a Renda de Pessoa Física - IRPF,12.82,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.1.3.02.0.0,1.1.1.3.02.0.0 - Imposto sobre a Renda de Pessoa Jurídica - IRPJ - Líquida de Incentivos,388.09,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.1.3.03.0.0,1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte,50688813.14,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.1.3.03.1.0,1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho,489473.22,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.1.3.03.4.0,1.1.1.3.03.4.0 - Imposto sobre a Renda - Retido na Fonte - Outros Rendimentos,50199339.92,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.1.8.00.0.0,"1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios",455388887.65,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.1.1.8.00.0.0,"1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios",595202.35,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.1.8.01.0.0,1.1.1.8.01.0.0 Impostos sobre o Patrimônio para Estados/DF/Municípios,190939340.25,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.1.1.8.01.0.0,1.1.1.8.01.0.0 Impostos sobre o Patrimônio para Estados/DF/Municípios,232294.42,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.1.8.01.1.0,1.1.1.8.01.1.0 Imposto sobre a Propriedade Predial e Territorial Urbana,147889035.37,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.1.1.8.01.1.0,1.1.1.8.01.1.0 Imposto sobre a Propriedade Predial e Territorial Urbana,144137.44,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.1.8.01.4.0,1.1.1.8.01.4.0 Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis,43050304.88,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.1.1.8.01.4.0,1.1.1.8.01.4.0 Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis,88156.98,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.1.8.02.0.0,"1.1.1.8.02.0.0 Impostos sobre a Produção, Circulação de Mercadorias e Serviços",264449547.4,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.1.1.8.02.0.0,"1.1.1.8.02.0.0 Impostos sobre a Produção, Circulação de Mercadorias e Serviços",362907.93,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.1.8.02.3.0,1.1.1.8.02.3.0 Imposto sobre Serviços de Qualquer Natureza,264449547.4,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.1.1.8.02.3.0,1.1.1.8.02.3.0 Imposto sobre Serviços de Qualquer Natureza,362907.93,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.2.0.00.0.0,1.1.2.0.00.0.0 - Taxas,76506000.46,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.1.2.0.00.0.0,1.1.2.0.00.0.0 - Taxas,33682.13,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.2.1.00.0.0,1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia,36330989.7,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.1.2.1.00.0.0,1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia,24515.57,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.2.1.01.0.0,"1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização",34484040.52,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.1.2.1.01.0.0,"1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização",23996.15,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.2.1.04.0.0,1.1.2.1.04.0.0 - Taxa de Controle e Fiscalização Ambiental,1846949.18,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.1.2.1.04.0.0,1.1.2.1.04.0.0 - Taxa de Controle e Fiscalização Ambiental,519.42,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.2.2.00.0.0,1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços,40175010.76,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.1.2.2.00.0.0,1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços,9166.56,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.2.2.01.0.0,1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços,40175010.76,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.1.2.2.01.0.0,1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços,9166.56,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.2.0.0.00.0.0,1.2.0.0.00.0.0 - Contribuições,162734151.05,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.2.1.0.00.0.0,1.2.1.0.00.0.0 - Contribuições Sociais,70379307.24,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.2.1.8.00.0.0,"1.2.1.8.00.0.0 Contribuições Sociais Específicas de Estados, DF e Municípios",70379307.24,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.2.1.8.01.0.0,1.2.1.8.01.0.0 - Contribuição do Servidor Civil para o Plano de Seguridade Social - CPSSS - Específico de EST/DF/MUN,70355061.16,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.2.1.8.01.1.0,1.2.1.8.01.1.0 - CPSSS do Servidor Civil Ativo,62599732.73,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.2.1.8.01.2.0,1.2.1.8.01.2.0 - CPSSS do Servidor Civil Inativo,6766078.34,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.2.1.8.01.3.0,1.2.1.8.01.3.0 - CPSSS do Servidor Civil - Pensionistas,753144.77,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.2.1.8.01.4.0,1.2.1.8.01.4.0 - CPSSS Oriunda de Sentenças Judiciais - Servidor Civil Ativo,111695.26,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.2.1.8.01.5.0,1.2.1.8.01.5.0 - CPSSS Oriunda de Sentenças Judiciais - Servidor Civil Inativo,96328.71,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.2.1.8.01.6.0,1.2.1.8.01.6.0 - CPSSS Oriunda de Sentenças Judiciais - Servidor Civil - Pensionistas,28081.35,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.2.1.8.03.0.0,1.2.1.8.03.0.0 - CPSSS Patronal - Servidor Civil - Específico de EST/DF/MUN,24246.08,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.2.1.8.03.1.0,1.2.1.8.03.1.0 - CPSSS Patronal - Servidor Civil Ativo,24246.08,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.2.4.0.00.0.0,1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública,92354843.81,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.3.0.0.00.0.0,1.3.0.0.00.0.0 - Receita Patrimonial,60955585.85,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.3.1.0.00.0.0,1.3.1.0.00.0.0 - Exploração do Patrimônio Imobiliário do Estado,783606.59,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.3.1.0.01.0.0,"1.3.1.0.01.0.0 - Aluguéis, Arrendamentos, Foros, Laudêmios, Tarifas de Ocupação",705296.29,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.3.1.0.01.2.0,"1.3.1.0.01.2.0 - Foros, Laudêmios e Tarifas de Ocupação",705296.29,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.3.1.0.99.0.0,1.3.1.0.99.0.0 - Outras Receitas Imobiliárias,78310.3,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.3.2.0.00.0.0,1.3.2.0.00.0.0 - Valores Mobiliários,13629379.18,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.3.2.1.00.0.0,1.3.2.1.00.0.0 - Juros e Correções Monetárias,13629379.18,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.3.2.1.00.1.0,1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários,10537300.29,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.3.2.1.00.4.0,1.3.2.1.00.4.0 - Remuneração dos Recursos do Regime Próprio de Previdência Social - RPPS,3092078.89,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.3.3.0.00.0.0,"1.3.3.0.00.0.0 - Delegação de Serviços Públicos Mediante Concessão, Permissão, Autorização ou Licença",1112600.08,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.3.3.9.00.0.0,1.3.3.9.00.0.0 - Demais Delegações de Serviços Públicos,1112600.08,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.3.6.0.00.0.0,1.3.6.0.00.0.0 - Cessão de Direitos,45430000,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.6.0.0.00.0.0,1.6.0.0.00.0.0 - Receita de Serviços,119732.52,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.6.1.0.00.0.0,1.6.1.0.00.0.0 - Serviços Administrativos e Comerciais Gerais,119732.52,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.6.1.0.01.0.0,1.6.1.0.01.0.0 - Serviços Administrativos e Comerciais Gerais,17853.05,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.6.1.0.02.0.0,1.6.1.0.02.0.0 - Inscrição em Concursos e Processos Seletivos,101879.47,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.0.0.00.0.0,1.7.0.0.00.0.0 - Transferências Correntes,1630590904.73,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.0.0.00.0.0,1.7.0.0.00.0.0 - Transferências Correntes,170976978.31,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.0.00.0.0,1.7.1.0.00.0.0 - Transferências da União e de suas Entidades,1003430419.77,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.1.0.00.0.0,1.7.1.0.00.0.0 - Transferências da União e de suas Entidades,87211877.39,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.00.0.0,"1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios",1003430419.77,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.1.8.00.0.0,"1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios",87211877.39,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.01.0.0,1.7.1.8.01.0.0 Participação na Receita da União,473827427.88,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.1.8.01.0.0,1.7.1.8.01.0.0 Participação na Receita da União,87211877.39,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.01.2.0,1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal,435953103.11,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.1.8.01.2.0,1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal,87190620.34,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.01.3.0,1.7.1.8.01.3.0 Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro,19239416.74,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.01.4.0,1.7.1.8.01.4.0 Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho,18528610.17,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.01.5.0,1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural,106297.86,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.1.8.01.5.0,1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural,21257.05,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.02.0.0,1.7.1.8.02.0.0 Transferência da Compensação Financeira pela Exploração de Recursos Naturais,16102543.37,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.02.2.0,1.7.1.8.02.2.0 Cota-parte da Compensação Financeira de Recursos Minerais - CFEM,1072593.89,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.02.3.0,1.7.1.8.02.3.0 Cota-parte Royalties ¿ Compensação Financeira pela Produção de Petróleo ¿ Lei nº 7.990/89,8451388.79,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.02.4.0,"1.7.1.8.02.4.0 Cota-parte Royalties pelo Excedente da Produção do Petróleo ¿ Lei nº 9.478/97, artigo 49, I e II",275176.57,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.02.6.0,1.7.1.8.02.6.0 Cota-Parte do Fundo Especial do Petróleo ¿ FEP,6303384.12,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.03.0.0,"1.7.1.8.03.0.0 Transferência de Recursos do Sistema Único de Saúde ¿ 
+ SUS ¿ Bloco Custeio das Ações e Serviços Públicos de Saúde",429901684.03,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.03.1.0,1.7.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Básica,429901684.03,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.04.0.0,1.7.1.8.04.0.0 Transferências de Recursos do Sistema Único de Saúde ¿ SUS - Bloco Investimentos na Rede de Serviços Públicos de Saúde,9238271.24,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.04.1.0,1.7.1.8.04.1.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS destinados à Atenção Básica,9238271.24,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.05.0.0,1.7.1.8.05.0.0 Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE,10322126.62,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.05.1.0,1.7.1.8.05.1.0 Transferências do Salário-Educação,4999031.96,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.05.3.0,1.7.1.8.05.3.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE,5313247.2,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.05.4.0,1.7.1.8.05.4.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE,9847.46,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.10.0.0,1.7.1.8.10.0.0 Transferências de Convênios da União e de Suas Entidades,1947710.15,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.10.9.0,1.7.1.8.10.9.0 Outras Transferências de Convênios da União,1947710.15,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.99.0.0,1.7.1.8.99.0.0 Outras Transferências da União,62090656.48,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.2.0.00.0.0,1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades,434814336.77,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.2.0.00.0.0,1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades,83765100.92,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.2.8.00.0.0,"1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios",434814336.77,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.2.8.00.0.0,"1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios",83765100.92,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.2.8.01.0.0,1.7.2.8.01.0.0 Participação na Receita dos Estados,419933336.97,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.2.8.01.0.0,1.7.2.8.01.0.0 Participação na Receita dos Estados,83765100.92,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.2.8.01.1.0,1.7.2.8.01.1.0 Cota-Parte do ICMS,322511986.95,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.2.8.01.1.0,1.7.2.8.01.1.0 Cota-Parte do ICMS,64502397.43,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.2.8.01.2.0,1.7.2.8.01.2.0 Cota-Parte do IPVA,96151277.18,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.2.8.01.2.0,1.7.2.8.01.2.0 Cota-Parte do IPVA,19230255.48,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.2.8.01.3.0,1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios,692848.53,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.2.8.01.3.0,1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios,32448.01,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.2.8.01.4.0,1.7.2.8.01.4.0 Cota-Parte da Contribuição de Intervenção no Domínio Econômico,577224.31,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.2.8.03.0.0,1.7.2.8.03.0.0 Transferência de Recursos do Estado para Programas de Saúde ¿ Repasse Fundo a Fundo,14880999.8,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.4.0.00.0.0,1.7.4.0.00.0.0 - Transferências de Instituições Privadas,830233.64,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.4.0.00.1.0,1.7.4.0.00.1.0 - Transferências de Instituições Privadas,830233.64,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.5.0.00.0.0,1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas,191514614.45,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.5.8.00.0.0,"1.7.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios",191514614.45,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.5.8.01.0.0,1.7.5.8.01.0.0 Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB,191514614.45,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.7.0.00.0.0,1.7.7.0.00.0.0 - Transferências de Pessoas Físicas,1300.1,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.7.0.00.1.0,1.7.7.0.00.1.0 - Transferências de Pessoas Físicas,1300.1,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.0.0.00.0.0,1.9.0.0.00.0.0 - Outras Receitas Correntes,50104285.29,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.1.0.00.0.0,"1.9.1.0.00.0.0 - Multas Administrativas, Contratuais e Judiciais",11114661.6,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.1.0.01.0.0,1.9.1.0.01.0.0 - Multas Previstas em Legislação Específica,11048760.97,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.1.0.06.0.0,1.9.1.0.06.0.0 - Multas por Danos Ambientais,65900.63,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.1.0.06.1.0,1.9.1.0.06.1.0 - Multas Administrativas por Danos Ambientais,65900.63,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.2.0.00.0.0,"1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos",3309430.8,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.2.1.00.0.0,1.9.2.1.00.0.0 - Indenizações,439592.25,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.2.1.99.0.0,1.9.2.1.99.0.0 - Outras Indenizações,439592.25,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.2.2.00.0.0,1.9.2.2.00.0.0 - Restituições,2869838.55,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.2.2.99.0.0,1.9.2.2.99.0.0 - Outras Restituições,2869838.55,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.3.0.00.0.0,"1.9.3.0.00.0.0 - Bens, Direitos e Valores Incorporados ao Patrimônio Público",15000000,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.3.0.05.0.0,1.9.3.0.05.0.0 - Receitas Reconhecidas por Força de Decisões Judiciais e de Tribunais Administrativos,15000000,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.9.0.00.0.0,1.9.9.0.00.0.0 - Demais Receitas Correntes,20680192.89,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.9.0.03.0.0,1.9.9.0.03.0.0 - Compensações Financeiras entre o Regime Geral e os Regimes Próprios de Previdência dos Servidores,10940192.43,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.9.0.12.0.0,1.9.9.0.12.0.0 - Encargos Legais pela Inscrição em Dívida Ativa e Receitas de Ônus de Sucumbência,174954.06,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.9.0.12.2.0,1.9.9.0.12.2.0 - Ônus de Sucumbência,174954.06,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.9.0.99.0.0,1.9.9.0.99.0.0 - Outras Receitas,9565046.4,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.9.0.99.1.0,1.9.9.0.99.1.0 - Outras Receitas - Primárias,4733839.42,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.9.0.99.2.0,1.9.9.0.99.2.0 - Outras Receitas - Financeiras,4831206.98,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.0.0.0.00.0.0,2.0.0.0.00.0.0 - Receitas de Capital,15530149.55,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.1.0.0.00.0.0,2.1.0.0.00.0.0 - Operações de Crédito,7880047.2,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.1.1.0.00.0.0,2.1.1.0.00.0.0 - Operações de Crédito - Mercado Interno,7476794.7,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.1.1.2.00.0.0,2.1.1.2.00.0.0 Operações de Crédito Contratuais - Mercado Interno,7476794.7,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.1.2.0.00.0.0,2.1.2.0.00.0.0 - Operações de Crédito - Mercado Externo,403252.5,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.1.2.2.00.0.0,2.1.2.2.00.0.0 Operações de Crédito Contratuais - Mercado Externo,403252.5,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.4.0.0.00.0.0,2.4.0.0.00.0.0 - Transferências de Capital,5969483.29,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.4.1.0.00.0.0,2.4.1.0.00.0.0 - Transferências da União e de suas Entidades,5969483.29,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.4.1.8.00.0.0,"2.4.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios",5969483.29,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.4.1.8.03.0.0,2.4.1.8.03.0.0 Transferências de Recursos do Sistema Único de Saúde ¿ SUS,2246680,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.4.1.8.03.1.0,2.4.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Básica,2246680,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.4.1.8.10.0.0,2.4.1.8.10.0.0 Transferência de Convênios da União e de suas Entidades,3722803.29,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.4.1.8.10.9.0,2.4.1.8.10.9.0 - Outras Transferências de Convênios da União,3722803.29,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.9.0.0.00.0.0,2.9.0.0.00.0.0 - Outras Receitas de Capital,1680619.06,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.9.9.0.00.0.0,2.9.9.0.00.0.0 - Demais Receitas de Capital,1680619.06,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.9.9.0.00.1.0,2.9.9.0.00.1.0 Demais Receitas de Capital,1680619.06,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,ReceitasIntraOrcamentarias,RECEITAS (INTRA-ORÇAMENTÁRIAS) (II),197558988.27,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO7.0.0.0.00.0.0,7.0.0.0.00.0.0 - Receitas Correntes,197558988.27,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO7.2.0.0.00.0.0,7.2.0.0.00.0.0 - Contribuições,197558988.27,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO7.2.1.0.00.0.0,7.2.1.0.00.0.0 - Contribuições Sociais,197558988.27,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO7.2.1.8.00.0.0,"7.2.1.8.00.0.0 Contribuições Sociais Específicas de Estados, DF e 
+ Municípios",197558988.27,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO7.2.1.8.01.0.0,7.2.1.8.01.0.0 - Contribuição do Servidor Civil para o Plano de Seguridade Social - CPSSS - Específico de EST/DF/MUN,3367853.88,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO7.2.1.8.03.0.0,7.2.1.8.03.0.0 - CPSSS Patronal - Servidor Civil - Específico de EST/DF/MUN,194191134.39,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO7.2.1.8.03.1.0,7.2.1.8.03.1.0 - CPSSS Patronal - Servidor Civil Ativo,194191134.39,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,TotalReceitas,TOTAL DAS RECEITAS (III) = (I + II),2700177899.42,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,TotalReceitas,TOTAL DAS RECEITAS (III) = (I + II),170976978.31,1012382
+2019,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,TotalReceitas,TOTAL DAS RECEITAS (III) = (I + II),628884.48,1012382

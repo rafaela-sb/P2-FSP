@@ -1,0 +1,134 @@
+exercicio,instituicao,cod_ibge,uf,anexo,rotulo,coluna,cod_conta,conta,valor,populacao
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,TotalReceitas,Total Receitas,6790232813.69,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,TotalReceitas,Total Receitas,342635731.15,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.0.0.0.00.0.0,1.0.0.0.00.0.0 - Receitas Correntes,6174946597.89,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.0.0.0.00.0.0,1.0.0.0.00.0.0 - Receitas Correntes,342635731.15,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.0.0.00.0.0,"1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria",2450110558.28,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.1.0.00.0.0,1.1.1.0.00.0.0 - Impostos,2149323674.6,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.1.3.00.0.0,1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza,238469103.52,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.1.3.03.0.0,1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte,238469103.52,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.1.3.03.1.0,1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho,220978679.97,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.1.3.03.4.0,1.1.1.3.03.4.0 - Imposto sobre a Renda - Retido na Fonte - Outros Rendimentos,17490423.55,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.1.8.00.0.0,"1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios",1910854571.08,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.1.8.01.0.0,1.1.1.8.01.0.0 Impostos sobre o Patrimônio para Estados/DF/Municípios,867562263.04,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.1.8.01.1.0,1.1.1.8.01.1.0 Imposto sobre a Propriedade Predial e Territorial Urbana,702681981.85,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.1.8.01.4.0,1.1.1.8.01.4.0 Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis,164880281.19,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.1.8.02.0.0,"1.1.1.8.02.0.0 Impostos sobre a Produção, Circulação de Mercadorias e Serviços",1043292308.04,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.1.8.02.3.0,1.1.1.8.02.3.0 Imposto sobre Serviços de Qualquer Natureza,1043292308.04,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.2.0.00.0.0,1.1.2.0.00.0.0 - Taxas,300786883.68,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.2.1.00.0.0,1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia,150691268.38,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.2.1.01.0.0,"1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização",149544560.32,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.2.1.04.0.0,1.1.2.1.04.0.0 - Taxa de Controle e Fiscalização Ambiental,1146708.06,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.2.2.00.0.0,1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços,150095615.3,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.2.2.01.0.0,1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços,150095615.3,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.2.0.0.00.0.0,1.2.0.0.00.0.0 - Contribuições,312093840.95,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.2.1.0.00.0.0,1.2.1.0.00.0.0 - Contribuições Sociais,155344144.71,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.2.1.0.04.0.0,1.2.1.0.04.0.0 - Contribuição para o Regime Próprio de Previdência Social - RPPS,155344144.71,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.2.1.0.04.1.0,1.2.1.0.04.1.0 - Contribuição Patronal de Servidor Ativo Civil para o RPPS,9507.69,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.2.1.0.04.2.0,1.2.1.0.04.2.0 - Contribuição do Servidor Ativo Civil para o RPPS,141749520.65,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.2.1.0.04.3.0,1.2.1.0.04.3.0 - Contribuição do Servidor Inativo para o RPPS,10114651.58,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.2.1.0.04.4.0,1.2.1.0.04.4.0 - Contribuição do Pensionista para o RPPS,3387424.31,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.2.1.0.04.5.0,1.2.1.0.04.5.0 - Contribuição Patronal para o RPPS Oriunda de Sentenças Judiciais,83040.48,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.2.4.0.00.0.0,1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública,156749696.24,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.3.0.0.00.0.0,1.3.0.0.00.0.0 - Receita Patrimonial,127625373.37,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.3.1.0.00.0.0,1.3.1.0.00.0.0 - Exploração do Patrimônio Imobiliário do Estado,23001811.19,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.3.1.0.01.0.0,"1.3.1.0.01.0.0 - Aluguéis, Arrendamentos, Foros, Laudêmios, Tarifas de Ocupação",3572786.99,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.3.1.0.01.1.0,1.3.1.0.01.1.0 - Aluguéis e Arrendamentos,24298,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.3.1.0.01.2.0,"1.3.1.0.01.2.0 - Foros, Laudêmios e Tarifas de Ocupação",3548488.99,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.3.1.0.02.0.0,"1.3.1.0.02.0.0 - Concessão, Permissão, Autorização ou Cessão do Direito de Uso de Bens Imóveis Públicos",19429024.2,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.3.2.0.00.0.0,1.3.2.0.00.0.0 - Valores Mobiliários,103937600.69,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.3.2.2.00.0.0,1.3.2.2.00.0.0 - Dividendos,1.6,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.3.2.9.00.0.0,1.3.2.9.00.0.0 - Outros Valores Mobiliários,103937599.09,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.3.6.0.00.0.0,1.3.6.0.00.0.0 - Cessão de Direitos,685673.62,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.3.9.0.00.0.0,1.3.9.0.00.0.0 - Demais Receitas Patrimoniais,287.87,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.5.0.0.00.0.0,1.5.0.0.00.0.0 - Receita Industrial,1397648.32,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.6.0.0.00.0.0,1.6.0.0.00.0.0 - Receita de Serviços,9495469.38,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.6.1.0.00.0.0,1.6.1.0.00.0.0 - Serviços Administrativos e Comerciais Gerais,2539617.02,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.6.1.0.01.0.0,1.6.1.0.01.0.0 - Serviços Administrativos e Comerciais Gerais,2539617.02,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.6.9.0.00.0.0,1.6.9.0.00.0.0 - Outros Serviços,6955852.36,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.6.9.0.99.0.0,1.6.9.0.99.0.0 - Outros Serviços,6955852.36,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.0.0.00.0.0,1.7.0.0.00.0.0 - Transferências Correntes,3092341391.94,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.0.0.00.0.0,1.7.0.0.00.0.0 - Transferências Correntes,342635731.15,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.0.00.0.0,1.7.1.0.00.0.0 - Transferências da União e de suas Entidades,1575936237.92,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.1.0.00.0.0,1.7.1.0.00.0.0 - Transferências da União e de suas Entidades,145516241.51,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.00.0.0,"1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios",1575936237.92,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.1.8.00.0.0,"1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios",145516241.51,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.01.0.0,1.7.1.8.01.0.0 Participação na Receita da União,788811008.41,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.1.8.01.0.0,1.7.1.8.01.0.0 Participação na Receita da União,145035939.23,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.01.2.0,1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal,725172768.53,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.1.8.01.2.0,1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal,145034553.44,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.01.3.0,1.7.1.8.01.3.0 Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro,32207742.69,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.01.4.0,1.7.1.8.01.4.0 Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho,31423567.84,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.01.5.0,1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural,6929.35,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.1.8.01.5.0,1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural,1385.79,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.02.0.0,1.7.1.8.02.0.0 Transferência da Compensação Financeira pela Exploração de Recursos Naturais,18382416.88,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.02.2.0,1.7.1.8.02.2.0 Cota-parte da Compensação Financeira de Recursos Minerais - CFEM,386816.51,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.02.5.0,"1.7.1.8.02.5.0 Cota-parte Royalties pela Participação Especial ¿ Lei nº 9.478/97, artigo 50",5721965.98,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.02.6.0,1.7.1.8.02.6.0 Cota-Parte do Fundo Especial do Petróleo ¿ FEP,12273634.39,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.03.0.0,1.7.1.8.03.0.0 Transferência de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo,696763571.59,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.04.0.0,1.7.1.8.04.0.0 Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS,12997835.56,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.05.0.0,1.7.1.8.05.0.0 Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE,56579894.08,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.05.1.0,1.7.1.8.05.1.0 Transferências do Salário-Educação,20108987.94,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.05.3.0,1.7.1.8.05.3.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE,15911855.2,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.05.9.0,1.7.1.8.05.9.0 Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE,20559050.94,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.06.0.0,1.7.1.8.06.0.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96,2401511.4,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.1.8.06.0.0,1.7.1.8.06.0.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96,480302.28,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.06.1.0,1.7.1.8.06.1.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96,2401511.4,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.1.8.06.1.0,1.7.1.8.06.1.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96,480302.28,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.2.0.00.0.0,1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades,1008728780.58,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.2.0.00.0.0,1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades,197119489.64,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.2.8.00.0.0,"1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios",1008728780.58,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.2.8.00.0.0,"1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios",197119489.64,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.2.8.01.0.0,1.7.2.8.01.0.0 Participação na Receita dos Estados,995225690.25,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.2.8.01.0.0,1.7.2.8.01.0.0 Participação na Receita dos Estados,197119489.64,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.2.8.01.1.0,1.7.2.8.01.1.0 Cota-Parte do ICMS,772521947.78,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.2.8.01.1.0,1.7.2.8.01.1.0 Cota-Parte do ICMS,154504389.34,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.2.8.01.2.0,1.7.2.8.01.2.0 Cota-Parte do IPVA,213075505.2,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.2.8.01.2.0,1.7.2.8.01.2.0 Cota-Parte do IPVA,42615100.3,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.2.8.01.3.0,1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios,6410431.98,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.2.8.01.4.0,1.7.2.8.01.4.0 Cota-Parte da Contribuição de Intervenção no Domínio Econômico,3217805.29,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.2.8.99.0.0,1.7.2.8.99.0.0 Outras Transferências dos Estados,13503090.33,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.4.0.00.0.0,1.7.4.0.00.0.0 - Transferências de Instituições Privadas,3120510.72,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.4.8.00.0.0,"1.7.4.8.00.0.0 Transferências de Instituições Privadas - Específicas de Estados, DF e Municípios",3120510.72,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.5.0.00.0.0,1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas,504264488.95,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.5.8.00.0.0,"1.7.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios",504264488.95,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.5.8.01.0.0,1.7.5.8.01.0.0 Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB,504264488.95,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.7.0.00.0.0,1.7.7.0.00.0.0 - Transferências de Pessoas Físicas,291373.77,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.0.0.00.0.0,1.9.0.0.00.0.0 - Outras Receitas Correntes,181882315.65,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.1.0.00.0.0,"1.9.1.0.00.0.0 - Multas Administrativas, Contratuais e Judiciais",109136444.19,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.2.0.00.0.0,"1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos",22953487.83,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.2.2.00.0.0,1.9.2.2.00.0.0 - Restituições,22736759.06,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.2.2.01.0.0,1.9.2.2.01.0.0 - Restituição de Convênios,1088455.69,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.2.2.99.0.0,1.9.2.2.99.0.0 - Outras Restituições,21648303.37,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.2.3.00.0.0,1.9.2.3.00.0.0 - Ressarcimentos,216728.77,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.2.3.02.0.0,1.9.2.3.02.0.0 - Ressarcimento de Custos,148392.51,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.2.3.99.0.0,1.9.2.3.99.0.0 - Outros Ressarcimentos,68336.26,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.3.0.00.0.0,"1.9.3.0.00.0.0 - Bens, Direitos e Valores Incorporados ao Patrimônio Público",3786020.93,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.9.0.00.0.0,1.9.9.0.00.0.0 - Demais Receitas Correntes,46006362.7,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.9.0.03.0.0,1.9.9.0.03.0.0 - Compensações Financeiras entre o Regime Geral e os Regimes Próprios de Previdência dos Servidores,4684830.26,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.9.0.99.0.0,1.9.9.0.99.0.0 - Outras Receitas,41321532.44,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.9.0.99.1.0,1.9.9.0.99.1.0 - Outras Receitas - Primárias,41257559.95,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.9.0.99.2.0,1.9.9.0.99.2.0 - Outras Receitas - Financeiras,63972.49,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.0.0.0.00.0.0,2.0.0.0.00.0.0 - Receitas de Capital,291777626.28,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.1.0.0.00.0.0,2.1.0.0.00.0.0 - Operações de Crédito,161657528.39,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.1.1.0.00.0.0,2.1.1.0.00.0.0 - Operações de Crédito - Mercado Interno,56796653.39,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.1.1.9.00.0.0,2.1.1.9.00.0.0 Outras Operações de Crédito - Mercado Interno,56796653.39,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.1.2.0.00.0.0,2.1.2.0.00.0.0 - Operações de Crédito - Mercado Externo,104860875,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.1.2.2.00.0.0,2.1.2.2.00.0.0 Operações de Crédito Contratuais - Mercado Externo,104860875,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.2.0.0.00.0.0,2.2.0.0.00.0.0 - Alienação de Bens,78598581.44,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.2.1.0.00.0.0,2.2.1.0.00.0.0 - Alienação de Bens Móveis,267300,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.2.1.1.00.0.0,2.2.1.1.00.0.0 Alienação de Títulos Mobiliários,39750,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.2.1.3.00.0.0,2.2.1.3.00.0.0 Alienação de Bens Móveis e Semoventes,227550,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.2.2.0.00.0.0,2.2.2.0.00.0.0 - Alienação de Bens Imóveis,78331281.44,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.4.0.0.00.0.0,2.4.0.0.00.0.0 - Transferências de Capital,51521516.45,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.4.1.0.00.0.0,2.4.1.0.00.0.0 - Transferências da União e de suas Entidades,51521516.45,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.4.1.8.00.0.0,"2.4.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios",51521516.45,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.4.1.8.03.0.0,2.4.1.8.03.0.0 Transferências de Recursos do Sistema Único de Saúde ¿ SUS,6742814.66,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.4.1.8.10.0.0,2.4.1.8.10.0.0 Transferência de Convênios da União e de suas Entidades,44778701.79,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO7.0.0.0.00.0.0,7.0.0.0.00.0.0 - Receitas Correntes - Intraorçamentárias,323508589.52,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO7.2.0.0.00.0.0,7.2.0.0.00.0.0 - Contribuições - Intraorçamentárias,323204162.33,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO7.2.1.0.00.0.0,7.2.1.0.00.0.0 - Contribuições Sociais - Intraorçamentárias,323204162.33,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO7.2.1.0.04.0.0,7.2.1.0.04.0.0 - Contribuição para o Regime Próprio de Previdência Social - RPPS - Intraorçamentárias,323204162.33,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO7.2.1.0.04.1.0,7.2.1.0.04.1.0 - Contribuição Patronal de Servidor Ativo Civil para o RPPS - Intraorçamentárias,323149202.73,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO7.2.1.0.04.2.0,7.2.1.0.04.2.0 - Contribuição do Servidor Ativo Civil para o RPPS - Intraorçamentárias,54959.6,2938092
+2018,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO7.3.0.0.00.0.0,7.3.0.0.00.0.0 - Receita Patrimonial - Intraorçamentárias,304427.19,2938092

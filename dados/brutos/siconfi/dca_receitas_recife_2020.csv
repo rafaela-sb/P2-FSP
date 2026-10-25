@@ -1,0 +1,175 @@
+exercicio,instituicao,cod_ibge,uf,anexo,rotulo,coluna,cod_conta,conta,valor,populacao
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,ReceitasExcetoIntraOrcamentarias,RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I),5633458546.74,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,ReceitasExcetoIntraOrcamentarias,RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I),301268457.9,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.0.0.0.00.0.0,1.0.0.0.00.0.0 - Receitas Correntes,5304439840.19,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.0.0.0.00.0.0,1.0.0.0.00.0.0 - Receitas Correntes,301268457.9,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.0.0.00.0.0,"1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria",1974250152.93,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.1.0.00.0.0,1.1.1.0.00.0.0 - Impostos,1658634736.86,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.1.3.00.0.0,1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza,224417122.42,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.1.3.03.0.0,1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte,224417122.42,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.1.3.03.1.0,1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho,210187744.01,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.1.3.03.4.0,1.1.1.3.03.4.0 - Imposto sobre a Renda - Retido na Fonte - Outros Rendimentos,14229378.41,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.1.8.00.0.0,"1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios",1434217614.44,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.1.8.01.0.0,1.1.1.8.01.0.0 Impostos sobre o Patrimônio para Estados/DF/Municípios,613100859.98,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.1.8.01.1.0,1.1.1.8.01.1.0 Imposto sobre a Propriedade Predial e Territorial Urbana,503722267.07,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.1.8.01.4.0,1.1.1.8.01.4.0 Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis,109378592.91,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.1.8.02.0.0,"1.1.1.8.02.0.0 Impostos sobre a Produção, Circulação de Mercadorias e Serviços",821116754.46,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.1.8.02.3.0,1.1.1.8.02.3.0 Imposto sobre Serviços de Qualquer Natureza,820672370.75,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.1.8.02.5.0,1.1.1.8.02.5.0 Imposto sobre Vendas a Varejo de Combustíveis Líquidos e Gasosos (IVVC),444383.71,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.2.0.00.0.0,1.1.2.0.00.0.0 - Taxas,315615416.07,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.2.1.00.0.0,1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia,68423539.6,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.2.1.01.0.0,"1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização",64722335.98,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.2.1.04.0.0,1.1.2.1.04.0.0 - Taxa de Controle e Fiscalização Ambiental,3701203.62,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.2.2.00.0.0,1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços,247191876.47,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.2.2.01.0.0,1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços,247191876.47,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.2.0.0.00.0.0,1.2.0.0.00.0.0 - Contribuições,279850354.61,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.2.1.0.00.0.0,1.2.1.0.00.0.0 - Contribuições Sociais,145913128.23,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.2.1.8.00.0.0,"1.2.1.8.00.0.0 Contribuições Sociais Específicas de Estados, DF e Municípios",145913128.23,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.2.1.8.01.0.0,1.2.1.8.01.0.0 - Contribuição do Servidor Civil para o Plano de Seguridade Social - CPSSS - Específico de EST/DF/MUN,145913128.23,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.2.1.8.01.1.0,1.2.1.8.01.1.0 - CPSSS do Servidor Civil Ativo,128770848.26,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.2.1.8.01.2.0,1.2.1.8.01.2.0 - CPSSS do Servidor Civil Inativo,14730917.58,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.2.1.8.01.3.0,1.2.1.8.01.3.0 - CPSSS do Servidor Civil - Pensionistas,2411362.39,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.2.4.0.00.0.0,1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública,133937226.38,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.3.0.0.00.0.0,1.3.0.0.00.0.0 - Receita Patrimonial,48797437.17,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.3.1.0.00.0.0,1.3.1.0.00.0.0 - Exploração do Patrimônio Imobiliário do Estado,2926374.33,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.3.1.0.01.0.0,"1.3.1.0.01.0.0 - Aluguéis, Arrendamentos, Foros, Laudêmios, Tarifas de Ocupação",1063534.28,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.3.1.0.01.1.0,1.3.1.0.01.1.0 - Aluguéis e Arrendamentos,1063534.28,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.3.1.0.02.0.0,"1.3.1.0.02.0.0 - Concessão, Permissão, Autorização ou Cessão do Direito de Uso de Bens Imóveis Públicos",1862840.05,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.3.2.0.00.0.0,1.3.2.0.00.0.0 - Valores Mobiliários,11071062.84,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.3.2.1.00.0.0,1.3.2.1.00.0.0 - Juros e Correções Monetárias,11071062.84,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.3.2.1.00.1.0,1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários,10287835.89,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.3.2.1.00.4.0,1.3.2.1.00.4.0 - Remuneração dos Recursos do Regime Próprio de Previdência Social - RPPS,783226.95,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.3.6.0.00.0.0,1.3.6.0.00.0.0 - Cessão de Direitos,34800000,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.6.0.0.00.0.0,1.6.0.0.00.0.0 - Receita de Serviços,47784581.84,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.6.1.0.00.0.0,1.6.1.0.00.0.0 - Serviços Administrativos e Comerciais Gerais,10868508.25,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.6.1.0.01.0.0,1.6.1.0.01.0.0 - Serviços Administrativos e Comerciais Gerais,2634750.9,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.6.1.0.02.0.0,1.6.1.0.02.0.0 - Inscrição em Concursos e Processos Seletivos,7761278.8,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.6.1.0.04.0.0,1.6.1.0.04.0.0 - Serviços de Informação e Tecnologia,472478.55,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.6.3.0.00.0.0,1.6.3.0.00.0.0 - Serviços e Atividades Referentes à Saúde,25528280.29,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.6.3.0.01.0.0,1.6.3.0.01.0.0 - Serviços de Atendimento à Saúde,25528280.29,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.6.9.0.00.0.0,1.6.9.0.00.0.0 - Outros Serviços,11387793.3,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.6.9.0.99.0.0,1.6.9.0.99.0.0 - Outros Serviços,11387793.3,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.0.0.00.0.0,1.7.0.0.00.0.0 - Transferências Correntes,2808629228.84,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.0.0.00.0.0,1.7.0.0.00.0.0 - Transferências Correntes,301268457.9,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.0.00.0.0,1.7.1.0.00.0.0 - Transferências da União e de suas Entidades,1398793595.29,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.1.0.00.0.0,1.7.1.0.00.0.0 - Transferências da União e de suas Entidades,93797732.22,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.00.0.0,"1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios",1398793595.29,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.1.8.00.0.0,"1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios",93797732.22,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.01.0.0,1.7.1.8.01.0.0 Participação na Receita da União,511241963.16,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.1.8.01.0.0,1.7.1.8.01.0.0 Participação na Receita da União,93797732.22,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.01.2.0,1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal,468977329.47,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.1.8.01.2.0,1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal,93795465.56,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.01.3.0,1.7.1.8.01.3.0 Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro,21104152.85,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.01.4.0,1.7.1.8.01.4.0 Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho,21149147.34,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.01.5.0,1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural,11333.5,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.1.8.01.5.0,1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural,2266.66,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.02.0.0,1.7.1.8.02.0.0 Transferência da Compensação Financeira pela Exploração de Recursos Naturais,8370631.9,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.02.2.0,1.7.1.8.02.2.0 Cota-parte da Compensação Financeira de Recursos Minerais - CFEM,685198.28,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.02.3.0,1.7.1.8.02.3.0 Cota-parte Royalties ¿ Compensação Financeira pela Produção de Petróleo ¿ Lei nº 7.990/89,8018.44,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.02.6.0,1.7.1.8.02.6.0 Cota-Parte do Fundo Especial do Petróleo ¿ FEP,7677415.18,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.03.0.0,"1.7.1.8.03.0.0 Transferência de Recursos do Sistema Único de Saúde ¿ 
+ SUS ¿ Bloco Custeio das Ações e Serviços Públicos de Saúde",565602903.68,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.03.1.0,1.7.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Básica,129822246.83,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.03.2.0,1.7.1.8.03.2.0 - Transferência de Recursos do SUS ¿ Atenção de Média e Alta Complexidade Ambulatorial e Hospitalar,281240480.69,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.03.3.0,1.7.1.8.03.3.0 - Transferência de Recursos do SUS ¿ Vigilância em Saúde,20940067.59,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.03.4.0,1.7.1.8.03.4.0 - Transferência de Recursos do SUS ¿ Assistência Farmacêutica,9709789.32,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.03.9.0,1.7.1.8.03.9.0 - Transferência de Recursos do SUS ¿ Outros Programas Financiados por Transferências Fundo a Fundo,123890319.25,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.05.0.0,1.7.1.8.05.0.0 Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE,22802646.12,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.05.1.0,1.7.1.8.05.1.0 Transferências do Salário-Educação,12781453.94,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.05.3.0,1.7.1.8.05.3.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE,9894548.4,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.05.9.0,1.7.1.8.05.9.0 Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE,126643.78,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.09.0.0,1.7.1.8.09.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB,30770170.43,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.12.0.0,1.7.1.8.12.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS,21433275.03,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.99.0.0,1.7.1.8.99.0.0 Outras Transferências da União,238572004.97,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.2.0.00.0.0,1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades,1070768466.07,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.2.0.00.0.0,1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades,207470725.68,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.2.8.00.0.0,"1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios",1070768466.07,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.2.8.00.0.0,"1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios",207470725.68,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.2.8.01.0.0,1.7.2.8.01.0.0 Participação na Receita dos Estados,1038181431.32,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.2.8.01.0.0,1.7.2.8.01.0.0 Participação na Receita dos Estados,207470725.68,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.2.8.01.1.0,1.7.2.8.01.1.0 Cota-Parte do ICMS,797696809.33,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.2.8.01.1.0,1.7.2.8.01.1.0 Cota-Parte do ICMS,159539361.93,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.2.8.01.2.0,1.7.2.8.01.2.0 Cota-Parte do IPVA,237077963.26,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.2.8.01.2.0,1.7.2.8.01.2.0 Cota-Parte do IPVA,47415593.12,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.2.8.01.3.0,1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios,2578853.06,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.2.8.01.3.0,1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios,515770.63,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.2.8.01.4.0,1.7.2.8.01.4.0 Cota-Parte da Contribuição de Intervenção no Domínio Econômico,827805.67,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.2.8.03.0.0,1.7.2.8.03.0.0 Transferência de Recursos do Estado para Programas de Saúde ¿ Repasse Fundo a Fundo,27985320.05,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.2.8.10.0.0,1.7.2.8.10.0.0 Transferência de Convênios dos Estados e do Distrito Federal e de Suas Entidades,4075977.5,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.2.8.10.9.0,1.7.2.8.10.9.0 Outras Transferências de Convênio dos Estados,4075977.5,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.2.8.99.0.0,1.7.2.8.99.0.0 Outras Transferências dos Estados,525737.2,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.4.0.00.0.0,1.7.4.0.00.0.0 - Transferências de Instituições Privadas,25062428.92,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.4.8.00.0.0,"1.7.4.8.00.0.0 Transferências de Instituições Privadas - Específicas de Estados, DF e Municípios",25062428.92,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.4.8.10.0.0,1.7.4.8.10.0.0 - Outras Transferência de Instituições Privadas para EST/DF/MUN - Não Especificadas Anteriormente,25062428.92,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.5.0.00.0.0,1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas,313993612.93,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.5.8.00.0.0,"1.7.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios",313993612.93,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.5.8.01.0.0,1.7.5.8.01.0.0 Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB,313993612.93,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.7.0.00.0.0,1.7.7.0.00.0.0 - Transferências de Pessoas Físicas,11125.63,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.7.0.00.1.0,1.7.7.0.00.1.0 - Transferências de Pessoas Físicas,11125.63,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.0.0.00.0.0,1.9.0.0.00.0.0 - Outras Receitas Correntes,145128084.8,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.1.0.00.0.0,"1.9.1.0.00.0.0 - Multas Administrativas, Contratuais e Judiciais",90539513.47,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.1.0.01.0.0,1.9.1.0.01.0.0 - Multas Previstas em Legislação Específica,88970403.08,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.1.0.06.0.0,1.9.1.0.06.0.0 - Multas por Danos Ambientais,110986.05,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.1.0.06.1.0,1.9.1.0.06.1.0 - Multas Administrativas por Danos Ambientais,110986.05,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.1.0.09.0.0,1.9.1.0.09.0.0 - Multas e Juros Previstos em Contratos,1458124.34,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.2.0.00.0.0,"1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos",17239415.25,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.2.2.00.0.0,1.9.2.2.00.0.0 - Restituições,16462456.03,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.2.2.06.0.0,1.9.2.2.06.0.0 - Restituição de Despesas de Exercícios Anteriores,3344.75,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.2.2.99.0.0,1.9.2.2.99.0.0 - Outras Restituições,16459111.28,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.2.8.00.0.0,"1.9.2.8.00.0.0 - Indenizações, Restituições e Ressarcimentos - Específicas para Estados/DF/Municípios",776959.22,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.2.8.01.0.0,1.9.2.8.01.0.0 - Indenizações- Específicas para Estados/DF/Municípios,475000,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.2.8.03.0.0,1.9.2.8.03.0.0 - Ressarcimentos - Específicas para Estados/DF/Municípios,301959.22,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.9.0.00.0.0,1.9.9.0.00.0.0 - Demais Receitas Correntes,37349156.08,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.9.0.03.0.0,1.9.9.0.03.0.0 - Compensações Financeiras entre o Regime Geral e os Regimes Próprios de Previdência dos Servidores,7927066.33,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.9.0.12.0.0,1.9.9.0.12.0.0 - Encargos Legais pela Inscrição em Dívida Ativa e Receitas de Ônus de Sucumbência,18473111.86,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.9.0.12.2.0,1.9.9.0.12.2.0 - Ônus de Sucumbência,18473111.86,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.9.0.99.0.0,1.9.9.0.99.0.0 - Outras Receitas,10948977.89,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.9.0.99.1.0,1.9.9.0.99.1.0 - Outras Receitas - Primárias,10948977.89,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.0.0.0.00.0.0,2.0.0.0.00.0.0 - Receitas de Capital,329018706.55,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.1.0.0.00.0.0,2.1.0.0.00.0.0 - Operações de Crédito,284733568.64,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.1.1.0.00.0.0,2.1.1.0.00.0.0 - Operações de Crédito - Mercado Interno,240051743.39,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.1.1.2.00.0.0,2.1.1.2.00.0.0 Operações de Crédito Contratuais - Mercado Interno,215634839.15,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.1.1.8.00.0.0,2.1.1.8.00.0.0 Operações de Crédito - Mercado Interno - Estados/DF/Municípios,24416904.24,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.1.1.8.01.0.0,2.1.1.8.01.0.0 - Operações de Crédito Internas de Estados/DF/Municípios,24416904.24,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.1.1.8.01.2.0,2.1.1.8.01.2.0 - Operações de Crédito Internas para Programas de Saúde,23146586.33,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.1.1.8.01.3.0,2.1.1.8.01.3.0 - Operações de Crédito Internas para Programas de Saneamento,1270317.91,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.1.2.0.00.0.0,2.1.2.0.00.0.0 - Operações de Crédito - Mercado Externo,44681825.25,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.1.2.2.00.0.0,2.1.2.2.00.0.0 Operações de Crédito Contratuais - Mercado Externo,44681825.25,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.2.0.0.00.0.0,2.2.0.0.00.0.0 - Alienação de Bens,580433,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.2.1.0.00.0.0,2.2.1.0.00.0.0 - Alienação de Bens Móveis,580433,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.2.1.3.00.0.0,2.2.1.3.00.0.0 Alienação de Bens Móveis e Semoventes,580433,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.4.0.0.00.0.0,2.4.0.0.00.0.0 - Transferências de Capital,37352698.88,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.4.1.0.00.0.0,2.4.1.0.00.0.0 - Transferências da União e de suas Entidades,32205155.7,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.4.1.8.00.0.0,"2.4.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios",32205155.7,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.4.1.8.04.0.0,2.4.1.8.04.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS - Bloco Investimentos na Rede de Serviços Públicos de Saúde,7504905,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.4.1.8.04.1.0,2.4.1.8.04.1.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS destinados à Atenção Básica,5747761,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.4.1.8.04.2.0,2.4.1.8.04.2.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS destinados à Atenção Especializada,897385,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.4.1.8.04.6.0,"2.4.1.8.04.6.0 - Outras Transferências de Recursos do Sistema Único de Saúde ¿ SUS, não detalhadas anteriormente",859759,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.4.1.8.10.0.0,2.4.1.8.10.0.0 Transferência de Convênios da União e de suas Entidades,24700250.7,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.4.1.8.10.9.0,2.4.1.8.10.9.0 - Outras Transferências de Convênios da União,24700250.7,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.4.2.0.00.0.0,2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades,5147543.18,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.4.2.8.00.0.0,"2.4.2.8.00.0.0 Transferências dos Estados, Distrito Federal, e de suas Entidades",5147543.18,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.4.2.8.99.0.0,2.4.2.8.99.0.0 Outras Transferências dos Estados,5147543.18,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.9.0.0.00.0.0,2.9.0.0.00.0.0 - Outras Receitas de Capital,6352006.03,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.9.9.0.00.0.0,2.9.9.0.00.0.0 - Demais Receitas de Capital,6352006.03,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.9.9.0.00.1.0,2.9.9.0.00.1.0 Demais Receitas de Capital,6352006.03,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,ReceitasIntraOrcamentarias,RECEITAS (INTRA-ORÇAMENTÁRIAS) (II),272447216.6,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RI7.0.0.0.00.0.0,7.0.0.0.00.0.0 - Receitas Correntes,272447216.6,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RI7.2.0.0.00.0.0,7.2.0.0.00.0.0 - Contribuições,240357820.94,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RI7.2.1.0.00.0.0,7.2.1.0.00.0.0 - Contribuições Sociais,240357820.94,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RI7.2.1.8.00.0.0,"7.2.1.8.00.0.0 Contribuições Sociais Específicas de Estados, DF e 
+ Municípios",240357820.94,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RI7.2.1.8.03.0.0,7.2.1.8.03.0.0 - CPSSS Patronal - Servidor Civil - Específico de EST/DF/MUN,235880304.45,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RI7.2.1.8.03.1.0,7.2.1.8.03.1.0 - CPSSS Patronal - Servidor Civil Ativo,123677706.89,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RI7.2.1.8.03.2.0,7.2.1.8.03.2.0 - CPSSS Patronal - Servidor Civil Inativo,93291665.32,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RI7.2.1.8.03.3.0,7.2.1.8.03.3.0 - CPSSS Patronal - Servidor Civil - Pensionistas,18910932.24,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RI7.2.1.8.04.0.0,7.2.1.8.04.0.0 - CPSSS Patronal - Parcelamentos - Específico de EST/DF/MUN,4477516.49,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RI7.2.1.8.04.1.0,7.2.1.8.04.1.0 - CPSSS Patronal - Parcelamentos - Servidor Civil Ativo,4477516.49,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RI7.6.0.0.00.0.0,7.6.0.0.00.0.0 - Receita de Serviços,14402227.94,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RI7.6.1.0.00.0.0,7.6.1.0.00.0.0 - Serviços Administrativos e Comerciais Gerais,14402227.94,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RI7.6.1.0.01.0.0,7.6.1.0.01.0.0 - Serviços Administrativos e Comerciais Gerais,7307744.95,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RI7.6.1.0.04.0.0,7.6.1.0.04.0.0 - Serviços de Informação e Tecnologia,7094482.99,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RI7.7.0.0.00.0.0,7.7.0.0.00.0.0 - Transferências Correntes,17687167.72,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RI7.7.3.0.00.0.0,7.7.3.0.00.0.0 - Transferências dos Municípios e de suas Entidades,17687167.72,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,TotalReceitas,TOTAL DAS RECEITAS (III) = (I + II),5905905763.34,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,TotalReceitas,TOTAL DAS RECEITAS (III) = (I + II),301268457.9,1645727

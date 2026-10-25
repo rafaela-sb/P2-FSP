@@ -1,0 +1,135 @@
+exercicio,instituicao,cod_ibge,uf,anexo,rotulo,coluna,cod_conta,conta,valor,populacao
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Receitas Brutas Realizadas,TotalReceitas,Total Receitas,1954469157.87,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Deduções - Transferências Constitucionais,TotalReceitas,Total Receitas,2495427.42,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Deduções - FUNDEB,TotalReceitas,Total Receitas,130613768.07,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Outras Deduções da Receita,TotalReceitas,Total Receitas,57928.95,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.0.0.0.00.00.00,1.0.0.0.00.00.00 - Receitas Correntes,1837037291,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Deduções - Transferências Constitucionais,RO1.0.0.0.00.00.00,1.0.0.0.00.00.00 - Receitas Correntes,2495427.42,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Deduções - FUNDEB,RO1.0.0.0.00.00.00,1.0.0.0.00.00.00 - Receitas Correntes,130613768.07,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Outras Deduções da Receita,RO1.0.0.0.00.00.00,1.0.0.0.00.00.00 - Receitas Correntes,57928.95,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.1.0.0.00.00.00,1.1.0.0.00.00.00 - Receita Tributária,408648202.28,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Deduções - Transferências Constitucionais,RO1.1.0.0.00.00.00,1.1.0.0.00.00.00 - Receita Tributária,54161.28,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.1.1.0.00.00.00,1.1.1.0.00.00.00 - Impostos,369262160.58,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Deduções - Transferências Constitucionais,RO1.1.1.0.00.00.00,1.1.1.0.00.00.00 - Impostos,52996.27,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.1.1.2.00.00.00,1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda,179850862.51,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Deduções - Transferências Constitucionais,RO1.1.1.2.00.00.00,1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda,43621.32,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.1.1.2.02.00.00,1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU,47938663,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Deduções - Transferências Constitucionais,RO1.1.1.2.02.00.00,1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU,1653.24,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.1.1.2.04.00.00,1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR,42312437.35,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.1.1.2.04.31.00,1.1.1.2.04.31.00 - Retido nas Fontes - Trabalho,42312437.35,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.1.1.2.08.00.00,"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI",89599762.16,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Deduções - Transferências Constitucionais,RO1.1.1.2.08.00.00,"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI",41968.08,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.1.1.3.00.00.00,1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação,189411298.07,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Deduções - Transferências Constitucionais,RO1.1.1.3.00.00.00,1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação,9374.95,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.1.1.3.05.00.00,1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN,189411298.07,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Deduções - Transferências Constitucionais,RO1.1.1.3.05.00.00,1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN,9374.95,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.1.2.0.00.00.00,1.1.2.0.00.00.00 - Taxas,39386041.7,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Deduções - Transferências Constitucionais,RO1.1.2.0.00.00.00,1.1.2.0.00.00.00 - Taxas,1165.01,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.1.2.1.00.00.00,1.1.2.1.00.00.00 - Taxas pelo Exercício do Poder de Polícia,13922258.54,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Deduções - Transferências Constitucionais,RO1.1.2.1.00.00.00,1.1.2.1.00.00.00 - Taxas pelo Exercício do Poder de Polícia,152.9,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.1.2.2.00.00.00,1.1.2.2.00.00.00 - Taxas pela Prestação de Serviços,25463783.16,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Deduções - Transferências Constitucionais,RO1.1.2.2.00.00.00,1.1.2.2.00.00.00 - Taxas pela Prestação de Serviços,1012.11,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.2.0.0.00.00.00,1.2.0.0.00.00.00 - Receitas de Contribuições,60284907.57,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.2.1.0.00.00.00,1.2.1.0.00.00.00 - Contribuições Sociais,32992771.16,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.2.1.0.29.00.00,1.2.1.0.29.00.00 - Contribuições para o Regime Próprio de Previdência do Servidor Público,32992771.16,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.2.1.0.29.01.00,1.2.1.0.29.01.00 - Contribuição Patronal de Servidor Ativo Civil para o Regime Próprio,61930.89,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.2.1.0.29.07.00,1.2.1.0.29.07.00 - Contribuição do Servidor Ativo Civil para o Regime Próprio,30583035.26,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.2.1.0.29.09.00,1.2.1.0.29.09.00 - Contribuições do Servidor Inativo Civil para o Regime Próprio,1665783.06,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.2.1.0.29.11.00,1.2.1.0.29.11.00 - Contribuições de Pensionista Civil para o Regime Próprio,682021.95,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.2.3.0.00.00.00,1.2.3.0.00.00.00 - Contribuição para Custeio do Serviço de Iluminação Pública,27292136.41,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.3.0.0.00.00.00,1.3.0.0.00.00.00 - Receita Patrimonial,39739897.85,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Deduções - Transferências Constitucionais,RO1.3.0.0.00.00.00,1.3.0.0.00.00.00 - Receita Patrimonial,2441266.14,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.3.1.0.00.00.00,1.3.1.0.00.00.00 - Receitas Imobiliárias,120194.06,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.3.1.1.00.00.00,1.3.1.1.00.00.00 - Aluguéis,120194.06,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.3.2.0.00.00.00,1.3.2.0.00.00.00 - Receitas de Valores Mobiliários,39359149.35,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Deduções - Transferências Constitucionais,RO1.3.2.0.00.00.00,1.3.2.0.00.00.00 - Receitas de Valores Mobiliários,2441266.14,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.3.2.2.00.00.00,1.3.2.2.00.00.00 - Dividendos,233328.13,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.3.2.5.00.00.00,1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários,39125821.22,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Deduções - Transferências Constitucionais,RO1.3.2.5.00.00.00,1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários,2441266.14,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.3.9.0.00.00.00,1.3.9.0.00.00.00 - Outras Receitas Patrimoniais,260554.44,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.7.0.0.00.00.00,1.7.0.0.00.00.00 - Transferências Correntes,1253272958.04,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Deduções - FUNDEB,RO1.7.0.0.00.00.00,1.7.0.0.00.00.00 - Transferências Correntes,130613768.07,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.7.2.0.00.00.00,1.7.2.0.00.00.00 - Transferências Intergovernamentais,1252723957.65,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Deduções - FUNDEB,RO1.7.2.0.00.00.00,1.7.2.0.00.00.00 - Transferências Intergovernamentais,130613768.07,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.7.2.1.00.00.00,1.7.2.1.00.00.00 - Transferências da União,711488378.9,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Deduções - FUNDEB,RO1.7.2.1.00.00.00,1.7.2.1.00.00.00 - Transferências da União,67611339.23,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.7.2.1.01.00.00,1.7.2.1.01.00.00 - Participação na Receita da União,356454094.34,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Deduções - FUNDEB,RO1.7.2.1.01.00.00,1.7.2.1.01.00.00 - Participação na Receita da União,67531396.43,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.7.2.1.01.02.00,1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM,356359522.15,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Deduções - FUNDEB,RO1.7.2.1.01.02.00,1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM,67512482.1,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.7.2.1.01.05.00,1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR,94572.19,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Deduções - FUNDEB,RO1.7.2.1.01.05.00,1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR,18914.33,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.7.2.1.33.00.00,1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo,331391574.03,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.7.2.1.34.00.00,1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS,7687078.63,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.7.2.1.35.00.00,1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE,14977832.83,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.7.2.1.36.00.00,1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96,399714.01,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Deduções - FUNDEB,RO1.7.2.1.36.00.00,1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96,79942.8,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.7.2.1.99.00.00,1.7.2.1.99.00.00 - Outras Transferências da União,578085.06,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.7.2.2.00.00.00,1.7.2.2.00.00.00 - Transferências dos Estados,366621868.14,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Deduções - FUNDEB,RO1.7.2.2.00.00.00,1.7.2.2.00.00.00 - Transferências dos Estados,63002428.84,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.7.2.2.01.00.00,1.7.2.2.01.00.00 - Participação na Receita dos Estados,356395461.01,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Deduções - FUNDEB,RO1.7.2.2.01.00.00,1.7.2.2.01.00.00 - Participação na Receita dos Estados,63002428.84,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.7.2.2.01.01.00,1.7.2.2.01.01.00 - Cota-Parte do ICMS,315012145.23,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Deduções - FUNDEB,RO1.7.2.2.01.01.00,1.7.2.2.01.01.00 - Cota-Parte do ICMS,63002428.84,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.7.2.2.01.02.00,1.7.2.2.01.02.00 - Cota-Parte do IPVA,40670331.03,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.7.2.2.01.04.00,1.7.2.2.01.04.00 - Cota-Parte do IPI sobre Exportação,378597.96,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.7.2.2.01.13.00,1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico,334386.79,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.7.2.2.22.00.00,1.7.2.2.22.00.00 - Transferências da Cota-Parte da Compensação Financeira (25%),3849997.63,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.7.2.2.22.30.00,1.7.2.2.22.30.00 - Cota-Parte Royalties - Compensação Financeira pela Produção de Petróleo - Lei nº 7.990/89 artigo 9º,3849997.63,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.7.2.2.33.00.00,1.7.2.2.33.00.00 - Transferências de Recursos do Estado para Programas de Saúde - Repasse Fundo a Fundo,5069369.5,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.7.2.2.99.00.00,1.7.2.2.99.00.00 - Outras Transferências dos Estados,1307040,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.7.2.4.00.00.00,1.7.2.4.00.00.00 - Transferências Multigovernamentais,174613710.61,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.7.2.4.01.00.00,1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB,163724714.46,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.7.2.4.02.00.00,1.7.2.4.02.00.00 - Transferências de Recursos da Complementação ao Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB,10888996.15,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.7.6.0.00.00.00,1.7.6.0.00.00.00 - Transferências de Convênios,549000.39,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.7.6.1.00.00.00,1.7.6.1.00.00.00 - Transferências de Convênios da União e de Suas Entidades,549000.39,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.7.6.1.99.00.00,1.7.6.1.99.00.00 - Outras Transferências de Convênios da União,549000.39,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.9.0.0.00.00.00,1.9.0.0.00.00.00 - Outras Receitas Correntes,75091325.26,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Outras Deduções da Receita,RO1.9.0.0.00.00.00,1.9.0.0.00.00.00 - Outras Receitas Correntes,57928.95,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.9.1.0.00.00.00,1.9.1.0.00.00.00 - Multas e Juros de Mora,20905119.76,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Outras Deduções da Receita,RO1.9.1.0.00.00.00,1.9.1.0.00.00.00 - Multas e Juros de Mora,13321.95,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.9.1.1.00.00.00,1.9.1.1.00.00.00 - Multas e Juros de Mora dos Tributos,6168794.22,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.9.1.1.35.00.00,1.9.1.1.35.00.00 - Multas e Juros de Mora da Taxa de Fiscalização e Vigilância Sanitária,6431,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.9.1.1.38.00.00,1.9.1.1.38.00.00 - Multas e Juros de Mora do Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU,3880014.46,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.9.1.1.40.00.00,1.9.1.1.40.00.00 - Multas e Juros de Mora do Imposto sobre Serviços de Qualquer Natureza ¿ ISS,1018905.13,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.9.1.1.99.00.00,1.9.1.1.99.00.00 - Multas e Juros de Mora de Outros Tributos,1263443.63,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.9.1.2.00.00.00,1.9.1.2.00.00.00 - Multas e Juros de Mora das Contribuições,224836.98,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.9.1.9.00.00.00,1.9.1.9.00.00.00 - Multas de Outras Origens,14511488.56,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Outras Deduções da Receita,RO1.9.1.9.00.00.00,1.9.1.9.00.00.00 - Multas de Outras Origens,13321.95,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.9.2.0.00.00.00,1.9.2.0.00.00.00 - Indenizações e Restituições,9566371.19,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Outras Deduções da Receita,RO1.9.2.0.00.00.00,1.9.2.0.00.00.00 - Indenizações e Restituições,7857,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.9.2.1.00.00.00,1.9.2.1.00.00.00 - Indenizações,521603.08,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.9.2.2.00.00.00,1.9.2.2.00.00.00 - Restituições,9044768.11,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Outras Deduções da Receita,RO1.9.2.2.00.00.00,1.9.2.2.00.00.00 - Restituições,7857,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.9.2.2.10.00.00,1.9.2.2.10.00.00 - Compensações Financeiras entre o Regime Geral e os Regimes Próprios de Previdência dos Servidores,8834873.98,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.9.2.2.99.00.00,1.9.2.2.99.00.00 - Outras Restituições,209894.13,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Outras Deduções da Receita,RO1.9.2.2.99.00.00,1.9.2.2.99.00.00 - Outras Restituições,7857,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.9.3.0.00.00.00,1.9.3.0.00.00.00 - Receita da Dívida Ativa,24617861.26,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.9.3.1.00.00.00,1.9.3.1.00.00.00 - Receita da Dívida Ativa Tributária,23805023.8,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.9.3.1.11.00.00,1.9.3.1.11.00.00 - Receita da Dívida Ativa do Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU,14096415.13,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.9.3.1.13.00.00,1.9.3.1.13.00.00 - Receita da Dívida Ativa do Imposto sobre Serviços de Qualquer Natureza ¿ ISS,2399598.53,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.9.3.1.99.00.00,1.9.3.1.99.00.00 - Receita da Dívida Ativa de Outros Tributos,7309010.14,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.9.3.2.00.00.00,1.9.3.2.00.00.00 - Receita da Dívida Ativa Não Tributária,812837.46,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.9.9.0.00.00.00,1.9.9.0.00.00.00 - Receitas Diversas,20001973.05,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Outras Deduções da Receita,RO1.9.9.0.00.00.00,1.9.9.0.00.00.00 - Receitas Diversas,36750,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO2.0.0.0.00.00.00,2.0.0.0.00.00.00 - Receitas de Capital,45267621.67,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO2.1.0.0.00.00.00,2.1.0.0.00.00.00 - Operações de Crédito,2622519.72,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO2.1.1.0.00.00.00,2.1.1.0.00.00.00 - Operações de Crédito Internas,2622519.72,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO2.3.0.0.00.00.00,2.3.0.0.00.00.00 - Amortização de Empréstimos,8971047.48,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO2.4.0.0.00.00.00,2.4.0.0.00.00.00 - Transferências de Capital,33674054.47,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO2.4.2.0.00.00.00,2.4.2.0.00.00.00 - Transferências Intergovernamentais,6149218.27,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO2.4.2.1.00.00.00,2.4.2.1.00.00.00 - Transferências da União,6149218.27,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO2.4.2.1.01.00.00,2.4.2.1.01.00.00 - Participação na Receita da União,685490,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO2.4.2.1.02.00.00,2.4.2.1.02.00.00 - Transferências de Recursos Destinados a Programas de Educação,2860497.73,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO2.4.2.1.99.00.00,2.4.2.1.99.00.00 - Outras Transferências da União,2603230.54,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO2.4.7.0.00.00.00,2.4.7.0.00.00.00 - Transferências de Convênios,27524836.2,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO2.4.7.1.00.00.00,2.4.7.1.00.00.00 - Transferências de Convênios da União e de suas Entidades,27524836.2,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO2.4.7.1.99.00.00,2.4.7.1.99.00.00 - Outras Transferências de Convênios da União,27524836.2,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Receitas Brutas Realizadas,RI7.0.0.0.00.00.00,7.0.0.0.00.00.00 - Receitas Correntes Intraorçamentárias,72164245.2,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Receitas Brutas Realizadas,RI7.2.0.0.00.00.00,7.2.0.0.00.00.00 - Receitas de Contribuições Intraorçamentárias,53314800.84,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Receitas Brutas Realizadas,RI7.2.1.0.00.00.00,7.2.1.0.00.00.00 - Contribuições Sociais Intraorçamentárias,53314800.84,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Receitas Brutas Realizadas,RI7.2.1.0.29.00.00,7.2.1.0.29.00.00 - Contribuições para o Regime Próprio de Previdência do Servidor Público Intraorçamentárias,53314800.84,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Receitas Brutas Realizadas,RI7.2.1.0.29.01.00,7.2.1.0.29.01.00 - Contribuição Patronal de Servidor Ativo Civil para o Regime Próprio Intraorçamentária,52933567.48,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Receitas Brutas Realizadas,RI7.2.1.0.29.03.00,7.2.1.0.29.03.00 - Contribuição Patronal - Inativo Civil Intraorçamentária,199971.54,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Receitas Brutas Realizadas,RI7.2.1.0.29.05.00,7.2.1.0.29.05.00 - Contribuição Patronal - Pensionista Civil Intraorçamentária,181261.82,780738
+2015,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,,Receitas Brutas Realizadas,RI7.6.0.0.00.00.00,7.6.0.0.00.00.00 - Receita de Serviços Intraorçamentária,18849444.36,780738

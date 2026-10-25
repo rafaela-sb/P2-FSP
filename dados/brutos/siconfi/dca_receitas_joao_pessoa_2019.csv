@@ -1,0 +1,170 @@
+exercicio,instituicao,cod_ibge,uf,anexo,rotulo,coluna,cod_conta,conta,valor,populacao
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,ReceitasExcetoIntraOrcamentarias,RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I),2345593719.53,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,ReceitasExcetoIntraOrcamentarias,RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I),163761571.98,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,ReceitasExcetoIntraOrcamentarias,RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I),2912395.43,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.0.0.0.00.0.0,1.0.0.0.00.0.0 - Receitas Correntes,2326813002.23,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.0.0.0.00.0.0,1.0.0.0.00.0.0 - Receitas Correntes,163761571.98,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.0.0.0.00.0.0,1.0.0.0.00.0.0 - Receitas Correntes,2912395.43,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.0.0.00.0.0,"1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria",596984066.74,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.1.0.0.00.0.0,"1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria",55653.22,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.1.0.00.0.0,1.1.1.0.00.0.0 - Impostos,543467807.91,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.1.1.0.00.0.0,1.1.1.0.00.0.0 - Impostos,52668.48,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.1.3.00.0.0,1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza,56524904.91,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.1.1.3.00.0.0,1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza,2904.8,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.1.3.03.0.0,1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte,56524904.91,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.1.1.3.03.0.0,1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte,2904.8,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.1.3.03.1.0,1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho,56524904.91,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.1.1.3.03.1.0,1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho,2904.8,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.1.8.00.0.0,"1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios",486942903,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.1.1.8.00.0.0,"1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios",49763.68,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.1.8.01.0.0,1.1.1.8.01.0.0 Impostos sobre o Patrimônio para Estados/DF/Municípios,222897609.43,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.1.1.8.01.0.0,1.1.1.8.01.0.0 Impostos sobre o Patrimônio para Estados/DF/Municípios,28737.18,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.1.8.01.1.0,1.1.1.8.01.1.0 Imposto sobre a Propriedade Predial e Territorial Urbana,79367918.94,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.1.1.8.01.1.0,1.1.1.8.01.1.0 Imposto sobre a Propriedade Predial e Territorial Urbana,7357.49,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.1.8.01.2.0,1.1.1.8.01.2.0 Imposto sobre a Propriedade de Veículos Automotores,3499081.88,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.1.8.01.3.0,1.1.1.8.01.3.0 Imposto sobre Transmissão ¿Causa Mortis¿ e Doação de Bens e Direitos,22975853.31,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.1.8.01.4.0,1.1.1.8.01.4.0 Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis,117054755.3,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.1.1.8.01.4.0,1.1.1.8.01.4.0 Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis,21379.69,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.1.8.02.0.0,"1.1.1.8.02.0.0 Impostos sobre a Produção, Circulação de Mercadorias e Serviços",264045293.57,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.1.1.8.02.0.0,"1.1.1.8.02.0.0 Impostos sobre a Produção, Circulação de Mercadorias e Serviços",21026.5,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.1.8.02.3.0,1.1.1.8.02.3.0 Imposto sobre Serviços de Qualquer Natureza,264045293.57,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.1.1.8.02.3.0,1.1.1.8.02.3.0 Imposto sobre Serviços de Qualquer Natureza,21026.5,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.2.0.00.0.0,1.1.2.0.00.0.0 - Taxas,53516258.83,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.1.2.0.00.0.0,1.1.2.0.00.0.0 - Taxas,2984.74,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.2.1.00.0.0,1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia,10767970.65,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.2.1.01.0.0,"1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização",9657226.83,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.2.1.04.0.0,1.1.2.1.04.0.0 - Taxa de Controle e Fiscalização Ambiental,1110743.82,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.2.2.00.0.0,1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços,41704472.03,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.1.2.2.00.0.0,1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços,2984.74,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.2.2.01.0.0,1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços,41704472.03,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.1.2.2.01.0.0,1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços,2984.74,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.2.8.00.0.0,"1.1.2.8.00.0.0 - Taxas - Específicas de Estados, DF e Municípios",1043816.15,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.2.8.01.0.0,"1.1.2.8.01.0.0 - Taxas de Inspeção, Controle e Fiscalização",1043816.15,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.2.8.01.9.0,"1.1.2.8.01.9.0 - Taxas de Inspeção, Controle e Fiscalização - Outras",1043816.15,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.2.0.0.00.0.0,1.2.0.0.00.0.0 - Contribuições,91003500.19,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.2.1.0.00.0.0,1.2.1.0.00.0.0 - Contribuições Sociais,40848120.66,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.2.1.8.00.0.0,"1.2.1.8.00.0.0 Contribuições Sociais Específicas de Estados, DF e Municípios",40848120.66,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.2.1.8.01.0.0,1.2.1.8.01.0.0 - Contribuição do Servidor Civil para o Plano de Seguridade Social - CPSSS - Específico de EST/DF/MUN,40825436.58,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.2.1.8.01.1.0,1.2.1.8.01.1.0 - CPSSS do Servidor Civil Ativo,37481873.86,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.2.1.8.01.2.0,1.2.1.8.01.2.0 - CPSSS do Servidor Civil Inativo,2445709.22,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.2.1.8.01.3.0,1.2.1.8.01.3.0 - CPSSS do Servidor Civil - Pensionistas,858788.43,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.2.1.8.01.4.0,1.2.1.8.01.4.0 - CPSSS Oriunda de Sentenças Judiciais - Servidor Civil Ativo,39065.07,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.2.1.8.03.0.0,1.2.1.8.03.0.0 - CPSSS Patronal - Servidor Civil - Específico de EST/DF/MUN,22684.08,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.2.1.8.03.1.0,1.2.1.8.03.1.0 - CPSSS Patronal - Servidor Civil Ativo,22684.08,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.2.4.0.00.0.0,1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública,50155379.53,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.3.0.0.00.0.0,1.3.0.0.00.0.0 - Receita Patrimonial,47042556.9,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.3.0.0.00.0.0,1.3.0.0.00.0.0 - Receita Patrimonial,2829805.17,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.3.1.0.00.0.0,1.3.1.0.00.0.0 - Exploração do Patrimônio Imobiliário do Estado,108044.52,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.3.1.0.01.0.0,"1.3.1.0.01.0.0 - Aluguéis, Arrendamentos, Foros, Laudêmios, Tarifas de Ocupação",8491.4,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.3.1.0.01.1.0,1.3.1.0.01.1.0 - Aluguéis e Arrendamentos,8491.4,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.3.1.0.02.0.0,"1.3.1.0.02.0.0 - Concessão, Permissão, Autorização ou Cessão do Direito de Uso de Bens Imóveis Públicos",99553.12,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.3.2.0.00.0.0,1.3.2.0.00.0.0 - Valores Mobiliários,46719170.15,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.3.2.0.00.0.0,1.3.2.0.00.0.0 - Valores Mobiliários,2829805.17,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.3.2.1.00.0.0,1.3.2.1.00.0.0 - Juros e Correções Monetárias,46452687.71,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.3.2.1.00.0.0,1.3.2.1.00.0.0 - Juros e Correções Monetárias,2829805.17,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.3.2.1.00.1.0,1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários,11485987.7,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.3.2.1.00.1.0,1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários,2829805.17,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.3.2.1.00.4.0,1.3.2.1.00.4.0 - Remuneração dos Recursos do Regime Próprio de Previdência Social - RPPS,34966700.01,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.3.2.2.00.0.0,1.3.2.2.00.0.0 - Dividendos,266482.44,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.3.9.0.00.0.0,1.3.9.0.00.0.0 - Demais Receitas Patrimoniais,215342.23,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.0.0.00.0.0,1.7.0.0.00.0.0 - Transferências Correntes,1541796091.26,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.0.0.00.0.0,1.7.0.0.00.0.0 - Transferências Correntes,163761571.98,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.0.00.0.0,1.7.1.0.00.0.0 - Transferências da União e de suas Entidades,783967786.92,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.1.0.00.0.0,1.7.1.0.00.0.0 - Transferências da União e de suas Entidades,69766999.07,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.00.0.0,"1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios",783967786.92,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.1.8.00.0.0,"1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios",69766999.07,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.01.0.0,1.7.1.8.01.0.0 Participação na Receita da União,364226530.76,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.1.8.01.0.0,1.7.1.8.01.0.0 Participação na Receita da União,69766999.07,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.01.2.0,1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal,348762482.45,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.1.8.01.2.0,1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal,69752496.22,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.01.3.0,1.7.1.8.01.3.0 Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro,15391533.39,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.01.5.0,1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural,72514.92,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.1.8.01.5.0,1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural,14502.85,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.03.0.0,"1.7.1.8.03.0.0 Transferência de Recursos do Sistema Único de Saúde ¿ 
+ SUS ¿ Bloco Custeio das Ações e Serviços Públicos de Saúde",390374530.09,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.03.1.0,1.7.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Básica,79616322.57,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.03.2.0,1.7.1.8.03.2.0 - Transferência de Recursos do SUS ¿ Atenção de Média e Alta Complexidade Ambulatorial e Hospitalar,295925128.24,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.03.3.0,1.7.1.8.03.3.0 - Transferência de Recursos do SUS ¿ Vigilância em Saúde,10170126,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.03.4.0,1.7.1.8.03.4.0 - Transferência de Recursos do SUS ¿ Assistência Farmacêutica,4498553.28,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.03.5.0,1.7.1.8.03.5.0 - Transferência de Recursos do SUS ¿ Gestão do SUS,164400,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.04.0.0,1.7.1.8.04.0.0 Transferências de Recursos do Sistema Único de Saúde ¿ SUS - Bloco Investimentos na Rede de Serviços Públicos de Saúde,12571441.46,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.04.1.0,1.7.1.8.04.1.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS destinados à Atenção Básica,12571441.46,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.05.0.0,1.7.1.8.05.0.0 Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE,15609173.44,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.05.1.0,1.7.1.8.05.1.0 Transferências do Salário-Educação,8828017.04,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.05.3.0,1.7.1.8.05.3.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE,6781156.4,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.99.0.0,1.7.1.8.99.0.0 Outras Transferências da União,1186111.17,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.2.0.00.0.0,1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades,518862390.46,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.2.0.00.0.0,1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades,93994572.91,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.2.0.00.1.0,1.7.2.0.00.1.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades,14822888.14,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.2.8.00.0.0,"1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios",504039502.32,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.2.8.00.0.0,"1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios",93994572.91,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.2.8.01.0.0,1.7.2.8.01.0.0 Participação na Receita dos Estados,470590089.95,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.2.8.01.0.0,1.7.2.8.01.0.0 Participação na Receita dos Estados,93994572.91,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.2.8.01.1.0,1.7.2.8.01.1.0 Cota-Parte do ICMS,382658850.5,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.2.8.01.1.0,1.7.2.8.01.1.0 Cota-Parte do ICMS,76531769.9,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.2.8.01.2.0,1.7.2.8.01.2.0 Cota-Parte do IPVA,87314014.32,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.2.8.01.2.0,1.7.2.8.01.2.0 Cota-Parte do IPVA,17462803.01,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.2.8.01.4.0,1.7.2.8.01.4.0 Cota-Parte da Contribuição de Intervenção no Domínio Econômico,617225.13,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.2.8.02.0.0,1.7.2.8.02.0.0 Transferência da Cota-parte da Compensação Financeira (25%),32832542.81,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.2.8.02.3.0,"1.7.2.8.02.3.0 Cota-parte Royalties ¿ Compensação Financeira pela Produção do Petróleo ¿ Lei nº 7.990/89, artigo 9º",32828596.34,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.2.8.02.9.0,1.7.2.8.02.9.0 Outras Transferências Decorrentes de Compensações Financeiras,3946.47,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.2.8.10.0.0,1.7.2.8.10.0.0 Transferência de Convênios dos Estados e do Distrito Federal e de Suas Entidades,616869.56,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.2.8.10.9.0,1.7.2.8.10.9.0 Outras Transferências de Convênio dos Estados,616869.56,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.4.0.00.0.0,1.7.4.0.00.0.0 - Transferências de Instituições Privadas,246400,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.4.8.00.0.0,"1.7.4.8.00.0.0 Transferências de Instituições Privadas - Específicas de Estados, DF e Municípios",246400,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.4.8.10.0.0,1.7.4.8.10.0.0 - Outras Transferência de Instituições Privadas para EST/DF/MUN - Não Especificadas Anteriormente,246400,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.5.0.00.0.0,1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas,238719513.88,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.5.0.00.1.0,1.7.5.0.00.1.0 - Transferências de Outras Instituições Públicas,238719513.88,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.0.0.00.0.0,1.9.0.0.00.0.0 - Outras Receitas Correntes,49986787.14,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.9.0.0.00.0.0,1.9.0.0.00.0.0 - Outras Receitas Correntes,26937.04,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.1.0.00.0.0,"1.9.1.0.00.0.0 - Multas Administrativas, Contratuais e Judiciais",29383538.45,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.9.1.0.00.0.0,"1.9.1.0.00.0.0 - Multas Administrativas, Contratuais e Judiciais",26937.04,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.1.0.01.0.0,1.9.1.0.01.0.0 - Multas Previstas em Legislação Específica,27447639.99,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.1.0.04.0.0,1.9.1.0.04.0.0 - Multas Previstas na Legislação sobre Defesa dos Direitos Difusos,1935898.46,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.9.1.0.04.0.0,1.9.1.0.04.0.0 - Multas Previstas na Legislação sobre Defesa dos Direitos Difusos,26937.04,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.2.0.00.0.0,"1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos",2733006.42,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.2.1.00.0.0,1.9.2.1.00.0.0 - Indenizações,1349662.65,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.2.1.99.0.0,1.9.2.1.99.0.0 - Outras Indenizações,1349662.65,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.2.2.00.0.0,1.9.2.2.00.0.0 - Restituições,1383343.77,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.2.2.03.0.0,1.9.2.2.03.0.0 - Restituição de Benefícios Previdenciários,655121.3,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.2.2.99.0.0,1.9.2.2.99.0.0 - Outras Restituições,728222.47,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.9.0.00.0.0,1.9.9.0.00.0.0 - Demais Receitas Correntes,17870242.27,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.9.0.03.0.0,1.9.9.0.03.0.0 - Compensações Financeiras entre o Regime Geral e os Regimes Próprios de Previdência dos Servidores,11838385.88,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.9.0.99.0.0,1.9.9.0.99.0.0 - Outras Receitas,6031856.39,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.9.0.99.1.0,1.9.9.0.99.1.0 - Outras Receitas - Primárias,2671335.87,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.9.0.99.2.0,1.9.9.0.99.2.0 - Outras Receitas - Financeiras,3360520.52,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.0.0.0.00.0.0,2.0.0.0.00.0.0 - Receitas de Capital,18780717.3,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.1.0.0.00.0.0,2.1.0.0.00.0.0 - Operações de Crédito,875134.19,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.1.1.0.00.0.0,2.1.1.0.00.0.0 - Operações de Crédito - Mercado Interno,875134.19,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.1.1.8.00.0.0,2.1.1.8.00.0.0 Operações de Crédito - Mercado Interno - Estados/DF/Municípios,875134.19,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.1.1.8.01.0.0,2.1.1.8.01.0.0 - Operações de Crédito Internas de Estados/DF/Municípios,875134.19,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.1.1.8.01.1.0,2.1.1.8.01.1.0 - Operações de Crédito Internas para Programas de Educação,875134.19,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.3.0.0.00.0.0,2.3.0.0.00.0.0 - Amortização de Empréstimos,3653834.55,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.3.0.0.06.0.0,2.3.0.0.06.0.0 - Amortização de Empréstimos Contratuais,3653834.55,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.4.0.0.00.0.0,2.4.0.0.00.0.0 - Transferências de Capital,14251748.56,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.4.1.0.00.0.0,2.4.1.0.00.0.0 - Transferências da União e de suas Entidades,14251748.56,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.4.1.8.00.0.0,"2.4.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios",14251748.56,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.4.1.8.03.0.0,2.4.1.8.03.0.0 Transferências de Recursos do Sistema Único de Saúde ¿ SUS,13500,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.4.1.8.03.1.0,2.4.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Básica,13500,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.4.1.8.04.0.0,2.4.1.8.04.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS - Bloco Investimentos na Rede de Serviços Públicos de Saúde,995000,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.4.1.8.04.1.0,2.4.1.8.04.1.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS destinados à Atenção Básica,295000,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.4.1.8.04.2.0,2.4.1.8.04.2.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS destinados à Atenção Especializada,400000,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.4.1.8.04.3.0,2.4.1.8.04.3.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS destinados à Vigilância em Saúde,300000,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.4.1.8.10.0.0,2.4.1.8.10.0.0 Transferência de Convênios da União e de suas Entidades,13243248.56,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.4.1.8.10.9.0,2.4.1.8.10.9.0 - Outras Transferências de Convênios da União,13243248.56,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,ReceitasIntraOrcamentarias,RECEITAS (INTRA-ORÇAMENTÁRIAS) (II),74661345.13,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO7.0.0.0.00.0.0,7.0.0.0.00.0.0 - Receitas Correntes,74661345.13,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO7.2.0.0.00.0.0,7.2.0.0.00.0.0 - Contribuições,59779060,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO7.2.1.0.00.0.0,7.2.1.0.00.0.0 - Contribuições Sociais,59779060,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO7.2.1.8.00.0.0,"7.2.1.8.00.0.0 Contribuições Sociais Específicas de Estados, DF e 
+ Municípios",59779060,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO7.2.1.8.03.0.0,7.2.1.8.03.0.0 - CPSSS Patronal - Servidor Civil - Específico de EST/DF/MUN,59779060,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO7.2.1.8.03.1.0,7.2.1.8.03.1.0 - CPSSS Patronal - Servidor Civil Ativo,59339982.78,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO7.2.1.8.03.2.0,7.2.1.8.03.2.0 - CPSSS Patronal - Servidor Civil Inativo,202996.56,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO7.2.1.8.03.3.0,7.2.1.8.03.3.0 - CPSSS Patronal - Servidor Civil - Pensionistas,236080.66,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO7.6.0.0.00.0.0,7.6.0.0.00.0.0 - Receita de Serviços,14882285.13,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO7.6.3.0.00.0.0,7.6.3.0.00.0.0 - Serviços e Atividades Referentes à Saúde,14882285.13,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO7.6.3.0.01.0.0,7.6.3.0.01.0.0 - Serviços de Atendimento à Saúde,14882285.13,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,TotalReceitas,TOTAL DAS RECEITAS (III) = (I + II),2420255064.66,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,TotalReceitas,TOTAL DAS RECEITAS (III) = (I + II),163761571.98,800323
+2019,Prefeitura Municipal de João Pessoa - PB,2507507,PB,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,TotalReceitas,TOTAL DAS RECEITAS (III) = (I + II),2912395.43,800323

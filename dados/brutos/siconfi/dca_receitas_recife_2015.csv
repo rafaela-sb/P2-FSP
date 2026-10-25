@@ -1,0 +1,141 @@
+exercicio,instituicao,cod_ibge,uf,anexo,rotulo,coluna,cod_conta,conta,valor,populacao
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,TotalReceitas,Total Receitas,4464935094.85,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Deduções - FUNDEB,TotalReceitas,Total Receitas,280446013.56,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.0.0.0.00.00.00,1.0.0.0.00.00.00 - Receitas Correntes,4087195230.96,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Deduções - FUNDEB,RO1.0.0.0.00.00.00,1.0.0.0.00.00.00 - Receitas Correntes,280446013.56,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.1.0.0.00.00.00,1.1.0.0.00.00.00 - Receita Tributária,1407819596.12,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.1.1.0.00.00.00,1.1.1.0.00.00.00 - Impostos,1253037543.09,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.1.1.2.00.00.00,1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda,549186240.02,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.1.1.2.02.00.00,1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU,311937857.51,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.1.1.2.04.00.00,1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR,135182707.87,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.1.1.2.04.31.00,1.1.1.2.04.31.00 - Retido nas Fontes - Trabalho,126576431.5,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.1.1.2.04.34.00,1.1.1.2.04.34.00 - Retido nas Fontes - Outros Rendimentos,8606276.37,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.1.1.2.08.00.00,"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI",102065674.64,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.1.1.3.00.00.00,1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação,703851303.07,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.1.1.3.05.00.00,1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN,703851303.07,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.1.2.0.00.00.00,1.1.2.0.00.00.00 - Taxas,154782053.03,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.1.2.1.00.00.00,1.1.2.1.00.00.00 - Taxas pelo Exercício do Poder de Polícia,43897995.65,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.1.2.2.00.00.00,1.1.2.2.00.00.00 - Taxas pela Prestação de Serviços,110884057.38,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.2.0.0.00.00.00,1.2.0.0.00.00.00 - Receitas de Contribuições,178982759.82,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.2.1.0.00.00.00,1.2.1.0.00.00.00 - Contribuições Sociais,109312670.03,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.2.1.0.29.00.00,1.2.1.0.29.00.00 - Contribuições para o Regime Próprio de Previdência do Servidor Público,109312670.03,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.2.1.0.29.07.00,1.2.1.0.29.07.00 - Contribuição do Servidor Ativo Civil para o Regime Próprio,96625172.19,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.2.1.0.29.09.00,1.2.1.0.29.09.00 - Contribuições do Servidor Inativo Civil para o Regime Próprio,10689808.45,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.2.1.0.29.11.00,1.2.1.0.29.11.00 - Contribuições de Pensionista Civil para o Regime Próprio,1997689.39,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.2.3.0.00.00.00,1.2.3.0.00.00.00 - Contribuição para Custeio do Serviço de Iluminação Pública,69670089.79,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.3.0.0.00.00.00,1.3.0.0.00.00.00 - Receita Patrimonial,71334369.67,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.3.1.0.00.00.00,1.3.1.0.00.00.00 - Receitas Imobiliárias,1251180.52,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.3.1.1.00.00.00,1.3.1.1.00.00.00 - Aluguéis,1239439.37,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.3.1.2.00.00.00,1.3.1.2.00.00.00 - Arrendamentos,11741.15,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.3.2.0.00.00.00,1.3.2.0.00.00.00 - Receitas de Valores Mobiliários,69135336.67,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.3.2.2.00.00.00,1.3.2.2.00.00.00 - Dividendos,20706.1,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.3.2.5.00.00.00,1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários,43782488.53,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.3.2.8.00.00.00,1.3.2.8.00.00.00 - Remuneração dos Investimentos do Regime Próprio de Previdência do Servidor,25332142.04,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.3.3.0.00.00.00,1.3.3.0.00.00.00 - Receitas de Concessões e Permissões,947852.48,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.6.0.0.00.00.00,1.6.0.0.00.00.00 - Receita de Serviços,26206057.83,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.6.0.0.01.00.00,1.6.0.0.01.00.00 - Serviços Comerciais,285,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.6.0.0.05.00.00,1.6.0.0.05.00.00 - Serviços de Saúde,20670565.32,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.6.0.0.13.00.00,1.6.0.0.13.00.00 - Serviços Administrativos,986822.47,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.6.0.0.19.00.00,1.6.0.0.19.00.00 - Serviços Recreativos e Culturais,1783,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.6.0.0.43.00.00,"1.6.0.0.43.00.00 - Serviços de Coleta, Transporte, Tratamento e Destino Final de Resíduos Sólidos",16783.08,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.6.0.0.46.00.00,1.6.0.0.46.00.00 - Serviços de Cemitério,957389.83,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.6.0.0.99.00.00,1.6.0.0.99.00.00 - Outros Serviços,3572429.13,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.7.0.0.00.00.00,1.7.0.0.00.00.00 - Transferências Correntes,2132891613.89,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Deduções - FUNDEB,RO1.7.0.0.00.00.00,1.7.0.0.00.00.00 - Transferências Correntes,280446013.56,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.7.2.0.00.00.00,1.7.2.0.00.00.00 - Transferências Intergovernamentais,2077272035.95,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Deduções - FUNDEB,RO1.7.2.0.00.00.00,1.7.2.0.00.00.00 - Transferências Intergovernamentais,280446013.56,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.7.2.1.00.00.00,1.7.2.1.00.00.00 - Transferências da União,846526366.11,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Deduções - FUNDEB,RO1.7.2.1.00.00.00,1.7.2.1.00.00.00 - Transferências da União,85432786.61,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.7.2.1.01.00.00,1.7.2.1.01.00.00 - Participação na Receita da União,449023491.75,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Deduções - FUNDEB,RO1.7.2.1.01.00.00,1.7.2.1.01.00.00 - Participação na Receita da União,85067826.23,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.7.2.1.01.02.00,1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM,449012997.92,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Deduções - FUNDEB,RO1.7.2.1.01.02.00,1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM,85065727.53,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.7.2.1.01.05.00,1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR,10493.83,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Deduções - FUNDEB,RO1.7.2.1.01.05.00,1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR,2098.7,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.7.2.1.22.00.00,1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais,5143335.24,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.7.2.1.22.20.00,1.7.2.1.22.20.00 - Cota-Parte da Compensação Financeira de Recursos Minerais - CFEM,292338.21,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.7.2.1.22.70.00,1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP,4850997.03,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.7.2.1.33.00.00,1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo,351801838.89,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.7.2.1.34.00.00,1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS,12017690.14,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.7.2.1.35.00.00,1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE,26348818.8,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.7.2.1.36.00.00,1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96,1824801.93,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Deduções - FUNDEB,RO1.7.2.1.36.00.00,1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96,364960.38,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.7.2.1.99.00.00,1.7.2.1.99.00.00 - Outras Transferências da União,366389.36,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.7.2.2.00.00.00,1.7.2.2.00.00.00 - Transferências dos Estados,980831903.35,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Deduções - FUNDEB,RO1.7.2.2.00.00.00,1.7.2.2.00.00.00 - Transferências dos Estados,195013226.95,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.7.2.2.01.00.00,1.7.2.2.01.00.00 - Participação na Receita dos Estados,975628109.49,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Deduções - FUNDEB,RO1.7.2.2.01.00.00,1.7.2.2.01.00.00 - Participação na Receita dos Estados,195013226.95,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.7.2.2.01.01.00,1.7.2.2.01.01.00 - Cota-Parte do ICMS,799623588.93,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Deduções - FUNDEB,RO1.7.2.2.01.01.00,1.7.2.2.01.01.00 - Cota-Parte do ICMS,159924717.87,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.7.2.2.01.02.00,1.7.2.2.01.02.00 - Cota-Parte do IPVA,171039219.89,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Deduções - FUNDEB,RO1.7.2.2.01.02.00,1.7.2.2.01.02.00 - Cota-Parte do IPVA,34207844.61,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.7.2.2.01.04.00,1.7.2.2.01.04.00 - Cota-Parte do IPI sobre Exportação,4403322.06,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Deduções - FUNDEB,RO1.7.2.2.01.04.00,1.7.2.2.01.04.00 - Cota-Parte do IPI sobre Exportação,880664.47,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.7.2.2.01.13.00,1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico,561978.61,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.7.2.2.33.00.00,1.7.2.2.33.00.00 - Transferências de Recursos do Estado para Programas de Saúde - Repasse Fundo a Fundo,5203793.86,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.7.2.4.00.00.00,1.7.2.4.00.00.00 - Transferências Multigovernamentais,249913766.49,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.7.2.4.01.00.00,1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB,216030690.03,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.7.2.4.02.00.00,1.7.2.4.02.00.00 - Transferências de Recursos da Complementação ao Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB,33883076.46,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.7.3.0.00.00.00,1.7.3.0.00.00.00 - Transferências de Instituições Privadas,3814000,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.7.4.0.00.00.00,1.7.4.0.00.00.00 - Transferências do Exterior,148908.79,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.7.5.0.00.00.00,1.7.5.0.00.00.00 - Transferências de Pessoas,6400,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.7.6.0.00.00.00,1.7.6.0.00.00.00 - Transferências de Convênios,51650269.15,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.7.6.1.00.00.00,1.7.6.1.00.00.00 - Transferências de Convênios da União e de Suas Entidades,11626006.19,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.7.6.1.99.00.00,1.7.6.1.99.00.00 - Outras Transferências de Convênios da União,11626006.19,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.7.6.2.00.00.00,1.7.6.2.00.00.00 - Transferências de Convênios dos Estados e do Distrito Federal e de Suas Entidades,40024262.96,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.7.6.2.99.00.00,1.7.6.2.99.00.00 - Outras Transferências de Convênios dos Estados,40024262.96,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.9.0.0.00.00.00,1.9.0.0.00.00.00 - Outras Receitas Correntes,269960833.63,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.9.1.0.00.00.00,1.9.1.0.00.00.00 - Multas e Juros de Mora,79695353.86,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.9.1.1.00.00.00,1.9.1.1.00.00.00 - Multas e Juros de Mora dos Tributos,18949498.47,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.9.1.1.35.00.00,1.9.1.1.35.00.00 - Multas e Juros de Mora da Taxa de Fiscalização e Vigilância Sanitária,514894.96,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.9.1.1.38.00.00,1.9.1.1.38.00.00 - Multas e Juros de Mora do Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU,5561855.36,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.9.1.1.39.00.00,1.9.1.1.39.00.00 - Multas e Juros de Mora do Imposto sobre a Transmissão Inter Vivos de Bens Imóveis - ITBI,41221.23,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.9.1.1.40.00.00,1.9.1.1.40.00.00 - Multas e Juros de Mora do Imposto sobre Serviços de Qualquer Natureza ¿ ISS,9620715.73,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.9.1.1.99.00.00,1.9.1.1.99.00.00 - Multas e Juros de Mora de Outros Tributos,3210811.19,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.9.1.3.00.00.00,1.9.1.3.00.00.00 - Multas e Juros de Mora da Dívida Ativa dos Tributos,34091814.29,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.9.1.3.11.00.00,1.9.1.3.11.00.00 - Multas e Juros de Mora da Dívida Ativa do Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU,15528598.9,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.9.1.3.12.00.00,1.9.1.3.12.00.00 - Multas e Juros de Mora da Dívida Ativa do Imposto sobre a Transmissão Inter Vivos de Bens Imóveis - ITBI,3681.64,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.9.1.3.13.00.00,1.9.1.3.13.00.00 - Multas e Juros de Mora da Dívida Ativa do Imposto sobre Serviços de Qualquer Natureza ¿ ISS,9610837.07,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.9.1.3.99.00.00,1.9.1.3.99.00.00 - Multas e Juros de Mora da Dívida Ativa de Outros Tributos,8948696.68,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.9.1.8.00.00.00,1.9.1.8.00.00.00 - Multas e Juros de Mora de Outras Receitas,3064.53,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.9.1.9.00.00.00,1.9.1.9.00.00.00 - Multas de Outras Origens,26650976.57,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.9.2.0.00.00.00,1.9.2.0.00.00.00 - Indenizações e Restituições,71816135.53,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.9.2.1.00.00.00,1.9.2.1.00.00.00 - Indenizações,161776.7,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.9.2.2.00.00.00,1.9.2.2.00.00.00 - Restituições,71654358.83,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.9.2.2.10.00.00,1.9.2.2.10.00.00 - Compensações Financeiras entre o Regime Geral e os Regimes Próprios de Previdência dos Servidores,6138286.97,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.9.2.2.99.00.00,1.9.2.2.99.00.00 - Outras Restituições,65516071.86,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.9.3.0.00.00.00,1.9.3.0.00.00.00 - Receita da Dívida Ativa,92169379.59,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.9.3.1.00.00.00,1.9.3.1.00.00.00 - Receita da Dívida Ativa Tributária,92169379.59,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.9.3.1.11.00.00,1.9.3.1.11.00.00 - Receita da Dívida Ativa do Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU,39533334.41,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.9.3.1.12.00.00,1.9.3.1.12.00.00 - Receita da Dívida Ativa do Imposto sobre a Transmissão Inter Vivos de Bens Imóveis - ITBI,12479.63,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.9.3.1.13.00.00,1.9.3.1.13.00.00 - Receita da Dívida Ativa do Imposto sobre Serviços de Qualquer Natureza ¿ ISS,29714468.34,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.9.3.1.35.00.00,1.9.3.1.35.00.00 - Receita da Dívida Ativa da Taxa de Fiscalização e Vigilância Sanitária,749520.81,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.9.3.1.99.00.00,1.9.3.1.99.00.00 - Receita da Dívida Ativa de Outros Tributos,22159576.4,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO1.9.9.0.00.00.00,1.9.9.0.00.00.00 - Receitas Diversas,26279964.65,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO2.0.0.0.00.00.00,2.0.0.0.00.00.00 - Receitas de Capital,247125157.98,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO2.1.0.0.00.00.00,2.1.0.0.00.00.00 - Operações de Crédito,189343300.41,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO2.1.1.0.00.00.00,2.1.1.0.00.00.00 - Operações de Crédito Internas,151954056.6,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO2.1.2.0.00.00.00,2.1.2.0.00.00.00 - Operações de Crédito Externas,37389243.81,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO2.2.0.0.00.00.00,2.2.0.0.00.00.00 - Alienação de Bens,123500,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO2.2.2.0.00.00.00,2.2.2.0.00.00.00 - Alienação de Bens Imóveis,123500,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO2.4.0.0.00.00.00,2.4.0.0.00.00.00 - Transferências de Capital,57658357.57,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO2.4.2.0.00.00.00,2.4.2.0.00.00.00 - Transferências Intergovernamentais,6388014.32,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO2.4.2.1.00.00.00,2.4.2.1.00.00.00 - Transferências da União,908000,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO2.4.2.1.01.00.00,2.4.2.1.01.00.00 - Participação na Receita da União,908000,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO2.4.2.2.00.00.00,2.4.2.2.00.00.00 - Transferências dos Estados,5480014.32,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO2.4.2.2.99.00.00,2.4.2.2.99.00.00 - Outras Transferências dos Estados,5480014.32,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO2.4.7.0.00.00.00,2.4.7.0.00.00.00 - Transferências de Convênios,51270343.25,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO2.4.7.1.00.00.00,2.4.7.1.00.00.00 - Transferências de Convênios da União e de suas Entidades,33793513.39,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO2.4.7.1.01.00.00,2.4.7.1.01.00.00 - Transferências de Convênios da União para o Sistema Único de Saúde - SUS,30033720.15,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO2.4.7.1.99.00.00,2.4.7.1.99.00.00 - Outras Transferências de Convênios da União,3759793.24,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO2.4.7.2.00.00.00,2.4.7.2.00.00.00 - Transferências de Convênios dos Estados e do Distrito Federal e de suas Entidades,17476829.86,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO2.4.7.2.03.00.00,2.4.7.2.03.00.00 - Transferências de Convênios dos Estados Destinadas a Programas de Saneamento Básico,16657122.34,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RO2.4.7.2.99.00.00,2.4.7.2.99.00.00 - Outras Transferências de Convênios dos Estados,819707.52,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RI7.0.0.0.00.00.00,7.0.0.0.00.00.00 - Receitas Correntes Intraorçamentárias,130614705.91,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RI7.2.0.0.00.00.00,7.2.0.0.00.00.00 - Receitas de Contribuições Intraorçamentárias,110298073.27,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RI7.2.1.0.00.00.00,7.2.1.0.00.00.00 - Contribuições Sociais Intraorçamentárias,110298073.27,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RI7.2.1.0.29.00.00,7.2.1.0.29.00.00 - Contribuições para o Regime Próprio de Previdência do Servidor Público Intraorçamentárias,110298073.27,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RI7.2.1.0.29.01.00,7.2.1.0.29.01.00 - Contribuição Patronal de Servidor Ativo Civil para o Regime Próprio Intraorçamentária,110298073.27,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RI7.6.0.0.00.00.00,7.6.0.0.00.00.00 - Receita de Serviços Intraorçamentária,5469382.48,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RI7.9.0.0.00.00.00,7.9.0.0.00.00.00 - Outras Receitas Correntes Intraorçamentárias,14847250.16,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-C,,Receitas Brutas Realizadas,RI7.9.9.9.00.00.00,7.9.9.9.00.00.00 - Demais Receitas Correntes Intraorçamentárias,14847250.16,1608488

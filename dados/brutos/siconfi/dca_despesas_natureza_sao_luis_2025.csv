@@ -1,0 +1,284 @@
+exercicio,instituicao,cod_ibge,uf,anexo,rotulo,coluna,cod_conta,conta,valor,populacao
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,TotalDespesas,Total Geral da Despesa,5918859263.77,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,TotalDespesas,Total Geral da Despesa,5315086593.35,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Pagas,TotalDespesas,Total Geral da Despesa,5231036775.21,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,TotalDespesas,Total Geral da Despesa,603772670.42,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,TotalDespesas,Total Geral da Despesa,84049818.14,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.0.00.00.00.00,3.0.00.00.00 - Despesas Correntes,5671223297.94,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.0.00.00.00.00,3.0.00.00.00 - Despesas Correntes,5151036799.17,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.0.00.00.00.00,3.0.00.00.00 - Despesas Correntes,5079425099.38,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.0.00.00.00.00,3.0.00.00.00 - Despesas Correntes,520186498.77,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.0.00.00.00.00,3.0.00.00.00 - Despesas Correntes,71611699.79,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.00.00.00.00,3.1.00.00.00 - Pessoal e Encargos Sociais,2702118205.39,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.00.00.00.00,3.1.00.00.00 - Pessoal e Encargos Sociais,2673498425.91,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.00.00.00.00,3.1.00.00.00 - Pessoal e Encargos Sociais,2671802946.5,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.1.00.00.00.00,3.1.00.00.00 - Pessoal e Encargos Sociais,28619779.48,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.1.00.00.00.00,3.1.00.00.00 - Pessoal e Encargos Sociais,1695479.41,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.00.00.00,3.1.90.00.00 - Aplicações Diretas,2585101753.25,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.00.00.00,3.1.90.00.00 - Aplicações Diretas,2558893869.88,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.00.00.00,3.1.90.00.00 - Aplicações Diretas,2557306037.48,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.1.90.00.00.00,3.1.90.00.00 - Aplicações Diretas,26207883.37,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.1.90.00.00.00,3.1.90.00.00 - Aplicações Diretas,1587832.4,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.01.00.00,"3.1.90.01.00 - Aposentadorias do RPPS, Reserva Remunerada e Reformas dos Militares",371440483.81,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.01.00.00,"3.1.90.01.00 - Aposentadorias do RPPS, Reserva Remunerada e Reformas dos Militares",371440483.81,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.01.00.00,"3.1.90.01.00 - Aposentadorias do RPPS, Reserva Remunerada e Reformas dos Militares",371440483.81,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.03.00.00,3.1.90.03.00 - Pensões do RPPS e do Militar,83549047.22,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.03.00.00,3.1.90.03.00 - Pensões do RPPS e do Militar,83549047.22,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.03.00.00,3.1.90.03.00 - Pensões do RPPS e do Militar,83549047.22,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.04.00.00,3.1.90.04.00 - Contratação por Tempo Determinado,546467064.23,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.04.00.00,3.1.90.04.00 - Contratação por Tempo Determinado,542085555.62,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.04.00.00,3.1.90.04.00 - Contratação por Tempo Determinado,541973173.94,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.1.90.04.00.00,3.1.90.04.00 - Contratação por Tempo Determinado,4381508.61,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.1.90.04.00.00,3.1.90.04.00 - Contratação por Tempo Determinado,112381.68,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.11.00.00,3.1.90.11.00 - Vencimentos e Vantagens Fixas - Pessoal Civil,1483600180.5,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.11.00.00,3.1.90.11.00 - Vencimentos e Vantagens Fixas - Pessoal Civil,1470277983.93,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.11.00.00,3.1.90.11.00 - Vencimentos e Vantagens Fixas - Pessoal Civil,1470065911.39,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.1.90.11.00.00,3.1.90.11.00 - Vencimentos e Vantagens Fixas - Pessoal Civil,13322196.57,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.1.90.11.00.00,3.1.90.11.00 - Vencimentos e Vantagens Fixas - Pessoal Civil,212072.54,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.13.00.00,3.1.90.13.00 - Obrigações Patronais,83456273.94,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.13.00.00,3.1.90.13.00 - Obrigações Patronais,76078400.14,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.13.00.00,3.1.90.13.00 - Obrigações Patronais,74957364.25,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.1.90.13.00.00,3.1.90.13.00 - Obrigações Patronais,7377873.8,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.1.90.13.00.00,3.1.90.13.00 - Obrigações Patronais,1121035.89,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.13.08.00,3.1.90.13.08 - Contribuições Previdenciárias - RPPS - Pessoal Ativo,83456273.94,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.13.08.00,3.1.90.13.08 - Contribuições Previdenciárias - RPPS - Pessoal Ativo,76078400.14,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.13.08.00,3.1.90.13.08 - Contribuições Previdenciárias - RPPS - Pessoal Ativo,74957364.25,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.1.90.13.08.00,3.1.90.13.08 - Contribuições Previdenciárias - RPPS - Pessoal Ativo,7377873.8,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.1.90.13.08.00,3.1.90.13.08 - Contribuições Previdenciárias - RPPS - Pessoal Ativo,1121035.89,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.16.00.00,3.1.90.16.00 - Outras Despesas Variáveis - Pessoal Civil,2000000,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.16.00.00,3.1.90.16.00 - Outras Despesas Variáveis - Pessoal Civil,1585000,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.16.00.00,3.1.90.16.00 - Outras Despesas Variáveis - Pessoal Civil,1585000,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.1.90.16.00.00,3.1.90.16.00 - Outras Despesas Variáveis - Pessoal Civil,415000,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.91.00.00,3.1.90.91.00 - Sentenças Judiciais,3921439.54,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.91.00.00,3.1.90.91.00 - Sentenças Judiciais,3392896.57,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.91.00.00,3.1.90.91.00 - Sentenças Judiciais,3310298.25,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.1.90.91.00.00,3.1.90.91.00 - Sentenças Judiciais,528542.97,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.1.90.91.00.00,3.1.90.91.00 - Sentenças Judiciais,82598.32,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.92.00.00,3.1.90.92.00 - Despesas de Exercícios Anteriores,9443239.81,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.92.00.00,3.1.90.92.00 - Despesas de Exercícios Anteriores,9443239.81,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.92.00.00,3.1.90.92.00 - Despesas de Exercícios Anteriores,9383495.84,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.1.90.92.00.00,3.1.90.92.00 - Despesas de Exercícios Anteriores,59743.97,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.94.00.00,3.1.90.94.00 - Indenizações e Restituições Trabalhistas,136144.39,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.94.00.00,3.1.90.94.00 - Indenizações e Restituições Trabalhistas,136144.39,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.94.00.00,3.1.90.94.00 - Indenizações e Restituições Trabalhistas,136144.39,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.1.90.96.00.00,3.1.90.96.00 - Ressarcimento de Despesas de Pessoal Requisitado,1087879.81,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.1.90.96.00.00,3.1.90.96.00 - Ressarcimento de Despesas de Pessoal Requisitado,905118.39,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.1.90.96.00.00,3.1.90.96.00 - Ressarcimento de Despesas de Pessoal Requisitado,905118.39,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.1.90.96.00.00,3.1.90.96.00 - Ressarcimento de Despesas de Pessoal Requisitado,182761.42,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DI3.1.91.00.00.00,"3.1.91.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social",117016452.14,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DI3.1.91.00.00.00,"3.1.91.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social",114604556.03,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Pagas,DI3.1.91.00.00.00,"3.1.91.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social",114496909.02,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DI3.1.91.00.00.00,"3.1.91.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social",2411896.11,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DI3.1.91.00.00.00,"3.1.91.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social",107647.01,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DI3.1.91.13.00.00,3.1.91.13.00 - Contribuições Patronais,117016452.14,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DI3.1.91.13.00.00,3.1.91.13.00 - Contribuições Patronais,114604556.03,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Pagas,DI3.1.91.13.00.00,3.1.91.13.00 - Contribuições Patronais,114496909.02,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DI3.1.91.13.00.00,3.1.91.13.00 - Contribuições Patronais,2411896.11,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DI3.1.91.13.00.00,3.1.91.13.00 - Contribuições Patronais,107647.01,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DI3.1.91.13.12.00,3.1.91.13.12 - Contribuições previdenciárias - RPPS - pessoal inativo e pensionista - plano financeiro,117016452.14,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DI3.1.91.13.12.00,3.1.91.13.12 - Contribuições previdenciárias - RPPS - pessoal inativo e pensionista - plano financeiro,114604556.03,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Pagas,DI3.1.91.13.12.00,3.1.91.13.12 - Contribuições previdenciárias - RPPS - pessoal inativo e pensionista - plano financeiro,114496909.02,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DI3.1.91.13.12.00,3.1.91.13.12 - Contribuições previdenciárias - RPPS - pessoal inativo e pensionista - plano financeiro,2411896.11,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DI3.1.91.13.12.00,3.1.91.13.12 - Contribuições previdenciárias - RPPS - pessoal inativo e pensionista - plano financeiro,107647.01,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.2.00.00.00.00,3.2.00.00.00 - Juros e Encargos da Dívida,57763709.79,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.2.00.00.00.00,3.2.00.00.00 - Juros e Encargos da Dívida,51054187.18,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.2.00.00.00.00,3.2.00.00.00 - Juros e Encargos da Dívida,51054187.18,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.2.00.00.00.00,3.2.00.00.00 - Juros e Encargos da Dívida,6709522.61,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.2.90.00.00.00,3.2.90.00.00 - Aplicações Diretas,57763709.79,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.2.90.00.00.00,3.2.90.00.00 - Aplicações Diretas,51054187.18,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.2.90.00.00.00,3.2.90.00.00 - Aplicações Diretas,51054187.18,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.2.90.00.00.00,3.2.90.00.00 - Aplicações Diretas,6709522.61,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.2.90.21.00.00,3.2.90.21.00 - Juros sobre a Dívida por Contrato,55152609.79,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.2.90.21.00.00,3.2.90.21.00 - Juros sobre a Dívida por Contrato,48546244.63,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.2.90.21.00.00,3.2.90.21.00 - Juros sobre a Dívida por Contrato,48546244.63,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.2.90.21.00.00,3.2.90.21.00 - Juros sobre a Dívida por Contrato,6606365.16,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.2.90.22.00.00,3.2.90.22.00 - Outros Encargos sobre a Dívida por Contrato,2611100,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.2.90.22.00.00,3.2.90.22.00 - Outros Encargos sobre a Dívida por Contrato,2507942.55,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.2.90.22.00.00,3.2.90.22.00 - Outros Encargos sobre a Dívida por Contrato,2507942.55,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.2.90.22.00.00,3.2.90.22.00 - Outros Encargos sobre a Dívida por Contrato,103157.45,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.00.00.00.00,3.3.00.00.00 - Outras Despesas Correntes,2911341382.76,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.00.00.00.00,3.3.00.00.00 - Outras Despesas Correntes,2426484186.08,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.00.00.00.00,3.3.00.00.00 - Outras Despesas Correntes,2356567965.7,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.00.00.00.00,3.3.00.00.00 - Outras Despesas Correntes,484857196.68,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.00.00.00.00,3.3.00.00.00 - Outras Despesas Correntes,69916220.38,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.30.00.00.00,3.3.30.00.00 - Transferências a Estados e ao Distrito Federal,294479.63,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.30.00.00.00,3.3.30.00.00 - Transferências a Estados e ao Distrito Federal,294479.63,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.30.00.00.00,3.3.30.00.00 - Transferências a Estados e ao Distrito Federal,294479.63,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.30.41.00.00,3.3.30.41.00 - Contribuições,294479.63,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.30.41.00.00,3.3.30.41.00 - Contribuições,294479.63,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.30.41.00.00,3.3.30.41.00 - Contribuições,294479.63,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.50.00.00.00,3.3.50.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos,316996993.58,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.50.00.00.00,3.3.50.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos,284799836.06,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.50.00.00.00,3.3.50.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos,271671658.92,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.50.00.00.00,3.3.50.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos,32197157.52,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.50.00.00.00,3.3.50.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos,13128177.14,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.60.00.00.00,3.3.60.00.00 - Transferências a Instituições Privadas com Fins Lucrativos,92899614.35,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.60.00.00.00,3.3.60.00.00 - Transferências a Instituições Privadas com Fins Lucrativos,85423346.38,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.60.00.00.00,3.3.60.00.00 - Transferências a Instituições Privadas com Fins Lucrativos,84975958.85,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.60.00.00.00,3.3.60.00.00 - Transferências a Instituições Privadas com Fins Lucrativos,7476267.97,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.60.00.00.00,3.3.60.00.00 - Transferências a Instituições Privadas com Fins Lucrativos,447387.53,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.80.00.00.00,3.3.80.00.00 - Transferências ao Exterior,6401059.65,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.80.00.00.00,3.3.80.00.00 - Transferências ao Exterior,6401059.65,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.80.00.00.00,3.3.80.00.00 - Transferências ao Exterior,6401059.65,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.00.00.00,3.3.90.00.00 - Aplicações Diretas,2494635358.21,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.00.00.00,3.3.90.00.00 - Aplicações Diretas,2049451587.02,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.00.00.00,3.3.90.00.00 - Aplicações Diretas,1993405410.94,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.00.00.00,3.3.90.00.00 - Aplicações Diretas,445183771.19,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.00.00.00,3.3.90.00.00 - Aplicações Diretas,56046176.08,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.08.00.00,3.3.90.08.00 - Outros Benefícios Assistenciais do servidor e do militar,119380.65,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.08.00.00,3.3.90.08.00 - Outros Benefícios Assistenciais do servidor e do militar,95290,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.08.00.00,3.3.90.08.00 - Outros Benefícios Assistenciais do servidor e do militar,95290,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.08.00.00,3.3.90.08.00 - Outros Benefícios Assistenciais do servidor e do militar,24090.65,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.14.00.00,3.3.90.14.00 - Diárias - Civil,696395,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.14.00.00,3.3.90.14.00 - Diárias - Civil,696395,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.14.00.00,3.3.90.14.00 - Diárias - Civil,686715,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.14.00.00,3.3.90.14.00 - Diárias - Civil,9680,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.30.00.00,3.3.90.30.00 - Material de Consumo,192719539.57,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.30.00.00,3.3.90.30.00 - Material de Consumo,158640802.7,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.30.00.00,3.3.90.30.00 - Material de Consumo,147709775.27,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.30.00.00,3.3.90.30.00 - Material de Consumo,34078736.87,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.30.00.00,3.3.90.30.00 - Material de Consumo,10931027.43,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.31.00.00,"3.3.90.31.00 - Premiações Culturais, Artísticas, Científicas, Desportivas e Outras",3307250,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.31.00.00,"3.3.90.31.00 - Premiações Culturais, Artísticas, Científicas, Desportivas e Outras",3307250,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.31.00.00,"3.3.90.31.00 - Premiações Culturais, Artísticas, Científicas, Desportivas e Outras",3302250,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.31.00.00,"3.3.90.31.00 - Premiações Culturais, Artísticas, Científicas, Desportivas e Outras",5000,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.32.00.00,"3.3.90.32.00 - Material, Bem ou Serviço para Distribuição Gratuita",39074488.77,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.32.00.00,"3.3.90.32.00 - Material, Bem ou Serviço para Distribuição Gratuita",15706252.73,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.32.00.00,"3.3.90.32.00 - Material, Bem ou Serviço para Distribuição Gratuita",15557152.73,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.32.00.00,"3.3.90.32.00 - Material, Bem ou Serviço para Distribuição Gratuita",23368236.04,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.32.00.00,"3.3.90.32.00 - Material, Bem ou Serviço para Distribuição Gratuita",149100,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.33.00.00,3.3.90.33.00 - Passagens e Despesas com Locomoção,2403739.09,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.33.00.00,3.3.90.33.00 - Passagens e Despesas com Locomoção,1783878.41,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.33.00.00,3.3.90.33.00 - Passagens e Despesas com Locomoção,1575149.48,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.33.00.00,3.3.90.33.00 - Passagens e Despesas com Locomoção,619860.68,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.33.00.00,3.3.90.33.00 - Passagens e Despesas com Locomoção,208728.93,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.34.00.00,3.3.90.34.00 - Outras Despesas de Pessoal decorrentes de Contratos de Terceirização,5802841.68,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.34.00.00,3.3.90.34.00 - Outras Despesas de Pessoal decorrentes de Contratos de Terceirização,4955500,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.34.00.00,3.3.90.34.00 - Outras Despesas de Pessoal decorrentes de Contratos de Terceirização,4829000,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.34.00.00,3.3.90.34.00 - Outras Despesas de Pessoal decorrentes de Contratos de Terceirização,847341.68,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.34.00.00,3.3.90.34.00 - Outras Despesas de Pessoal decorrentes de Contratos de Terceirização,126500,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.35.00.00,3.3.90.35.00 - Serviços de Consultoria,1450936.28,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.35.00.00,3.3.90.35.00 - Serviços de Consultoria,1371776.9,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.35.00.00,3.3.90.35.00 - Serviços de Consultoria,1256589.9,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.35.00.00,3.3.90.35.00 - Serviços de Consultoria,79159.38,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.35.00.00,3.3.90.35.00 - Serviços de Consultoria,115187,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.36.00.00,3.3.90.36.00 - Outros Serviços de Terceiros - Pessoa Física,50091259.95,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.36.00.00,3.3.90.36.00 - Outros Serviços de Terceiros - Pessoa Física,49110066.09,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.36.00.00,3.3.90.36.00 - Outros Serviços de Terceiros - Pessoa Física,48885253.76,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.36.00.00,3.3.90.36.00 - Outros Serviços de Terceiros - Pessoa Física,981193.86,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.36.00.00,3.3.90.36.00 - Outros Serviços de Terceiros - Pessoa Física,224812.33,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.37.00.00,3.3.90.37.00 - Locação de Mão-de-Obra,107610615.18,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.37.00.00,3.3.90.37.00 - Locação de Mão-de-Obra,84673652.66,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.37.00.00,3.3.90.37.00 - Locação de Mão-de-Obra,84107860.84,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.37.00.00,3.3.90.37.00 - Locação de Mão-de-Obra,22936962.52,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.37.00.00,3.3.90.37.00 - Locação de Mão-de-Obra,565791.82,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.39.00.00,3.3.90.39.00 - Outros Serviços de Terceiros - Pessoa Jurídica,1651064648.84,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.39.00.00,3.3.90.39.00 - Outros Serviços de Terceiros - Pessoa Jurídica,1350065106.41,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.39.00.00,3.3.90.39.00 - Outros Serviços de Terceiros - Pessoa Jurídica,1309119189.25,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.39.00.00,3.3.90.39.00 - Outros Serviços de Terceiros - Pessoa Jurídica,300999542.43,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.39.00.00,3.3.90.39.00 - Outros Serviços de Terceiros - Pessoa Jurídica,40945917.16,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.40.00.00,3.3.90.40.00 - Serviços de Tecnologia da Informação e Comunicação - Pessoa Jurídica,41636917.06,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.40.00.00,3.3.90.40.00 - Serviços de Tecnologia da Informação e Comunicação - Pessoa Jurídica,30883842.47,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.40.00.00,3.3.90.40.00 - Serviços de Tecnologia da Informação e Comunicação - Pessoa Jurídica,29814868.89,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.40.00.00,3.3.90.40.00 - Serviços de Tecnologia da Informação e Comunicação - Pessoa Jurídica,10753074.59,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.40.00.00,3.3.90.40.00 - Serviços de Tecnologia da Informação e Comunicação - Pessoa Jurídica,1068973.58,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.41.00.00,3.3.90.41.00 - Contribuições,7900,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.41.00.00,3.3.90.41.00 - Contribuições,7900,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.41.00.00,3.3.90.41.00 - Contribuições,7900,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.46.00.00,3.3.90.46.00 - Auxílio-Alimentação,397521.29,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.46.00.00,3.3.90.46.00 - Auxílio-Alimentação,397521.29,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.46.00.00,3.3.90.46.00 - Auxílio-Alimentação,397521.29,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.47.00.00,3.3.90.47.00 - Obrigações Tributárias e Contributivas,66906498.27,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.47.00.00,3.3.90.47.00 - Obrigações Tributárias e Contributivas,61266758.74,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.47.00.00,3.3.90.47.00 - Obrigações Tributárias e Contributivas,61260159.16,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.47.00.00,3.3.90.47.00 - Obrigações Tributárias e Contributivas,5639739.53,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.47.00.00,3.3.90.47.00 - Obrigações Tributárias e Contributivas,6599.58,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.48.00.00,3.3.90.48.00 - Outros Auxílios Financeiros a Pessoas Físicas,5064947.88,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.48.00.00,3.3.90.48.00 - Outros Auxílios Financeiros a Pessoas Físicas,5030717.95,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.48.00.00,3.3.90.48.00 - Outros Auxílios Financeiros a Pessoas Físicas,5010717.95,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.48.00.00,3.3.90.48.00 - Outros Auxílios Financeiros a Pessoas Físicas,34229.93,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.48.00.00,3.3.90.48.00 - Outros Auxílios Financeiros a Pessoas Físicas,20000,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.49.00.00,3.3.90.49.00 - Auxílio-Transporte,223758.34,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.49.00.00,3.3.90.49.00 - Auxílio-Transporte,223758.34,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.49.00.00,3.3.90.49.00 - Auxílio-Transporte,223758.34,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.91.00.00,3.3.90.91.00 - Sentenças Judiciais,106877440.35,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.91.00.00,3.3.90.91.00 - Sentenças Judiciais,65428920.55,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.91.00.00,3.3.90.91.00 - Sentenças Judiciais,65349996.93,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.91.00.00,3.3.90.91.00 - Sentenças Judiciais,41448519.8,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.91.00.00,3.3.90.91.00 - Sentenças Judiciais,78923.62,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.92.00.00,3.3.90.92.00 - Despesas de Exercícios Anteriores,104285724.38,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.92.00.00,3.3.90.92.00 - Despesas de Exercícios Anteriores,103219334.9,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.92.00.00,3.3.90.92.00 - Despesas de Exercícios Anteriores,101678401.9,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.92.00.00,3.3.90.92.00 - Despesas de Exercícios Anteriores,1066389.48,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.92.00.00,3.3.90.92.00 - Despesas de Exercícios Anteriores,1540933,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.90.93.00.00,3.3.90.93.00 - Indenizações e Restituições,114893555.63,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.90.93.00.00,3.3.90.93.00 - Indenizações e Restituições,112586861.88,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.90.93.00.00,3.3.90.93.00 - Indenizações e Restituições,112537860.25,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO3.3.90.93.00.00,3.3.90.93.00 - Indenizações e Restituições,2306693.75,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO3.3.90.93.00.00,3.3.90.93.00 - Indenizações e Restituições,49001.63,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO3.3.92.00.00.00,3.3.92.00.00 - Aplicação Direta de Recursos Recebidos de Outros Entes da Federação Decorrentes de Delegação ou Descentralização,113877.34,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO3.3.92.00.00.00,3.3.92.00.00 - Aplicação Direta de Recursos Recebidos de Outros Entes da Federação Decorrentes de Delegação ou Descentralização,113877.34,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO3.3.92.00.00.00,3.3.92.00.00 - Aplicação Direta de Recursos Recebidos de Outros Entes da Federação Decorrentes de Delegação ou Descentralização,113877.34,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.0.00.00.00.00,4.0.00.00.00 - Despesas de Capital,247635965.83,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.0.00.00.00.00,4.0.00.00.00 - Despesas de Capital,164049794.18,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.0.00.00.00.00,4.0.00.00.00 - Despesas de Capital,151611675.83,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.0.00.00.00.00,4.0.00.00.00 - Despesas de Capital,83586171.65,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO4.0.00.00.00.00,4.0.00.00.00 - Despesas de Capital,12438118.35,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.00.00.00.00,4.4.00.00.00 - Investimentos,146006797.05,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.00.00.00.00,4.4.00.00.00 - Investimentos,64780389.81,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.00.00.00.00,4.4.00.00.00 - Investimentos,52345981.78,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.4.00.00.00.00,4.4.00.00.00 - Investimentos,81226407.24,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO4.4.00.00.00.00,4.4.00.00.00 - Investimentos,12434408.03,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.90.00.00.00,4.4.90.00.00 - Aplicações Diretas,146006797.05,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.90.00.00.00,4.4.90.00.00 - Aplicações Diretas,64780389.81,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.90.00.00.00,4.4.90.00.00 - Aplicações Diretas,52345981.78,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.4.90.00.00.00,4.4.90.00.00 - Aplicações Diretas,81226407.24,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO4.4.90.00.00.00,4.4.90.00.00 - Aplicações Diretas,12434408.03,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.90.35.00.00,4.4.90.35.00 - Serviços de Consultoria,2267252.56,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.90.35.00.00,4.4.90.35.00 - Serviços de Consultoria,451108.46,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.90.35.00.00,4.4.90.35.00 - Serviços de Consultoria,451108.46,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.4.90.35.00.00,4.4.90.35.00 - Serviços de Consultoria,1816144.1,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.90.40.00.00,4.4.90.40.00 - Serviços de Tecnologia da Informação e Comunicação - Pessoa Jurídica,3078190.1,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.90.40.00.00,4.4.90.40.00 - Serviços de Tecnologia da Informação e Comunicação - Pessoa Jurídica,1102712.22,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.90.40.00.00,4.4.90.40.00 - Serviços de Tecnologia da Informação e Comunicação - Pessoa Jurídica,1102712.22,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.4.90.40.00.00,4.4.90.40.00 - Serviços de Tecnologia da Informação e Comunicação - Pessoa Jurídica,1975477.88,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.90.51.00.00,4.4.90.51.00 - Obras e Instalações,76778890.11,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.90.51.00.00,4.4.90.51.00 - Obras e Instalações,38909120.46,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.90.51.00.00,4.4.90.51.00 - Obras e Instalações,35243161.69,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.4.90.51.00.00,4.4.90.51.00 - Obras e Instalações,37869769.65,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO4.4.90.51.00.00,4.4.90.51.00 - Obras e Instalações,3665958.77,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.90.51.99.00,4.4.90.51.99 - Outras Obras e Instalações,76778890.11,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.90.51.99.00,4.4.90.51.99 - Outras Obras e Instalações,38909120.46,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.90.51.99.00,4.4.90.51.99 - Outras Obras e Instalações,35243161.69,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.4.90.51.99.00,4.4.90.51.99 - Outras Obras e Instalações,37869769.65,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO4.4.90.51.99.00,4.4.90.51.99 - Outras Obras e Instalações,3665958.77,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.90.52.00.00,4.4.90.52.00 - Equipamentos e Material Permanente,60043224.55,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.90.52.00.00,4.4.90.52.00 - Equipamentos e Material Permanente,20478208.94,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.90.52.00.00,4.4.90.52.00 - Equipamentos e Material Permanente,15109922.05,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.4.90.52.00.00,4.4.90.52.00 - Equipamentos e Material Permanente,39565015.61,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO4.4.90.52.00.00,4.4.90.52.00 - Equipamentos e Material Permanente,5368286.89,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.90.61.00.00,4.4.90.61.00 - Aquisição de Imóveis,87500,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.90.61.00.00,4.4.90.61.00 - Aquisição de Imóveis,87500,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.90.61.00.00,4.4.90.61.00 - Aquisição de Imóveis,87500,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.90.92.00.00,4.4.90.92.00 - Despesas de Exercícios Anteriores,57750,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.90.92.00.00,4.4.90.92.00 - Despesas de Exercícios Anteriores,57750,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.90.92.00.00,4.4.90.92.00 - Despesas de Exercícios Anteriores,57750,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.4.90.93.00.00,4.4.90.93.00 - Indenizações e Restituições,3693989.73,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.4.90.93.00.00,4.4.90.93.00 - Indenizações e Restituições,3693989.73,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.4.90.93.00.00,4.4.90.93.00 - Indenizações e Restituições,293827.36,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO4.4.90.93.00.00,4.4.90.93.00 - Indenizações e Restituições,3400162.37,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.5.00.00.00.00,4.5.00.00.00 - Inversões Financeiras,101629168.78,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.5.00.00.00.00,4.5.00.00.00 - Inversões Financeiras,99269404.37,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.5.00.00.00.00,4.5.00.00.00 - Inversões Financeiras,99265694.05,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.5.00.00.00.00,4.5.00.00.00 - Inversões Financeiras,2359764.41,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO4.5.00.00.00.00,4.5.00.00.00 - Inversões Financeiras,3710.32,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.5.90.00.00.00,4.5.90.00.00 - Aplicações Diretas,101629168.78,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.5.90.00.00.00,4.5.90.00.00 - Aplicações Diretas,99269404.37,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.5.90.00.00.00,4.5.90.00.00 - Aplicações Diretas,99265694.05,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.5.90.00.00.00,4.5.90.00.00 - Aplicações Diretas,2359764.41,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO4.5.90.00.00.00,4.5.90.00.00 - Aplicações Diretas,3710.32,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Empenhadas,DO4.5.90.99.00.00,4.5.90.99.00 - A Classificar,101629168.78,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Liquidadas,DO4.5.90.99.00.00,4.5.90.99.00 - A Classificar,99269404.37,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Despesas Pagas,DO4.5.90.99.00.00,4.5.90.99.00 - A Classificar,99265694.05,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Não Processados,DO4.5.90.99.00.00,4.5.90.99.00 - A Classificar,2359764.41,1061374
+2025,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-D,Padrão,Inscrição de Restos a Pagar Processados,DO4.5.90.99.00.00,4.5.90.99.00 - A Classificar,3710.32,1061374

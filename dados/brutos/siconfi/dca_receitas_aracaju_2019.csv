@@ -1,0 +1,197 @@
+exercicio,instituicao,cod_ibge,uf,anexo,rotulo,coluna,cod_conta,conta,valor,populacao
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,ReceitasExcetoIntraOrcamentarias,RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I),2035361893.75,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,ReceitasExcetoIntraOrcamentarias,RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I),127231342.8,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,ReceitasExcetoIntraOrcamentarias,RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I),1056041.1,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.0.0.0.00.0.0,1.0.0.0.00.0.0 - Receitas Correntes,1971523005.68,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.0.0.0.00.0.0,1.0.0.0.00.0.0 - Receitas Correntes,127231342.8,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.0.0.0.00.0.0,1.0.0.0.00.0.0 - Receitas Correntes,1056041.1,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.0.0.00.0.0,"1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria",643383066.26,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.1.0.0.00.0.0,"1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria",998832.97,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.1.0.00.0.0,1.1.1.0.00.0.0 - Impostos,616013750.8,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.1.1.0.00.0.0,1.1.1.0.00.0.0 - Impostos,392019.01,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.1.3.00.0.0,1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza,65443327.68,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.1.1.3.00.0.0,1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza,5204.66,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.1.3.03.0.0,1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte,65443327.68,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.1.1.3.03.0.0,1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte,5204.66,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.1.3.03.1.0,1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho,62901060.14,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.1.1.3.03.1.0,1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho,5204.66,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.1.3.03.4.0,1.1.1.3.03.4.0 - Imposto sobre a Renda - Retido na Fonte - Outros Rendimentos,2542267.54,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.1.8.00.0.0,"1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios",550570423.12,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.1.1.8.00.0.0,"1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios",386814.35,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.1.8.01.0.0,1.1.1.8.01.0.0 Impostos sobre o Patrimônio para Estados/DF/Municípios,262343565.46,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.1.1.8.01.0.0,1.1.1.8.01.0.0 Impostos sobre o Patrimônio para Estados/DF/Municípios,178631.87,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.1.8.01.1.0,1.1.1.8.01.1.0 Imposto sobre a Propriedade Predial e Territorial Urbana,218618382.3,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.1.1.8.01.1.0,1.1.1.8.01.1.0 Imposto sobre a Propriedade Predial e Territorial Urbana,53105.48,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.1.8.01.4.0,1.1.1.8.01.4.0 Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis,43725183.16,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.1.1.8.01.4.0,1.1.1.8.01.4.0 Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis,125526.39,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.1.8.02.0.0,"1.1.1.8.02.0.0 Impostos sobre a Produção, Circulação de Mercadorias e Serviços",288226857.66,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.1.1.8.02.0.0,"1.1.1.8.02.0.0 Impostos sobre a Produção, Circulação de Mercadorias e Serviços",208182.48,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.1.8.02.3.0,1.1.1.8.02.3.0 Imposto sobre Serviços de Qualquer Natureza,288226857.66,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.1.1.8.02.3.0,1.1.1.8.02.3.0 Imposto sobre Serviços de Qualquer Natureza,208182.48,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.2.0.00.0.0,1.1.2.0.00.0.0 - Taxas,27369315.46,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.1.2.0.00.0.0,1.1.2.0.00.0.0 - Taxas,606813.96,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.2.1.00.0.0,1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia,21356673.26,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.1.2.1.00.0.0,1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia,606813.96,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.2.1.01.0.0,"1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização",20127412.61,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.1.2.1.01.0.0,"1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização",599009.4,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.2.1.04.0.0,1.1.2.1.04.0.0 - Taxa de Controle e Fiscalização Ambiental,1229260.65,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.1.2.1.04.0.0,1.1.2.1.04.0.0 - Taxa de Controle e Fiscalização Ambiental,7804.56,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.2.2.00.0.0,1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços,6012642.2,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.2.2.01.0.0,1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços,6012642.2,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.2.0.0.00.0.0,1.2.0.0.00.0.0 - Contribuições,74154498.16,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.2.1.0.00.0.0,1.2.1.0.00.0.0 - Contribuições Sociais,42712514.63,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.2.1.8.00.0.0,"1.2.1.8.00.0.0 Contribuições Sociais Específicas de Estados, DF e Municípios",42712514.63,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.2.1.8.01.0.0,1.2.1.8.01.0.0 - Contribuição do Servidor Civil para o Plano de Seguridade Social - CPSSS - Específico de EST/DF/MUN,38424487.58,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.2.1.8.01.1.0,1.2.1.8.01.1.0 - CPSSS do Servidor Civil Ativo,33518899.91,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.2.1.8.01.2.0,1.2.1.8.01.2.0 - CPSSS do Servidor Civil Inativo,4700169.71,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.2.1.8.01.3.0,1.2.1.8.01.3.0 - CPSSS do Servidor Civil - Pensionistas,205417.96,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.2.1.8.03.0.0,1.2.1.8.03.0.0 - CPSSS Patronal - Servidor Civil - Específico de EST/DF/MUN,4288027.05,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.2.1.8.03.1.0,1.2.1.8.03.1.0 - CPSSS Patronal - Servidor Civil Ativo,4288027.05,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.2.4.0.00.0.0,1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública,31441983.53,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.3.0.0.00.0.0,1.3.0.0.00.0.0 - Receita Patrimonial,134255156.15,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.3.1.0.00.0.0,1.3.1.0.00.0.0 - Exploração do Patrimônio Imobiliário do Estado,2361420.53,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.3.1.0.01.0.0,"1.3.1.0.01.0.0 - Aluguéis, Arrendamentos, Foros, Laudêmios, Tarifas de Ocupação",2361420.53,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.3.1.0.01.2.0,"1.3.1.0.01.2.0 - Foros, Laudêmios e Tarifas de Ocupação",2361420.53,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.3.2.0.00.0.0,1.3.2.0.00.0.0 - Valores Mobiliários,131673735.62,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.3.2.1.00.0.0,1.3.2.1.00.0.0 - Juros e Correções Monetárias,127632751.4,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.3.2.1.00.1.0,1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários,7229993.86,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.3.2.1.00.4.0,1.3.2.1.00.4.0 - Remuneração dos Recursos do Regime Próprio de Previdência Social - RPPS,120402757.54,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.3.2.2.00.0.0,1.3.2.2.00.0.0 - Dividendos,4040984.22,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.3.6.0.00.0.0,1.3.6.0.00.0.0 - Cessão de Direitos,220000,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.6.0.0.00.0.0,1.6.0.0.00.0.0 - Receita de Serviços,429069.22,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.6.9.0.00.0.0,1.6.9.0.00.0.0 - Outros Serviços,429069.22,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.6.9.0.99.0.0,1.6.9.0.99.0.0 - Outros Serviços,429069.22,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.0.0.00.0.0,1.7.0.0.00.0.0 - Transferências Correntes,1092484633.44,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.0.0.00.0.0,1.7.0.0.00.0.0 - Transferências Correntes,127231342.8,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.7.0.0.00.0.0,1.7.0.0.00.0.0 - Transferências Correntes,4752.38,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.0.00.0.0,1.7.1.0.00.0.0 - Transferências da União e de suas Entidades,612436196.44,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.1.0.00.0.0,1.7.1.0.00.0.0 - Transferências da União e de suas Entidades,62779813.17,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.7.1.0.00.0.0,1.7.1.0.00.0.0 - Transferências da União e de suas Entidades,443.89,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.00.0.0,"1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios",612436196.44,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.1.8.00.0.0,"1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios",62779813.17,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.7.1.8.00.0.0,"1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios",443.89,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.01.0.0,1.7.1.8.01.0.0 Participação na Receita da União,341092047.07,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.1.8.01.0.0,1.7.1.8.01.0.0 Participação na Receita da União,62779813.17,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.01.2.0,1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal,313886234.23,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.1.8.01.2.0,1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal,62777246.56,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.01.3.0,1.7.1.8.01.3.0 Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro,13852380.05,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.01.4.0,1.7.1.8.01.4.0 Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho,13340599.33,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.01.5.0,1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural,12833.46,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.1.8.01.5.0,1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural,2566.61,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.02.0.0,1.7.1.8.02.0.0 Transferência da Compensação Financeira pela Exploração de Recursos Naturais,16397575.7,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.02.1.0,1.7.1.8.02.1.0 Cota-parte da Compensação Financeira de Recursos Hídricos,2347.27,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.02.5.0,"1.7.1.8.02.5.0 Cota-parte Royalties pela Participação Especial ¿ Lei nº 9.478/97, artigo 50",11500889,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.02.6.0,1.7.1.8.02.6.0 Cota-Parte do Fundo Especial do Petróleo ¿ FEP,4894339.43,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.03.0.0,"1.7.1.8.03.0.0 Transferência de Recursos do Sistema Único de Saúde ¿ 
+ SUS ¿ Bloco Custeio das Ações e Serviços Públicos de Saúde",188218305.56,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.03.1.0,1.7.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Básica,48906799.51,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.03.2.0,1.7.1.8.03.2.0 - Transferência de Recursos do SUS ¿ Atenção de Média e Alta Complexidade Ambulatorial e Hospitalar,129833306.04,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.03.3.0,1.7.1.8.03.3.0 - Transferência de Recursos do SUS ¿ Vigilância em Saúde,7986659.01,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.03.4.0,1.7.1.8.03.4.0 - Transferência de Recursos do SUS ¿ Assistência Farmacêutica,1491541,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.05.0.0,1.7.1.8.05.0.0 Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE,4729383.12,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.05.1.0,1.7.1.8.05.1.0 Transferências do Salário-Educação,4679102.96,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.05.4.0,1.7.1.8.05.4.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE,50280.16,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.08.0.0,1.7.1.8.08.0.0 Transferências Advindas de Emendas Parlamentares Individuais,26838100,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.10.0.0,1.7.1.8.10.0.0 Transferências de Convênios da União e de Suas Entidades,8782976.75,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.7.1.8.10.0.0,1.7.1.8.10.0.0 Transferências de Convênios da União e de Suas Entidades,443.89,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.10.1.0,1.7.1.8.10.1.0 Transferências de Convênios da União para o Sistema Único de Saúde ¿ SUS,1454169.6,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.10.9.0,1.7.1.8.10.9.0 Outras Transferências de Convênios da União,7328807.15,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.7.1.8.10.9.0,1.7.1.8.10.9.0 Outras Transferências de Convênios da União,443.89,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.12.0.0,1.7.1.8.12.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS,9965119.92,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.99.0.0,1.7.1.8.99.0.0 Outras Transferências da União,16412688.32,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.2.0.00.0.0,1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades,358418531.86,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.2.0.00.0.0,1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades,64451529.63,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.7.2.0.00.0.0,1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades,4308.49,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.2.8.00.0.0,"1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios",358418531.86,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.2.8.00.0.0,"1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios",64451529.63,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.7.2.8.00.0.0,"1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios",4308.49,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.2.8.01.0.0,1.7.2.8.01.0.0 Participação na Receita dos Estados,324569906.19,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.2.8.01.0.0,1.7.2.8.01.0.0 Participação na Receita dos Estados,64451529.63,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.7.2.8.01.0.0,1.7.2.8.01.0.0 Participação na Receita dos Estados,4308.49,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.2.8.01.1.0,1.7.2.8.01.1.0 Cota-Parte do ICMS,249755489.44,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.2.8.01.1.0,1.7.2.8.01.1.0 Cota-Parte do ICMS,49951097.67,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.2.8.01.2.0,1.7.2.8.01.2.0 Cota-Parte do IPVA,74167590.5,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.2.8.01.2.0,1.7.2.8.01.2.0 Cota-Parte do IPVA,14468234.7,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.7.2.8.01.2.0,1.7.2.8.01.2.0 Cota-Parte do IPVA,4308.49,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.2.8.01.3.0,1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios,160986.43,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.2.8.01.3.0,1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios,32197.26,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.2.8.01.4.0,1.7.2.8.01.4.0 Cota-Parte da Contribuição de Intervenção no Domínio Econômico,485839.82,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.2.8.02.0.0,1.7.2.8.02.0.0 Transferência da Cota-parte da Compensação Financeira (25%),2741207.37,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.2.8.02.3.0,"1.7.2.8.02.3.0 Cota-parte Royalties ¿ Compensação Financeira pela Produção do Petróleo ¿ Lei nº 7.990/89, artigo 9º",2741207.37,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.2.8.03.0.0,1.7.2.8.03.0.0 Transferência de Recursos do Estado para Programas de Saúde ¿ Repasse Fundo a Fundo,31107418.3,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.4.0.00.0.0,1.7.4.0.00.0.0 - Transferências de Instituições Privadas,757374.24,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.4.8.00.0.0,"1.7.4.8.00.0.0 Transferências de Instituições Privadas - Específicas de Estados, DF e Municípios",757374.24,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.4.8.10.0.0,1.7.4.8.10.0.0 - Outras Transferência de Instituições Privadas para EST/DF/MUN - Não Especificadas Anteriormente,757374.24,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.5.0.00.0.0,1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas,120096789.87,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.5.8.00.0.0,"1.7.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios",120096789.87,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.5.8.01.0.0,1.7.5.8.01.0.0 Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB,120096789.87,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.7.0.00.0.0,1.7.7.0.00.0.0 - Transferências de Pessoas Físicas,774364.82,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.7.8.00.0.0,"1.7.7.8.00.0.0 - Transferências de Pessoas Físicas - Específicas de Estados, DF e Municípios",774364.82,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.7.8.01.0.0,1.7.7.8.01.0.0 - Transferências de Pessoas Físicas - Específicas de E/DF/M,774364.82,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.7.8.10.1.0,1.7.7.8.10.1.0 - Outras Transferência de Convênios do Exterior - Específicas de E/DF/M - Não Especificadas Anteriormente,774364.82,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.8.0.00.0.0,1.7.8.0.00.0.0 - Transferências Provenientes de Depósitos Não Identificados,1376.21,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.0.0.00.0.0,1.9.0.0.00.0.0 - Outras Receitas Correntes,26816582.45,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.9.0.0.00.0.0,1.9.0.0.00.0.0 - Outras Receitas Correntes,52455.75,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.1.0.00.0.0,"1.9.1.0.00.0.0 - Multas Administrativas, Contratuais e Judiciais",19525562.7,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.9.1.0.00.0.0,"1.9.1.0.00.0.0 - Multas Administrativas, Contratuais e Judiciais",8118.7,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.1.0.01.0.0,1.9.1.0.01.0.0 - Multas Previstas em Legislação Específica,19305489.86,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.9.1.0.01.0.0,1.9.1.0.01.0.0 - Multas Previstas em Legislação Específica,8118.7,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.1.0.04.0.0,1.9.1.0.04.0.0 - Multas Previstas na Legislação sobre Defesa dos Direitos Difusos,220072.84,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.2.0.00.0.0,"1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos",1242620.72,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.2.1.00.0.0,1.9.2.1.00.0.0 - Indenizações,8619.57,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.2.1.01.0.0,1.9.2.1.01.0.0 - Indenizações por Danos Causados ao Patrimônio Público,8619.57,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.2.2.00.0.0,1.9.2.2.00.0.0 - Restituições,1147997.63,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.2.2.01.0.0,1.9.2.2.01.0.0 - Restituição de Convênios,711.06,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.2.2.06.0.0,1.9.2.2.06.0.0 - Restituição de Despesas de Exercícios Anteriores,528647.01,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.2.2.99.0.0,1.9.2.2.99.0.0 - Outras Restituições,618639.56,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.2.8.00.0.0,"1.9.2.8.00.0.0 - Indenizações, Restituições e Ressarcimentos - Específicas para Estados/DF/Municípios",86003.52,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.2.8.02.0.0,1.9.2.8.02.0.0 - Restituições - Específicas para Estados/DF/Municípios,12691.86,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.2.8.02.9.0,1.9.2.8.02.9.0 - Outras Restituições - Específicas para Estados/DF/Municípios - Não Especificadas Anteriormente,12691.86,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.2.8.03.0.0,1.9.2.8.03.0.0 - Ressarcimentos - Específicas para Estados/DF/Municípios,73311.66,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.3.0.00.0.0,"1.9.3.0.00.0.0 - Bens, Direitos e Valores Incorporados ao Patrimônio Público",35124.27,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.3.0.05.0.0,1.9.3.0.05.0.0 - Receitas Reconhecidas por Força de Decisões Judiciais e de Tribunais Administrativos,35124.27,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.9.0.00.0.0,1.9.9.0.00.0.0 - Demais Receitas Correntes,6013274.76,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.9.9.0.00.0.0,1.9.9.0.00.0.0 - Demais Receitas Correntes,44337.05,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.9.0.03.0.0,1.9.9.0.03.0.0 - Compensações Financeiras entre o Regime Geral e os Regimes Próprios de Previdência dos Servidores,1357733.64,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.9.0.99.0.0,1.9.9.0.99.0.0 - Outras Receitas,4655541.12,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.9.9.0.99.0.0,1.9.9.0.99.0.0 - Outras Receitas,44337.05,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.9.0.99.1.0,1.9.9.0.99.1.0 - Outras Receitas - Primárias,4655541.12,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.9.9.0.99.1.0,1.9.9.0.99.1.0 - Outras Receitas - Primárias,44337.05,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.0.0.0.00.0.0,2.0.0.0.00.0.0 - Receitas de Capital,63838888.07,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.1.0.0.00.0.0,2.1.0.0.00.0.0 - Operações de Crédito,41294907.17,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.1.1.0.00.0.0,2.1.1.0.00.0.0 - Operações de Crédito - Mercado Interno,41294907.17,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.1.1.2.00.0.0,2.1.1.2.00.0.0 Operações de Crédito Contratuais - Mercado Interno,35442135.35,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.1.1.8.00.0.0,2.1.1.8.00.0.0 Operações de Crédito - Mercado Interno - Estados/DF/Municípios,5852771.82,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.1.1.8.01.0.0,2.1.1.8.01.0.0 - Operações de Crédito Internas de Estados/DF/Municípios,5852771.82,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.1.1.8.01.5.0,2.1.1.8.01.5.0 - Operações de Crédito Internas para Programas de Modernização da Administração Pública,5852771.82,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.2.0.0.00.0.0,2.2.0.0.00.0.0 - Alienação de Bens,457400,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.2.1.0.00.0.0,2.2.1.0.00.0.0 - Alienação de Bens Móveis,457400,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.2.1.3.00.0.0,2.2.1.3.00.0.0 Alienação de Bens Móveis e Semoventes,457400,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.4.0.0.00.0.0,2.4.0.0.00.0.0 - Transferências de Capital,22086580.9,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.4.1.0.00.0.0,2.4.1.0.00.0.0 - Transferências da União e de suas Entidades,21736580.9,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.4.1.8.00.0.0,"2.4.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios",21736580.9,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.4.1.8.04.0.0,2.4.1.8.04.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS - Bloco Investimentos na Rede de Serviços Públicos de Saúde,159660,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.4.1.8.04.1.0,2.4.1.8.04.1.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS destinados à Atenção Básica,159660,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.4.1.8.05.0.0,2.4.1.8.05.0.0 Transferências de Recursos Destinados a Programas de Educação,332260.26,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.4.1.8.10.0.0,2.4.1.8.10.0.0 Transferência de Convênios da União e de suas Entidades,21244660.64,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.4.1.8.10.9.0,2.4.1.8.10.9.0 - Outras Transferências de Convênios da União,21244660.64,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.4.4.0.00.0.0,2.4.4.0.00.0.0 - Transferências de Instituições Privadas,350000,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.4.4.8.00.0.0,"2.4.4.8.00.0.0 Transferências de Instituições Privadas - Específicas de Estados, DF e Municípios",350000,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.4.4.8.10.0.0,2.4.4.8.10.0.0 - Outras Transferências de Instituições Privadas,350000,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,ReceitasIntraOrcamentarias,RECEITAS (INTRA-ORÇAMENTÁRIAS) (II),231162037.65,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO7.0.0.0.00.0.0,7.0.0.0.00.0.0 - Receitas Correntes,231162037.65,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO7.2.0.0.00.0.0,7.2.0.0.00.0.0 - Contribuições,62768860.11,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO7.2.1.0.00.0.0,7.2.1.0.00.0.0 - Contribuições Sociais,62768860.11,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO7.2.1.8.00.0.0,"7.2.1.8.00.0.0 Contribuições Sociais Específicas de Estados, DF e 
+ Municípios",62768860.11,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO7.2.1.8.02.0.0,7.2.1.8.02.0.0 - CPSSS - Parcelamentos - Específico de EST/DF/MUN,2096452.09,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO7.2.1.8.03.0.0,7.2.1.8.03.0.0 - CPSSS Patronal - Servidor Civil - Específico de EST/DF/MUN,60672408.02,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO7.2.1.8.03.1.0,7.2.1.8.03.1.0 - CPSSS Patronal - Servidor Civil Ativo,55436787.47,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO7.2.1.8.03.2.0,7.2.1.8.03.2.0 - CPSSS Patronal - Servidor Civil Inativo,32116.56,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO7.2.1.8.03.3.0,7.2.1.8.03.3.0 - CPSSS Patronal - Servidor Civil - Pensionistas,5203503.99,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO7.9.0.0.00.0.0,7.9.0.0.00.0.0 - Outras Receitas Correntes,168393177.54,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO7.9.9.0.00.0.0,7.9.9.0.00.0.0 - Demais Receitas Correntes,168393177.54,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO7.9.9.0.01.0.0,7.9.9.0.01.0.0 - Aportes Periódicos para Amortização de Déficit Atuarial do RPPS,168393177.54,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,TotalReceitas,TOTAL DAS RECEITAS (III) = (I + II),2266523931.4,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,TotalReceitas,TOTAL DAS RECEITAS (III) = (I + II),127231342.8,648939
+2019,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,TotalReceitas,TOTAL DAS RECEITAS (III) = (I + II),1056041.1,648939
