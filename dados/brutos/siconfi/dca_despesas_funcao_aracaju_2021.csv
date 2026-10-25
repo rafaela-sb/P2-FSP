@@ -1,0 +1,314 @@
+exercicio,instituicao,cod_ibge,uf,anexo,rotulo,coluna,cod_conta,conta,valor,populacao
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,Despesas Exceto Intraorçamentárias,1966128176.05,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,01 - Legislativa,58526766.19,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,01.031 - Ação Legislativa,58526766.19,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,04 - Administração,274897648.51,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,04.121 - Planejamento e Orçamento,4743950.91,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,04.122 - Administração Geral,257537594,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,04.124 - Controle Interno,10112,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,04.126 - Tecnologia da Informação,1639631.3,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,04.128 - Formação de Recursos Humanos,17590,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,04.131 - Comunicação Social,10948770.3,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,06 - Segurança Pública,1771160.35,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,06.181 - Policiamento,1530156.54,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,06.182 - Defesa Civil,127532.13,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,FU06 - Demais Subfunções,113471.68,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,08 - Assistência Social,65019931.37,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,08.243 - Assistência à Criança e ao Adolescente,2848468.97,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,08.244 - Assistência Comunitária,27898577.69,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,08.122 - Administração Geral,34272884.71,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,09 - Previdência Social,328065546.1,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,09.272 - Previdência do Regime Estatutário,322259846.48,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,09.122 - Administração Geral,5805699.62,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,10 - Saúde,545727275.09,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,10.301 - Atenção Básica,144359092.37,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,10.302 - Assistência Hospitalar e Ambulatorial,330236613.12,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,10.303 - Suporte Profilático e Terapêutico,8108216.32,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,10.304 - Vigilância Sanitária,17579675.47,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,10.122 - Administração Geral,44432386.28,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,FU10 - Demais Subfunções,1011291.53,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,11 - Trabalho,5282828.13,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,11.333 - Empregabilidade,49397.12,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,11.122 - Administração Geral,5233431.01,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,12 - Educação,245848240.13,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,12.361 - Ensino Fundamental,139809014.53,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,12.365 - Educação Infantil,55927833.21,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,12.366 - Educação de Jovens e Adultos,5216654.79,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,12.367 - Educação Especial,6171297.59,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,12.368 - Educação Básica,14302251.75,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,12.122 - Administração Geral,24353688.26,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,FU12 - Demais Subfunções,67500,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,13 - Cultura,686568.65,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,13.392 - Difusão Cultural,667848.65,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,FU13 - Demais Subfunções,18720,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,14 - Direitos da Cidadania,921699.74,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,FU14 - Demais Subfunções,921699.74,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,15 - Urbanismo,95647620.4,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,15.451 - Infraestrutura Urbana,89603515.36,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,15.452 - Serviços Urbanos,6044105.04,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,16 - Habitação,2603826.48,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,16.482 - Habitação Urbana,2603826.48,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,17 - Saneamento,10126463.2,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,17.512 - Saneamento Básico Urbano,10126463.2,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,18 - Gestão Ambiental,164986032.82,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,18.541 - Preservação e Conservação Ambiental,452441.31,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,18.542 - Controle Ambiental,162110542.64,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,18.543 - Recuperação de Áreas Degradadas,2423048.87,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,19 - Ciência e Tecnologia,300000,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,FU19 - Demais Subfunções,300000,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,23 - Comércio e Serviços,379503.17,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,23.695 - Turismo,379503.17,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,25 - Energia,25392415.32,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,25.752 - Energia Elétrica,25392415.32,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,26 - Transporte,38336319.43,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,26.122 - Administração Geral,36150701.77,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,FU26 - Demais Subfunções,2185617.66,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,27 - Desporto e Lazer,4181811.95,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,27.811 - Desporto de Rendimento,58493.12,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,27.812 - Desporto Comunitário,702351.48,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,27.122 - Administração Geral,3420967.35,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,28 - Encargos Especiais,97426519.02,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,28.843 - Serviço da Dívida Interna,27316172.99,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,28.844 - Serviço da Dívida Externa,13160295.01,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,28.846 - Outros Encargos Especiais,56950051.02,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,Despesas Intraorçamentárias,314772161.72,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,Despesas Exceto Intraorçamentárias,1940543539.26,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,01 - Legislativa,58406926.51,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,01.031 - Ação Legislativa,58406926.51,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,04 - Administração,271943426.75,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,04.121 - Planejamento e Orçamento,4265258.39,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,04.122 - Administração Geral,255166062.76,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,04.124 - Controle Interno,10112,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,04.126 - Tecnologia da Informação,1544931.3,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,04.128 - Formação de Recursos Humanos,17590,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,04.131 - Comunicação Social,10939472.3,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,06 - Segurança Pública,1683632.99,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,06.181 - Policiamento,1460509.03,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,06.182 - Defesa Civil,118206.65,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,FU06 - Demais Subfunções,104917.31,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,08 - Assistência Social,62897949.9,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,08.243 - Assistência à Criança e ao Adolescente,2602017.45,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,08.244 - Assistência Comunitária,26131049.34,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,08.122 - Administração Geral,34164883.11,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,09 - Previdência Social,327648869.56,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,09.272 - Previdência do Regime Estatutário,322259846.48,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,09.122 - Administração Geral,5389023.08,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,10 - Saúde,541656667.9,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,10.301 - Atenção Básica,142879598.08,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,10.302 - Assistência Hospitalar e Ambulatorial,329650785.05,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,10.303 - Suporte Profilático e Terapêutico,8047038.52,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,10.304 - Vigilância Sanitária,17541220.21,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,10.122 - Administração Geral,42557738.08,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,FU10 - Demais Subfunções,980287.96,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,11 - Trabalho,5160695.76,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,11.333 - Empregabilidade,49397.12,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,11.122 - Administração Geral,5111298.64,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,12 - Educação,232207750.6,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,12.361 - Ensino Fundamental,135699553.48,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,12.365 - Educação Infantil,53151799.43,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,12.366 - Educação de Jovens e Adultos,5216654.79,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,12.367 - Educação Especial,6171297.59,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,12.368 - Educação Básica,7573632.05,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,12.122 - Administração Geral,24350313.26,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,FU12 - Demais Subfunções,44500,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,13 - Cultura,686568.65,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,13.392 - Difusão Cultural,667848.65,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,FU13 - Demais Subfunções,18720,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,14 - Direitos da Cidadania,756722.38,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,FU14 - Demais Subfunções,756722.38,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,15 - Urbanismo,95415872.36,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,15.451 - Infraestrutura Urbana,89603515.36,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,15.452 - Serviços Urbanos,5812357,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,16 - Habitação,2603826.48,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,16.482 - Habitação Urbana,2603826.48,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,17 - Saneamento,10126463.2,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,17.512 - Saneamento Básico Urbano,10126463.2,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,18 - Gestão Ambiental,164671444.42,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,18.541 - Preservação e Conservação Ambiental,308441.31,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,18.542 - Controle Ambiental,162110542.64,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,18.543 - Recuperação de Áreas Degradadas,2252460.47,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,19 - Ciência e Tecnologia,275000,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,FU19 - Demais Subfunções,275000,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,23 - Comércio e Serviços,371603.17,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,23.695 - Turismo,371603.17,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,25 - Energia,25392415.32,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,25.752 - Energia Elétrica,25392415.32,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,26 - Transporte,37120171.67,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,26.122 - Administração Geral,34949554.01,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,FU26 - Demais Subfunções,2170617.66,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,27 - Desporto e Lazer,4091012.62,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,27.811 - Desporto de Rendimento,58493.12,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,27.812 - Desporto Comunitário,671455,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,27.122 - Administração Geral,3361064.5,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,28 - Encargos Especiais,97426519.02,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,28.843 - Serviço da Dívida Interna,27316172.99,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,28.844 - Serviço da Dívida Externa,13160295.01,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,28.846 - Outros Encargos Especiais,56950051.02,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,Despesas Intraorçamentárias,314772161.72,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,Despesas Exceto Intraorçamentárias,1919867073.32,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,01 - Legislativa,57873565.79,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,01.031 - Ação Legislativa,57873565.79,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,04 - Administração,269879198.39,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,04.121 - Planejamento e Orçamento,4209869.84,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,04.122 - Administração Geral,254224055.71,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,04.124 - Controle Interno,10112,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,04.126 - Tecnologia da Informação,1544931.3,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,04.128 - Formação de Recursos Humanos,8190,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,04.131 - Comunicação Social,9882039.54,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,06 - Segurança Pública,1622510.63,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,06.181 - Policiamento,1399386.67,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,06.182 - Defesa Civil,118206.65,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,FU06 - Demais Subfunções,104917.31,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,08 - Assistência Social,59621696.95,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,08.243 - Assistência à Criança e ao Adolescente,2030129.77,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,08.244 - Assistência Comunitária,23730545.84,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,08.122 - Administração Geral,33861021.34,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,09 - Previdência Social,327648869.56,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,09.272 - Previdência do Regime Estatutário,322259846.48,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,09.122 - Administração Geral,5389023.08,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,10 - Saúde,534068527.58,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,10.301 - Atenção Básica,141550993,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,10.302 - Assistência Hospitalar e Ambulatorial,324767273.54,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,10.303 - Suporte Profilático e Terapêutico,6891434.62,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,10.304 - Vigilância Sanitária,17507511.57,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,10.122 - Administração Geral,42504156.61,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,FU10 - Demais Subfunções,847158.24,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,11 - Trabalho,4927725.54,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,11.333 - Empregabilidade,18359.4,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,11.122 - Administração Geral,4909366.14,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,12 - Educação,232127750.6,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,12.361 - Ensino Fundamental,135649553.48,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,12.365 - Educação Infantil,53121799.43,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,12.366 - Educação de Jovens e Adultos,5216654.79,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,12.367 - Educação Especial,6171297.59,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,12.368 - Educação Básica,7573632.05,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,12.122 - Administração Geral,24350313.26,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,FU12 - Demais Subfunções,44500,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,13 - Cultura,686018.65,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,13.392 - Difusão Cultural,667298.65,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,FU13 - Demais Subfunções,18720,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,14 - Direitos da Cidadania,735138.14,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,FU14 - Demais Subfunções,735138.14,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,15 - Urbanismo,91552094.26,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,15.451 - Infraestrutura Urbana,85739737.26,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,15.452 - Serviços Urbanos,5812357,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,16 - Habitação,2603826.48,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,16.482 - Habitação Urbana,2603826.48,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,17 - Saneamento,10126463.2,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,17.512 - Saneamento Básico Urbano,10126463.2,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,18 - Gestão Ambiental,162249816.51,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,18.541 - Preservação e Conservação Ambiental,303107.98,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,18.542 - Controle Ambiental,159694248.06,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,18.543 - Recuperação de Áreas Degradadas,2252460.47,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,19 - Ciência e Tecnologia,275000,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,FU19 - Demais Subfunções,275000,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,23 - Comércio e Serviços,346410.17,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,23.695 - Turismo,346410.17,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,25 - Energia,25392415.32,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,25.752 - Energia Elétrica,25392415.32,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,26 - Transporte,36679869.21,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,26.122 - Administração Geral,34509251.55,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,FU26 - Demais Subfunções,2170617.66,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,27 - Desporto e Lazer,4023657.32,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,27.811 - Desporto de Rendimento,58493.12,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,27.812 - Desporto Comunitário,612291.08,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,27.122 - Administração Geral,3352873.12,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,28 - Encargos Especiais,97426519.02,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,28.843 - Serviço da Dívida Interna,27316172.99,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,28.844 - Serviço da Dívida Externa,13160295.01,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,28.846 - Outros Encargos Especiais,56950051.02,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,Despesas Intraorçamentárias,311312385.4,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,Despesas Exceto Intraorçamentárias,25584636.79,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,01 - Legislativa,119839.68,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,01.031 - Ação Legislativa,119839.68,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,04 - Administração,2954221.76,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,04.121 - Planejamento e Orçamento,478692.52,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,04.122 - Administração Geral,2371531.24,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,04.126 - Tecnologia da Informação,94700,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,04.131 - Comunicação Social,9298,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,06 - Segurança Pública,87527.36,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,06.181 - Policiamento,69647.51,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,06.182 - Defesa Civil,9325.48,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,FU06 - Demais Subfunções,8554.37,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,08 - Assistência Social,2121981.47,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,08.243 - Assistência à Criança e ao Adolescente,246451.52,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,08.244 - Assistência Comunitária,1767528.35,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,08.122 - Administração Geral,108001.6,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,09 - Previdência Social,416676.54,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,09.122 - Administração Geral,416676.54,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,10 - Saúde,4070607.19,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,10.301 - Atenção Básica,1479494.29,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,10.302 - Assistência Hospitalar e Ambulatorial,585828.07,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,10.303 - Suporte Profilático e Terapêutico,61177.8,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,10.304 - Vigilância Sanitária,38455.26,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,10.122 - Administração Geral,1874648.2,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,FU10 - Demais Subfunções,31003.57,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,11 - Trabalho,122132.37,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,11.122 - Administração Geral,122132.37,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,12 - Educação,13640489.53,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,12.361 - Ensino Fundamental,4109461.05,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,12.365 - Educação Infantil,2776033.78,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,12.368 - Educação Básica,6728619.7,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,12.122 - Administração Geral,3375,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,FU12 - Demais Subfunções,23000,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,14 - Direitos da Cidadania,164977.36,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,FU14 - Demais Subfunções,164977.36,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,15 - Urbanismo,231748.04,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,15.452 - Serviços Urbanos,231748.04,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,18 - Gestão Ambiental,314588.4,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,18.541 - Preservação e Conservação Ambiental,144000,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,18.543 - Recuperação de Áreas Degradadas,170588.4,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,19 - Ciência e Tecnologia,25000,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,FU19 - Demais Subfunções,25000,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,23 - Comércio e Serviços,7900,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,23.695 - Turismo,7900,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,26 - Transporte,1216147.76,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,26.122 - Administração Geral,1201147.76,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,FU26 - Demais Subfunções,15000,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,27 - Desporto e Lazer,90799.33,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,27.812 - Desporto Comunitário,30896.48,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,27.122 - Administração Geral,59902.85,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,Despesas Exceto Intraorçamentárias,20676465.94,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,01 - Legislativa,533360.72,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,01.031 - Ação Legislativa,533360.72,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,04 - Administração,2064228.36,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,04.121 - Planejamento e Orçamento,55388.55,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,04.122 - Administração Geral,942007.05,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,04.128 - Formação de Recursos Humanos,9400,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,04.131 - Comunicação Social,1057432.76,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,06 - Segurança Pública,61122.36,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,06.181 - Policiamento,61122.36,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,08 - Assistência Social,3276252.95,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,08.243 - Assistência à Criança e ao Adolescente,571887.68,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,08.244 - Assistência Comunitária,2400503.5,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,08.122 - Administração Geral,303861.77,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,10 - Saúde,7588140.32,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,10.301 - Atenção Básica,1328605.08,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,10.302 - Assistência Hospitalar e Ambulatorial,4883511.51,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,10.303 - Suporte Profilático e Terapêutico,1155603.9,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,10.304 - Vigilância Sanitária,33708.64,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,10.122 - Administração Geral,53581.47,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,FU10 - Demais Subfunções,133129.72,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,11 - Trabalho,232970.22,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,11.333 - Empregabilidade,31037.72,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,11.122 - Administração Geral,201932.5,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,12 - Educação,80000,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,12.361 - Ensino Fundamental,50000,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,12.365 - Educação Infantil,30000,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,13 - Cultura,550,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,13.392 - Difusão Cultural,550,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,14 - Direitos da Cidadania,21584.24,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,FU14 - Demais Subfunções,21584.24,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,15 - Urbanismo,3863778.1,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,15.451 - Infraestrutura Urbana,3863778.1,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,18 - Gestão Ambiental,2421627.91,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,18.541 - Preservação e Conservação Ambiental,5333.33,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,18.542 - Controle Ambiental,2416294.58,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,23 - Comércio e Serviços,25193,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,23.695 - Turismo,25193,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,26 - Transporte,440302.46,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,26.122 - Administração Geral,440302.46,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,27 - Desporto e Lazer,67355.3,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,27.812 - Desporto Comunitário,59163.92,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,27.122 - Administração Geral,8191.38,664908
+2021,Prefeitura Municipal de Aracaju - SE,2800308,SE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,Despesas Intraorçamentárias,3459776.32,664908

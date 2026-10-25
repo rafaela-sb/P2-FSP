@@ -1,0 +1,465 @@
+exercicio,instituicao,cod_ibge,uf,anexo,rotulo,coluna,cod_conta,conta,valor,populacao
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,Despesas Exceto Intraorçamentárias,11478468619.5,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,01 - Legislativa,236578768.51,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,01.031 - Ação Legislativa,236578768.51,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,02 - Judiciária,54522585.86,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,02.122 - Administração Geral,53102658.35,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,FU02 - Demais Subfunções,1419927.51,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,03 - Essencial à Justiça,431899.69,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,FU03 - Demais Subfunções,431899.69,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,04 - Administração,1007808743.56,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,04.121 - Planejamento e Orçamento,632002.57,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,04.122 - Administração Geral,947932400.06,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,04.124 - Controle Interno,2761999.94,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,04.125 - Normatização e Fiscalização,875249.9,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,04.126 - Tecnologia da Informação,41968079.08,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,04.128 - Formação de Recursos Humanos,1954370.4,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,04.129 - Administração de Receitas,602389.69,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,FU04 - Demais Subfunções,11082251.92,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,06 - Segurança Pública,295397512.09,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,06.181 - Policiamento,129347763.36,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,06.182 - Defesa Civil,905118,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,06.122 - Administração Geral,165144630.73,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,08 - Assistência Social,181388502.49,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,08.243 - Assistência à Criança e ao Adolescente,94974462.14,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,08.244 - Assistência Comunitária,56704150.01,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,08.122 - Administração Geral,22439734.32,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,FU08 - Demais Subfunções,7270156.02,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,09 - Previdência Social,1381004122.16,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,09.272 - Previdência do Regime Estatutário,1354606162.52,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,09.122 - Administração Geral,26397959.64,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,10 - Saúde,3186046466.91,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,10.301 - Atenção Básica,652497012.86,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,10.302 - Assistência Hospitalar e Ambulatorial,1775213566.2,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,10.303 - Suporte Profilático e Terapêutico,56244884.35,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,10.304 - Vigilância Sanitária,9899807.17,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,10.305 - Vigilância Epidemiológica,99623956.95,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,10.122 - Administração Geral,566437409.83,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,FU10 - Demais Subfunções,26129829.55,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,11 - Trabalho,27278813.55,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,11.333 - Empregabilidade,26272878.5,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,11.334 - Fomento ao Trabalho,1005935.05,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,12 - Educação,2605677127.9,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,12.361 - Ensino Fundamental,1842529742.77,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,12.362 - Ensino Médio,255179,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,12.363 - Ensino Profissional,50798.35,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,12.365 - Educação Infantil,459467109.01,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,12.366 - Educação de Jovens e Adultos,52466901.67,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,12.367 - Educação Especial,389798.45,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,12.368 - Educação Básica,116605974.25,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,12.122 - Administração Geral,81067405.63,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,FU12 - Demais Subfunções,52844218.77,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,13 - Cultura,99506764.79,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,"13.391 - Patrimônio Histórico, Artístico e Arqueológico",1045837.69,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,13.392 - Difusão Cultural,37873429.08,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,13.122 - Administração Geral,57516759.18,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,FU13 - Demais Subfunções,3070738.84,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,14 - Direitos da Cidadania,31545312.09,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,"14.422 - Direitos Individuais, Coletivos e Difusos",22001045.03,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,14.122 - Administração Geral,327925.49,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,FU14 - Demais Subfunções,9216341.57,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,15 - Urbanismo,1190722473.17,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,15.451 - Infraestrutura Urbana,580635048.2,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,15.452 - Serviços Urbanos,424172135.5,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,15.453 - Transportes Coletivos Urbanos,802414.55,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,15.122 - Administração Geral,18835576.81,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,FU15 - Demais Subfunções,166277298.11,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,16 - Habitação,35891773.75,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,16.482 - Habitação Urbana,31292305.58,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,16.122 - Administração Geral,4397108.17,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,FU16 - Demais Subfunções,202360,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,17 - Saneamento,71428370.75,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,17.512 - Saneamento Básico Urbano,71428370.75,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,18 - Gestão Ambiental,88821743.53,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,18.541 - Preservação e Conservação Ambiental,29980064.05,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,18.542 - Controle Ambiental,1300001.89,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,18.122 - Administração Geral,54625459.73,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,FU18 - Demais Subfunções,2916217.86,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,19 - Ciência e Tecnologia,8772900.02,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,19.573 - Difusão do Conhecimento Científico e Tecnológico,1030000,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,19.122 - Administração Geral,5270072.41,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,FU19 - Demais Subfunções,2472827.61,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,23 - Comércio e Serviços,4969866.17,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,23.695 - Turismo,935990.49,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,23.122 - Administração Geral,3972039.15,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,FU23 - Demais Subfunções,61836.53,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,24 - Comunicações,13405827.43,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,24.722 - Telecomunicações,2003227.43,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,FU24 - Demais Subfunções,11402600,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,25 - Energia,104164414.06,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,25.752 - Energia Elétrica,104164414.06,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,26 - Transporte,156331859.7,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,26.122 - Administração Geral,51992714.3,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,FU26 - Demais Subfunções,104339145.4,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,27 - Desporto e Lazer,20374287.98,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,27.811 - Desporto de Rendimento,6379400,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,27.812 - Desporto Comunitário,11313147.57,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,27.813 - Lazer,1870730.7,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,FU27 - Demais Subfunções,811009.71,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,28 - Encargos Especiais,676398483.34,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,28.843 - Serviço da Dívida Interna,198427813.34,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,28.844 - Serviço da Dívida Externa,292584202.2,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,28.846 - Outros Encargos Especiais,185386467.8,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,Despesas Intraorçamentárias,809863277.92,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,Despesas Exceto Intraorçamentárias,11241771759.35,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,01 - Legislativa,231802111.07,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,01.031 - Ação Legislativa,231802111.07,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,02 - Judiciária,54476910.83,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,02.122 - Administração Geral,53056983.32,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,FU02 - Demais Subfunções,1419927.51,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,03 - Essencial à Justiça,428299.69,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,FU03 - Demais Subfunções,428299.69,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,04 - Administração,937413955.8,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,04.121 - Planejamento e Orçamento,631502.57,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,04.122 - Administração Geral,882539497.3,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,04.124 - Controle Interno,2761999.94,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,04.125 - Normatização e Fiscalização,875249.9,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,04.126 - Tecnologia da Informação,37621881.1,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,04.128 - Formação de Recursos Humanos,1951870.4,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,04.129 - Administração de Receitas,591407.28,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,FU04 - Demais Subfunções,10440547.31,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,06 - Segurança Pública,293565818.84,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,06.181 - Policiamento,127543247.28,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,06.182 - Defesa Civil,905118,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,06.122 - Administração Geral,165117453.56,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,08 - Assistência Social,175277355.18,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,08.243 - Assistência à Criança e ao Adolescente,93052144.53,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,08.244 - Assistência Comunitária,53713303.78,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,08.122 - Administração Geral,21735412.98,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,FU08 - Demais Subfunções,6776493.89,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,09 - Previdência Social,1380323641.21,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,09.272 - Previdência do Regime Estatutário,1354381481.51,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,09.122 - Administração Geral,25942159.7,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,10 - Saúde,3132685718.89,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,10.301 - Atenção Básica,637069707.57,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,10.302 - Assistência Hospitalar e Ambulatorial,1742773749.69,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,10.303 - Suporte Profilático e Terapêutico,56219378.8,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,10.304 - Vigilância Sanitária,9111009.16,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,10.305 - Vigilância Epidemiológica,97655887.15,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,10.122 - Administração Geral,565143523.08,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,FU10 - Demais Subfunções,24712463.44,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,11 - Trabalho,23207731.24,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,11.333 - Empregabilidade,22848822.19,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,11.334 - Fomento ao Trabalho,358909.05,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,12 - Educação,2600768542.07,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,12.361 - Ensino Fundamental,1841042933.36,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,12.362 - Ensino Médio,255179,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,12.363 - Ensino Profissional,50798.35,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,12.365 - Educação Infantil,458777408.71,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,12.366 - Educação de Jovens e Adultos,52466901.67,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,12.367 - Educação Especial,389798.45,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,12.368 - Educação Básica,115566330.76,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,12.122 - Administração Geral,81024277.02,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,FU12 - Demais Subfunções,51194914.75,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,13 - Cultura,90340811.36,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,"13.391 - Patrimônio Histórico, Artístico e Arqueológico",833198.69,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,13.392 - Difusão Cultural,36378928.54,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,13.122 - Administração Geral,50408515.29,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,FU13 - Demais Subfunções,2720168.84,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,14 - Direitos da Cidadania,31334194.3,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,"14.422 - Direitos Individuais, Coletivos e Difusos",21892658.16,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,14.122 - Administração Geral,327925.49,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,FU14 - Demais Subfunções,9113610.65,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,15 - Urbanismo,1120315883.82,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,15.451 - Infraestrutura Urbana,539356407.84,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,15.452 - Serviços Urbanos,423186534.17,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,15.453 - Transportes Coletivos Urbanos,721346.09,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,15.122 - Administração Geral,18689267.7,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,FU15 - Demais Subfunções,138362328.02,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,16 - Habitação,35650093.35,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,16.482 - Habitação Urbana,31268358.28,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,16.122 - Administração Geral,4256155.07,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,FU16 - Demais Subfunções,125580,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,17 - Saneamento,67509994.32,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,17.512 - Saneamento Básico Urbano,67509994.32,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,18 - Gestão Ambiental,86122281.19,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,18.541 - Preservação e Conservação Ambiental,27907920.09,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,18.542 - Controle Ambiental,1067711.38,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,18.122 - Administração Geral,54480431.86,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,FU18 - Demais Subfunções,2666217.86,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,19 - Ciência e Tecnologia,8036466.67,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,19.573 - Difusão do Conhecimento Científico e Tecnológico,1030000,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,19.122 - Administração Geral,5126650.66,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,FU19 - Demais Subfunções,1879816.01,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,23 - Comércio e Serviços,4968826.17,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,23.695 - Turismo,935990.49,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,23.122 - Administração Geral,3970999.15,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,FU23 - Demais Subfunções,61836.53,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,24 - Comunicações,13404518.98,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,24.722 - Telecomunicações,2001918.98,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,FU24 - Demais Subfunções,11402600,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,25 - Energia,104124839.33,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,25.752 - Energia Elétrica,104124839.33,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,26 - Transporte,153788832.91,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,26.122 - Administração Geral,49749513.15,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,FU26 - Demais Subfunções,104039319.76,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,27 - Desporto e Lazer,19836512.16,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,27.811 - Desporto de Rendimento,6379400,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,27.812 - Desporto Comunitário,10920054.07,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,27.813 - Lazer,1726048.38,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,FU27 - Demais Subfunções,811009.71,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,28 - Encargos Especiais,676388419.97,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,28.843 - Serviço da Dívida Interna,198427813.34,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,28.844 - Serviço da Dívida Externa,292584202.2,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,28.846 - Outros Encargos Especiais,185376404.43,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,Despesas Intraorçamentárias,809838132.88,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,Despesas Exceto Intraorçamentárias,11115241142.4,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,01 - Legislativa,231793664.66,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,01.031 - Ação Legislativa,231793664.66,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,02 - Judiciária,52754884.61,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,02.122 - Administração Geral,52733767.3,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,FU02 - Demais Subfunções,21117.31,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,03 - Essencial à Justiça,420259.69,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,FU03 - Demais Subfunções,420259.69,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,04 - Administração,917239286.41,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,04.121 - Planejamento e Orçamento,631502.57,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,04.122 - Administração Geral,876141623.79,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,04.124 - Controle Interno,2761999.94,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,04.125 - Normatização e Fiscalização,875249.9,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,04.126 - Tecnologia da Informação,23915678.2,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,04.128 - Formação de Recursos Humanos,1910452.4,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,04.129 - Administração de Receitas,591407.28,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,FU04 - Demais Subfunções,10411372.33,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,06 - Segurança Pública,289461626.92,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,06.181 - Policiamento,123741120.49,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,06.182 - Defesa Civil,831898,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,06.122 - Administração Geral,164888608.43,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,08 - Assistência Social,171218182.26,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,08.243 - Assistência à Criança e ao Adolescente,91095665.7,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,08.244 - Assistência Comunitária,52604162,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,08.122 - Administração Geral,21199566.82,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,FU08 - Demais Subfunções,6318787.74,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,09 - Previdência Social,1380295029.73,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,09.272 - Previdência do Regime Estatutário,1354381481.51,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,09.122 - Administração Geral,25913548.22,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,10 - Saúde,3094707850.91,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,10.301 - Atenção Básica,634311470.62,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,10.302 - Assistência Hospitalar e Ambulatorial,1716058896.19,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,10.303 - Suporte Profilático e Terapêutico,56219378.8,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,10.304 - Vigilância Sanitária,9091351.77,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,10.305 - Vigilância Epidemiológica,97563008.01,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,10.122 - Administração Geral,559220449.56,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,FU10 - Demais Subfunções,22243295.96,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,11 - Trabalho,23162529.58,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,11.333 - Empregabilidade,22803620.53,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,11.334 - Fomento ao Trabalho,358909.05,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,12 - Educação,2564605821.96,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,12.361 - Ensino Fundamental,1820078430.7,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,12.362 - Ensino Médio,255179,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,12.363 - Ensino Profissional,50054.35,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,12.365 - Educação Infantil,452441035.16,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,12.366 - Educação de Jovens e Adultos,52466901.67,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,12.367 - Educação Especial,389798.45,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,12.368 - Educação Básica,106994897.35,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,12.122 - Administração Geral,80734610.53,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,FU12 - Demais Subfunções,51194914.75,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,13 - Cultura,82449674.79,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,"13.391 - Patrimônio Histórico, Artístico e Arqueológico",785096.23,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,13.392 - Difusão Cultural,33372005.44,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,13.122 - Administração Geral,46509216.9,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,FU13 - Demais Subfunções,1783356.22,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,14 - Direitos da Cidadania,30641773.45,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,"14.422 - Direitos Individuais, Coletivos e Difusos",21281875.27,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,14.122 - Administração Geral,327925.49,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,FU14 - Demais Subfunções,9031972.69,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,15 - Urbanismo,1109779138.84,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,15.451 - Infraestrutura Urbana,530090225.64,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,15.452 - Serviços Urbanos,422104647.09,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,15.453 - Transportes Coletivos Urbanos,697318.22,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,15.122 - Administração Geral,18524619.87,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,FU15 - Demais Subfunções,138362328.02,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,16 - Habitação,35280501.2,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,16.482 - Habitação Urbana,30960474.29,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,16.122 - Administração Geral,4199726.91,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,FU16 - Demais Subfunções,120300,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,17 - Saneamento,67509994.32,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,17.512 - Saneamento Básico Urbano,67509994.32,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,18 - Gestão Ambiental,85630963.75,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,18.541 - Preservação e Conservação Ambiental,27541485.75,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,18.542 - Controle Ambiental,1067711.38,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,18.122 - Administração Geral,54355548.76,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,FU18 - Demais Subfunções,2666217.86,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,19 - Ciência e Tecnologia,7405413.79,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,19.573 - Difusão do Conhecimento Científico e Tecnológico,1030000,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,19.122 - Administração Geral,5070649.34,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,FU19 - Demais Subfunções,1304764.45,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,23 - Comércio e Serviços,4903859.29,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,23.695 - Turismo,935990.49,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,23.122 - Administração Geral,3912022.51,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,FU23 - Demais Subfunções,55846.29,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,24 - Comunicações,13404518.98,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,24.722 - Telecomunicações,2001918.98,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,FU24 - Demais Subfunções,11402600,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,25 - Energia,104124839.33,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,25.752 - Energia Elétrica,104124839.33,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,26 - Transporte,153059089.01,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,26.122 - Administração Geral,49019769.25,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,FU26 - Demais Subfunções,104039319.76,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,27 - Desporto e Lazer,19207376.8,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,27.811 - Desporto de Rendimento,6379400,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,27.812 - Desporto Comunitário,10443542.07,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,27.813 - Lazer,1689048.38,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,FU27 - Demais Subfunções,695386.35,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,28 - Encargos Especiais,676184862.12,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,28.843 - Serviço da Dívida Interna,198427813.34,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,28.844 - Serviço da Dívida Externa,292584202.2,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,28.846 - Outros Encargos Especiais,185172846.58,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,Despesas Intraorçamentárias,809838132.88,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,Despesas Exceto Intraorçamentárias,236696860.15,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,01 - Legislativa,4776657.44,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,01.031 - Ação Legislativa,4776657.44,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,02 - Judiciária,45675.03,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,02.122 - Administração Geral,45675.03,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,03 - Essencial à Justiça,3600,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,FU03 - Demais Subfunções,3600,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,04 - Administração,70394787.76,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,04.121 - Planejamento e Orçamento,500,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,04.122 - Administração Geral,65392902.76,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,04.126 - Tecnologia da Informação,4346197.98,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,04.128 - Formação de Recursos Humanos,2500,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,04.129 - Administração de Receitas,10982.41,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,FU04 - Demais Subfunções,641704.61,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,06 - Segurança Pública,1831693.25,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,06.181 - Policiamento,1804516.08,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,06.122 - Administração Geral,27177.17,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,08 - Assistência Social,6111147.31,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,08.243 - Assistência à Criança e ao Adolescente,1922317.61,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,08.244 - Assistência Comunitária,2990846.23,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,08.122 - Administração Geral,704321.34,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,FU08 - Demais Subfunções,493662.13,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,09 - Previdência Social,680480.95,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,09.272 - Previdência do Regime Estatutário,224681.01,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,09.122 - Administração Geral,455799.94,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,10 - Saúde,53360748.02,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,10.301 - Atenção Básica,15427305.29,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,10.302 - Assistência Hospitalar e Ambulatorial,32439816.51,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,10.303 - Suporte Profilático e Terapêutico,25505.55,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,10.304 - Vigilância Sanitária,788798.01,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,10.305 - Vigilância Epidemiológica,1968069.8,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,10.122 - Administração Geral,1293886.75,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,FU10 - Demais Subfunções,1417366.11,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,11 - Trabalho,4071082.31,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,11.333 - Empregabilidade,3424056.31,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,11.334 - Fomento ao Trabalho,647026,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,12 - Educação,4908585.83,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,12.361 - Ensino Fundamental,1486809.41,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,12.365 - Educação Infantil,689700.3,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,12.368 - Educação Básica,1039643.49,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,12.122 - Administração Geral,43128.61,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,FU12 - Demais Subfunções,1649304.02,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,13 - Cultura,9165953.43,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,"13.391 - Patrimônio Histórico, Artístico e Arqueológico",212639,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,13.392 - Difusão Cultural,1494500.54,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,13.122 - Administração Geral,7108243.89,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,FU13 - Demais Subfunções,350570,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,14 - Direitos da Cidadania,211117.79,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,"14.422 - Direitos Individuais, Coletivos e Difusos",108386.87,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,FU14 - Demais Subfunções,102730.92,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,15 - Urbanismo,70406589.35,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,15.451 - Infraestrutura Urbana,41278640.36,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,15.452 - Serviços Urbanos,985601.33,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,15.453 - Transportes Coletivos Urbanos,81068.46,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,15.122 - Administração Geral,146309.11,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,FU15 - Demais Subfunções,27914970.09,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,16 - Habitação,241680.4,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,16.482 - Habitação Urbana,23947.3,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,16.122 - Administração Geral,140953.1,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,FU16 - Demais Subfunções,76780,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,17 - Saneamento,3918376.43,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,17.512 - Saneamento Básico Urbano,3918376.43,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,18 - Gestão Ambiental,2699462.34,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,18.541 - Preservação e Conservação Ambiental,2072143.96,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,18.542 - Controle Ambiental,232290.51,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,18.122 - Administração Geral,145027.87,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,FU18 - Demais Subfunções,250000,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,19 - Ciência e Tecnologia,736433.35,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,19.122 - Administração Geral,143421.75,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,FU19 - Demais Subfunções,593011.6,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,23 - Comércio e Serviços,1040,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,23.122 - Administração Geral,1040,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,24 - Comunicações,1308.45,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,24.722 - Telecomunicações,1308.45,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,25 - Energia,39574.73,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,25.752 - Energia Elétrica,39574.73,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,26 - Transporte,2543026.79,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,26.122 - Administração Geral,2243201.15,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,FU26 - Demais Subfunções,299825.64,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,27 - Desporto e Lazer,537775.82,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,27.812 - Desporto Comunitário,393093.5,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,27.813 - Lazer,144682.32,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,28 - Encargos Especiais,10063.37,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,28.846 - Outros Encargos Especiais,10063.37,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,Despesas Intraorçamentárias,25145.04,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,Despesas Exceto Intraorçamentárias,126530616.95,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,01 - Legislativa,8446.41,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,01.031 - Ação Legislativa,8446.41,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,02 - Judiciária,1722026.22,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,02.122 - Administração Geral,323216.02,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,FU02 - Demais Subfunções,1398810.2,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,03 - Essencial à Justiça,8040,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,FU03 - Demais Subfunções,8040,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,04 - Administração,20174669.39,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,04.122 - Administração Geral,6397873.51,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,04.126 - Tecnologia da Informação,13706202.9,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,04.128 - Formação de Recursos Humanos,41418,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,FU04 - Demais Subfunções,29174.98,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,06 - Segurança Pública,4104191.92,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,06.181 - Policiamento,3802126.79,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,06.182 - Defesa Civil,73220,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,06.122 - Administração Geral,228845.13,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,08 - Assistência Social,4059172.92,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,08.243 - Assistência à Criança e ao Adolescente,1956478.83,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,08.244 - Assistência Comunitária,1109141.78,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,08.122 - Administração Geral,535846.16,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,FU08 - Demais Subfunções,457706.15,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,09 - Previdência Social,28611.48,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,09.122 - Administração Geral,28611.48,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,10 - Saúde,37977867.98,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,10.301 - Atenção Básica,2758236.95,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,10.302 - Assistência Hospitalar e Ambulatorial,26714853.5,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,10.304 - Vigilância Sanitária,19657.39,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,10.305 - Vigilância Epidemiológica,92879.14,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,10.122 - Administração Geral,5923073.52,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,FU10 - Demais Subfunções,2469167.48,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,11 - Trabalho,45201.66,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,11.333 - Empregabilidade,45201.66,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,12 - Educação,36162720.11,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,12.361 - Ensino Fundamental,20964502.66,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,12.363 - Ensino Profissional,744,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,12.365 - Educação Infantil,6336373.55,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,12.368 - Educação Básica,8571433.41,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,12.122 - Administração Geral,289666.49,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,13 - Cultura,7891136.57,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,"13.391 - Patrimônio Histórico, Artístico e Arqueológico",48102.46,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,13.392 - Difusão Cultural,3006923.1,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,13.122 - Administração Geral,3899298.39,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,FU13 - Demais Subfunções,936812.62,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,14 - Direitos da Cidadania,692420.85,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,"14.422 - Direitos Individuais, Coletivos e Difusos",610782.89,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,FU14 - Demais Subfunções,81637.96,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,15 - Urbanismo,10536744.98,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,15.451 - Infraestrutura Urbana,9266182.2,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,15.452 - Serviços Urbanos,1081887.08,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,15.453 - Transportes Coletivos Urbanos,24027.87,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,15.122 - Administração Geral,164647.83,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,16 - Habitação,369592.15,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,16.482 - Habitação Urbana,307883.99,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,16.122 - Administração Geral,56428.16,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,FU16 - Demais Subfunções,5280,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,18 - Gestão Ambiental,491317.44,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,18.541 - Preservação e Conservação Ambiental,366434.34,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,18.122 - Administração Geral,124883.1,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,19 - Ciência e Tecnologia,631052.88,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,19.122 - Administração Geral,56001.32,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,FU19 - Demais Subfunções,575051.56,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,23 - Comércio e Serviços,64966.88,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,23.122 - Administração Geral,58976.64,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,FU23 - Demais Subfunções,5990.24,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,26 - Transporte,729743.9,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,26.122 - Administração Geral,729743.9,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,27 - Desporto e Lazer,629135.36,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,27.812 - Desporto Comunitário,476512,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,27.813 - Lazer,37000,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,FU27 - Demais Subfunções,115623.36,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,28 - Encargos Especiais,203557.85,2703391
+2023,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,28.846 - Outros Encargos Especiais,203557.85,2703391

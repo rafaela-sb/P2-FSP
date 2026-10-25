@@ -1,0 +1,374 @@
+exercicio,instituicao,cod_ibge,uf,anexo,rotulo,coluna,cod_conta,conta,valor,populacao
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,Despesas (Exceto Intraorçamentárias),2509913466.9,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,01 - Legislativa,56696709.23,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,01.031 - Ação Legislativa,9333411.93,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,01.122 - Administração Geral,41325903.55,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,01.999 - Demais Subfunções Legislativa,6037393.75,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,03 - Essencial à Justiça,14481137.08,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,03.091 - Defesa da Ordem Jurídica,626527.67,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,03.092 - Representação Judicial e Extrajudicial,13854609.41,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,04 - Administração,308391904.46,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,04.121 - Planejamento e Orçamento,11069737.66,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,04.122 - Administração Geral,276557340.59,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,04.123 - Administração Financeira,10774437.1,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,04.124 - Controle Interno,70789.47,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,04.125 - Normatização e Fiscalização,1636309.45,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,04.126 - Tecnologia da Informação,1754815.57,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,04.128 - Formação de Recursos Humanos,576486.57,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,04.131 - Comunicação Social,5934315.17,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,04.999 - Demais Subfunções Administração,17672.88,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,08 - Assistência Social,46097215.45,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,08.242 - Assistência ao Portador de Deficiência,820776.8,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,08.243 - Assistência à Criança e ao Adolescente,518581.06,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,08.244 - Assistência Comunitária,17511795.94,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,08.122 - Administração Geral,22950238.03,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,08.999 - Demais Subfunções Assistência Social,4295823.62,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,09 - Previdência Social,206034099.61,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,09.272 - Previdência do Regime Estatutário,195020715.95,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,09.122 - Administração Geral,11013383.66,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,10 - Saúde,1001988508.09,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,10.301 - Atenção Básica,80822442,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,10.302 - Assistência Hospitalar e Ambulatorial,346247408.99,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,10.303 - Suporte Profilático e Terapêutico,22094931.53,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,10.304 - Vigilância Sanitária,194989.97,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,10.305 - Vigilância Epidemiológica,11356307.38,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,10.306 - Alimentação e Nutrição,1040,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,10.122 - Administração Geral,540525445.84,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,10.999 - Demais Subfunções Saúde,745942.38,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,11 - Trabalho,1272917.91,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,11.334 - Fomento ao Trabalho,1272917.91,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,12 - Educação,498235996.27,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,12.361 - Ensino Fundamental,235985710.33,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,12.362 - Ensino Médio,1335581.35,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,12.363 - Ensino Profissional,713709.79,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,12.365 - Educação Infantil,81662628.14,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,12.122 - Administração Geral,178538366.66,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,13 - Cultura,2844167.66,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,13.392 - Difusão Cultural,2844167.66,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,14 - Direitos da Cidadania,869720.45,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,"14.422 - Direitos Individuais, Coletivos e Difusos",675881.52,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,14.999 - Demais Subfunções Direitos da Cidadania,193838.93,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,15 - Urbanismo,287093284.01,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,15.451 - Infraestrutura Urbana,196850113.88,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,15.452 - Serviços Urbanos,85983993.43,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,15.453 - Transportes Coletivos Urbanos,3407140,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,15.999 - Demais Subfunções Urbanismo,852036.7,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,16 - Habitação,7560048.24,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,16.482 - Habitação Urbana,4708700.53,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,16.999 - Demais Subfunções Habitação,2851347.71,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,17 - Saneamento,2341568.4,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,17.511 - Saneamento Básico Rural,890608.5,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,17.512 - Saneamento Básico Urbano,1450959.9,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,18 - Gestão Ambiental,6298026.83,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,18.541 - Preservação e Conservação Ambiental,560559.5,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,18.543 - Recuperação de Áreas Degradadas,5737467.33,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,20 - Agricultura,520359.91,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,20.608 - Promoção da Produção Agropecuária,520359.91,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,21 - Organização Agrária,7875,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,21.631 - Reforma Agrária,7875,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,23 - Comércio e Serviços,2730022.47,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,23.691 - Promoção Comercial,40651.61,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,23.694 - Serviços Financeiros,2628574.12,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,23.695 - Turismo,60796.74,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,26 - Transporte,5869087.43,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,26.782 - Transporte Rodoviário,29110.28,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,26.999 - Demais Subfunções Transporte,5839977.15,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,27 - Desporto e Lazer,4135250.91,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,27.811 - Desporto de Rendimento,682282.06,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,27.812 - Desporto Comunitário,3196953.41,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,27.813 - Lazer,256015.44,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,28 - Encargos Especiais,56445567.49,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,28.843 - Serviço da Dívida Interna,43006928.52,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,28.846 - Outros Encargos Especiais,13438638.97,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,Despesas (Intraorçamentárias),81014310.39,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,Despesas (Exceto Intraorçamentárias),2391993885.36,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,01 - Legislativa,56619646.43,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,01.031 - Ação Legislativa,9256349.13,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,01.122 - Administração Geral,41325903.55,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,01.999 - Demais Subfunções Legislativa,6037393.75,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,03 - Essencial à Justiça,14394152.37,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,03.091 - Defesa da Ordem Jurídica,562285.55,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,03.092 - Representação Judicial e Extrajudicial,13831866.82,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,04 - Administração,299633721.38,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,04.121 - Planejamento e Orçamento,7767386.14,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,04.122 - Administração Geral,271956028.93,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,04.123 - Administração Financeira,10059990.07,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,04.124 - Controle Interno,70789.47,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,04.125 - Normatização e Fiscalização,1609409.89,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,04.126 - Tecnologia da Informação,1754815.57,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,04.128 - Formação de Recursos Humanos,520313.82,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,04.131 - Comunicação Social,5877314.61,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,04.999 - Demais Subfunções Administração,17672.88,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,08 - Assistência Social,44200626.67,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,08.242 - Assistência ao Portador de Deficiência,814497.8,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,08.243 - Assistência à Criança e ao Adolescente,497593.76,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,08.244 - Assistência Comunitária,16137768.72,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,08.122 - Administração Geral,22939387.03,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,08.999 - Demais Subfunções Assistência Social,3811379.36,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,09 - Previdência Social,205575094.01,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,09.272 - Previdência do Regime Estatutário,194961146.47,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,09.122 - Administração Geral,10613947.54,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,10 - Saúde,988311352.99,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,10.301 - Atenção Básica,76818828.72,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,10.302 - Assistência Hospitalar e Ambulatorial,343999164.46,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,10.303 - Suporte Profilático e Terapêutico,18850838.81,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,10.304 - Vigilância Sanitária,176781.43,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,10.305 - Vigilância Epidemiológica,11124058.54,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,10.306 - Alimentação e Nutrição,1040,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,10.122 - Administração Geral,536596931.25,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,10.999 - Demais Subfunções Saúde,743709.78,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,11 - Trabalho,1212576.56,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,11.334 - Fomento ao Trabalho,1212576.56,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,12 - Educação,464817646.03,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,12.361 - Ensino Fundamental,218777790.94,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,12.362 - Ensino Médio,1335581.35,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,12.363 - Ensino Profissional,667092.68,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,12.365 - Educação Infantil,68426733.24,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,12.122 - Administração Geral,175610447.82,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,13 - Cultura,2701714.23,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,13.392 - Difusão Cultural,2701714.23,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,14 - Direitos da Cidadania,713990.35,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,"14.422 - Direitos Individuais, Coletivos e Difusos",665020.3,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,14.999 - Demais Subfunções Direitos da Cidadania,48970.05,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,15 - Urbanismo,237634438.01,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,15.451 - Infraestrutura Urbana,155738828.02,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,15.452 - Serviços Urbanos,77890387.51,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,15.453 - Transportes Coletivos Urbanos,3407140,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,15.999 - Demais Subfunções Urbanismo,598082.48,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,16 - Habitação,5740789.8,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,16.482 - Habitação Urbana,3247619.68,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,16.999 - Demais Subfunções Habitação,2493170.12,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,17 - Saneamento,914956.17,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,17.511 - Saneamento Básico Rural,484269,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,17.512 - Saneamento Básico Urbano,430687.17,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,18 - Gestão Ambiental,718887.85,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,18.541 - Preservação e Conservação Ambiental,6049.5,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,18.543 - Recuperação de Áreas Degradadas,712838.35,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,20 - Agricultura,520359.91,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,20.608 - Promoção da Produção Agropecuária,520359.91,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,21 - Organização Agrária,7875,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,21.631 - Reforma Agrária,7875,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,23 - Comércio e Serviços,2679180.35,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,23.691 - Promoção Comercial,39127.72,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,23.694 - Serviços Financeiros,2594555.89,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,23.695 - Turismo,45496.74,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,26 - Transporte,5772504.65,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,26.782 - Transporte Rodoviário,18349.62,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,26.999 - Demais Subfunções Transporte,5754155.03,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,27 - Desporto e Lazer,3836244.01,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,27.811 - Desporto de Rendimento,594720.41,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,27.812 - Desporto Comunitário,2985508.16,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,27.813 - Lazer,256015.44,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,28 - Encargos Especiais,55988128.59,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,28.843 - Serviço da Dívida Interna,43006928.52,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,28.846 - Outros Encargos Especiais,12981200.07,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,Despesas (Intraorçamentárias),80951856.27,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,Despesas (Exceto Intraorçamentárias),2324727933.01,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,01 - Legislativa,56601217.71,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,01.031 - Ação Legislativa,9237920.41,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,01.122 - Administração Geral,41325903.55,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,01.999 - Demais Subfunções Legislativa,6037393.75,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,03 - Essencial à Justiça,14247095.29,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,03.091 - Defesa da Ordem Jurídica,562285.55,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,03.092 - Representação Judicial e Extrajudicial,13684809.74,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,04 - Administração,289532977.26,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,04.121 - Planejamento e Orçamento,7300479.31,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,04.122 - Administração Geral,262829599.56,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,04.123 - Administração Financeira,9834721.14,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,04.124 - Controle Interno,36314.47,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,04.125 - Normatização e Fiscalização,1599172.16,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,04.126 - Tecnologia da Informação,1754815.57,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,04.128 - Formação de Recursos Humanos,465195.57,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,04.131 - Comunicação Social,5695006.6,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,04.999 - Demais Subfunções Administração,17672.88,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,08 - Assistência Social,42575472.94,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,08.242 - Assistência ao Portador de Deficiência,814497.8,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,08.243 - Assistência à Criança e ao Adolescente,497593.76,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,08.244 - Assistência Comunitária,15491201.88,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,08.122 - Administração Geral,22127078.8,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,08.999 - Demais Subfunções Assistência Social,3645100.7,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,09 - Previdência Social,203628450.44,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,09.272 - Previdência do Regime Estatutário,193295399.49,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,09.122 - Administração Geral,10333050.95,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,10 - Saúde,966962324.81,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,10.301 - Atenção Básica,76813356.72,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,10.302 - Assistência Hospitalar e Ambulatorial,335932503.46,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,10.303 - Suporte Profilático e Terapêutico,15649166,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,10.304 - Vigilância Sanitária,164931.34,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,10.305 - Vigilância Epidemiológica,11119676.14,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,10.306 - Alimentação e Nutrição,1040,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,10.122 - Administração Geral,526541769.37,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,10.999 - Demais Subfunções Saúde,739881.78,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,11 - Trabalho,993271.37,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,11.334 - Fomento ao Trabalho,993271.37,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,12 - Educação,461077566.57,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,12.361 - Ensino Fundamental,218428146.28,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,12.362 - Ensino Médio,1084936.04,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,12.363 - Ensino Profissional,616754.82,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,12.365 - Educação Infantil,68426733.24,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,12.122 - Administração Geral,172520996.19,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,13 - Cultura,2497774.8,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,13.392 - Difusão Cultural,2497774.8,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,14 - Direitos da Cidadania,708278.27,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,"14.422 - Direitos Individuais, Coletivos e Difusos",659308.22,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,14.999 - Demais Subfunções Direitos da Cidadania,48970.05,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,15 - Urbanismo,212111652.76,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,15.451 - Infraestrutura Urbana,141362453.3,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,15.452 - Serviços Urbanos,66885344.94,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,15.453 - Transportes Coletivos Urbanos,3407140,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,15.999 - Demais Subfunções Urbanismo,456714.52,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,16 - Habitação,3894739.23,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,16.482 - Habitação Urbana,2721531.9,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,16.999 - Demais Subfunções Habitação,1173207.33,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,17 - Saneamento,691309.41,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,17.511 - Saneamento Básico Rural,260622.24,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,17.512 - Saneamento Básico Urbano,430687.17,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,18 - Gestão Ambiental,718887.85,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,18.541 - Preservação e Conservação Ambiental,6049.5,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,18.543 - Recuperação de Áreas Degradadas,712838.35,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,20 - Agricultura,484679.63,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,20.608 - Promoção da Produção Agropecuária,484679.63,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,21 - Organização Agrária,7875,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,21.631 - Reforma Agrária,7875,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,23 - Comércio e Serviços,2673538.67,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,23.691 - Promoção Comercial,33486.04,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,23.694 - Serviços Financeiros,2594555.89,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,23.695 - Turismo,45496.74,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,26 - Transporte,5622504.65,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,26.782 - Transporte Rodoviário,18349.62,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,26.999 - Demais Subfunções Transporte,5604155.03,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,27 - Desporto e Lazer,3715377.68,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,27.811 - Desporto de Rendimento,594720.41,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,27.812 - Desporto Comunitário,2864641.83,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,27.813 - Lazer,256015.44,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,28 - Encargos Especiais,55982938.67,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,28.843 - Serviço da Dívida Interna,43006928.52,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,28.846 - Outros Encargos Especiais,12976010.15,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,Despesas (Intraorçamentárias),67092922.89,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,Despesas (Exceto Intraorçamentárias),117919581.54,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,01 - Legislativa,77062.8,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,01.031 - Ação Legislativa,77062.8,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,03 - Essencial à Justiça,86984.71,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,03.091 - Defesa da Ordem Jurídica,64242.12,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,03.092 - Representação Judicial e Extrajudicial,22742.59,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,04 - Administração,8758183.08,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,04.121 - Planejamento e Orçamento,3302351.52,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,04.122 - Administração Geral,4601311.66,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,04.123 - Administração Financeira,714447.03,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,04.125 - Normatização e Fiscalização,26899.56,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,04.128 - Formação de Recursos Humanos,56172.75,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,04.131 - Comunicação Social,57000.56,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,08 - Assistência Social,1896588.78,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,08.242 - Assistência ao Portador de Deficiência,6279,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,08.243 - Assistência à Criança e ao Adolescente,20987.3,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,08.244 - Assistência Comunitária,1374027.22,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,08.122 - Administração Geral,10851,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,08.999 - Demais Subfunções Assistência Social,484444.26,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,09 - Previdência Social,459005.6,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,09.272 - Previdência do Regime Estatutário,59569.48,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,09.122 - Administração Geral,399436.12,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,10 - Saúde,13677155.1,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,10.301 - Atenção Básica,4003613.28,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,10.302 - Assistência Hospitalar e Ambulatorial,2248244.53,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,10.303 - Suporte Profilático e Terapêutico,3244092.72,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,10.304 - Vigilância Sanitária,18208.54,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,10.305 - Vigilância Epidemiológica,232248.84,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,10.122 - Administração Geral,3928514.59,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,10.999 - Demais Subfunções Saúde,2232.6,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,11 - Trabalho,60341.35,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,11.334 - Fomento ao Trabalho,60341.35,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,12 - Educação,33418350.24,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,12.361 - Ensino Fundamental,17207919.39,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,12.363 - Ensino Profissional,46617.11,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,12.365 - Educação Infantil,13235894.9,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,12.122 - Administração Geral,2927918.84,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,13 - Cultura,142453.43,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,13.392 - Difusão Cultural,142453.43,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,14 - Direitos da Cidadania,155730.1,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,"14.422 - Direitos Individuais, Coletivos e Difusos",10861.22,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,14.999 - Demais Subfunções Direitos da Cidadania,144868.88,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,15 - Urbanismo,49458846,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,15.451 - Infraestrutura Urbana,41111285.86,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,15.452 - Serviços Urbanos,8093605.92,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,15.999 - Demais Subfunções Urbanismo,253954.22,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,16 - Habitação,1819258.44,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,16.482 - Habitação Urbana,1461080.85,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,16.999 - Demais Subfunções Habitação,358177.59,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,17 - Saneamento,1426612.23,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,17.511 - Saneamento Básico Rural,406339.5,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,17.512 - Saneamento Básico Urbano,1020272.73,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,18 - Gestão Ambiental,5579138.98,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,18.541 - Preservação e Conservação Ambiental,554510,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,18.543 - Recuperação de Áreas Degradadas,5024628.98,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,23 - Comércio e Serviços,50842.12,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,23.691 - Promoção Comercial,1523.89,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,23.694 - Serviços Financeiros,34018.23,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,23.695 - Turismo,15300,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,26 - Transporte,96582.78,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,26.782 - Transporte Rodoviário,10760.66,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,26.999 - Demais Subfunções Transporte,85822.12,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,27 - Desporto e Lazer,299006.9,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,27.811 - Desporto de Rendimento,87561.65,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,27.812 - Desporto Comunitário,211445.25,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,28 - Encargos Especiais,457438.9,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,28.846 - Outros Encargos Especiais,457438.9,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,Despesas (Intraorçamentárias),62454.12,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,Despesas (Exceto Intraorçamentárias),67265952.35,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,01 - Legislativa,18428.72,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,01.031 - Ação Legislativa,18428.72,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,03 - Essencial à Justiça,147057.08,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,03.092 - Representação Judicial e Extrajudicial,147057.08,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,04 - Administração,10100744.12,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,04.121 - Planejamento e Orçamento,466906.83,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,04.122 - Administração Geral,9126429.37,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,04.123 - Administração Financeira,225268.93,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,04.124 - Controle Interno,34475,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,04.125 - Normatização e Fiscalização,10237.73,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,04.128 - Formação de Recursos Humanos,55118.25,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,04.131 - Comunicação Social,182308.01,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,08 - Assistência Social,1625153.73,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,08.244 - Assistência Comunitária,646566.84,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,08.122 - Administração Geral,812308.23,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,08.999 - Demais Subfunções Assistência Social,166278.66,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,09 - Previdência Social,1946643.57,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,09.272 - Previdência do Regime Estatutário,1665746.98,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,09.122 - Administração Geral,280896.59,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,10 - Saúde,21349028.18,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,10.301 - Atenção Básica,5472,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,10.302 - Assistência Hospitalar e Ambulatorial,8066661,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,10.303 - Suporte Profilático e Terapêutico,3201672.81,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,10.304 - Vigilância Sanitária,11850.09,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,10.305 - Vigilância Epidemiológica,4382.4,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,10.122 - Administração Geral,10055161.88,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,10.999 - Demais Subfunções Saúde,3828,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,11 - Trabalho,219305.19,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,11.334 - Fomento ao Trabalho,219305.19,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,12 - Educação,3740079.46,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,12.361 - Ensino Fundamental,349644.66,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,12.362 - Ensino Médio,250645.31,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,12.363 - Ensino Profissional,50337.86,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,12.122 - Administração Geral,3089451.63,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,13 - Cultura,203939.43,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,13.392 - Difusão Cultural,203939.43,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,14 - Direitos da Cidadania,5712.08,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,"14.422 - Direitos Individuais, Coletivos e Difusos",5712.08,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,15 - Urbanismo,25522785.25,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,15.451 - Infraestrutura Urbana,14376374.72,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,15.452 - Serviços Urbanos,11005042.57,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,15.999 - Demais Subfunções Urbanismo,141367.96,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,16 - Habitação,1846050.57,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,16.482 - Habitação Urbana,526087.78,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,16.999 - Demais Subfunções Habitação,1319962.79,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,17 - Saneamento,223646.76,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,17.511 - Saneamento Básico Rural,223646.76,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,20 - Agricultura,35680.28,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,20.608 - Promoção da Produção Agropecuária,35680.28,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,23 - Comércio e Serviços,5641.68,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,23.691 - Promoção Comercial,5641.68,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,26 - Transporte,150000,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,26.999 - Demais Subfunções Transporte,150000,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,27 - Desporto e Lazer,120866.33,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,27.812 - Desporto Comunitário,120866.33,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,28 - Encargos Especiais,5189.92,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,28.846 - Outros Encargos Especiais,5189.92,844245
+2016,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,Despesas (Intraorçamentárias),13858933.38,844245

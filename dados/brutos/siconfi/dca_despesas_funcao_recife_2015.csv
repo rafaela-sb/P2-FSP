@@ -1,0 +1,334 @@
+exercicio,instituicao,cod_ibge,uf,anexo,rotulo,coluna,cod_conta,conta,valor,populacao
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,Despesas (Exceto Intraorçamentárias),4115917022.77,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,01 - Legislativa,132083202.35,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,01.031 - Ação Legislativa,115727805.48,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,01.999 - Demais Subfunções Legislativa,16355396.87,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,02 - Judiciária,14384.83,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,02.999 - Demais Subfunções Judiciária,14384.83,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,04 - Administração,518299359.33,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,04.121 - Planejamento e Orçamento,3982101.12,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,04.122 - Administração Geral,200502276,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,04.123 - Administração Financeira,52442726.76,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,04.124 - Controle Interno,7213289.88,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,04.126 - Tecnologia da Informação,30364348.68,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,04.128 - Formação de Recursos Humanos,152438.33,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,04.129 - Administração de Receitas,2639253.42,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,04.131 - Comunicação Social,43261563.05,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,04.999 - Demais Subfunções Administração,177741362.09,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,08 - Assistência Social,63606076.23,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,08.243 - Assistência à Criança e ao Adolescente,4371839.73,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,08.244 - Assistência Comunitária,42401739.68,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,08.999 - Demais Subfunções Assistência Social,16832496.82,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,09 - Previdência Social,381100858.04,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,09.271 - Previdência Básica,188785.15,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,09.272 - Previdência do Regime Estatutário,380908651.88,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,09.999 - Demais Subfunções Previdência Social,3421.01,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,10 - Saúde,929979646.1,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,10.301 - Atenção Básica,478882907.47,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,10.302 - Assistência Hospitalar e Ambulatorial,277520745.71,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,10.303 - Suporte Profilático e Terapêutico,26473326.51,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,10.304 - Vigilância Sanitária,8673065.66,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,10.305 - Vigilância Epidemiológica,5732346.27,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,10.999 - Demais Subfunções Saúde,132697254.48,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,12 - Educação,793554080.51,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,12.361 - Ensino Fundamental,596172317.49,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,12.363 - Ensino Profissional,16980345.99,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,12.365 - Educação Infantil,101425832.99,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,12.367 - Educação Especial,12000,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,12.999 - Demais Subfunções Educação,78963584.04,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,13 - Cultura,129890826.99,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,"13.391 - Patrimônio Histórico, Artístico e Arqueológico",6177226.93,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,13.392 - Difusão Cultural,108556492.86,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,13.999 - Demais Subfunções Cultura,15157107.2,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,14 - Direitos da Cidadania,31353312.87,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,"14.422 - Direitos Individuais, Coletivos e Difusos",30953766.54,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,14.999 - Demais Subfunções Direitos da Cidadania,399546.33,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,15 - Urbanismo,853907776.81,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,15.451 - Infraestrutura Urbana,224201864.54,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,15.452 - Serviços Urbanos,378470646.07,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,15.453 - Transportes Coletivos Urbanos,36986415.82,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,15.999 - Demais Subfunções Urbanismo,214248850.38,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,16 - Habitação,5616077.14,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,16.482 - Habitação Urbana,4991464.63,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,16.999 - Demais Subfunções Habitação,624612.51,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,17 - Saneamento,69720329.79,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,17.512 - Saneamento Básico Urbano,67881474.35,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,17.999 - Demais Subfunções Saneamento,1838855.44,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,18 - Gestão Ambiental,25366809.93,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,18.541 - Preservação e Conservação Ambiental,20729947.84,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,18.999 - Demais Subfunções Gestão Ambiental,4636862.09,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,19 - Ciência e Tecnologia,9048172.34,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,19.573 - Difusão do Conhecimento Científico e Tecnológico,1405390.69,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,19.999 - Demais Subfunções Ciência e Tecnologia,7642781.65,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,23 - Comércio e Serviços,46634550.35,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,23.691 - Promoção Comercial,15588195.86,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,23.692 - Comercialização,348061.38,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,23.695 - Turismo,21774885.5,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,23.999 - Demais Subfunções Comércio e Serviços,8923407.61,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,27 - Desporto e Lazer,23400592.19,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,27.812 - Desporto Comunitário,19718719.91,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,27.999 - Demais Subfunções Desporto e Lazer,3681872.28,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,28 - Encargos Especiais,102340966.97,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,28.843 - Serviço da Dívida Interna,87459278.04,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,28.844 - Serviço da Dívida Externa,14881688.93,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,Despesas (Intraorçamentárias),139169357.94,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,Despesas (Exceto Intraorçamentárias),4048690096.87,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,01 - Legislativa,131237805.4,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,01.031 - Ação Legislativa,114882408.53,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,01.999 - Demais Subfunções Legislativa,16355396.87,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,02 - Judiciária,11222.83,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,02.999 - Demais Subfunções Judiciária,11222.83,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,04 - Administração,494367252.57,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,04.121 - Planejamento e Orçamento,3982101.12,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,04.122 - Administração Geral,196075999.76,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,04.123 - Administração Financeira,52442726.76,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,04.124 - Controle Interno,7213289.88,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,04.126 - Tecnologia da Informação,30364348.68,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,04.128 - Formação de Recursos Humanos,149621.48,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,04.129 - Administração de Receitas,2633601.29,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,04.131 - Comunicação Social,26713132.67,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,04.999 - Demais Subfunções Administração,174792430.93,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,08 - Assistência Social,62029101.79,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,08.243 - Assistência à Criança e ao Adolescente,4336700.45,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,08.244 - Assistência Comunitária,41082812.09,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,08.999 - Demais Subfunções Assistência Social,16609589.25,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,09 - Previdência Social,381060997.15,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,09.271 - Previdência Básica,188785.15,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,09.272 - Previdência do Regime Estatutário,380868790.99,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,09.999 - Demais Subfunções Previdência Social,3421.01,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,10 - Saúde,919914456.62,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,10.301 - Atenção Básica,477667849.68,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,10.302 - Assistência Hospitalar e Ambulatorial,270196228.53,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,10.303 - Suporte Profilático e Terapêutico,26209695.78,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,10.304 - Vigilância Sanitária,8671352.66,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,10.305 - Vigilância Epidemiológica,5567695.1,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,10.999 - Demais Subfunções Saúde,131601634.87,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,12 - Educação,777051576.57,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,12.361 - Ensino Fundamental,582169115.01,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,12.363 - Ensino Profissional,16962536.99,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,12.365 - Educação Infantil,100436990.77,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,12.367 - Educação Especial,12000,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,12.999 - Demais Subfunções Educação,77470933.8,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,13 - Cultura,124998786.03,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,"13.391 - Patrimônio Histórico, Artístico e Arqueológico",4903825.83,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,13.392 - Difusão Cultural,105293385.94,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,13.999 - Demais Subfunções Cultura,14801574.26,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,14 - Direitos da Cidadania,29514260.12,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,"14.422 - Direitos Individuais, Coletivos e Difusos",29144271.14,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,14.999 - Demais Subfunções Direitos da Cidadania,369988.98,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,15 - Urbanismo,849776938.24,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,15.451 - Infraestrutura Urbana,222985732.51,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,15.452 - Serviços Urbanos,375790001.85,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,15.453 - Transportes Coletivos Urbanos,36986415.82,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,15.999 - Demais Subfunções Urbanismo,214014788.06,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,16 - Habitação,5397276.24,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,16.482 - Habitação Urbana,4777853.53,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,16.999 - Demais Subfunções Habitação,619422.71,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,17 - Saneamento,69286843.18,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,17.512 - Saneamento Básico Urbano,67555002.81,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,17.999 - Demais Subfunções Saneamento,1731840.37,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,18 - Gestão Ambiental,25206235.69,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,18.541 - Preservação e Conservação Ambiental,20724718.78,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,18.999 - Demais Subfunções Gestão Ambiental,4481516.91,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,19 - Ciência e Tecnologia,8945475.21,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,19.573 - Difusão do Conhecimento Científico e Tecnológico,1405390.69,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,19.999 - Demais Subfunções Ciência e Tecnologia,7540084.52,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,23 - Comércio e Serviços,44661172.91,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,23.691 - Promoção Comercial,15588195.86,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,23.692 - Comercialização,223061.38,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,23.695 - Turismo,19926508.06,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,23.999 - Demais Subfunções Comércio e Serviços,8923407.61,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,27 - Desporto e Lazer,22889729.35,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,27.812 - Desporto Comunitário,19381535.18,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,27.999 - Demais Subfunções Desporto e Lazer,3508194.17,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,28 - Encargos Especiais,102340966.97,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,28.843 - Serviço da Dívida Interna,87459278.04,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,28.844 - Serviço da Dívida Externa,14881688.93,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,Despesas (Intraorçamentárias),139169357.94,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,Despesas (Exceto Intraorçamentárias),3881812553.24,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,01 - Legislativa,131237805.4,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,01.031 - Ação Legislativa,114882408.53,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,01.999 - Demais Subfunções Legislativa,16355396.87,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,02 - Judiciária,11222.83,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,02.999 - Demais Subfunções Judiciária,11222.83,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,04 - Administração,474417016.45,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,04.121 - Planejamento e Orçamento,3927142.88,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,04.122 - Administração Geral,192954205.13,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,04.123 - Administração Financeira,52442726.76,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,04.124 - Controle Interno,7213289.88,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,04.126 - Tecnologia da Informação,28427042.23,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,04.128 - Formação de Recursos Humanos,149621.48,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,04.129 - Administração de Receitas,2598365.22,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,04.131 - Comunicação Social,20124381.46,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,04.999 - Demais Subfunções Administração,166580241.41,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,08 - Assistência Social,60788436.05,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,08.243 - Assistência à Criança e ao Adolescente,4179893.51,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,08.244 - Assistência Comunitária,40363164.11,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,08.999 - Demais Subfunções Assistência Social,16245378.43,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,09 - Previdência Social,381047915.32,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,09.271 - Previdência Básica,188785.15,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,09.272 - Previdência do Regime Estatutário,380855709.16,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,09.999 - Demais Subfunções Previdência Social,3421.01,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,10 - Saúde,888146671.92,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,10.301 - Atenção Básica,472054312.15,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,10.302 - Assistência Hospitalar e Ambulatorial,260538370.47,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,10.303 - Suporte Profilático e Terapêutico,22380741.19,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,10.304 - Vigilância Sanitária,7623489.37,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,10.305 - Vigilância Epidemiológica,4660250.5,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,10.999 - Demais Subfunções Saúde,120889508.24,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,12 - Educação,734078275.54,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,12.361 - Ensino Fundamental,550628299.42,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,12.363 - Ensino Profissional,16962536.99,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,12.365 - Educação Infantil,89004505.33,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,12.367 - Educação Especial,12000,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,12.999 - Demais Subfunções Educação,77470933.8,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,13 - Cultura,119080550.77,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,"13.391 - Patrimônio Histórico, Artístico e Arqueológico",4723376.63,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,13.392 - Difusão Cultural,99988773.65,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,13.999 - Demais Subfunções Cultura,14368400.49,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,14 - Direitos da Cidadania,28766556.77,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,"14.422 - Direitos Individuais, Coletivos e Difusos",28412242.56,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,14.999 - Demais Subfunções Direitos da Cidadania,354314.21,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,15 - Urbanismo,800193196.48,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,15.451 - Infraestrutura Urbana,208456097.1,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,15.452 - Serviços Urbanos,347679436.92,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,15.453 - Transportes Coletivos Urbanos,32909037.53,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,15.999 - Demais Subfunções Urbanismo,211148624.93,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,16 - Habitação,5356817.98,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,16.482 - Habitação Urbana,4777853.53,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,16.999 - Demais Subfunções Habitação,578964.45,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,17 - Saneamento,64224293.6,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,17.512 - Saneamento Básico Urbano,62566783.87,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,17.999 - Demais Subfunções Saneamento,1657509.73,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,18 - Gestão Ambiental,23362163.28,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,18.541 - Preservação e Conservação Ambiental,18998805.26,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,18.999 - Demais Subfunções Gestão Ambiental,4363358.02,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,19 - Ciência e Tecnologia,8239383.01,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,19.573 - Difusão do Conhecimento Científico e Tecnológico,1255390.69,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,19.999 - Demais Subfunções Ciência e Tecnologia,6983992.32,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,23 - Comércio e Serviços,38578757.06,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,23.691 - Promoção Comercial,12198379.94,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,23.692 - Comercialização,223061.38,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,23.695 - Turismo,17896098.44,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,23.999 - Demais Subfunções Comércio e Serviços,8261217.3,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,27 - Desporto e Lazer,21972812.57,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,27.812 - Desporto Comunitário,18581219.4,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,27.999 - Demais Subfunções Desporto e Lazer,3391593.17,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,28 - Encargos Especiais,102310678.21,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,28.843 - Serviço da Dívida Interna,87428989.28,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,28.844 - Serviço da Dívida Externa,14881688.93,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,Despesas (Intraorçamentárias),124376675.49,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,Despesas (Exceto Intraorçamentárias),67226925.9,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,01 - Legislativa,845396.95,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,01.031 - Ação Legislativa,845396.95,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,02 - Judiciária,3162,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,02.999 - Demais Subfunções Judiciária,3162,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,04 - Administração,23932106.76,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,04.122 - Administração Geral,4426276.24,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,04.128 - Formação de Recursos Humanos,2816.85,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,04.129 - Administração de Receitas,5652.13,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,04.131 - Comunicação Social,16548430.38,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,04.999 - Demais Subfunções Administração,2948931.16,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,08 - Assistência Social,1576974.44,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,08.243 - Assistência à Criança e ao Adolescente,35139.28,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,08.244 - Assistência Comunitária,1318927.59,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,08.999 - Demais Subfunções Assistência Social,222907.57,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,09 - Previdência Social,39860.89,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,09.272 - Previdência do Regime Estatutário,39860.89,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,10 - Saúde,10065189.48,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,10.301 - Atenção Básica,1215057.79,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,10.302 - Assistência Hospitalar e Ambulatorial,7324517.18,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,10.303 - Suporte Profilático e Terapêutico,263630.73,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,10.304 - Vigilância Sanitária,1713,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,10.305 - Vigilância Epidemiológica,164651.17,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,10.999 - Demais Subfunções Saúde,1095619.61,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,12 - Educação,16502503.94,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,12.361 - Ensino Fundamental,14003202.48,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,12.363 - Ensino Profissional,17809,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,12.365 - Educação Infantil,988842.22,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,12.999 - Demais Subfunções Educação,1492650.24,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,13 - Cultura,4892040.96,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,"13.391 - Patrimônio Histórico, Artístico e Arqueológico",1273401.1,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,13.392 - Difusão Cultural,3263106.92,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,13.999 - Demais Subfunções Cultura,355532.94,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,14 - Direitos da Cidadania,1839052.75,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,"14.422 - Direitos Individuais, Coletivos e Difusos",1809495.4,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,14.999 - Demais Subfunções Direitos da Cidadania,29557.35,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,15 - Urbanismo,4130838.57,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,15.451 - Infraestrutura Urbana,1216132.03,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,15.452 - Serviços Urbanos,2680644.22,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,15.999 - Demais Subfunções Urbanismo,234062.32,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,16 - Habitação,218800.9,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,16.482 - Habitação Urbana,213611.1,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,16.999 - Demais Subfunções Habitação,5189.8,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,17 - Saneamento,433486.61,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,17.512 - Saneamento Básico Urbano,326471.54,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,17.999 - Demais Subfunções Saneamento,107015.07,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,18 - Gestão Ambiental,160574.24,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,18.541 - Preservação e Conservação Ambiental,5229.06,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,18.999 - Demais Subfunções Gestão Ambiental,155345.18,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,19 - Ciência e Tecnologia,102697.13,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,19.999 - Demais Subfunções Ciência e Tecnologia,102697.13,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,23 - Comércio e Serviços,1973377.44,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,23.692 - Comercialização,125000,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,23.695 - Turismo,1848377.44,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,27 - Desporto e Lazer,510862.84,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,27.812 - Desporto Comunitário,337184.73,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,27.999 - Demais Subfunções Desporto e Lazer,173678.11,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,Despesas (Exceto Intraorçamentárias),166877543.63,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,04 - Administração,19950236.12,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,04.121 - Planejamento e Orçamento,54958.24,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,04.122 - Administração Geral,3121794.63,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,04.126 - Tecnologia da Informação,1937306.45,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,04.129 - Administração de Receitas,35236.07,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,04.131 - Comunicação Social,6588751.21,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,04.999 - Demais Subfunções Administração,8212189.52,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,08 - Assistência Social,1240665.74,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,08.243 - Assistência à Criança e ao Adolescente,156806.94,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,08.244 - Assistência Comunitária,719647.98,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,08.999 - Demais Subfunções Assistência Social,364210.82,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,09 - Previdência Social,13081.83,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,09.272 - Previdência do Regime Estatutário,13081.83,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,10 - Saúde,31767784.7,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,10.301 - Atenção Básica,5613537.53,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,10.302 - Assistência Hospitalar e Ambulatorial,9657858.06,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,10.303 - Suporte Profilático e Terapêutico,3828954.59,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,10.304 - Vigilância Sanitária,1047863.29,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,10.305 - Vigilância Epidemiológica,907444.6,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,10.999 - Demais Subfunções Saúde,10712126.63,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,12 - Educação,42973301.03,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,12.361 - Ensino Fundamental,31540815.59,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,12.365 - Educação Infantil,11432485.44,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,13 - Cultura,5918235.26,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,"13.391 - Patrimônio Histórico, Artístico e Arqueológico",180449.2,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,13.392 - Difusão Cultural,5304612.29,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,13.999 - Demais Subfunções Cultura,433173.77,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,14 - Direitos da Cidadania,747703.35,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,"14.422 - Direitos Individuais, Coletivos e Difusos",732028.58,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,14.999 - Demais Subfunções Direitos da Cidadania,15674.77,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,15 - Urbanismo,49583741.76,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,15.451 - Infraestrutura Urbana,14529635.41,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,15.452 - Serviços Urbanos,28110564.93,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,15.453 - Transportes Coletivos Urbanos,4077378.29,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,15.999 - Demais Subfunções Urbanismo,2866163.13,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,16 - Habitação,40458.26,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,16.999 - Demais Subfunções Habitação,40458.26,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,17 - Saneamento,5062549.58,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,17.512 - Saneamento Básico Urbano,4988218.94,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,17.999 - Demais Subfunções Saneamento,74330.64,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,18 - Gestão Ambiental,1844072.41,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,18.541 - Preservação e Conservação Ambiental,1725913.52,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,18.999 - Demais Subfunções Gestão Ambiental,118158.89,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,19 - Ciência e Tecnologia,706092.2,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,19.573 - Difusão do Conhecimento Científico e Tecnológico,150000,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,19.999 - Demais Subfunções Ciência e Tecnologia,556092.2,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,23 - Comércio e Serviços,6082415.85,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,23.691 - Promoção Comercial,3389815.92,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,23.695 - Turismo,2030409.62,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,23.999 - Demais Subfunções Comércio e Serviços,662190.31,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,27 - Desporto e Lazer,916916.78,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,27.812 - Desporto Comunitário,800315.78,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,27.999 - Demais Subfunções Desporto e Lazer,116601,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,28 - Encargos Especiais,30288.76,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,28.843 - Serviço da Dívida Interna,30288.76,1608488
+2015,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,Despesas (Intraorçamentárias),14792682.45,1608488

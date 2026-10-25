@@ -1,0 +1,465 @@
+exercicio,instituicao,cod_ibge,uf,anexo,rotulo,coluna,cod_conta,conta,valor,populacao
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,Despesas Exceto Intraorçamentárias,10502832973.39,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,01 - Legislativa,246333942.15,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,01.031 - Ação Legislativa,246333942.15,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,02 - Judiciária,64632475.87,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,02.062 - Defesa do Interesse Público no Processo Judiciário,31258.59,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,02.122 - Administração Geral,64418399.69,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,FU02 - Demais Subfunções,182817.59,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,04 - Administração,536664893.19,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,04.121 - Planejamento e Orçamento,44900,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,04.122 - Administração Geral,500060005.63,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,04.124 - Controle Interno,2188081.78,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,04.126 - Tecnologia da Informação,33951466.1,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,04.130 - Administração de Concessões,420439.68,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,06 - Segurança Pública,107249460.42,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,06.181 - Policiamento,2420715.69,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,06.122 - Administração Geral,104204204.21,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,FU06 - Demais Subfunções,624540.52,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,08 - Assistência Social,291665005.08,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,08.241 - Assistência ao Idoso,3252180.97,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,08.242 - Assistência ao Portador de Deficiência,5565635.39,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,08.243 - Assistência à Criança e ao Adolescente,51276385.58,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,08.244 - Assistência Comunitária,110985725.28,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,08.122 - Administração Geral,113627496.72,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,FU08 - Demais Subfunções,6957581.14,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,09 - Previdência Social,619668425.07,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,09.272 - Previdência do Regime Estatutário,540244552.92,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,09.274 - Previdência Especial,71251195.04,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,09.122 - Administração Geral,6943307.57,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,FU09 - Demais Subfunções,1229369.54,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,10 - Saúde,2371241760.61,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,10.301 - Atenção Básica,132332096.33,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,10.302 - Assistência Hospitalar e Ambulatorial,1104522431.91,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,10.303 - Suporte Profilático e Terapêutico,44392890.64,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,10.304 - Vigilância Sanitária,4737968.85,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,10.305 - Vigilância Epidemiológica,1454084.09,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,10.122 - Administração Geral,993148612.07,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,FU10 - Demais Subfunções,90653676.72,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,11 - Trabalho,24507531.87,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,11.333 - Empregabilidade,3857358.01,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,11.334 - Fomento ao Trabalho,7371234.77,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,11.122 - Administração Geral,12769659.63,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,FU11 - Demais Subfunções,509279.46,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,12 - Educação,2163373823.67,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,12.361 - Ensino Fundamental,1588051581.02,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,12.365 - Educação Infantil,547985655.75,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,12.366 - Educação de Jovens e Adultos,2968303.81,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,12.367 - Educação Especial,5117710.83,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,12.122 - Administração Geral,1266048.96,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,FU12 - Demais Subfunções,17984523.3,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,13 - Cultura,82339616.8,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,13.392 - Difusão Cultural,40884403.66,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,13.122 - Administração Geral,16800446.07,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,FU13 - Demais Subfunções,24654767.07,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,14 - Direitos da Cidadania,44650696.09,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,"14.422 - Direitos Individuais, Coletivos e Difusos",8140730.28,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,14.122 - Administração Geral,21763312.34,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,FU14 - Demais Subfunções,14746653.47,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,15 - Urbanismo,2219208726.62,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,15.451 - Infraestrutura Urbana,733046621.63,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,15.452 - Serviços Urbanos,1067433357.73,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,15.122 - Administração Geral,396745130.5,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,FU15 - Demais Subfunções,21983616.76,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,16 - Habitação,151951741.56,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,16.482 - Habitação Urbana,88542569.32,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,16.122 - Administração Geral,24158511.17,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,FU16 - Demais Subfunções,39250661.07,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,17 - Saneamento,71210885.05,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,17.512 - Saneamento Básico Urbano,71210885.05,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,18 - Gestão Ambiental,37024519.8,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,18.541 - Preservação e Conservação Ambiental,25809466.06,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,18.542 - Controle Ambiental,711003.76,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,18.122 - Administração Geral,10141134.47,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,FU18 - Demais Subfunções,362915.51,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,19 - Ciência e Tecnologia,130554150.06,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,19.572 - Desenvolvimento Tecnológico e Engenharia,58938336.94,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,19.122 - Administração Geral,47543894.27,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,FU19 - Demais Subfunções,24071918.85,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,22 - Indústria,25258479.44,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,22.122 - Administração Geral,22027162.53,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,FU22 - Demais Subfunções,3231316.91,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,23 - Comércio e Serviços,369216200.9,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,23.695 - Turismo,310547771.8,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,23.122 - Administração Geral,55743721.49,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,FU23 - Demais Subfunções,2924707.61,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,24 - Comunicações,148508042.84,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,24.122 - Administração Geral,33294536.73,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,FU24 - Demais Subfunções,115213506.11,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,26 - Transporte,219441864.51,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,26.785 - Transportes Especiais,900895.12,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,26.122 - Administração Geral,28077023.58,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,FU26 - Demais Subfunções,190463945.81,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,27 - Desporto e Lazer,32152878.84,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,27.812 - Desporto Comunitário,32152878.84,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,28 - Encargos Especiais,545977852.95,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,28.843 - Serviço da Dívida Interna,266351933.54,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,28.846 - Outros Encargos Especiais,279625919.41,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,Despesas Intraorçamentárias,430801830.08,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,Despesas Exceto Intraorçamentárias,10060106631.72,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,01 - Legislativa,245968381.4,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,01.031 - Ação Legislativa,245968381.4,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,02 - Judiciária,63159404.55,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,02.062 - Defesa do Interesse Público no Processo Judiciário,31258.59,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,02.122 - Administração Geral,62986541.03,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,FU02 - Demais Subfunções,141604.93,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,04 - Administração,515139330,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,04.121 - Planejamento e Orçamento,44900,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,04.122 - Administração Geral,483479395.25,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,04.124 - Controle Interno,1687936.07,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,04.126 - Tecnologia da Informação,29506659,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,04.130 - Administração de Concessões,420439.68,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,06 - Segurança Pública,104745368.04,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,06.181 - Policiamento,1003564.95,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,06.122 - Administração Geral,103270803.22,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,FU06 - Demais Subfunções,470999.87,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,08 - Assistência Social,277843840.71,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,08.241 - Assistência ao Idoso,3252180.97,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,08.242 - Assistência ao Portador de Deficiência,5558263.97,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,08.243 - Assistência à Criança e ao Adolescente,49242138.28,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,08.244 - Assistência Comunitária,106394227.73,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,08.122 - Administração Geral,107690153.15,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,FU08 - Demais Subfunções,5706876.61,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,09 - Previdência Social,618110459.74,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,09.272 - Previdência do Regime Estatutário,540244552.92,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,09.274 - Previdência Especial,71251195.04,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,09.122 - Administração Geral,5619067.83,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,FU09 - Demais Subfunções,995643.95,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,10 - Saúde,2329346926.19,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,10.301 - Atenção Básica,119309231.92,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,10.302 - Assistência Hospitalar e Ambulatorial,1087247167.84,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,10.303 - Suporte Profilático e Terapêutico,42383392.51,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,10.304 - Vigilância Sanitária,4358701.44,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,10.305 - Vigilância Epidemiológica,1432281.64,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,10.122 - Administração Geral,987456267.52,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,FU10 - Demais Subfunções,87159883.32,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,11 - Trabalho,21862397.92,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,11.333 - Empregabilidade,3848666.13,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,11.334 - Fomento ao Trabalho,6327813.94,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,11.122 - Administração Geral,11394801.7,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,FU11 - Demais Subfunções,291116.15,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,12 - Educação,2124230349.97,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,12.361 - Ensino Fundamental,1556232669.9,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,12.365 - Educação Infantil,543083649.07,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,12.366 - Educação de Jovens e Adultos,2968303.81,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,12.367 - Educação Especial,4802829.62,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,12.122 - Administração Geral,1266048.96,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,FU12 - Demais Subfunções,15876848.61,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,13 - Cultura,71348997.14,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,13.392 - Difusão Cultural,39337212.51,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,13.122 - Administração Geral,15729959.01,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,FU13 - Demais Subfunções,16281825.62,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,14 - Direitos da Cidadania,38591562.8,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,"14.422 - Direitos Individuais, Coletivos e Difusos",7918978.38,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,14.122 - Administração Geral,18684554.41,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,FU14 - Demais Subfunções,11988030.01,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,15 - Urbanismo,2079210869.88,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,15.451 - Infraestrutura Urbana,676412012.37,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,15.452 - Serviços Urbanos,1002070767.12,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,15.122 - Administração Geral,382567073.15,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,FU15 - Demais Subfunções,18161017.24,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,16 - Habitação,131617963.08,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,16.482 - Habitação Urbana,77144064.6,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,16.122 - Administração Geral,21376290.45,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,FU16 - Demais Subfunções,33097608.03,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,17 - Saneamento,69624220.74,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,17.512 - Saneamento Básico Urbano,69624220.74,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,18 - Gestão Ambiental,34276300.41,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,18.541 - Preservação e Conservação Ambiental,24350481.39,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,18.542 - Controle Ambiental,3250.1,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,18.122 - Administração Geral,9624801.43,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,FU18 - Demais Subfunções,297767.49,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,19 - Ciência e Tecnologia,118562078.86,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,19.572 - Desenvolvimento Tecnológico e Engenharia,52246750.29,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,19.122 - Administração Geral,46109670.96,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,FU19 - Demais Subfunções,20205657.61,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,22 - Indústria,23857366.8,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,22.122 - Administração Geral,20761279.03,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,FU22 - Demais Subfunções,3096087.77,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,23 - Comércio e Serviços,318898038.47,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,23.695 - Turismo,261291779.26,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,23.122 - Administração Geral,54952787.56,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,FU23 - Demais Subfunções,2653471.65,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,24 - Comunicações,121512807.24,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,24.122 - Administração Geral,29977516.91,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,FU24 - Demais Subfunções,91535290.33,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,26 - Transporte,193735102.19,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,26.785 - Transportes Especiais,705263.8,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,26.122 - Administração Geral,26896136.84,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,FU26 - Demais Subfunções,166133701.55,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,27 - Desporto e Lazer,30008145.95,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,27.812 - Desporto Comunitário,30008145.95,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,28 - Encargos Especiais,528456719.64,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,28.843 - Serviço da Dívida Interna,266351933.54,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,28.846 - Outros Encargos Especiais,262104786.1,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,Despesas Intraorçamentárias,430801830.08,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,Despesas Exceto Intraorçamentárias,9588670527.98,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,01 - Legislativa,244427357.48,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,01.031 - Ação Legislativa,244427357.48,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,02 - Judiciária,62989736.54,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,02.062 - Defesa do Interesse Público no Processo Judiciário,31258.59,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,02.122 - Administração Geral,62831798.02,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,FU02 - Demais Subfunções,126679.93,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,04 - Administração,493194670.07,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,04.121 - Planejamento e Orçamento,44900,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,04.122 - Administração Geral,464078320.15,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,04.124 - Controle Interno,1439459.07,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,04.126 - Tecnologia da Informação,27358936.18,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,04.130 - Administração de Concessões,273054.67,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,06 - Segurança Pública,104536520.51,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,06.181 - Policiamento,893561.95,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,06.122 - Administração Geral,103183993.26,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,FU06 - Demais Subfunções,458965.3,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,08 - Assistência Social,263980990.99,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,08.241 - Assistência ao Idoso,3252180.97,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,08.242 - Assistência ao Portador de Deficiência,5558263.97,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,08.243 - Assistência à Criança e ao Adolescente,47018897.19,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,08.244 - Assistência Comunitária,102320975.44,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,08.122 - Administração Geral,100778408.1,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,FU08 - Demais Subfunções,5052265.32,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,09 - Previdência Social,618097439.74,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,09.272 - Previdência do Regime Estatutário,540244552.92,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,09.274 - Previdência Especial,71251195.04,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,09.122 - Administração Geral,5606047.83,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,FU09 - Demais Subfunções,995643.95,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,10 - Saúde,2229325760.75,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,10.301 - Atenção Básica,113714146.25,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,10.302 - Assistência Hospitalar e Ambulatorial,1016741952.64,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,10.303 - Suporte Profilático e Terapêutico,39790947.9,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,10.304 - Vigilância Sanitária,3970957.34,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,10.305 - Vigilância Epidemiológica,1374510.13,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,10.122 - Administração Geral,971279393.45,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,FU10 - Demais Subfunções,82453853.04,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,11 - Trabalho,18672423.11,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,11.333 - Empregabilidade,2698666.13,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,11.334 - Fomento ao Trabalho,6177643.12,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,11.122 - Administração Geral,9514882.6,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,FU11 - Demais Subfunções,281231.26,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,12 - Educação,2000259779.72,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,12.361 - Ensino Fundamental,1467215619.09,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,12.365 - Educação Infantil,511630320.9,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,12.366 - Educação de Jovens e Adultos,2701028.62,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,12.367 - Educação Especial,3783320.36,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,12.122 - Administração Geral,1266048.96,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,FU12 - Demais Subfunções,13663441.79,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,13 - Cultura,51284716.39,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,13.392 - Difusão Cultural,25644128.59,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,13.122 - Administração Geral,14154425.41,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,FU13 - Demais Subfunções,11486162.39,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,14 - Direitos da Cidadania,36459949.95,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,"14.422 - Direitos Individuais, Coletivos e Difusos",7122831.19,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,14.122 - Administração Geral,17984440,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,FU14 - Demais Subfunções,11352678.76,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,15 - Urbanismo,1981328121.76,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,15.451 - Infraestrutura Urbana,619250758.45,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,15.452 - Serviços Urbanos,971161510.36,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,15.122 - Administração Geral,374696250.94,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,FU15 - Demais Subfunções,16219602.01,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,16 - Habitação,117194472.6,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,16.482 - Habitação Urbana,68398424.33,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,16.122 - Administração Geral,19226128.76,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,FU16 - Demais Subfunções,29569919.51,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,17 - Saneamento,64246669.77,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,17.512 - Saneamento Básico Urbano,64246669.77,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,18 - Gestão Ambiental,34037203.36,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,18.541 - Preservação e Conservação Ambiental,24256074.32,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,18.542 - Controle Ambiental,3250.1,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,18.122 - Administração Geral,9480111.45,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,FU18 - Demais Subfunções,297767.49,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,19 - Ciência e Tecnologia,108854307.75,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,19.572 - Desenvolvimento Tecnológico e Engenharia,46665871.56,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,19.122 - Administração Geral,45451331.94,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,FU19 - Demais Subfunções,16737104.25,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,22 - Indústria,23464409.43,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,22.122 - Administração Geral,20429370.73,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,FU22 - Demais Subfunções,3035038.7,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,23 - Comércio e Serviços,298348708.41,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,23.695 - Turismo,241479341.07,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,23.122 - Administração Geral,54288067.45,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,FU23 - Demais Subfunções,2581299.89,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,24 - Comunicações,113850833.09,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,24.122 - Administração Geral,29768877.97,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,FU24 - Demais Subfunções,84081955.12,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,26 - Transporte,170848918.18,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,26.785 - Transportes Especiais,672123.8,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,26.122 - Administração Geral,26165497.95,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,FU26 - Demais Subfunções,144011296.43,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,27 - Desporto e Lazer,25186063.91,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,27.812 - Desporto Comunitário,25186063.91,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,28 - Encargos Especiais,528081474.47,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,28.843 - Serviço da Dívida Interna,266351933.54,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,28.846 - Outros Encargos Especiais,261729540.93,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,Despesas Intraorçamentárias,395748338.72,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,Despesas Exceto Intraorçamentárias,442726341.67,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,01 - Legislativa,365560.75,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,01.031 - Ação Legislativa,365560.75,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,02 - Judiciária,1473071.32,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,02.122 - Administração Geral,1431858.66,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,FU02 - Demais Subfunções,41212.66,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,04 - Administração,21525563.19,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,04.122 - Administração Geral,16580610.38,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,04.124 - Controle Interno,500145.71,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,04.126 - Tecnologia da Informação,4444807.1,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,06 - Segurança Pública,2504092.38,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,06.181 - Policiamento,1417150.74,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,06.122 - Administração Geral,933400.99,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,FU06 - Demais Subfunções,153540.65,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,08 - Assistência Social,13821164.37,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,08.242 - Assistência ao Portador de Deficiência,7371.42,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,08.243 - Assistência à Criança e ao Adolescente,2034247.3,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,08.244 - Assistência Comunitária,4591497.55,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,08.122 - Administração Geral,5937343.57,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,FU08 - Demais Subfunções,1250704.53,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,09 - Previdência Social,1557965.33,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,09.122 - Administração Geral,1324239.74,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,FU09 - Demais Subfunções,233725.59,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,10 - Saúde,41894834.42,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,10.301 - Atenção Básica,13022864.41,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,10.302 - Assistência Hospitalar e Ambulatorial,17275264.07,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,10.303 - Suporte Profilático e Terapêutico,2009498.13,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,10.304 - Vigilância Sanitária,379267.41,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,10.305 - Vigilância Epidemiológica,21802.45,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,10.122 - Administração Geral,5692344.55,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,FU10 - Demais Subfunções,3493793.4,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,11 - Trabalho,2645133.95,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,11.333 - Empregabilidade,8691.88,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,11.334 - Fomento ao Trabalho,1043420.83,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,11.122 - Administração Geral,1374857.93,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,FU11 - Demais Subfunções,218163.31,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,12 - Educação,39143473.7,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,12.361 - Ensino Fundamental,31818911.12,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,12.365 - Educação Infantil,4902006.68,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,12.367 - Educação Especial,314881.21,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,FU12 - Demais Subfunções,2107674.69,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,13 - Cultura,10990619.66,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,13.392 - Difusão Cultural,1547191.15,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,13.122 - Administração Geral,1070487.06,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,FU13 - Demais Subfunções,8372941.45,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,14 - Direitos da Cidadania,6059133.29,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,"14.422 - Direitos Individuais, Coletivos e Difusos",221751.9,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,14.122 - Administração Geral,3078757.93,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,FU14 - Demais Subfunções,2758623.46,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,15 - Urbanismo,139997856.74,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,15.451 - Infraestrutura Urbana,56634609.26,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,15.452 - Serviços Urbanos,65362590.61,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,15.122 - Administração Geral,14178057.35,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,FU15 - Demais Subfunções,3822599.52,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,16 - Habitação,20333778.48,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,16.482 - Habitação Urbana,11398504.72,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,16.122 - Administração Geral,2782220.72,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,FU16 - Demais Subfunções,6153053.04,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,17 - Saneamento,1586664.31,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,17.512 - Saneamento Básico Urbano,1586664.31,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,18 - Gestão Ambiental,2748219.39,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,18.541 - Preservação e Conservação Ambiental,1458984.67,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,18.542 - Controle Ambiental,707753.66,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,18.122 - Administração Geral,516333.04,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,FU18 - Demais Subfunções,65148.02,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,19 - Ciência e Tecnologia,11992071.2,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,19.572 - Desenvolvimento Tecnológico e Engenharia,6691586.65,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,19.122 - Administração Geral,1434223.31,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,FU19 - Demais Subfunções,3866261.24,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,22 - Indústria,1401112.64,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,22.122 - Administração Geral,1265883.5,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,FU22 - Demais Subfunções,135229.14,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,23 - Comércio e Serviços,50318162.43,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,23.695 - Turismo,49255992.54,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,23.122 - Administração Geral,790933.93,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,FU23 - Demais Subfunções,271235.96,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,24 - Comunicações,26995235.6,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,24.122 - Administração Geral,3317019.82,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,FU24 - Demais Subfunções,23678215.78,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,26 - Transporte,25706762.32,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,26.785 - Transportes Especiais,195631.32,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,26.122 - Administração Geral,1180886.74,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,FU26 - Demais Subfunções,24330244.26,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,27 - Desporto e Lazer,2144732.89,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,27.812 - Desporto Comunitário,2144732.89,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,28 - Encargos Especiais,17521133.31,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,28.846 - Outros Encargos Especiais,17521133.31,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,Despesas Exceto Intraorçamentárias,471436103.74,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,01 - Legislativa,1541023.92,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,01.031 - Ação Legislativa,1541023.92,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,02 - Judiciária,169668.01,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,02.122 - Administração Geral,154743.01,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,FU02 - Demais Subfunções,14925,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,04 - Administração,21944659.93,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,04.122 - Administração Geral,19401075.1,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,04.124 - Controle Interno,248477,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,04.126 - Tecnologia da Informação,2147722.82,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,04.130 - Administração de Concessões,147385.01,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,06 - Segurança Pública,208847.53,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,06.181 - Policiamento,110003,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,06.122 - Administração Geral,86809.96,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,FU06 - Demais Subfunções,12034.57,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,08 - Assistência Social,13862849.72,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,08.243 - Assistência à Criança e ao Adolescente,2223241.09,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,08.244 - Assistência Comunitária,4073252.29,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,08.122 - Administração Geral,6911745.05,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,FU08 - Demais Subfunções,654611.29,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,09 - Previdência Social,13020,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,09.122 - Administração Geral,13020,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,10 - Saúde,100021165.44,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,10.301 - Atenção Básica,5595085.67,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,10.302 - Assistência Hospitalar e Ambulatorial,70505215.2,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,10.303 - Suporte Profilático e Terapêutico,2592444.61,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,10.304 - Vigilância Sanitária,387744.1,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,10.305 - Vigilância Epidemiológica,57771.51,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,10.122 - Administração Geral,16176874.07,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,FU10 - Demais Subfunções,4706030.28,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,11 - Trabalho,3189974.81,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,11.333 - Empregabilidade,1150000,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,11.334 - Fomento ao Trabalho,150170.82,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,11.122 - Administração Geral,1879919.1,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,FU11 - Demais Subfunções,9884.89,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,12 - Educação,123970570.25,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,12.361 - Ensino Fundamental,89017050.81,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,12.365 - Educação Infantil,31453328.17,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,12.366 - Educação de Jovens e Adultos,267275.19,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,12.367 - Educação Especial,1019509.26,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,FU12 - Demais Subfunções,2213406.82,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,13 - Cultura,20064280.75,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,13.392 - Difusão Cultural,13693083.92,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,13.122 - Administração Geral,1575533.6,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,FU13 - Demais Subfunções,4795663.23,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,14 - Direitos da Cidadania,2131612.85,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,"14.422 - Direitos Individuais, Coletivos e Difusos",796147.19,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,14.122 - Administração Geral,700114.41,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,FU14 - Demais Subfunções,635351.25,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,15 - Urbanismo,97882748.12,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,15.451 - Infraestrutura Urbana,57161253.92,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,15.452 - Serviços Urbanos,30909256.76,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,15.122 - Administração Geral,7870822.21,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,FU15 - Demais Subfunções,1941415.23,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,16 - Habitação,14423490.48,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,16.482 - Habitação Urbana,8745640.27,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,16.122 - Administração Geral,2150161.69,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,FU16 - Demais Subfunções,3527688.52,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,17 - Saneamento,5377550.97,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,17.512 - Saneamento Básico Urbano,5377550.97,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,18 - Gestão Ambiental,239097.05,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,18.541 - Preservação e Conservação Ambiental,94407.07,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,18.122 - Administração Geral,144689.98,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,19 - Ciência e Tecnologia,9707771.11,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,19.572 - Desenvolvimento Tecnológico e Engenharia,5580878.73,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,19.122 - Administração Geral,658339.02,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,FU19 - Demais Subfunções,3468553.36,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,22 - Indústria,392957.37,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,22.122 - Administração Geral,331908.3,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,FU22 - Demais Subfunções,61049.07,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,23 - Comércio e Serviços,20549330.06,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,23.695 - Turismo,19812438.19,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,23.122 - Administração Geral,664720.11,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,FU23 - Demais Subfunções,72171.76,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,24 - Comunicações,7661974.15,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,24.122 - Administração Geral,208638.94,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,FU24 - Demais Subfunções,7453335.21,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,26 - Transporte,22886184.01,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,26.785 - Transportes Especiais,33140,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,26.122 - Administração Geral,730638.89,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,FU26 - Demais Subfunções,22122405.12,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,27 - Desporto e Lazer,4822082.04,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,27.812 - Desporto Comunitário,4822082.04,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,28 - Encargos Especiais,375245.17,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,28.846 - Outros Encargos Especiais,375245.17,2900319
+2023,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,Despesas Intraorçamentárias,35053491.36,2900319

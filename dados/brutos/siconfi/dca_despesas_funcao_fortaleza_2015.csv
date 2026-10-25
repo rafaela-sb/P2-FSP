@@ -1,0 +1,368 @@
+exercicio,instituicao,cod_ibge,uf,anexo,rotulo,coluna,cod_conta,conta,valor,populacao
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,Despesas (Exceto Intraorçamentárias),5489833404.37,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,01 - Legislativa,140247165.04,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,01.031 - Ação Legislativa,140247165.04,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,02 - Judiciária,34750221.59,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,02.999 - Demais Subfunções Judiciária,34750221.59,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,03 - Essencial à Justiça,215359.37,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,03.999 - Demais Subfunções Essencial à Justiça,215359.37,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,04 - Administração,538439622.88,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,04.121 - Planejamento e Orçamento,1383900.44,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,04.122 - Administração Geral,519579938.54,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,04.125 - Normatização e Fiscalização,2136984.65,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,04.126 - Tecnologia da Informação,15009363.6,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,04.128 - Formação de Recursos Humanos,154748.71,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,04.129 - Administração de Receitas,174686.94,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,06 - Segurança Pública,153408230.87,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,06.181 - Policiamento,53608720.06,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,06.182 - Defesa Civil,2127630,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,06.999 - Demais Subfunções Segurança Pública,97671880.81,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,08 - Assistência Social,91808156.74,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,08.243 - Assistência à Criança e ao Adolescente,6712908.02,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,08.244 - Assistência Comunitária,39220380.84,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,08.999 - Demais Subfunções Assistência Social,45874867.88,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,09 - Previdência Social,578803278.61,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,09.999 - Demais Subfunções Previdência Social,578803278.61,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,10 - Saúde,1741826070.36,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,10.301 - Atenção Básica,153835250.97,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,10.302 - Assistência Hospitalar e Ambulatorial,1018733996.83,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,10.303 - Suporte Profilático e Terapêutico,21513262.09,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,10.304 - Vigilância Sanitária,30082836.89,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,10.305 - Vigilância Epidemiológica,149052.36,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,10.999 - Demais Subfunções Saúde,517511671.22,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,11 - Trabalho,4616351.18,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,11.331 - Proteção e Benefícios ao Trabalhador,812998.38,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,11.333 - Empregabilidade,3803352.8,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,12 - Educação,1064904674.19,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,12.361 - Ensino Fundamental,747173765.51,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,12.362 - Ensino Médio,2363444.54,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,12.363 - Ensino Profissional,282019.08,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,12.365 - Educação Infantil,118591928.23,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,12.366 - Educação de Jovens e Adultos,1376204.89,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,12.367 - Educação Especial,309092.42,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,12.368 - Educação Básica,130437128.91,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,12.999 - Demais Subfunções Educação,64371090.61,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,13 - Cultura,31789781.39,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,"13.391 - Patrimônio Histórico, Artístico e Arqueológico",134709,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,13.392 - Difusão Cultural,10608341.55,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,13.999 - Demais Subfunções Cultura,21046730.84,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,14 - Direitos da Cidadania,26410730.21,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,"14.422 - Direitos Individuais, Coletivos e Difusos",1184119.8,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,14.999 - Demais Subfunções Direitos da Cidadania,25226610.41,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,15 - Urbanismo,770287124.92,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,15.451 - Infraestrutura Urbana,287649641.44,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,15.452 - Serviços Urbanos,407426303.32,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,15.453 - Transportes Coletivos Urbanos,63907487.5,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,15.999 - Demais Subfunções Urbanismo,11303692.66,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,16 - Habitação,23957162.6,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,16.482 - Habitação Urbana,8657733.38,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,16.999 - Demais Subfunções Habitação,15299429.22,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,18 - Gestão Ambiental,85116536.45,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,18.541 - Preservação e Conservação Ambiental,611009,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,18.542 - Controle Ambiental,317235.89,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,18.543 - Recuperação de Áreas Degradadas,830352.89,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,18.999 - Demais Subfunções Gestão Ambiental,83357938.67,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,19 - Ciência e Tecnologia,3214131.79,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,19.573 - Difusão do Conhecimento Científico e Tecnológico,145255.54,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,19.999 - Demais Subfunções Ciência e Tecnologia,3068876.25,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,23 - Comércio e Serviços,46891939.52,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,23.695 - Turismo,42250803.36,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,23.999 - Demais Subfunções Comércio e Serviços,4641136.16,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,27 - Desporto e Lazer,17587854.44,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,27.812 - Desporto Comunitário,2078410.69,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,27.813 - Lazer,11659726.65,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,27.999 - Demais Subfunções Desporto e Lazer,3849717.1,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,28 - Encargos Especiais,135559012.22,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,28.843 - Serviço da Dívida Interna,42192018.13,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,28.844 - Serviço da Dívida Externa,31157845.47,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,28.846 - Outros Encargos Especiais,62209148.62,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,Despesas (Intraorçamentárias),357994258.98,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,Despesas (Exceto Intraorçamentárias),5107863849.01,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,01 - Legislativa,139987049.08,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,01.031 - Ação Legislativa,139987049.08,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,02 - Judiciária,34680546.83,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,02.999 - Demais Subfunções Judiciária,34680546.83,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,03 - Essencial à Justiça,199209.37,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,03.999 - Demais Subfunções Essencial à Justiça,199209.37,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,04 - Administração,514295018.11,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,04.121 - Planejamento e Orçamento,1383900.44,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,04.122 - Administração Geral,496226819.13,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,04.125 - Normatização e Fiscalização,2076040.65,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,04.126 - Tecnologia da Informação,14320147.6,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,04.128 - Formação de Recursos Humanos,148748.71,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,04.129 - Administração de Receitas,139361.58,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,06 - Segurança Pública,136434196.92,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,06.181 - Policiamento,38452680.54,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,06.182 - Defesa Civil,2127630,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,06.999 - Demais Subfunções Segurança Pública,95853886.38,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,08 - Assistência Social,88642130.19,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,08.243 - Assistência à Criança e ao Adolescente,6284867.71,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,08.244 - Assistência Comunitária,36979800.92,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,08.999 - Demais Subfunções Assistência Social,45377461.56,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,09 - Previdência Social,575580313.54,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,09.999 - Demais Subfunções Previdência Social,575580313.54,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,10 - Saúde,1643883456.83,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,10.301 - Atenção Básica,146089198.51,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,10.302 - Assistência Hospitalar e Ambulatorial,963130223.34,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,10.303 - Suporte Profilático e Terapêutico,20343629.58,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,10.304 - Vigilância Sanitária,29926828.26,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,10.305 - Vigilância Epidemiológica,149052.36,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,10.999 - Demais Subfunções Saúde,484244524.78,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,11 - Trabalho,4328280.52,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,11.331 - Proteção e Benefícios ao Trabalhador,798743.52,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,11.333 - Empregabilidade,3529537,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,12 - Educação,1023983783.42,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,12.361 - Ensino Fundamental,744270528.78,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,12.362 - Ensino Médio,2363444.54,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,12.363 - Ensino Profissional,282019.08,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,12.365 - Educação Infantil,114524418.8,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,12.366 - Educação de Jovens e Adultos,1050979.61,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,12.367 - Educação Especial,309092.42,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,12.368 - Educação Básica,98659917.19,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,12.999 - Demais Subfunções Educação,62523383,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,13 - Cultura,31588661.4,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,"13.391 - Patrimônio Histórico, Artístico e Arqueológico",134709,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,13.392 - Difusão Cultural,10511641.55,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,13.999 - Demais Subfunções Cultura,20942310.85,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,14 - Direitos da Cidadania,26357368.25,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,"14.422 - Direitos Individuais, Coletivos e Difusos",1176119.8,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,14.999 - Demais Subfunções Direitos da Cidadania,25181248.45,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,15 - Urbanismo,613455040.18,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,15.451 - Infraestrutura Urbana,195278119.57,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,15.452 - Serviços Urbanos,346179259.37,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,15.453 - Transportes Coletivos Urbanos,61349322.54,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,15.999 - Demais Subfunções Urbanismo,10648338.7,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,16 - Habitação,22443822.25,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,16.482 - Habitação Urbana,7154836.04,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,16.999 - Demais Subfunções Habitação,15288986.21,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,18 - Gestão Ambiental,83317960.57,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,18.541 - Preservação e Conservação Ambiental,603599,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,18.542 - Controle Ambiental,300958.89,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,18.543 - Recuperação de Áreas Degradadas,100079.1,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,18.999 - Demais Subfunções Gestão Ambiental,82313323.58,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,19 - Ciência e Tecnologia,3068558.75,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,19.573 - Difusão do Conhecimento Científico e Tecnológico,145255.54,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,19.999 - Demais Subfunções Ciência e Tecnologia,2923303.21,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,23 - Comércio e Serviços,20115647.9,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,23.695 - Turismo,15515016.43,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,23.999 - Demais Subfunções Comércio e Serviços,4600631.47,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,27 - Desporto e Lazer,13974372.15,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,27.812 - Desporto Comunitário,1499420.08,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,27.813 - Lazer,8692164.37,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,27.999 - Demais Subfunções Desporto e Lazer,3782787.7,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,28 - Encargos Especiais,131528432.75,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,28.843 - Serviço da Dívida Interna,39805418.13,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,28.844 - Serviço da Dívida Externa,31157845.47,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,28.846 - Outros Encargos Especiais,60565169.15,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,Despesas (Intraorçamentárias),350016888.35,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,Despesas (Exceto Intraorçamentárias),4966025740.34,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,01 - Legislativa,139305126.49,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,01.031 - Ação Legislativa,139305126.49,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,02 - Judiciária,34203871.24,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,02.999 - Demais Subfunções Judiciária,34203871.24,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,03 - Essencial à Justiça,148105.37,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,03.999 - Demais Subfunções Essencial à Justiça,148105.37,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,04 - Administração,492606156.07,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,04.121 - Planejamento e Orçamento,1383900.44,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,04.122 - Administração Geral,480188731.2,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,04.125 - Normatização e Fiscalização,2076040.65,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,04.126 - Tecnologia da Informação,8694972.1,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,04.128 - Formação de Recursos Humanos,148748.71,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,04.129 - Administração de Receitas,113762.97,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,06 - Segurança Pública,134155689.18,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,06.181 - Policiamento,38364866.05,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,06.182 - Defesa Civil,2071980,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,06.999 - Demais Subfunções Segurança Pública,93718843.13,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,08 - Assistência Social,83471173.91,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,08.243 - Assistência à Criança e ao Adolescente,6284867.71,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,08.244 - Assistência Comunitária,33416858.33,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,08.999 - Demais Subfunções Assistência Social,43769447.87,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,09 - Previdência Social,575560385.67,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,09.999 - Demais Subfunções Previdência Social,575560385.67,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,10 - Saúde,1619143681.38,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,10.301 - Atenção Básica,142682935.06,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,10.302 - Assistência Hospitalar e Ambulatorial,945982644.24,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,10.303 - Suporte Profilático e Terapêutico,19570525.28,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,10.304 - Vigilância Sanitária,29848128.55,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,10.305 - Vigilância Epidemiológica,136631.33,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,10.999 - Demais Subfunções Saúde,480922816.92,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,11 - Trabalho,3300611.67,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,11.331 - Proteção e Benefícios ao Trabalhador,119899.45,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,11.333 - Empregabilidade,3180712.22,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,12 - Educação,999007089.28,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,12.361 - Ensino Fundamental,729148866.1,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,12.362 - Ensino Médio,2363444.54,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,12.363 - Ensino Profissional,191500,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,12.365 - Educação Infantil,111842466.32,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,12.366 - Educação de Jovens e Adultos,1050979.61,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,12.367 - Educação Especial,309092.42,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,12.368 - Educação Básica,93328430.02,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,12.999 - Demais Subfunções Educação,60772310.27,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,13 - Cultura,29170514.15,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,"13.391 - Patrimônio Histórico, Artístico e Arqueológico",134709,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,13.392 - Difusão Cultural,8501457.77,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,13.999 - Demais Subfunções Cultura,20534347.38,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,14 - Direitos da Cidadania,25225630.76,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,"14.422 - Direitos Individuais, Coletivos e Difusos",1176038.03,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,14.999 - Demais Subfunções Direitos da Cidadania,24049592.73,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,15 - Urbanismo,581234363.37,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,15.451 - Infraestrutura Urbana,170209826.44,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,15.452 - Serviços Urbanos,342548599.46,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,15.453 - Transportes Coletivos Urbanos,59121357.04,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,15.999 - Demais Subfunções Urbanismo,9354580.43,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,16 - Habitação,20896570.88,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,16.482 - Habitação Urbana,6829689.12,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,16.999 - Demais Subfunções Habitação,14066881.76,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,18 - Gestão Ambiental,81943159.53,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,18.541 - Preservação e Conservação Ambiental,603599,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,18.542 - Controle Ambiental,300958.89,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,18.543 - Recuperação de Áreas Degradadas,100079.1,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,18.999 - Demais Subfunções Gestão Ambiental,80938522.54,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,19 - Ciência e Tecnologia,3021512.33,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,19.573 - Difusão do Conhecimento Científico e Tecnológico,145255.54,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,19.999 - Demais Subfunções Ciência e Tecnologia,2876256.79,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,23 - Comércio e Serviços,16442611.04,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,23.695 - Turismo,11962107.83,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,23.999 - Demais Subfunções Comércio e Serviços,4480503.21,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,27 - Desporto e Lazer,12984080.81,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,27.812 - Desporto Comunitário,1497585.72,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,27.813 - Lazer,7879105.93,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,27.999 - Demais Subfunções Desporto e Lazer,3607389.16,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,28 - Encargos Especiais,114205407.21,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,28.843 - Serviço da Dívida Interna,39805418.13,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,28.844 - Serviço da Dívida Externa,31157845.47,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,28.846 - Outros Encargos Especiais,43242143.61,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,Despesas (Intraorçamentárias),329590596.39,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,Despesas (Exceto Intraorçamentárias),381969555.36,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,01 - Legislativa,260115.96,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,01.031 - Ação Legislativa,260115.96,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,02 - Judiciária,69674.76,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,02.999 - Demais Subfunções Judiciária,69674.76,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,03 - Essencial à Justiça,16150,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,03.999 - Demais Subfunções Essencial à Justiça,16150,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,04 - Administração,24144604.77,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,04.122 - Administração Geral,23353119.41,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,04.125 - Normatização e Fiscalização,60944,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,04.126 - Tecnologia da Informação,689216,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,04.128 - Formação de Recursos Humanos,6000,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,04.129 - Administração de Receitas,35325.36,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,06 - Segurança Pública,16974033.95,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,06.181 - Policiamento,15156039.52,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,06.999 - Demais Subfunções Segurança Pública,1817994.43,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,08 - Assistência Social,3166026.55,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,08.243 - Assistência à Criança e ao Adolescente,428040.31,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,08.244 - Assistência Comunitária,2240579.92,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,08.999 - Demais Subfunções Assistência Social,497406.32,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,09 - Previdência Social,3222965.07,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,09.999 - Demais Subfunções Previdência Social,3222965.07,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,10 - Saúde,97942613.53,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,10.301 - Atenção Básica,7746052.46,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,10.302 - Assistência Hospitalar e Ambulatorial,55603773.49,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,10.303 - Suporte Profilático e Terapêutico,1169632.51,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,10.304 - Vigilância Sanitária,156008.63,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,10.999 - Demais Subfunções Saúde,33267146.44,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,11 - Trabalho,288070.66,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,11.331 - Proteção e Benefícios ao Trabalhador,14254.86,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,11.333 - Empregabilidade,273815.8,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,12 - Educação,40920890.77,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,12.361 - Ensino Fundamental,2903236.73,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,12.365 - Educação Infantil,4067509.43,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,12.366 - Educação de Jovens e Adultos,325225.28,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,12.368 - Educação Básica,31777211.72,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,12.999 - Demais Subfunções Educação,1847707.61,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,13 - Cultura,201119.99,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,13.392 - Difusão Cultural,96700,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,13.999 - Demais Subfunções Cultura,104419.99,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,14 - Direitos da Cidadania,53361.96,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,"14.422 - Direitos Individuais, Coletivos e Difusos",8000,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,14.999 - Demais Subfunções Direitos da Cidadania,45361.96,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,15 - Urbanismo,156832084.74,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,15.451 - Infraestrutura Urbana,92371521.87,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,15.452 - Serviços Urbanos,61247043.95,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,15.453 - Transportes Coletivos Urbanos,2558164.96,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,15.999 - Demais Subfunções Urbanismo,655353.96,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,16 - Habitação,1513340.35,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,16.482 - Habitação Urbana,1502897.34,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,16.999 - Demais Subfunções Habitação,10443.01,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,18 - Gestão Ambiental,1798575.88,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,18.541 - Preservação e Conservação Ambiental,7410,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,18.542 - Controle Ambiental,16277,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,18.543 - Recuperação de Áreas Degradadas,730273.79,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,18.999 - Demais Subfunções Gestão Ambiental,1044615.09,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,19 - Ciência e Tecnologia,145573.04,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,19.999 - Demais Subfunções Ciência e Tecnologia,145573.04,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,23 - Comércio e Serviços,26776291.62,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,23.695 - Turismo,26735786.93,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,23.999 - Demais Subfunções Comércio e Serviços,40504.69,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,27 - Desporto e Lazer,3613482.29,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,27.812 - Desporto Comunitário,578990.61,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,27.813 - Lazer,2967562.28,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,27.999 - Demais Subfunções Desporto e Lazer,66929.4,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,28 - Encargos Especiais,4030579.47,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,28.843 - Serviço da Dívida Interna,2386600,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,28.846 - Outros Encargos Especiais,1643979.47,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,Despesas (Intraorçamentárias),7977370.63,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,Despesas (Exceto Intraorçamentárias),141838108.67,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,01 - Legislativa,681922.59,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,01.031 - Ação Legislativa,681922.59,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,02 - Judiciária,476675.59,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,02.999 - Demais Subfunções Judiciária,476675.59,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,03 - Essencial à Justiça,51104,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,03.999 - Demais Subfunções Essencial à Justiça,51104,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,04 - Administração,21688862.04,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,04.122 - Administração Geral,16038087.93,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,04.126 - Tecnologia da Informação,5625175.5,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,04.129 - Administração de Receitas,25598.61,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,06 - Segurança Pública,2278507.74,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,06.181 - Policiamento,87814.49,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,06.182 - Defesa Civil,55650,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,06.999 - Demais Subfunções Segurança Pública,2135043.25,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,08 - Assistência Social,5170956.28,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,08.244 - Assistência Comunitária,3562942.59,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,08.999 - Demais Subfunções Assistência Social,1608013.69,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,09 - Previdência Social,19927.87,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,09.999 - Demais Subfunções Previdência Social,19927.87,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,10 - Saúde,24739775.45,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,10.301 - Atenção Básica,3406263.45,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,10.302 - Assistência Hospitalar e Ambulatorial,17147579.1,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,10.303 - Suporte Profilático e Terapêutico,773104.3,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,10.304 - Vigilância Sanitária,78699.71,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,10.305 - Vigilância Epidemiológica,12421.03,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,10.999 - Demais Subfunções Saúde,3321707.86,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,11 - Trabalho,1027668.85,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,11.331 - Proteção e Benefícios ao Trabalhador,678844.07,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,11.333 - Empregabilidade,348824.78,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,12 - Educação,24976694.14,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,12.361 - Ensino Fundamental,15121662.68,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,12.363 - Ensino Profissional,90519.08,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,12.365 - Educação Infantil,2681952.48,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,12.368 - Educação Básica,5331487.17,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,12.999 - Demais Subfunções Educação,1751072.73,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,13 - Cultura,2418147.25,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,13.392 - Difusão Cultural,2010183.78,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,13.999 - Demais Subfunções Cultura,407963.47,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,14 - Direitos da Cidadania,1131737.49,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,"14.422 - Direitos Individuais, Coletivos e Difusos",81.77,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,14.999 - Demais Subfunções Direitos da Cidadania,1131655.72,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,15 - Urbanismo,32220676.81,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,15.451 - Infraestrutura Urbana,25068293.13,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,15.452 - Serviços Urbanos,3630659.91,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,15.453 - Transportes Coletivos Urbanos,2227965.5,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,15.999 - Demais Subfunções Urbanismo,1293758.27,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,16 - Habitação,1547251.37,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,16.482 - Habitação Urbana,325146.92,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,16.999 - Demais Subfunções Habitação,1222104.45,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,18 - Gestão Ambiental,1374801.04,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,18.999 - Demais Subfunções Gestão Ambiental,1374801.04,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,19 - Ciência e Tecnologia,47046.42,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,19.999 - Demais Subfunções Ciência e Tecnologia,47046.42,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,23 - Comércio e Serviços,3673036.86,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,23.695 - Turismo,3552908.6,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,23.999 - Demais Subfunções Comércio e Serviços,120128.26,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,27 - Desporto e Lazer,990291.34,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,27.812 - Desporto Comunitário,1834.36,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,27.813 - Lazer,813058.44,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,27.999 - Demais Subfunções Desporto e Lazer,175398.54,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,28 - Encargos Especiais,17323025.54,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,28.846 - Outros Encargos Especiais,17323025.54,2571896
+2015,Prefeitura Municipal de Fortaleza - CE,2304400,CE,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,Despesas (Intraorçamentárias),20426291.96,2571896

@@ -1,0 +1,352 @@
+exercicio,instituicao,cod_ibge,uf,anexo,rotulo,coluna,cod_conta,conta,valor,populacao
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,Despesas Exceto Intraorçamentárias,5261582807.71,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,01 - Legislativa,152296816.07,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,01.031 - Ação Legislativa,30690425.05,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,01.122 - Administração Geral,104441415.13,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,FU01 - Demais Subfunções,17164975.89,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,03 - Essencial à Justiça,47799714.77,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,03.091 - Defesa da Ordem Jurídica,37725905.4,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,03.122 - Administração Geral,1000,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,FU03 - Demais Subfunções,10072809.37,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,04 - Administração,334525485.38,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,04.122 - Administração Geral,120072335.53,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,04.123 - Administração Financeira,61210061.26,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,04.124 - Controle Interno,8672230.09,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,04.126 - Tecnologia da Informação,30584681.36,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,04.128 - Formação de Recursos Humanos,7521.26,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,04.129 - Administração de Receitas,3776040.9,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,04.131 - Comunicação Social,67840027.21,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,FU04 - Demais Subfunções,42362587.77,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,06 - Segurança Pública,3529973.16,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,FU06 - Demais Subfunções,3529973.16,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,08 - Assistência Social,111382463.6,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,08.241 - Assistência ao Idoso,14480663.76,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,08.243 - Assistência à Criança e ao Adolescente,2163261.13,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,08.244 - Assistência Comunitária,71091818.14,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,08.122 - Administração Geral,1437180.97,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,FU08 - Demais Subfunções,22209539.6,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,09 - Previdência Social,582143683.17,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,09.272 - Previdência do Regime Estatutário,576807993.61,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,09.273 - Previdência Complementar,285391,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,09.122 - Administração Geral,5044116.88,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,FU09 - Demais Subfunções,6181.68,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,10 - Saúde,1548576876.86,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,10.301 - Atenção Básica,645513704.96,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,10.302 - Assistência Hospitalar e Ambulatorial,552645727.98,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,10.303 - Suporte Profilático e Terapêutico,89420417.9,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,10.304 - Vigilância Sanitária,2495148.73,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,10.305 - Vigilância Epidemiológica,45130444.66,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,10.122 - Administração Geral,129031444.32,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,FU10 - Demais Subfunções,84339988.31,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,11 - Trabalho,13259202.49,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,11.122 - Administração Geral,7053705.11,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,FU11 - Demais Subfunções,6205497.38,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,12 - Educação,937612584.68,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,12.361 - Ensino Fundamental,730553794.14,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,12.365 - Educação Infantil,113019788.12,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,12.366 - Educação de Jovens e Adultos,11441048.65,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,12.367 - Educação Especial,1252645.06,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,FU12 - Demais Subfunções,81345308.71,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,13 - Cultura,110206916.93,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,"13.391 - Patrimônio Histórico, Artístico e Arqueológico",4435925.38,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,13.392 - Difusão Cultural,88120992.98,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,13.122 - Administração Geral,16253651.23,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,FU13 - Demais Subfunções,1396347.34,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,14 - Direitos da Cidadania,81978292.14,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,"14.422 - Direitos Individuais, Coletivos e Difusos",79846966.21,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,14.122 - Administração Geral,2131325.93,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,15 - Urbanismo,1020730426.34,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,15.451 - Infraestrutura Urbana,277111247.25,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,15.452 - Serviços Urbanos,431747057.51,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,15.453 - Transportes Coletivos Urbanos,33152927.99,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,15.122 - Administração Geral,176761660.74,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,FU15 - Demais Subfunções,101957532.85,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,16 - Habitação,6452144.08,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,16.482 - Habitação Urbana,1509013.94,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,16.122 - Administração Geral,4943130.14,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,17 - Saneamento,55478087.72,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,17.512 - Saneamento Básico Urbano,54265760.43,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,17.122 - Administração Geral,1212327.29,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,18 - Gestão Ambiental,12438669.11,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,18.541 - Preservação e Conservação Ambiental,10174171.21,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,18.122 - Administração Geral,2264497.9,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,19 - Ciência e Tecnologia,2468219.24,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,19.573 - Difusão do Conhecimento Científico e Tecnológico,550000,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,19.122 - Administração Geral,514094.15,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,FU19 - Demais Subfunções,1404125.09,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,23 - Comércio e Serviços,50618097.77,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,23.691 - Promoção Comercial,21201807.93,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,23.692 - Comercialização,2400,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,23.695 - Turismo,14366653.21,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,23.122 - Administração Geral,11564649.16,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,FU23 - Demais Subfunções,3482587.47,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,27 - Desporto e Lazer,16738244.02,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,27.812 - Desporto Comunitário,1426319.89,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,27.122 - Administração Geral,2876878.89,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,FU27 - Demais Subfunções,12435045.24,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,28 - Encargos Especiais,173346910.18,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,28.843 - Serviço da Dívida Interna,33721015.69,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,28.844 - Serviço da Dívida Externa,41847193.45,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,28.846 - Outros Encargos Especiais,97778701.04,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,Despesas Intraorçamentárias,281154191.32,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,Despesas Exceto Intraorçamentárias,5253912570.12,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,01 - Legislativa,152089721.65,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,01.031 - Ação Legislativa,30537078.55,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,01.122 - Administração Geral,104387667.21,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,FU01 - Demais Subfunções,17164975.89,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,03 - Essencial à Justiça,47799714.77,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,03.091 - Defesa da Ordem Jurídica,37725905.4,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,03.122 - Administração Geral,1000,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,FU03 - Demais Subfunções,10072809.37,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,04 - Administração,334525485.38,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,04.122 - Administração Geral,120072335.53,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,04.123 - Administração Financeira,61210061.26,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,04.124 - Controle Interno,8672230.09,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,04.126 - Tecnologia da Informação,30584681.36,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,04.128 - Formação de Recursos Humanos,7521.26,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,04.129 - Administração de Receitas,3776040.9,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,04.131 - Comunicação Social,67840027.21,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,FU04 - Demais Subfunções,42362587.77,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,06 - Segurança Pública,3529973.16,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,FU06 - Demais Subfunções,3529973.16,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,08 - Assistência Social,111382463.6,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,08.241 - Assistência ao Idoso,14480663.76,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,08.243 - Assistência à Criança e ao Adolescente,2163261.13,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,08.244 - Assistência Comunitária,71091818.14,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,08.122 - Administração Geral,1437180.97,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,FU08 - Demais Subfunções,22209539.6,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,09 - Previdência Social,582143683.17,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,09.272 - Previdência do Regime Estatutário,576807993.61,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,09.273 - Previdência Complementar,285391,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,09.122 - Administração Geral,5044116.88,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,FU09 - Demais Subfunções,6181.68,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,10 - Saúde,1548576876.86,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,10.301 - Atenção Básica,645513704.96,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,10.302 - Assistência Hospitalar e Ambulatorial,552645727.98,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,10.303 - Suporte Profilático e Terapêutico,89420417.9,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,10.304 - Vigilância Sanitária,2495148.73,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,10.305 - Vigilância Epidemiológica,45130444.66,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,10.122 - Administração Geral,129031444.32,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,FU10 - Demais Subfunções,84339988.31,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,11 - Trabalho,13259202.49,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,11.122 - Administração Geral,7053705.11,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,FU11 - Demais Subfunções,6205497.38,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,12 - Educação,930149441.51,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,12.361 - Ensino Fundamental,723904851.97,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,12.365 - Educação Infantil,112205587.12,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,12.366 - Educação de Jovens e Adultos,11441048.65,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,12.367 - Educação Especial,1252645.06,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,FU12 - Demais Subfunções,81345308.71,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,13 - Cultura,110206916.93,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,"13.391 - Patrimônio Histórico, Artístico e Arqueológico",4435925.38,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,13.392 - Difusão Cultural,88120992.98,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,13.122 - Administração Geral,16253651.23,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,FU13 - Demais Subfunções,1396347.34,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,14 - Direitos da Cidadania,81978292.14,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,"14.422 - Direitos Individuais, Coletivos e Difusos",79846966.21,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,14.122 - Administração Geral,2131325.93,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,15 - Urbanismo,1020730426.34,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,15.451 - Infraestrutura Urbana,277111247.25,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,15.452 - Serviços Urbanos,431747057.51,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,15.453 - Transportes Coletivos Urbanos,33152927.99,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,15.122 - Administração Geral,176761660.74,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,FU15 - Demais Subfunções,101957532.85,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,16 - Habitação,6452144.08,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,16.482 - Habitação Urbana,1509013.94,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,16.122 - Administração Geral,4943130.14,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,17 - Saneamento,55478087.72,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,17.512 - Saneamento Básico Urbano,54265760.43,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,17.122 - Administração Geral,1212327.29,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,18 - Gestão Ambiental,12438669.11,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,18.541 - Preservação e Conservação Ambiental,10174171.21,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,18.122 - Administração Geral,2264497.9,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,19 - Ciência e Tecnologia,2468219.24,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,19.573 - Difusão do Conhecimento Científico e Tecnológico,550000,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,19.122 - Administração Geral,514094.15,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,FU19 - Demais Subfunções,1404125.09,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,23 - Comércio e Serviços,50618097.77,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,23.691 - Promoção Comercial,21201807.93,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,23.692 - Comercialização,2400,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,23.695 - Turismo,14366653.21,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,23.122 - Administração Geral,11564649.16,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,FU23 - Demais Subfunções,3482587.47,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,27 - Desporto e Lazer,16738244.02,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,27.812 - Desporto Comunitário,1426319.89,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,27.122 - Administração Geral,2876878.89,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,FU27 - Demais Subfunções,12435045.24,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,28 - Encargos Especiais,173346910.18,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,28.843 - Serviço da Dívida Interna,33721015.69,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,28.844 - Serviço da Dívida Externa,41847193.45,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,28.846 - Outros Encargos Especiais,97778701.04,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,Despesas Intraorçamentárias,281154191.32,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,Despesas Exceto Intraorçamentárias,5086401989.33,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,01 - Legislativa,151908873.94,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,01.031 - Ação Legislativa,30393626.32,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,01.122 - Administração Geral,104350271.73,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,FU01 - Demais Subfunções,17164975.89,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,03 - Essencial à Justiça,47401082.07,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,03.091 - Defesa da Ordem Jurídica,37725905.4,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,03.122 - Administração Geral,1000,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,FU03 - Demais Subfunções,9674176.67,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,04 - Administração,322675546.25,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,04.122 - Administração Geral,117202788.01,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,04.123 - Administração Financeira,61210061.26,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,04.124 - Controle Interno,8672230.09,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,04.126 - Tecnologia da Informação,30111915.93,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,04.128 - Formação de Recursos Humanos,7521.26,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,04.129 - Administração de Receitas,3776040.9,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,04.131 - Comunicação Social,62876821.49,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,FU04 - Demais Subfunções,38818167.31,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,06 - Segurança Pública,3018971.6,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,FU06 - Demais Subfunções,3018971.6,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,08 - Assistência Social,109688999.38,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,08.241 - Assistência ao Idoso,14480263.76,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,08.243 - Assistência à Criança e ao Adolescente,2095501.49,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,08.244 - Assistência Comunitária,69516170.66,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,08.122 - Administração Geral,1437180.97,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,FU08 - Demais Subfunções,22159882.5,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,09 - Previdência Social,582041882.14,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,09.272 - Previdência do Regime Estatutário,576805454.29,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,09.273 - Previdência Complementar,285391,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,09.122 - Administração Geral,4944855.17,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,FU09 - Demais Subfunções,6181.68,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,10 - Saúde,1548509060.1,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,10.301 - Atenção Básica,645512637.2,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,10.302 - Assistência Hospitalar e Ambulatorial,552636190.9,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,10.303 - Suporte Profilático e Terapêutico,89416074.9,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,10.304 - Vigilância Sanitária,2494193.48,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,10.305 - Vigilância Epidemiológica,45118459.03,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,10.122 - Administração Geral,128991678.28,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,FU10 - Demais Subfunções,84339826.31,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,11 - Trabalho,13216799.07,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,11.122 - Administração Geral,7047606.33,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,FU11 - Demais Subfunções,6169192.74,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,12 - Educação,809782370.91,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,12.361 - Ensino Fundamental,619917514.31,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,12.365 - Educação Infantil,96046941.03,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,12.366 - Educação de Jovens e Adultos,11240178.8,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,12.367 - Educação Especial,1252645.06,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,FU12 - Demais Subfunções,81325091.71,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,13 - Cultura,107853554.66,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,"13.391 - Patrimônio Histórico, Artístico e Arqueológico",3676695.23,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,13.392 - Difusão Cultural,87188882.11,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,13.122 - Administração Geral,15715463.84,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,FU13 - Demais Subfunções,1272513.48,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,14 - Direitos da Cidadania,81626618.44,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,"14.422 - Direitos Individuais, Coletivos e Difusos",79654997.71,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,14.122 - Administração Geral,1971620.73,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,15 - Urbanismo,997723335.85,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,15.451 - Infraestrutura Urbana,274364196.23,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,15.452 - Serviços Urbanos,423635438.79,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,15.453 - Transportes Coletivos Urbanos,28614579.89,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,15.122 - Administração Geral,175392712.91,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,FU15 - Demais Subfunções,95716408.03,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,16 - Habitação,6358982.92,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,16.482 - Habitação Urbana,1509013.94,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,16.122 - Administração Geral,4849968.98,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,17 - Saneamento,54740741.32,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,17.512 - Saneamento Básico Urbano,53653662.69,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,17.122 - Administração Geral,1087078.63,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,18 - Gestão Ambiental,12316186.44,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,18.541 - Preservação e Conservação Ambiental,10146579.21,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,18.122 - Administração Geral,2169607.23,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,19 - Ciência e Tecnologia,2236604.51,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,19.573 - Difusão do Conhecimento Científico e Tecnológico,350000,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,19.122 - Administração Geral,497941.78,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,FU19 - Demais Subfunções,1388662.73,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,23 - Comércio e Serviços,48901261.99,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,23.691 - Promoção Comercial,20918067.69,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,23.695 - Turismo,13170161.43,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,23.122 - Administração Geral,11548200.98,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,FU23 - Demais Subfunções,3264831.89,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,27 - Desporto e Lazer,16279474.86,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,27.812 - Desporto Comunitário,1353990.59,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,27.122 - Administração Geral,2750596.05,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,FU27 - Demais Subfunções,12174888.22,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,28 - Encargos Especiais,170121642.88,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,28.843 - Serviço da Dívida Interna,33721015.69,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,28.844 - Serviço da Dívida Externa,41847193.45,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,28.846 - Outros Encargos Especiais,94553433.74,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,Despesas Intraorçamentárias,270746550.97,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,Despesas Exceto Intraorçamentárias,7670237.59,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,01 - Legislativa,207094.42,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,01.031 - Ação Legislativa,153346.5,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,01.122 - Administração Geral,53747.92,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,12 - Educação,7463143.17,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,12.361 - Ensino Fundamental,6648942.17,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,12.365 - Educação Infantil,814201,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,Despesas Exceto Intraorçamentárias,167510580.79,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,01 - Legislativa,180847.71,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,01.031 - Ação Legislativa,143452.23,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,01.122 - Administração Geral,37395.48,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,03 - Essencial à Justiça,398632.7,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,FU03 - Demais Subfunções,398632.7,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,04 - Administração,11849939.13,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,04.122 - Administração Geral,2869547.52,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,04.126 - Tecnologia da Informação,472765.43,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,04.131 - Comunicação Social,4963205.72,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,FU04 - Demais Subfunções,3544420.46,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,06 - Segurança Pública,511001.56,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,FU06 - Demais Subfunções,511001.56,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,08 - Assistência Social,1693464.22,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,08.241 - Assistência ao Idoso,400,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,08.243 - Assistência à Criança e ao Adolescente,67759.64,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,08.244 - Assistência Comunitária,1575647.48,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,FU08 - Demais Subfunções,49657.1,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,09 - Previdência Social,101801.03,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,09.272 - Previdência do Regime Estatutário,2539.32,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,09.122 - Administração Geral,99261.71,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,10 - Saúde,67816.76,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,10.301 - Atenção Básica,1067.76,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,10.302 - Assistência Hospitalar e Ambulatorial,9537.08,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,10.303 - Suporte Profilático e Terapêutico,4343,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,10.304 - Vigilância Sanitária,955.25,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,10.305 - Vigilância Epidemiológica,11985.63,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,10.122 - Administração Geral,39766.04,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,FU10 - Demais Subfunções,162,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,11 - Trabalho,42403.42,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,11.122 - Administração Geral,6098.78,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,FU11 - Demais Subfunções,36304.64,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,12 - Educação,120367070.6,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,12.361 - Ensino Fundamental,103987337.66,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,12.365 - Educação Infantil,16158646.09,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,12.366 - Educação de Jovens e Adultos,200869.85,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,FU12 - Demais Subfunções,20217,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,13 - Cultura,2353362.27,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,"13.391 - Patrimônio Histórico, Artístico e Arqueológico",759230.15,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,13.392 - Difusão Cultural,932110.87,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,13.122 - Administração Geral,538187.39,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,FU13 - Demais Subfunções,123833.86,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,14 - Direitos da Cidadania,351673.7,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,"14.422 - Direitos Individuais, Coletivos e Difusos",191968.5,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,14.122 - Administração Geral,159705.2,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,15 - Urbanismo,23007090.49,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,15.451 - Infraestrutura Urbana,2747051.02,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,15.452 - Serviços Urbanos,8111618.72,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,15.453 - Transportes Coletivos Urbanos,4538348.1,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,15.122 - Administração Geral,1368947.83,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,FU15 - Demais Subfunções,6241124.82,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,16 - Habitação,93161.16,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,16.122 - Administração Geral,93161.16,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,17 - Saneamento,737346.4,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,17.512 - Saneamento Básico Urbano,612097.74,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,17.122 - Administração Geral,125248.66,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,18 - Gestão Ambiental,122482.67,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,18.541 - Preservação e Conservação Ambiental,27592,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,18.122 - Administração Geral,94890.67,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,19 - Ciência e Tecnologia,231614.73,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,19.573 - Difusão do Conhecimento Científico e Tecnológico,200000,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,19.122 - Administração Geral,16152.37,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,FU19 - Demais Subfunções,15462.36,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,23 - Comércio e Serviços,1716835.78,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,23.691 - Promoção Comercial,283740.24,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,23.692 - Comercialização,2400,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,23.122 - Administração Geral,16448.18,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,FU23 - Demais Subfunções,1414247.36,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,27 - Desporto e Lazer,458769.16,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,27.812 - Desporto Comunitário,72329.3,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,27.122 - Administração Geral,126282.84,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,FU27 - Demais Subfunções,260157.02,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,28 - Encargos Especiais,3225267.3,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,28.846 - Outros Encargos Especiais,3225267.3,1645727
+2020,Prefeitura Municipal de Recife - PE,2611606,PE,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,Despesas Intraorçamentárias,10407640.35,1645727

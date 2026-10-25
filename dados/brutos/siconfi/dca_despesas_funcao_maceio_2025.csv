@@ -1,0 +1,323 @@
+exercicio,instituicao,cod_ibge,uf,anexo,rotulo,coluna,cod_conta,conta,valor,populacao
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,Despesas Exceto Intraorçamentárias,4984850994.51,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,01 - Legislativa,118136573.74,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,01.031 - Ação Legislativa,118003573.74,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,FU01 - Demais Subfunções,133000,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,04 - Administração,762068466.05,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,04.122 - Administração Geral,696809381.27,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,04.126 - Tecnologia da Informação,12111464.01,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,04.128 - Formação de Recursos Humanos,2599443.64,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,04.129 - Administração de Receitas,2296475.98,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,04.131 - Comunicação Social,48251701.15,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,06 - Segurança Pública,3465071.34,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,06.181 - Policiamento,1739627.57,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,06.182 - Defesa Civil,1695536.47,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,FU06 - Demais Subfunções,29907.3,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,08 - Assistência Social,45472760.96,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,08.244 - Assistência Comunitária,20997659.27,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,08.245 - Serviços Socioassistenciais,23172994.7,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,08.122 - Administração Geral,907526.75,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,FU08 - Demais Subfunções,394580.24,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,09 - Previdência Social,525841703.95,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,09.272 - Previdência do Regime Estatutário,525841703.95,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,10 - Saúde,1308393145.57,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,10.301 - Atenção Básica,394829368.27,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,10.302 - Assistência Hospitalar e Ambulatorial,737316753.56,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,10.303 - Suporte Profilático e Terapêutico,24900621.98,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,10.304 - Vigilância Sanitária,9929497.76,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,10.305 - Vigilância Epidemiológica,66970281.73,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,10.306 - Alimentação e Nutrição,5921.1,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,10.122 - Administração Geral,74223744.88,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,FU10 - Demais Subfunções,216956.29,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,11 - Trabalho,12718113,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,11.333 - Empregabilidade,12718113,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,12 - Educação,842341376.98,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,12.361 - Ensino Fundamental,306732948.33,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,12.365 - Educação Infantil,104904312.19,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,12.367 - Educação Especial,3480623.87,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,12.368 - Educação Básica,204977625.41,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,12.122 - Administração Geral,217110475.42,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,FU12 - Demais Subfunções,5135391.76,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,13 - Cultura,52065644.04,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,13.392 - Difusão Cultural,52065644.04,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,14 - Direitos da Cidadania,10366235.33,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,"14.422 - Direitos Individuais, Coletivos e Difusos",3125932.44,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,FU14 - Demais Subfunções,7240302.89,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,15 - Urbanismo,611680840.68,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,15.451 - Infraestrutura Urbana,504623101.66,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,15.452 - Serviços Urbanos,104933500.16,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,FU15 - Demais Subfunções,2124238.86,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,16 - Habitação,976265.92,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,16.482 - Habitação Urbana,976265.92,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,17 - Saneamento,261161747.98,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,17.512 - Saneamento Básico Urbano,16277731.8,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,FU17 - Demais Subfunções,244884016.18,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,18 - Gestão Ambiental,623046.27,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,18.542 - Controle Ambiental,623046.27,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,19 - Ciência e Tecnologia,12352978.73,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,FU19 - Demais Subfunções,12352978.73,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,23 - Comércio e Serviços,33046134.32,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,23.691 - Promoção Comercial,408100,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,23.695 - Turismo,12659784.41,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,FU23 - Demais Subfunções,19978249.91,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,26 - Transporte,163819144.02,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,FU26 - Demais Subfunções,163819144.02,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,27 - Desporto e Lazer,6844210.92,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,27.812 - Desporto Comunitário,5804095.43,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,27.813 - Lazer,1040115.49,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,28 - Encargos Especiais,213477534.71,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,28.843 - Serviço da Dívida Interna,57988932.97,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,28.844 - Serviço da Dívida Externa,54780028.68,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,28.846 - Outros Encargos Especiais,100708573.06,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Empenhadas,TotalDespesas,Despesas Intraorçamentárias,330658524.37,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,Despesas Exceto Intraorçamentárias,4787272265.47,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,01 - Legislativa,116790678.04,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,01.031 - Ação Legislativa,116657678.04,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,FU01 - Demais Subfunções,133000,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,04 - Administração,743213749.63,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,04.122 - Administração Geral,686792432.59,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,04.126 - Tecnologia da Informação,9438878.96,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,04.128 - Formação de Recursos Humanos,2596466.64,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,04.129 - Administração de Receitas,2137056.69,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,04.131 - Comunicação Social,42248914.75,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,06 - Segurança Pública,2805930.85,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,06.181 - Policiamento,1633075.57,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,06.182 - Defesa Civil,1142947.98,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,FU06 - Demais Subfunções,29907.3,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,08 - Assistência Social,40366613.31,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,08.244 - Assistência Comunitária,19802361.03,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,08.245 - Serviços Socioassistenciais,20046594.31,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,08.122 - Administração Geral,265101.05,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,FU08 - Demais Subfunções,252556.92,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,09 - Previdência Social,525841703.95,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,09.272 - Previdência do Regime Estatutário,525841703.95,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,10 - Saúde,1288774313.96,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,10.301 - Atenção Básica,393624416.25,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,10.302 - Assistência Hospitalar e Ambulatorial,720689712.71,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,10.303 - Suporte Profilático e Terapêutico,23329871.27,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,10.304 - Vigilância Sanitária,9926023.32,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,10.305 - Vigilância Epidemiológica,66833104.47,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,10.306 - Alimentação e Nutrição,5921.1,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,10.122 - Administração Geral,74148308.55,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,FU10 - Demais Subfunções,216956.29,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,11 - Trabalho,12718113,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,11.333 - Empregabilidade,12718113,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,12 - Educação,775950701.15,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,12.361 - Ensino Fundamental,305379780.2,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,12.365 - Educação Infantil,75487779,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,12.367 - Educação Especial,3445005.61,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,12.368 - Educação Básica,179536406,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,12.122 - Administração Geral,207143985.48,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,FU12 - Demais Subfunções,4957744.86,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,13 - Cultura,51265150.04,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,13.392 - Difusão Cultural,51265150.04,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,14 - Direitos da Cidadania,10170291.72,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,"14.422 - Direitos Individuais, Coletivos e Difusos",3001273.49,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,FU14 - Demais Subfunções,7169018.23,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,15 - Urbanismo,535017088.4,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,15.451 - Infraestrutura Urbana,428142971.67,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,15.452 - Serviços Urbanos,104749877.87,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,FU15 - Demais Subfunções,2124238.86,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,16 - Habitação,945404.75,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,16.482 - Habitação Urbana,945404.75,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,17 - Saneamento,258356225.64,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,17.512 - Saneamento Básico Urbano,13492479.3,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,FU17 - Demais Subfunções,244863746.34,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,18 - Gestão Ambiental,559386.37,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,18.542 - Controle Ambiental,559386.37,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,19 - Ciência e Tecnologia,11148763.48,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,FU19 - Demais Subfunções,11148763.48,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,23 - Comércio e Serviços,32279155.68,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,23.691 - Promoção Comercial,408100,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,23.695 - Turismo,11975623.74,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,FU23 - Demais Subfunções,19895431.94,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,26 - Transporte,163774532.92,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,FU26 - Demais Subfunções,163774532.92,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,27 - Desporto e Lazer,3827891.92,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,27.812 - Desporto Comunitário,2787776.43,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,27.813 - Lazer,1040115.49,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,28 - Encargos Especiais,213466570.66,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,28.843 - Serviço da Dívida Interna,57988932.97,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,28.844 - Serviço da Dívida Externa,54780028.68,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,28.846 - Outros Encargos Especiais,100697609.01,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Liquidadas,TotalDespesas,Despesas Intraorçamentárias,330583604,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,Despesas Exceto Intraorçamentárias,4759264157.63,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,01 - Legislativa,116790678.04,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,01.031 - Ação Legislativa,116657678.04,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,FU01 - Demais Subfunções,133000,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,04 - Administração,737225015.25,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,04.122 - Administração Geral,682551420.47,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,04.126 - Tecnologia da Informação,9438878.96,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,04.128 - Formação de Recursos Humanos,2568329.24,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,04.129 - Administração de Receitas,2137056.69,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,04.131 - Comunicação Social,40529329.89,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,06 - Segurança Pública,2799990.85,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,06.181 - Policiamento,1633075.57,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,06.182 - Defesa Civil,1142947.98,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,FU06 - Demais Subfunções,23967.3,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,08 - Assistência Social,39745860.86,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,08.244 - Assistência Comunitária,19675683.21,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,08.245 - Serviços Socioassistenciais,19554727.22,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,08.122 - Administração Geral,265101.05,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,FU08 - Demais Subfunções,250349.38,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,09 - Previdência Social,525841703.95,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,09.272 - Previdência do Regime Estatutário,525841703.95,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,10 - Saúde,1284949333.38,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,10.301 - Atenção Básica,393450338.4,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,10.302 - Assistência Hospitalar e Ambulatorial,718457627.02,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,10.303 - Suporte Profilático e Terapêutico,22873688.15,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,10.304 - Vigilância Sanitária,9919985.72,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,10.305 - Vigilância Epidemiológica,66610392.48,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,10.306 - Alimentação e Nutrição,5921.1,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,10.122 - Administração Geral,73416344.22,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,FU10 - Demais Subfunções,215036.29,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,11 - Trabalho,11768113,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,11.333 - Empregabilidade,11768113,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,12 - Educação,772609215.88,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,12.361 - Ensino Fundamental,305379780.2,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,12.365 - Educação Infantil,75401388.54,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,12.367 - Educação Especial,3308012.31,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,12.368 - Educação Básica,177053598.87,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,12.122 - Administração Geral,206511855.44,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,FU12 - Demais Subfunções,4954580.52,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,13 - Cultura,51095150.04,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,13.392 - Difusão Cultural,51095150.04,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,14 - Direitos da Cidadania,9870684.87,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,"14.422 - Direitos Individuais, Coletivos e Difusos",2796539.63,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,FU14 - Demais Subfunções,7074145.24,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,15 - Urbanismo,524339238.06,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,15.451 - Infraestrutura Urbana,418066141.33,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,15.452 - Serviços Urbanos,104548857.87,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,FU15 - Demais Subfunções,1724238.86,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,16 - Habitação,945335.75,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,16.482 - Habitação Urbana,945335.75,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,17 - Saneamento,258356225.64,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,17.512 - Saneamento Básico Urbano,13492479.3,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,FU17 - Demais Subfunções,244863746.34,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,18 - Gestão Ambiental,484761.96,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,18.542 - Controle Ambiental,484761.96,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,19 - Ciência e Tecnologia,11148763.48,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,FU19 - Demais Subfunções,11148763.48,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,23 - Comércio e Serviços,31894017.05,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,23.691 - Promoção Comercial,408100,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,23.695 - Turismo,11650098.11,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,FU23 - Demais Subfunções,19835818.94,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,26 - Transporte,163508540.32,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,FU26 - Demais Subfunções,163508540.32,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,27 - Desporto e Lazer,2680594.35,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,27.812 - Desporto Comunitário,1874765.62,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,27.813 - Lazer,805828.73,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,28 - Encargos Especiais,213210934.9,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,28.843 - Serviço da Dívida Interna,57988932.97,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,28.844 - Serviço da Dívida Externa,54780028.68,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,28.846 - Outros Encargos Especiais,100441973.25,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Despesas Pagas,TotalDespesas,Despesas Intraorçamentárias,325892311.27,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,Despesas Exceto Intraorçamentárias,197578729.04,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,01 - Legislativa,1345895.7,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,01.031 - Ação Legislativa,1345895.7,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,04 - Administração,18854716.42,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,04.122 - Administração Geral,10016948.68,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,04.126 - Tecnologia da Informação,2672585.05,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,04.128 - Formação de Recursos Humanos,2977,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,04.129 - Administração de Receitas,159419.29,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,04.131 - Comunicação Social,6002786.4,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,06 - Segurança Pública,659140.49,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,06.181 - Policiamento,106552,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,06.182 - Defesa Civil,552588.49,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,08 - Assistência Social,5106147.65,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,08.244 - Assistência Comunitária,1195298.24,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,08.245 - Serviços Socioassistenciais,3126400.39,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,08.122 - Administração Geral,642425.7,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,FU08 - Demais Subfunções,142023.32,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,10 - Saúde,19618831.61,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,10.301 - Atenção Básica,1204952.02,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,10.302 - Assistência Hospitalar e Ambulatorial,16627040.85,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,10.303 - Suporte Profilático e Terapêutico,1570750.71,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,10.304 - Vigilância Sanitária,3474.44,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,10.305 - Vigilância Epidemiológica,137177.26,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,10.122 - Administração Geral,75436.33,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,12 - Educação,66390675.83,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,12.361 - Ensino Fundamental,1353168.13,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,12.365 - Educação Infantil,29416533.19,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,12.367 - Educação Especial,35618.26,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,12.368 - Educação Básica,25441219.41,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,12.122 - Administração Geral,9966489.94,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,FU12 - Demais Subfunções,177646.9,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,13 - Cultura,800494,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,13.392 - Difusão Cultural,800494,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,14 - Direitos da Cidadania,195943.61,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,"14.422 - Direitos Individuais, Coletivos e Difusos",124658.95,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,FU14 - Demais Subfunções,71284.66,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,15 - Urbanismo,76663752.28,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,15.451 - Infraestrutura Urbana,76480129.99,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,15.452 - Serviços Urbanos,183622.29,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,16 - Habitação,30861.17,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,16.482 - Habitação Urbana,30861.17,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,17 - Saneamento,2805522.34,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,17.512 - Saneamento Básico Urbano,2785252.5,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,FU17 - Demais Subfunções,20269.84,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,18 - Gestão Ambiental,63659.9,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,18.542 - Controle Ambiental,63659.9,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,19 - Ciência e Tecnologia,1204215.25,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,FU19 - Demais Subfunções,1204215.25,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,23 - Comércio e Serviços,766978.64,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,23.695 - Turismo,684160.67,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,FU23 - Demais Subfunções,82817.97,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,26 - Transporte,44611.1,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,FU26 - Demais Subfunções,44611.1,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,27 - Desporto e Lazer,3016319,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,27.812 - Desporto Comunitário,3016319,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,28 - Encargos Especiais,10964.05,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,28.846 - Outros Encargos Especiais,10964.05,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Não Processados,TotalDespesas,Despesas Intraorçamentárias,74920.37,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,Despesas Exceto Intraorçamentárias,28008107.84,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,04 - Administração,5988734.38,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,04.122 - Administração Geral,4241012.12,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,04.128 - Formação de Recursos Humanos,28137.4,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,04.131 - Comunicação Social,1719584.86,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,06 - Segurança Pública,5940,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,FU06 - Demais Subfunções,5940,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,08 - Assistência Social,620752.45,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,08.244 - Assistência Comunitária,126677.82,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,08.245 - Serviços Socioassistenciais,491867.09,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,FU08 - Demais Subfunções,2207.54,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,10 - Saúde,3824980.58,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,10.301 - Atenção Básica,174077.85,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,10.302 - Assistência Hospitalar e Ambulatorial,2232085.69,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,10.303 - Suporte Profilático e Terapêutico,456183.12,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,10.304 - Vigilância Sanitária,6037.6,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,10.305 - Vigilância Epidemiológica,222711.99,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,10.122 - Administração Geral,731964.33,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,FU10 - Demais Subfunções,1920,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,11 - Trabalho,950000,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,11.333 - Empregabilidade,950000,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,12 - Educação,3341485.27,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,12.365 - Educação Infantil,86390.46,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,12.367 - Educação Especial,136993.3,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,12.368 - Educação Básica,2482807.13,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,12.122 - Administração Geral,632130.04,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,FU12 - Demais Subfunções,3164.34,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,13 - Cultura,170000,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,13.392 - Difusão Cultural,170000,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,14 - Direitos da Cidadania,299606.85,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,"14.422 - Direitos Individuais, Coletivos e Difusos",204733.86,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,FU14 - Demais Subfunções,94872.99,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,15 - Urbanismo,10677850.34,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,15.451 - Infraestrutura Urbana,10076830.34,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,15.452 - Serviços Urbanos,201020,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,FU15 - Demais Subfunções,400000,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,16 - Habitação,69,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,16.482 - Habitação Urbana,69,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,18 - Gestão Ambiental,74624.41,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,18.542 - Controle Ambiental,74624.41,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,23 - Comércio e Serviços,385138.63,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,23.695 - Turismo,325525.63,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,FU23 - Demais Subfunções,59613,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,26 - Transporte,265992.6,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,FU26 - Demais Subfunções,265992.6,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,27 - Desporto e Lazer,1147297.57,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,27.812 - Desporto Comunitário,913010.81,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,27.813 - Lazer,234286.76,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,28 - Encargos Especiais,255635.76,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,28.846 - Outros Encargos Especiais,255635.76,960667
+2025,Prefeitura Municipal de Maceió - AL,2704302,AL,DCA-Anexo I-E,Total Geral da Despesa por Função,Inscrição de Restos a Pagar Processados,TotalDespesas,Despesas Intraorçamentárias,4691292.73,960667

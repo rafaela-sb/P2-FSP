@@ -1,0 +1,293 @@
+exercicio,instituicao,cod_ibge,uf,anexo,rotulo,coluna,cod_conta,conta,valor,populacao
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,Despesas (Exceto Intraorçamentárias),5121251424.38,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,01 - Legislativa,140536872.09,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,01.031 - Ação Legislativa,140536872.09,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,02 - Judiciária,35488624.34,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,02.999 - Demais Subfunções Judiciária,35488624.34,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,04 - Administração,352272191.47,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,04.122 - Administração Geral,325136026.37,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,04.126 - Tecnologia da Informação,11880215.35,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,04.129 - Administração de Receitas,15126565.75,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,04.131 - Comunicação Social,129384,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,06 - Segurança Pública,68667043.27,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,06.182 - Defesa Civil,865728.98,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,06.999 - Demais Subfunções Segurança Pública,67801314.29,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,08 - Assistência Social,105080617.21,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,08.242 - Assistência ao Portador de Deficiência,1700,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,08.243 - Assistência à Criança e ao Adolescente,6187594.43,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,08.244 - Assistência Comunitária,63945743.61,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,08.999 - Demais Subfunções Assistência Social,34945579.17,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,09 - Previdência Social,523641904.17,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,09.272 - Previdência do Regime Estatutário,517262914.15,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,09.999 - Demais Subfunções Previdência Social,6378990.02,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,10 - Saúde,1135755477.14,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,10.301 - Atenção Básica,31666777.28,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,10.302 - Assistência Hospitalar e Ambulatorial,541374086.85,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,10.303 - Suporte Profilático e Terapêutico,15129162.81,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,10.304 - Vigilância Sanitária,1361257.46,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,10.305 - Vigilância Epidemiológica,806835.63,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,10.999 - Demais Subfunções Saúde,545417357.11,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,12 - Educação,1015922277.07,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,12.361 - Ensino Fundamental,415235531.89,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,12.365 - Educação Infantil,28070235.41,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,12.366 - Educação de Jovens e Adultos,5955380.62,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,12.999 - Demais Subfunções Educação,566661129.15,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,13 - Cultura,16287180.86,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,13.392 - Difusão Cultural,8978571.81,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,13.999 - Demais Subfunções Cultura,7308609.05,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,14 - Direitos da Cidadania,556476.77,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,"14.422 - Direitos Individuais, Coletivos e Difusos",365208.2,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,14.999 - Demais Subfunções Direitos da Cidadania,191268.57,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,15 - Urbanismo,1068335896.3,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,15.451 - Infraestrutura Urbana,348863714.92,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,15.452 - Serviços Urbanos,478370504.17,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,15.999 - Demais Subfunções Urbanismo,241101677.21,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,16 - Habitação,27328498.27,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,16.482 - Habitação Urbana,9220097.58,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,16.999 - Demais Subfunções Habitação,18108400.69,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,18 - Gestão Ambiental,10008064.8,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,18.541 - Preservação e Conservação Ambiental,3164239.72,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,18.999 - Demais Subfunções Gestão Ambiental,6843825.08,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,22 - Indústria,67637683.64,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,22.999 - Demais Subfunções Indústria,67637683.64,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,23 - Comércio e Serviços,71229586.88,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,23.695 - Turismo,43259936.11,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,23.999 - Demais Subfunções Comércio e Serviços,27969650.77,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,24 - Comunicações,67716235.08,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,24.999 - Demais Subfunções Comunicações,67716235.08,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,26 - Transporte,146939950.73,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,26.999 - Demais Subfunções Transporte,146939950.73,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,27 - Desporto e Lazer,2099948.24,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,27.812 - Desporto Comunitário,2099948.24,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,28 - Encargos Especiais,265746896.05,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,28.843 - Serviço da Dívida Interna,153698494.26,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,28.846 - Outros Encargos Especiais,112048401.79,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Empenhadas,TotalDespesas,Despesas (Intraorçamentárias),261073625.19,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,Despesas (Exceto Intraorçamentárias),4907218425.68,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,01 - Legislativa,139776980.44,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,01.031 - Ação Legislativa,139776980.44,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,02 - Judiciária,35488624.34,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,02.999 - Demais Subfunções Judiciária,35488624.34,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,04 - Administração,319259964.22,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,04.122 - Administração Geral,300505528.37,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,04.126 - Tecnologia da Informação,10311160.05,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,04.129 - Administração de Receitas,8313891.8,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,04.131 - Comunicação Social,129384,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,06 - Segurança Pública,67611753.37,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,06.182 - Defesa Civil,331439.4,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,06.999 - Demais Subfunções Segurança Pública,67280313.97,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,08 - Assistência Social,101760648.65,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,08.242 - Assistência ao Portador de Deficiência,1700,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,08.243 - Assistência à Criança e ao Adolescente,6115969.59,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,08.244 - Assistência Comunitária,62771194.86,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,08.999 - Demais Subfunções Assistência Social,32871784.2,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,09 - Previdência Social,523435430.4,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,09.272 - Previdência do Regime Estatutário,517262914.15,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,09.999 - Demais Subfunções Previdência Social,6172516.25,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,10 - Saúde,1133782348.73,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,10.301 - Atenção Básica,31432389.05,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,10.302 - Assistência Hospitalar e Ambulatorial,539725570.32,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,10.303 - Suporte Profilático e Terapêutico,15038939.16,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,10.304 - Vigilância Sanitária,1361257.46,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,10.305 - Vigilância Epidemiológica,806835.63,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,10.999 - Demais Subfunções Saúde,545417357.11,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,12 - Educação,1009768968.75,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,12.361 - Ensino Fundamental,411669608.93,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,12.365 - Educação Infantil,27563282.41,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,12.366 - Educação de Jovens e Adultos,4453705.66,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,12.999 - Demais Subfunções Educação,566082371.75,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,13 - Cultura,13994436.96,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,13.392 - Difusão Cultural,6808715.58,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,13.999 - Demais Subfunções Cultura,7185721.38,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,14 - Direitos da Cidadania,474114.47,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,"14.422 - Direitos Individuais, Coletivos e Difusos",360497.64,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,14.999 - Demais Subfunções Direitos da Cidadania,113616.83,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,15 - Urbanismo,942558981.45,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,15.451 - Infraestrutura Urbana,258729265.05,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,15.452 - Serviços Urbanos,448067616.36,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,15.999 - Demais Subfunções Urbanismo,235762100.04,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,16 - Habitação,24213336.52,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,16.482 - Habitação Urbana,7266809.86,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,16.999 - Demais Subfunções Habitação,16946526.66,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,18 - Gestão Ambiental,9129415.94,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,18.541 - Preservação e Conservação Ambiental,2404053.27,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,18.999 - Demais Subfunções Gestão Ambiental,6725362.67,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,22 - Indústria,56105206.49,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,22.999 - Demais Subfunções Indústria,56105206.49,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,23 - Comércio e Serviços,62536494.07,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,23.695 - Turismo,35197024.7,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,23.999 - Demais Subfunções Comércio e Serviços,27339469.37,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,24 - Comunicações,66313621.76,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,24.999 - Demais Subfunções Comunicações,66313621.76,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,26 - Transporte,140322759.43,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,26.999 - Demais Subfunções Transporte,140322759.43,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,27 - Desporto e Lazer,412076.16,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,27.812 - Desporto Comunitário,412076.16,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,28 - Encargos Especiais,260273263.53,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,28.843 - Serviço da Dívida Interna,153600011.79,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,28.846 - Outros Encargos Especiais,106673251.74,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Liquidadas,TotalDespesas,Despesas (Intraorçamentárias),261073625.19,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,Despesas (Exceto Intraorçamentárias),4867937717.66,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,01 - Legislativa,139776980.44,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,01.031 - Ação Legislativa,139776980.44,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,02 - Judiciária,35488624.34,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,02.999 - Demais Subfunções Judiciária,35488624.34,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,04 - Administração,312192998.74,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,04.122 - Administração Geral,295642128.94,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,04.126 - Tecnologia da Informação,10307751.05,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,04.129 - Administração de Receitas,6113734.75,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,04.131 - Comunicação Social,129384,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,06 - Segurança Pública,67611753.37,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,06.182 - Defesa Civil,331439.4,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,06.999 - Demais Subfunções Segurança Pública,67280313.97,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,08 - Assistência Social,99733835.62,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,08.243 - Assistência à Criança e ao Adolescente,5701254.2,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,08.244 - Assistência Comunitária,61305246.32,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,08.999 - Demais Subfunções Assistência Social,32727335.1,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,09 - Previdência Social,523435430.4,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,09.272 - Previdência do Regime Estatutário,517262914.15,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,09.999 - Demais Subfunções Previdência Social,6172516.25,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,10 - Saúde,1127219643.56,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,10.301 - Atenção Básica,31042251.09,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,10.302 - Assistência Hospitalar e Ambulatorial,534856488.19,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,10.303 - Suporte Profilático e Terapêutico,14999040.77,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,10.304 - Vigilância Sanitária,1274934.76,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,10.305 - Vigilância Epidemiológica,806835.63,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,10.999 - Demais Subfunções Saúde,544240093.12,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,12 - Educação,1003242726.67,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,12.361 - Ensino Fundamental,407513778.77,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,12.365 - Educação Infantil,27556281.57,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,12.366 - Educação de Jovens e Adultos,4453705.66,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,12.999 - Demais Subfunções Educação,563718960.67,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,13 - Cultura,13928652.69,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,13.392 - Difusão Cultural,6750627.48,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,13.999 - Demais Subfunções Cultura,7178025.21,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,14 - Direitos da Cidadania,433041.52,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,"14.422 - Direitos Individuais, Coletivos e Difusos",358711.91,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,14.999 - Demais Subfunções Direitos da Cidadania,74329.61,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,15 - Urbanismo,929810614.89,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,15.451 - Infraestrutura Urbana,246360299.3,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,15.452 - Serviços Urbanos,448067616.36,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,15.999 - Demais Subfunções Urbanismo,235382699.23,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,16 - Habitação,24062892.52,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,16.482 - Habitação Urbana,7116365.86,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,16.999 - Demais Subfunções Habitação,16946526.66,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,18 - Gestão Ambiental,9129415.94,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,18.541 - Preservação e Conservação Ambiental,2404053.27,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,18.999 - Demais Subfunções Gestão Ambiental,6725362.67,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,22 - Indústria,54016104.38,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,22.999 - Demais Subfunções Indústria,54016104.38,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,23 - Comércio e Serviços,62274374.2,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,23.695 - Turismo,34940932.59,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,23.999 - Demais Subfunções Comércio e Serviços,27333441.61,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,24 - Comunicações,66272387.39,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,24.999 - Demais Subfunções Comunicações,66272387.39,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,26 - Transporte,139142961.56,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,26.999 - Demais Subfunções Transporte,139142961.56,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,27 - Desporto e Lazer,91633.75,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,27.812 - Desporto Comunitário,91633.75,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,28 - Encargos Especiais,260073645.68,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,28.843 - Serviço da Dívida Interna,153403037.65,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,28.846 - Outros Encargos Especiais,106670608.03,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Despesas Pagas,TotalDespesas,Despesas (Intraorçamentárias),261067816.21,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,Despesas (Exceto Intraorçamentárias),214032998.7,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,01 - Legislativa,759891.65,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,01.031 - Ação Legislativa,759891.65,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,04 - Administração,33012227.25,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,04.122 - Administração Geral,24630498,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,04.126 - Tecnologia da Informação,1569055.3,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,04.129 - Administração de Receitas,6812673.95,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,06 - Segurança Pública,1055289.9,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,06.182 - Defesa Civil,534289.58,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,06.999 - Demais Subfunções Segurança Pública,521000.32,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,08 - Assistência Social,3319968.56,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,08.243 - Assistência à Criança e ao Adolescente,71624.84,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,08.244 - Assistência Comunitária,1174548.75,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,08.999 - Demais Subfunções Assistência Social,2073794.97,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,09 - Previdência Social,206473.77,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,09.999 - Demais Subfunções Previdência Social,206473.77,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,10 - Saúde,1973128.41,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,10.301 - Atenção Básica,234388.23,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,10.302 - Assistência Hospitalar e Ambulatorial,1648516.53,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,10.303 - Suporte Profilático e Terapêutico,90223.65,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,12 - Educação,6153308.32,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,12.361 - Ensino Fundamental,3565922.96,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,12.365 - Educação Infantil,506953,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,12.366 - Educação de Jovens e Adultos,1501674.96,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,12.999 - Demais Subfunções Educação,578757.4,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,13 - Cultura,2292743.9,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,13.392 - Difusão Cultural,2169856.23,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,13.999 - Demais Subfunções Cultura,122887.67,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,14 - Direitos da Cidadania,82362.3,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,"14.422 - Direitos Individuais, Coletivos e Difusos",4710.56,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,14.999 - Demais Subfunções Direitos da Cidadania,77651.74,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,15 - Urbanismo,125776914.85,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,15.451 - Infraestrutura Urbana,90134449.87,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,15.452 - Serviços Urbanos,30302887.81,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,15.999 - Demais Subfunções Urbanismo,5339577.17,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,16 - Habitação,3115161.75,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,16.482 - Habitação Urbana,1953287.72,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,16.999 - Demais Subfunções Habitação,1161874.03,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,18 - Gestão Ambiental,878648.86,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,18.541 - Preservação e Conservação Ambiental,760186.45,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,18.999 - Demais Subfunções Gestão Ambiental,118462.41,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,22 - Indústria,11532477.15,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,22.999 - Demais Subfunções Indústria,11532477.15,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,23 - Comércio e Serviços,8693092.81,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,23.695 - Turismo,8062911.41,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,23.999 - Demais Subfunções Comércio e Serviços,630181.4,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,24 - Comunicações,1402613.32,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,24.999 - Demais Subfunções Comunicações,1402613.32,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,26 - Transporte,6617191.3,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,26.999 - Demais Subfunções Transporte,6617191.3,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,27 - Desporto e Lazer,1687872.08,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,27.812 - Desporto Comunitário,1687872.08,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,28 - Encargos Especiais,5473632.52,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,28.843 - Serviço da Dívida Interna,98482.47,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Não Processados,TotalDespesas,28.846 - Outros Encargos Especiais,5375150.05,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,Despesas (Exceto Intraorçamentárias),39280708.02,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,04 - Administração,7066965.48,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,04.122 - Administração Geral,4863399.43,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,04.126 - Tecnologia da Informação,3409,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,04.129 - Administração de Receitas,2200157.05,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,08 - Assistência Social,2026813.03,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,08.242 - Assistência ao Portador de Deficiência,1700,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,08.243 - Assistência à Criança e ao Adolescente,414715.39,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,08.244 - Assistência Comunitária,1465948.54,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,08.999 - Demais Subfunções Assistência Social,144449.1,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,10 - Saúde,6562705.17,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,10.301 - Atenção Básica,390137.96,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,10.302 - Assistência Hospitalar e Ambulatorial,4869082.13,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,10.303 - Suporte Profilático e Terapêutico,39898.39,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,10.304 - Vigilância Sanitária,86322.7,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,10.999 - Demais Subfunções Saúde,1177263.99,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,12 - Educação,6526242.08,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,12.361 - Ensino Fundamental,4155830.16,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,12.365 - Educação Infantil,7000.84,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,12.999 - Demais Subfunções Educação,2363411.08,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,13 - Cultura,65784.27,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,13.392 - Difusão Cultural,58088.1,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,13.999 - Demais Subfunções Cultura,7696.17,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,14 - Direitos da Cidadania,41072.95,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,"14.422 - Direitos Individuais, Coletivos e Difusos",1785.73,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,14.999 - Demais Subfunções Direitos da Cidadania,39287.22,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,15 - Urbanismo,12748366.56,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,15.451 - Infraestrutura Urbana,12368965.75,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,15.999 - Demais Subfunções Urbanismo,379400.81,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,16 - Habitação,150444,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,16.482 - Habitação Urbana,150444,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,22 - Indústria,2089102.11,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,22.999 - Demais Subfunções Indústria,2089102.11,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,23 - Comércio e Serviços,262119.87,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,23.695 - Turismo,256092.11,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,23.999 - Demais Subfunções Comércio e Serviços,6027.76,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,24 - Comunicações,41234.37,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,24.999 - Demais Subfunções Comunicações,41234.37,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,26 - Transporte,1179797.87,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,26.999 - Demais Subfunções Transporte,1179797.87,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,27 - Desporto e Lazer,320442.41,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,27.812 - Desporto Comunitário,320442.41,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,28 - Encargos Especiais,199617.85,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,28.843 - Serviço da Dívida Interna,196974.14,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,28.846 - Outros Encargos Especiais,2643.71,2902927
+2015,Prefeitura Municipal de Salvador - BA,2927408,BA,DCA-Anexo I-E,,Inscrição de RP Processados,TotalDespesas,Despesas (Intraorçamentárias),5808.98,2902927
