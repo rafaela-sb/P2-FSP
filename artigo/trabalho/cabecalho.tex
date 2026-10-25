@@ -1,0 +1,24 @@
+\usepackage{graphicx}
+\usepackage{etoolbox}
+\usepackage{caption}
+\captionsetup{font=small,labelformat=empty,justification=centering,skip=4pt}
+\AtBeginEnvironment{longtable}{\footnotesize}
+\usepackage{setspace}
+\onehalfspacing
+\setlength{\parindent}{1.25cm}
+\usepackage{titlesec}
+\titleformat{\section}{\normalfont\normalsize\bfseries}{}{0pt}{}
+\titleformat{\subsection}{\normalfont\normalsize\bfseries}{}{0pt}{}
+\usepackage{fancyhdr}
+\pagestyle{fancy}\fancyhf{}\rhead{\small\thepage}\lhead{\small Matrícula 241003384 – Finanças do Setor Público – UnB}
+\renewcommand{\headrulewidth}{0pt}
+\usepackage{float}
+\let\origfigure\figure\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2]{\origfigure[H]}{\endorigfigure}
+\AtBeginEnvironment{quote}{\small}
+\pretocmd{\section}{\Needspace{6\baselineskip}}{}{}
+\usepackage{needspace}
+\usepackage{xurl}
+
+\usepackage[bottom]{footmisc}
+\renewcommand{\footnotesize}{\fontsize{10pt}{11pt}\selectfont}
