@@ -1,0 +1,143 @@
+exercicio,instituicao,cod_ibge,uf,anexo,rotulo,coluna,cod_conta,conta,valor,populacao
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,TotalReceitas,Total Receitas,3031772291.21,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,TotalReceitas,Total Receitas,227092317.04,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,TotalReceitas,Total Receitas,751640.08,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.0.0.0.00.0.0,1.0.0.0.00.0.0 - Receitas Correntes,2942334686.19,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.0.0.0.00.0.0,1.0.0.0.00.0.0 - Receitas Correntes,227092317.04,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.0.0.0.00.0.0,1.0.0.0.00.0.0 - Receitas Correntes,751640.08,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.0.0.00.0.0,"1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria",747488451.32,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.1.0.0.00.0.0,"1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria",174914.98,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.1.0.00.0.0,1.1.1.0.00.0.0 - Impostos,726641675.87,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.1.1.0.00.0.0,1.1.1.0.00.0.0 - Impostos,174609.45,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.1.3.00.0.0,1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza,83735473.57,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.1.3.03.0.0,1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte,83735473.57,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.1.3.03.1.0,1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho,68125835.72,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.1.3.03.4.0,1.1.1.3.03.4.0 - Imposto sobre a Renda - Retido na Fonte - Outros Rendimentos,15609637.85,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.1.8.00.0.0,"1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios",642906202.3,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.1.1.8.00.0.0,"1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios",174609.45,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.1.8.01.0.0,1.1.1.8.01.0.0 Impostos sobre o Patrimônio para Estados/DF/Municípios,135875447.22,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.1.1.8.01.0.0,1.1.1.8.01.0.0 Impostos sobre o Patrimônio para Estados/DF/Municípios,87531.94,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.1.8.01.1.0,1.1.1.8.01.1.0 Imposto sobre a Propriedade Predial e Territorial Urbana,108234892.37,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.1.1.8.01.1.0,1.1.1.8.01.1.0 Imposto sobre a Propriedade Predial e Territorial Urbana,10000.82,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.1.8.01.4.0,1.1.1.8.01.4.0 Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis,27640554.85,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.1.1.8.01.4.0,1.1.1.8.01.4.0 Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis,77531.12,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.1.8.02.0.0,"1.1.1.8.02.0.0 Impostos sobre a Produção, Circulação de Mercadorias e Serviços",507030755.08,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.1.1.8.02.0.0,"1.1.1.8.02.0.0 Impostos sobre a Produção, Circulação de Mercadorias e Serviços",87077.51,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.1.8.02.3.0,1.1.1.8.02.3.0 Imposto sobre Serviços de Qualquer Natureza,507030755.08,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.1.1.8.02.3.0,1.1.1.8.02.3.0 Imposto sobre Serviços de Qualquer Natureza,87077.51,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.2.0.00.0.0,1.1.2.0.00.0.0 - Taxas,20846775.45,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.1.2.0.00.0.0,1.1.2.0.00.0.0 - Taxas,305.53,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.2.1.00.0.0,1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia,19732958.3,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.1.2.1.00.0.0,1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia,305.53,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.2.1.01.0.0,"1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização",19732958.3,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.1.2.1.01.0.0,"1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização",305.53,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.2.2.00.0.0,1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços,1113817.15,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.2.2.01.0.0,1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços,598612.06,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.2.2.02.0.0,1.1.2.2.02.0.0 - Emolumentos e Custas Judiciais,515205.09,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.2.0.0.00.0.0,1.2.0.0.00.0.0 - Contribuições,147245654.24,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.2.1.0.00.0.0,1.2.1.0.00.0.0 - Contribuições Sociais,76091504.33,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.2.1.0.04.0.0,1.2.1.0.04.0.0 - Contribuição para o Regime Próprio de Previdência Social - RPPS,76091504.33,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.2.1.0.04.2.0,1.2.1.0.04.2.0 - Contribuição do Servidor Ativo Civil para o RPPS,73340683.46,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.2.1.0.04.3.0,1.2.1.0.04.3.0 - Contribuição do Servidor Inativo para o RPPS,2053994.12,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.2.1.0.04.4.0,1.2.1.0.04.4.0 - Contribuição do Pensionista para o RPPS,696826.75,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.2.4.0.00.0.0,1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública,71154149.91,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.3.0.0.00.0.0,1.3.0.0.00.0.0 - Receita Patrimonial,27835093.72,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.3.1.0.00.0.0,1.3.1.0.00.0.0 - Exploração do Patrimônio Imobiliário do Estado,981255.26,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.3.1.0.01.0.0,"1.3.1.0.01.0.0 - Aluguéis, Arrendamentos, Foros, Laudêmios, Tarifas de Ocupação",981255.26,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.3.1.0.01.2.0,"1.3.1.0.01.2.0 - Foros, Laudêmios e Tarifas de Ocupação",981255.26,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.3.2.0.00.0.0,1.3.2.0.00.0.0 - Valores Mobiliários,26853838.46,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.3.2.1.00.0.0,1.3.2.1.00.0.0 - Juros e Correções Monetárias,26853838.46,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.3.2.1.00.1.0,1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários,7405828.39,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.3.2.1.00.4.0,1.3.2.1.00.4.0 - Remuneração dos Recursos do Regime Próprio de Previdência Social - RPPS,19448010.07,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.6.0.0.00.0.0,1.6.0.0.00.0.0 - Receita de Serviços,87900.17,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.6.2.0.00.0.0,1.6.2.0.00.0.0 - Serviços e Atividades Referentes à Navegação e ao Transporte,87900.17,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.6.2.0.02.0.0,1.6.2.0.02.0.0 - Serviços de Transporte,87900.17,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.0.0.00.0.0,1.7.0.0.00.0.0 - Transferências Correntes,1998090074.35,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.0.0.00.0.0,1.7.0.0.00.0.0 - Transferências Correntes,227092317.04,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.7.0.0.00.0.0,1.7.0.0.00.0.0 - Transferências Correntes,576625.1,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.0.00.0.0,1.7.1.0.00.0.0 - Transferências da União e de suas Entidades,1010480733.31,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.1.0.00.0.0,1.7.1.0.00.0.0 - Transferências da União e de suas Entidades,101242740.49,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.7.1.0.00.0.0,1.7.1.0.00.0.0 - Transferências da União e de suas Entidades,576625.1,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.00.0.0,"1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios",1010480733.31,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.1.8.00.0.0,"1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios",101242740.49,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.7.1.8.00.0.0,"1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios",576625.1,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.01.0.0,1.7.1.8.01.0.0 Participação na Receita da União,547798399.46,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.1.8.01.0.0,1.7.1.8.01.0.0 Participação na Receita da União,100721997.49,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.01.2.0,1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal,503592200.37,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.1.8.01.2.0,1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal,100718439.77,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.01.3.0,1.7.1.8.01.3.0 Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro,22366487.98,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.01.4.0,1.7.1.8.01.4.0 Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho,21821922.11,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.01.5.0,1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural,17789,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.1.8.01.5.0,1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural,3557.72,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.02.0.0,1.7.1.8.02.0.0 Transferência da Compensação Financeira pela Exploração de Recursos Naturais,8701047.44,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.02.2.0,1.7.1.8.02.2.0 Cota-parte da Compensação Financeira de Recursos Minerais - CFEM,177690.24,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.02.6.0,1.7.1.8.02.6.0 Cota-Parte do Fundo Especial do Petróleo ¿ FEP,8523357.2,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.03.0.0,1.7.1.8.03.0.0 Transferência de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo,407037170.26,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.04.0.0,1.7.1.8.04.0.0 Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS,14927228.58,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.05.0.0,1.7.1.8.05.0.0 Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE,26095280.73,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.05.1.0,1.7.1.8.05.1.0 Transferências do Salário-Educação,5733950.14,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.05.3.0,1.7.1.8.05.3.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE,12786354.4,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.05.9.0,1.7.1.8.05.9.0 Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE,7574976.19,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.06.0.0,1.7.1.8.06.0.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96,2603715,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.1.8.06.0.0,1.7.1.8.06.0.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96,520743,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.06.1.0,1.7.1.8.06.1.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96,2603715,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.1.8.06.1.0,1.7.1.8.06.1.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96,520743,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.10.0.0,1.7.1.8.10.0.0 Transferências de Convênios da União e de Suas Entidades,2644665.36,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.7.1.8.10.0.0,1.7.1.8.10.0.0 Transferências de Convênios da União e de Suas Entidades,576625.1,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.10.5.0,1.7.1.8.10.5.0 Transferências de Convênios da União Destinadas a Programas de Saneamento Básico,1037423.18,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.10.9.0,1.7.1.8.10.9.0 Outras Transferências de Convênios da União,1607242.18,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.7.1.8.10.9.0,1.7.1.8.10.9.0 Outras Transferências de Convênios da União,576625.1,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.99.0.0,1.7.1.8.99.0.0 Outras Transferências da União,673226.48,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.2.0.00.0.0,1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades,634962954.64,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.2.0.00.0.0,1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades,125849576.55,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.2.8.00.0.0,"1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios",634962954.64,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.2.8.00.0.0,"1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios",125849576.55,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.2.8.01.0.0,1.7.2.8.01.0.0 Participação na Receita dos Estados,630539390.98,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.2.8.01.0.0,1.7.2.8.01.0.0 Participação na Receita dos Estados,125849576.55,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.2.8.01.1.0,1.7.2.8.01.1.0 Cota-Parte do ICMS,536504926.82,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.2.8.01.1.0,1.7.2.8.01.1.0 Cota-Parte do ICMS,107300985.03,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.2.8.01.2.0,1.7.2.8.01.2.0 Cota-Parte do IPVA,87526769.23,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.2.8.01.2.0,1.7.2.8.01.2.0 Cota-Parte do IPVA,17505353.84,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.2.8.01.3.0,1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios,5216188.22,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.2.8.01.3.0,1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios,1043237.68,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.2.8.01.4.0,1.7.2.8.01.4.0 Cota-Parte da Contribuição de Intervenção no Domínio Econômico,1291506.71,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.2.8.03.0.0,1.7.2.8.03.0.0 Transferência de Recursos do Estado para Programas de Saúde ¿ Repasse Fundo a Fundo,3183682.3,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.2.8.10.0.0,1.7.2.8.10.0.0 Transferência de Convênios dos Estados e do Distrito Federal e de Suas Entidades,911449.99,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.2.8.10.1.0,1.7.2.8.10.1.0 Transferências de Convênio dos Estados para o Sistema Único de Saúde ¿ SUS,911449.99,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.2.8.99.0.0,1.7.2.8.99.0.0 Outras Transferências dos Estados,328431.37,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.5.0.00.0.0,1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas,352646386.4,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.5.8.00.0.0,"1.7.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios",352646386.4,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.5.8.01.0.0,1.7.5.8.01.0.0 Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB,187645065.92,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.5.8.99.0.0,1.7.5.8.99.0.0 Outras Transferências Multigovernamentais,165001320.48,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.0.0.00.0.0,1.9.0.0.00.0.0 - Outras Receitas Correntes,21587512.39,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.9.0.0.00.0.0,1.9.0.0.00.0.0 - Outras Receitas Correntes,100,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.1.0.00.0.0,"1.9.1.0.00.0.0 - Multas Administrativas, Contratuais e Judiciais",7755294.92,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.9.0.00.0.0,1.9.9.0.00.0.0 - Demais Receitas Correntes,13832217.47,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.9.9.0.00.0.0,1.9.9.0.00.0.0 - Demais Receitas Correntes,100,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.9.0.03.0.0,1.9.9.0.03.0.0 - Compensações Financeiras entre o Regime Geral e os Regimes Próprios de Previdência dos Servidores,5367618.97,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.9.0.12.0.0,1.9.9.0.12.0.0 - Encargos Legais pela Inscrição em Dívida Ativa e Receitas de Ônus de Sucumbência,488318.21,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.9.0.99.0.0,1.9.9.0.99.0.0 - Outras Receitas,7976280.29,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.9.9.0.99.0.0,1.9.9.0.99.0.0 - Outras Receitas,100,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.9.0.99.1.0,1.9.9.0.99.1.0 - Outras Receitas - Primárias,7976280.29,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.9.9.0.99.1.0,1.9.9.0.99.1.0 - Outras Receitas - Primárias,100,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.0.0.0.00.0.0,2.0.0.0.00.0.0 - Receitas de Capital,16803014.86,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.1.0.0.00.0.0,2.1.0.0.00.0.0 - Operações de Crédito,12790433.27,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.1.1.0.00.0.0,2.1.1.0.00.0.0 - Operações de Crédito - Mercado Interno,11530874.18,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.1.1.8.00.0.0,2.1.1.8.00.0.0 Operações de Crédito - Mercado Interno - Estados/DF/Municípios,10103372.98,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.1.1.9.00.0.0,2.1.1.9.00.0.0 Outras Operações de Crédito - Mercado Interno,1427501.2,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.1.2.0.00.0.0,2.1.2.0.00.0.0 - Operações de Crédito - Mercado Externo,1259559.09,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.1.2.8.00.0.0,2.1.2.8.00.0.0 Operação de Crédito Externas - Estados/DF/Municípios,1259559.09,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.2.0.0.00.0.0,2.2.0.0.00.0.0 - Alienação de Bens,111735.15,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.2.1.0.00.0.0,2.2.1.0.00.0.0 - Alienação de Bens Móveis,62700,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.2.1.3.00.0.0,2.2.1.3.00.0.0 Alienação de Bens Móveis e Semoventes,62700,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.2.2.0.00.0.0,2.2.2.0.00.0.0 - Alienação de Bens Imóveis,49035.15,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.4.0.0.00.0.0,2.4.0.0.00.0.0 - Transferências de Capital,3900846.44,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.4.1.0.00.0.0,2.4.1.0.00.0.0 - Transferências da União e de suas Entidades,3900846.44,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.4.1.8.00.0.0,"2.4.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios",3900846.44,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.4.1.8.10.0.0,2.4.1.8.10.0.0 Transferência de Convênios da União e de suas Entidades,3900846.44,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO7.0.0.0.00.0.0,7.0.0.0.00.0.0 - Receitas Correntes - Intraorçamentárias,72634590.16,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO7.2.0.0.00.0.0,7.2.0.0.00.0.0 - Contribuições - Intraorçamentárias,69093975.32,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO7.2.1.0.00.0.0,7.2.1.0.00.0.0 - Contribuições Sociais - Intraorçamentárias,69093975.32,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO7.2.1.0.04.0.0,7.2.1.0.04.0.0 - Contribuição para o Regime Próprio de Previdência Social - RPPS - Intraorçamentárias,69093975.32,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO7.2.1.0.04.1.0,7.2.1.0.04.1.0 - Contribuição Patronal de Servidor Ativo Civil para o RPPS - Intraorçamentárias,69093975.32,1082935
+2018,Prefeitura Municipal de São Luís - MA,2111300,MA,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO7.9.0.0.00.0.0,7.9.0.0.00.0.0 - Outras Receitas Correntes - Intraorçamentárias,3540614.84,1082935

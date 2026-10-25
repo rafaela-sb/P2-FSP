@@ -1,0 +1,177 @@
+exercicio,instituicao,cod_ibge,uf,anexo,rotulo,coluna,cod_conta,conta,valor,populacao
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,TotalReceitas,Total Receitas,3143452253.38,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,TotalReceitas,Total Receitas,218880545.52,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,TotalReceitas,Total Receitas,616775.43,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.0.0.0.00.0.0,1.0.0.0.00.0.0 - Receitas Correntes,2841871552.69,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.0.0.0.00.0.0,1.0.0.0.00.0.0 - Receitas Correntes,218880545.52,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.0.0.0.00.0.0,1.0.0.0.00.0.0 - Receitas Correntes,616775.43,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.0.0.00.0.0,"1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria",511028267.58,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.1.0.0.00.0.0,"1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria",469612.58,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.1.0.00.0.0,1.1.1.0.00.0.0 - Impostos,492705260.66,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.1.1.0.00.0.0,1.1.1.0.00.0.0 - Impostos,443138.59,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.1.3.00.0.0,1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza,135000231.32,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.1.3.03.0.0,1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte,135000231.32,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.1.3.03.1.0,1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho,127328710.08,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.1.3.03.4.0,1.1.1.3.03.4.0 - Imposto sobre a Renda - Retido na Fonte - Outros Rendimentos,7671521.24,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.1.8.00.0.0,"1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios",357705029.34,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.1.1.8.00.0.0,"1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios",443138.59,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.1.8.01.0.0,1.1.1.8.01.0.0 Impostos sobre o Patrimônio para Estados/DF/Municípios,115540313.65,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.1.1.8.01.0.0,1.1.1.8.01.0.0 Impostos sobre o Patrimônio para Estados/DF/Municípios,357210.94,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.1.8.01.1.0,1.1.1.8.01.1.0 Imposto sobre a Propriedade Predial e Territorial Urbana,87794877.82,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.1.1.8.01.1.0,1.1.1.8.01.1.0 Imposto sobre a Propriedade Predial e Territorial Urbana,150283.91,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.1.8.01.4.0,1.1.1.8.01.4.0 Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis,27745435.83,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.1.1.8.01.4.0,1.1.1.8.01.4.0 Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis,206927.03,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.1.8.02.0.0,"1.1.1.8.02.0.0 Impostos sobre a Produção, Circulação de Mercadorias e Serviços",242164715.69,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.1.1.8.02.0.0,"1.1.1.8.02.0.0 Impostos sobre a Produção, Circulação de Mercadorias e Serviços",85927.65,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.1.8.02.3.0,1.1.1.8.02.3.0 Imposto sobre Serviços de Qualquer Natureza,242164715.69,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.1.1.8.02.3.0,1.1.1.8.02.3.0 Imposto sobre Serviços de Qualquer Natureza,85927.65,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.2.0.00.0.0,1.1.2.0.00.0.0 - Taxas,18323006.92,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.1.2.0.00.0.0,1.1.2.0.00.0.0 - Taxas,26473.99,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.2.1.00.0.0,1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia,10197966.85,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.1.2.1.00.0.0,1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia,2833.94,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.2.1.01.0.0,"1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização",10166572.82,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.1.2.1.01.0.0,"1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização",2833.94,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.2.1.04.0.0,1.1.2.1.04.0.0 - Taxa de Controle e Fiscalização Ambiental,31394.03,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.2.2.00.0.0,1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços,8125040.07,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.1.2.2.00.0.0,1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços,23640.05,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.1.2.2.01.0.0,1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços,8125040.07,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.1.2.2.01.0.0,1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços,23640.05,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.2.0.0.00.0.0,1.2.0.0.00.0.0 - Contribuições,184788824.37,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.2.0.0.00.0.0,1.2.0.0.00.0.0 - Contribuições,71081.16,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.2.1.0.00.0.0,1.2.1.0.00.0.0 - Contribuições Sociais,120148476.61,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.2.1.0.00.0.0,1.2.1.0.00.0.0 - Contribuições Sociais,71081.16,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.2.1.0.04.0.0,1.2.1.0.04.0.0 - Contribuição para o Regime Próprio de Previdência Social - RPPS,78893402.88,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.2.1.0.04.0.0,1.2.1.0.04.0.0 - Contribuição para o Regime Próprio de Previdência Social - RPPS,71081.16,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.2.1.0.04.1.0,1.2.1.0.04.1.0 - Contribuição Patronal de Servidor Ativo Civil para o RPPS,7202.26,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.2.1.0.04.2.0,1.2.1.0.04.2.0 - Contribuição do Servidor Ativo Civil para o RPPS,74384067.79,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.2.1.0.04.2.0,1.2.1.0.04.2.0 - Contribuição do Servidor Ativo Civil para o RPPS,71081.16,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.2.1.0.04.3.0,1.2.1.0.04.3.0 - Contribuição do Servidor Inativo para o RPPS,3998388.35,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.2.1.0.04.4.0,1.2.1.0.04.4.0 - Contribuição do Pensionista para o RPPS,503744.48,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.2.1.0.06.0.0,1.2.1.0.06.0.0 - Contribuição para os Fundos de Assistência Médica,41255073.73,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.2.1.0.06.3.0,1.2.1.0.06.3.0 - Contribuição para os Fundos de Assistência Médica dos Servidores Civis,41255073.73,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.2.4.0.00.0.0,1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública,64640347.76,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.3.0.0.00.0.0,1.3.0.0.00.0.0 - Receita Patrimonial,72069922.42,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.3.0.0.00.0.0,1.3.0.0.00.0.0 - Receita Patrimonial,59102.26,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.3.1.0.00.0.0,1.3.1.0.00.0.0 - Exploração do Patrimônio Imobiliário do Estado,6019746.12,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.3.1.0.00.0.0,1.3.1.0.00.0.0 - Exploração do Patrimônio Imobiliário do Estado,59102.26,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.3.1.0.01.0.0,"1.3.1.0.01.0.0 - Aluguéis, Arrendamentos, Foros, Laudêmios, Tarifas de Ocupação",3936604.47,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.3.1.0.01.0.0,"1.3.1.0.01.0.0 - Aluguéis, Arrendamentos, Foros, Laudêmios, Tarifas de Ocupação",59102.26,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.3.1.0.01.1.0,1.3.1.0.01.1.0 - Aluguéis e Arrendamentos,7965,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.3.1.0.01.2.0,"1.3.1.0.01.2.0 - Foros, Laudêmios e Tarifas de Ocupação",3928639.47,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.3.1.0.01.2.0,"1.3.1.0.01.2.0 - Foros, Laudêmios e Tarifas de Ocupação",59102.26,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.3.1.0.02.0.0,"1.3.1.0.02.0.0 - Concessão, Permissão, Autorização ou Cessão do Direito de Uso de Bens Imóveis Públicos",2083141.65,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.3.2.0.00.0.0,1.3.2.0.00.0.0 - Valores Mobiliários,52963535.7,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.3.2.1.00.0.0,1.3.2.1.00.0.0 - Juros e Correções Monetárias,52813696.87,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.3.2.1.00.1.0,1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários,7545438.33,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.3.2.1.00.4.0,1.3.2.1.00.4.0 - Remuneração dos Recursos do Regime Próprio de Previdência Social - RPPS,45268258.54,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.3.2.2.00.0.0,1.3.2.2.00.0.0 - Dividendos,149838.83,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.3.3.0.00.0.0,"1.3.3.0.00.0.0 - Delegação de Serviços Públicos Mediante Concessão, Permissão, Autorização ou Licença",33499.23,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.3.3.9.00.0.0,1.3.3.9.00.0.0 - Demais Delegações de Serviços Públicos,33499.23,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.3.4.0.00.0.0,1.3.4.0.00.0.0 - Exploração de Recursos Naturais,72840.37,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.3.4.9.00.0.0,1.3.4.9.00.0.0 - Exploração de Outros Recursos Naturais,72840.37,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.3.6.0.00.0.0,1.3.6.0.00.0.0 - Cessão de Direitos,12980301,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.6.0.0.00.0.0,1.6.0.0.00.0.0 - Receita de Serviços,65257817.44,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.6.1.0.00.0.0,1.6.1.0.00.0.0 - Serviços Administrativos e Comerciais Gerais,14416.4,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.6.1.0.02.0.0,1.6.1.0.02.0.0 - Inscrição em Concursos e Processos Seletivos,14416.4,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.6.3.0.00.0.0,1.6.3.0.00.0.0 - Serviços e Atividades Referentes à Saúde,64969848.83,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.6.3.0.01.0.0,1.6.3.0.01.0.0 - Serviços de Atendimento à Saúde,64969848.83,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.6.4.0.00.0.0,1.6.4.0.00.0.0 - Serviços e Atividades Financeiras,5571.23,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.6.4.0.01.0.0,"1.6.4.0.01.0.0 - Retorno de Operações, Juros e Encargos Financeiros",5571.23,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.6.9.0.00.0.0,1.6.9.0.00.0.0 - Outros Serviços,267980.98,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.6.9.0.99.0.0,1.6.9.0.99.0.0 - Outros Serviços,267980.98,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.0.0.00.0.0,1.7.0.0.00.0.0 - Transferências Correntes,1943995815.42,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.0.0.00.0.0,1.7.0.0.00.0.0 - Transferências Correntes,218880545.52,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.0.00.0.0,1.7.1.0.00.0.0 - Transferências da União e de suas Entidades,1027198398.75,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.1.0.00.0.0,1.7.1.0.00.0.0 - Transferências da União e de suas Entidades,100896211.62,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.00.0.0,"1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios",1027198398.75,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.1.8.00.0.0,"1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios",100896211.62,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.01.0.0,1.7.1.8.01.0.0 Participação na Receita da União,547976417.7,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.1.8.01.0.0,1.7.1.8.01.0.0 Participação na Receita da União,100757301.06,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.01.2.0,1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal,503569652.72,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.1.8.01.2.0,1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal,100713630.25,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.01.3.0,1.7.1.8.01.3.0 Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro,22366487.98,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.01.4.0,1.7.1.8.01.4.0 Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho,21821922.11,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.01.5.0,1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural,218354.89,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.1.8.01.5.0,1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural,43670.81,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.02.0.0,1.7.1.8.02.0.0 Transferência da Compensação Financeira pela Exploração de Recursos Naturais,8648732.09,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.02.2.0,1.7.1.8.02.2.0 Cota-parte da Compensação Financeira de Recursos Minerais - CFEM,958511.94,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.02.6.0,1.7.1.8.02.6.0 Cota-Parte do Fundo Especial do Petróleo ¿ FEP,7690220.15,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.03.0.0,1.7.1.8.03.0.0 Transferência de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo,388442167.64,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.04.0.0,1.7.1.8.04.0.0 Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS,12385253.21,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.05.0.0,1.7.1.8.05.0.0 Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE,22413769.21,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.05.1.0,1.7.1.8.05.1.0 Transferências do Salário-Educação,6291496.37,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.05.3.0,1.7.1.8.05.3.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE,9962096,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.05.4.0,1.7.1.8.05.4.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE,1289193.54,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.05.9.0,1.7.1.8.05.9.0 Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE,4870983.3,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.06.0.0,1.7.1.8.06.0.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96,694553.04,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.1.8.06.0.0,1.7.1.8.06.0.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96,138910.56,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.06.1.0,1.7.1.8.06.1.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96,694553.04,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.1.8.06.1.0,1.7.1.8.06.1.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96,138910.56,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.08.0.0,1.7.1.8.08.0.0 Transferências Advindas de Emendas Parlamentares Individuais,35158433.34,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.10.0.0,1.7.1.8.10.0.0 Transferências de Convênios da União e de Suas Entidades,5850496.78,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.10.9.0,1.7.1.8.10.9.0 Outras Transferências de Convênios da União,5850496.78,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.1.8.99.0.0,1.7.1.8.99.0.0 Outras Transferências da União,5628575.74,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.2.0.00.0.0,1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades,597208403.52,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.2.0.00.0.0,1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades,117984333.9,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.2.8.00.0.0,"1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios",597208403.52,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.2.8.00.0.0,"1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios",117984333.9,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.2.8.01.0.0,1.7.2.8.01.0.0 Participação na Receita dos Estados,591502444.96,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.2.8.01.0.0,1.7.2.8.01.0.0 Participação na Receita dos Estados,117984333.9,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.2.8.01.1.0,1.7.2.8.01.1.0 Cota-Parte do ICMS,504457770.34,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.2.8.01.1.0,1.7.2.8.01.1.0 Cota-Parte do ICMS,100891553.86,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.2.8.01.2.0,1.7.2.8.01.2.0 Cota-Parte do IPVA,85278139.28,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.2.8.01.2.0,1.7.2.8.01.2.0 Cota-Parte do IPVA,17055628.28,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.2.8.01.3.0,1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios,185759.25,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Deduções - FUNDEB,RO1.7.2.8.01.3.0,1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios,37151.76,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.2.8.01.4.0,1.7.2.8.01.4.0 Cota-Parte da Contribuição de Intervenção no Domínio Econômico,1580776.09,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.2.8.03.0.0,1.7.2.8.03.0.0 Transferência de Recursos do Estado para Programas de Saúde ¿ Repasse Fundo a Fundo,5207644.12,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.2.8.10.0.0,1.7.2.8.10.0.0 Transferência de Convênios dos Estados e do Distrito Federal e de Suas Entidades,498314.44,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.2.8.10.9.0,1.7.2.8.10.9.0 Outras Transferências de Convênio dos Estados,498314.44,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.4.0.00.0.0,1.7.4.0.00.0.0 - Transferências de Instituições Privadas,3958802.55,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.4.8.00.0.0,"1.7.4.8.00.0.0 Transferências de Instituições Privadas - Específicas de Estados, DF e Municípios",3958802.55,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.5.0.00.0.0,1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas,315070333.81,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.5.8.00.0.0,"1.7.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios",315070333.81,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.5.8.01.0.0,1.7.5.8.01.0.0 Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB,315070333.81,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.7.7.0.00.0.0,1.7.7.0.00.0.0 - Transferências de Pessoas Físicas,559876.79,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.0.0.00.0.0,1.9.0.0.00.0.0 - Outras Receitas Correntes,64730905.46,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.9.0.0.00.0.0,1.9.0.0.00.0.0 - Outras Receitas Correntes,16979.43,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.1.0.00.0.0,"1.9.1.0.00.0.0 - Multas Administrativas, Contratuais e Judiciais",24673517.17,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Outras Deduções da Receita,RO1.9.1.0.00.0.0,"1.9.1.0.00.0.0 - Multas Administrativas, Contratuais e Judiciais",16979.43,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.2.0.00.0.0,"1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos",22687764.9,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.2.1.00.0.0,1.9.2.1.00.0.0 - Indenizações,17240135.74,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.2.2.00.0.0,1.9.2.2.00.0.0 - Restituições,5340969.4,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.2.2.06.0.0,1.9.2.2.06.0.0 - Restituição de Despesas de Exercícios Anteriores,145900.75,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.2.2.99.0.0,1.9.2.2.99.0.0 - Outras Restituições,5195068.65,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.2.3.00.0.0,1.9.2.3.00.0.0 - Ressarcimentos,106659.76,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.2.3.99.0.0,1.9.2.3.99.0.0 - Outros Ressarcimentos,106659.76,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.9.0.00.0.0,1.9.9.0.00.0.0 - Demais Receitas Correntes,17369623.39,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.9.0.03.0.0,1.9.9.0.03.0.0 - Compensações Financeiras entre o Regime Geral e os Regimes Próprios de Previdência dos Servidores,15212330.37,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.9.0.12.0.0,1.9.9.0.12.0.0 - Encargos Legais pela Inscrição em Dívida Ativa e Receitas de Ônus de Sucumbência,678086.82,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.9.0.99.0.0,1.9.9.0.99.0.0 - Outras Receitas,1479206.2,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.9.0.99.1.0,1.9.9.0.99.1.0 - Outras Receitas - Primárias,1460567.38,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO1.9.9.0.99.2.0,1.9.9.0.99.2.0 - Outras Receitas - Financeiras,18638.82,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.0.0.0.00.0.0,2.0.0.0.00.0.0 - Receitas de Capital,128563305.39,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.1.0.0.00.0.0,2.1.0.0.00.0.0 - Operações de Crédito,107744868.39,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.1.1.0.00.0.0,2.1.1.0.00.0.0 - Operações de Crédito - Mercado Interno,86486214.93,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.1.1.2.00.0.0,2.1.1.2.00.0.0 Operações de Crédito Contratuais - Mercado Interno,86486214.93,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.1.2.0.00.0.0,2.1.2.0.00.0.0 - Operações de Crédito - Mercado Externo,21258653.46,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.1.2.2.00.0.0,2.1.2.2.00.0.0 Operações de Crédito Contratuais - Mercado Externo,21258653.46,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.2.0.0.00.0.0,2.2.0.0.00.0.0 - Alienação de Bens,6175,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.2.1.0.00.0.0,2.2.1.0.00.0.0 - Alienação de Bens Móveis,6175,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.2.1.3.00.0.0,2.2.1.3.00.0.0 Alienação de Bens Móveis e Semoventes,6175,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.3.0.0.00.0.0,2.3.0.0.00.0.0 - Amortização de Empréstimos,2007643.62,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.4.0.0.00.0.0,2.4.0.0.00.0.0 - Transferências de Capital,18804618.38,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.4.1.0.00.0.0,2.4.1.0.00.0.0 - Transferências da União e de suas Entidades,18804618.38,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.4.1.8.00.0.0,"2.4.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios",18804618.38,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.4.1.8.03.0.0,2.4.1.8.03.0.0 Transferências de Recursos do Sistema Único de Saúde ¿ SUS,1779910,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.4.1.8.05.0.0,2.4.1.8.05.0.0 Transferências de Recursos Destinados a Programas de Educação,5831981.75,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO2.4.1.8.10.0.0,2.4.1.8.10.0.0 Transferência de Convênios da União e de suas Entidades,11192726.63,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO7.0.0.0.00.0.0,7.0.0.0.00.0.0 - Receitas Correntes - Intraorçamentárias,173017395.3,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO7.2.0.0.00.0.0,7.2.0.0.00.0.0 - Contribuições - Intraorçamentárias,163475241.91,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO7.2.1.0.00.0.0,7.2.1.0.00.0.0 - Contribuições Sociais - Intraorçamentárias,163475241.91,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO7.2.1.0.04.0.0,7.2.1.0.04.0.0 - Contribuição para o Regime Próprio de Previdência Social - RPPS - Intraorçamentárias,163475241.91,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO7.2.1.0.04.1.0,7.2.1.0.04.1.0 - Contribuição Patronal de Servidor Ativo Civil para o RPPS - Intraorçamentárias,163475144.44,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO7.2.1.0.04.2.0,7.2.1.0.04.2.0 - Contribuição do Servidor Ativo Civil para o RPPS - Intraorçamentárias,97.47,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO7.3.0.0.00.0.0,7.3.0.0.00.0.0 - Receita Patrimonial - Intraorçamentárias,340744.56,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO7.6.0.0.00.0.0,7.6.0.0.00.0.0 - Receita de Serviços - Intraorçamentárias,1558825.14,847430
+2018,Prefeitura Municipal de Teresina - PI,2211001,PI,DCA-Anexo I-C,Padrão,Receitas Brutas Realizadas,RO7.9.0.0.00.0.0,7.9.0.0.00.0.0 - Outras Receitas Correntes - Intraorçamentárias,7642583.69,847430
