@@ -1,7 +1,7 @@
 # P2 – Finanças do Setor Público (CCA0169) – Matrícula 241003384
 
-**Rafaela de Sousa Barbosa** · **Universidade de Brasília** · Prof. Lucas Oliveira Gomes Ferreira · 2026/2
-**Unidades:** Natal/RN e Teresina/PI (municípios; demais capitais do Nordeste como grupo de comparação) · Ucrânia (país)
+**Rafaela de Sousa Barbosa** · **Universidade de Brasília** · Prof. Lucas Oliveira Gomes Ferreira · 2026/2  
+**Unidades:** Natal/RN e Teresina/PI (municípios; demais capitais do Nordeste como grupo de comparação) · Ucrânia (país)  
 **Tema:** transferências intergovernamentais, autonomia fiscal e efeito flypaper
 
 Este repositório reúne os dois produtos da P2: (1) a base de dados atualizada e ampliada a partir do trabalho anterior e (2) o artigo científico.
